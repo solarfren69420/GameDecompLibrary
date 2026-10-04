@@ -32,6 +32,8 @@ def build(update_docs=False):
     if out.exists():
         shutil.rmtree(out)
     shutil.copytree(ROOT / "web", out)
+    # README and Pages share the same artwork source files.
+    shutil.copytree(ROOT / "assets", out / "assets", ignore=shutil.ignore_patterns("*.txt"))
     # Keep first-import prominence order; new community projects follow it.
     order_path = ROOT / "data/order.json"
     order = json.loads(order_path.read_text()) if order_path.exists() else []
