@@ -5,7 +5,7 @@
   "category": "decomp",
   "group": "2. OLDER AAA / FLAGSHIP CONSOLE AND PC GAMES",
   "platform": "GameCube",
-  "type": "Matching decompilation",
+  "type": "Game decompilation",
   "description": "",
   "progress": {
     "decompiled": 100.0,
@@ -15,15 +15,18 @@
   },
   "targets": [],
   "sources": [
+    "https://decomp.dev/projectPiki/pikmin/GPIE01_01/35e28e7c6f1f0788a6644b4b1f1fc18da6e5a7ba",
     "https://decomp.dev/projectPiki/pikmin"
   ],
   "notes": [
     "Pikmin | GameCube | 100.00% decompiled | 100.00% fully linked",
-    "Progress source: https://decomp.dev/projectPiki/pikmin",
+    "Progress source: https://decomp.dev/projectPiki/pikmin/GPIE01_01/35e28e7c6f1f0788a6644b4b1f1fc18da6e5a7ba",
+    "Report target: GPIE01_01",
     "Report commit date: 2026-09-08 01:11:37 +00:00",
     "Report commit: https://github.com/projectPiki/pikmin/commit/35e28e7c6f1f0788a6644b4b1f1fc18da6e5a7ba"
   ],
   "snapshot_date": "2026-10-04",
   "report_date": "2026-09-08 01:11:37 +00:00",
-  "report_commit": "https://github.com/projectPiki/pikmin/commit/35e28e7c6f1f0788a6644b4b1f1fc18da6e5a7ba"
+  "report_commit": "https://github.com/projectPiki/pikmin/commit/35e28e7c6f1f0788a6644b4b1f1fc18da6e5a7ba",
+  "report_target": "GPIE01_01"
 }

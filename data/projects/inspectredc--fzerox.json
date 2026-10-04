@@ -5,7 +5,7 @@
   "category": "decomp",
   "group": "2. OLDER AAA / FLAGSHIP CONSOLE AND PC GAMES",
   "platform": "Nintendo 64",
-  "type": "Matching decompilation",
+  "type": "Game decompilation",
   "description": "",
   "progress": {
     "decompiled": 97.67,
@@ -15,15 +15,18 @@
   },
   "targets": [],
   "sources": [
+    "https://decomp.dev/inspectredc/fzerox/jp/4b00f36ceeabfe657866a7d02f3411545b5f55eb",
     "https://decomp.dev/inspectredc/fzerox"
   ],
   "notes": [
     "F-Zero X | Nintendo 64 | 97.67% decompiled",
-    "Progress source: https://decomp.dev/inspectredc/fzerox",
+    "Progress source: https://decomp.dev/inspectredc/fzerox/jp/4b00f36ceeabfe657866a7d02f3411545b5f55eb",
+    "Report target: jp",
     "Report commit date: 2026-09-17 14:56:50 +00:00",
     "Report commit: https://github.com/inspectredc/fzerox/commit/4b00f36ceeabfe657866a7d02f3411545b5f55eb"
   ],
   "snapshot_date": "2026-10-04",
   "report_date": "2026-09-17 14:56:50 +00:00",
-  "report_commit": "https://github.com/inspectredc/fzerox/commit/4b00f36ceeabfe657866a7d02f3411545b5f55eb"
+  "report_commit": "https://github.com/inspectredc/fzerox/commit/4b00f36ceeabfe657866a7d02f3411545b5f55eb",
+  "report_target": "jp"
 }

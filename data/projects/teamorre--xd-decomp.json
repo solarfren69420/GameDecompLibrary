@@ -5,7 +5,7 @@
   "category": "decomp",
   "group": "2. OLDER AAA / FLAGSHIP CONSOLE AND PC GAMES",
   "platform": "GameCube",
-  "type": "Matching decompilation",
+  "type": "Game decompilation",
   "description": "",
   "progress": {
     "decompiled": 11.22,
@@ -15,15 +15,18 @@
   },
   "targets": [],
   "sources": [
+    "https://decomp.dev/TeamOrre/xd-decomp/GXXE01/4989794e6c6430684e033bc56f4bb97c9a921e73",
     "https://decomp.dev/TeamOrre/xd-decomp"
   ],
   "notes": [
     "Pokémon XD: Gale of Darkness | GameCube | 11.22% decompiled | 8.13% fully linked",
-    "Progress source: https://decomp.dev/TeamOrre/xd-decomp",
+    "Progress source: https://decomp.dev/TeamOrre/xd-decomp/GXXE01/4989794e6c6430684e033bc56f4bb97c9a921e73",
+    "Report target: GXXE01",
     "Report commit date: 2026-09-11 15:11:05 +00:00",
     "Report commit: https://github.com/TeamOrre/xd-decomp/commit/4989794e6c6430684e033bc56f4bb97c9a921e73"
   ],
   "snapshot_date": "2026-10-04",
   "report_date": "2026-09-11 15:11:05 +00:00",
-  "report_commit": "https://github.com/TeamOrre/xd-decomp/commit/4989794e6c6430684e033bc56f4bb97c9a921e73"
+  "report_commit": "https://github.com/TeamOrre/xd-decomp/commit/4989794e6c6430684e033bc56f4bb97c9a921e73",
+  "report_target": "GXXE01"
 }

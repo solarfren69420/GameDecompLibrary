@@ -5,7 +5,7 @@
   "category": "decomp",
   "group": "2. OLDER AAA / FLAGSHIP CONSOLE AND PC GAMES",
   "platform": "GameCube",
-  "type": "Matching decompilation",
+  "type": "Game decompilation",
   "description": "",
   "progress": {
     "decompiled": 100.0,
@@ -15,15 +15,18 @@
   },
   "targets": [],
   "sources": [
+    "https://decomp.dev/doldecomp/melee/GALE01/498075ed986b4f7d4d23422d0c4c46ff675fef41",
     "https://decomp.dev/doldecomp/melee"
   ],
   "notes": [
     "Super Smash Bros. Melee | GameCube | 100.00% decompiled | 100.00% fully linked",
-    "Progress source: https://decomp.dev/doldecomp/melee",
+    "Progress source: https://decomp.dev/doldecomp/melee/GALE01/498075ed986b4f7d4d23422d0c4c46ff675fef41",
+    "Report target: GALE01",
     "Report commit date: 2026-10-04 07:02:17 +00:00",
     "Report commit: https://github.com/doldecomp/melee/commit/498075ed986b4f7d4d23422d0c4c46ff675fef41"
   ],
   "snapshot_date": "2026-10-04",
   "report_date": "2026-10-04 07:02:17 +00:00",
-  "report_commit": "https://github.com/doldecomp/melee/commit/498075ed986b4f7d4d23422d0c4c46ff675fef41"
+  "report_commit": "https://github.com/doldecomp/melee/commit/498075ed986b4f7d4d23422d0c4c46ff675fef41",
+  "report_target": "GALE01"
 }

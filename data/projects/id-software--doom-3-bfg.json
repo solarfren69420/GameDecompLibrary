@@ -6,7 +6,7 @@
   "group": "REGRESSION TESTS / AUTOMATED REPAIR SUPPORT",
   "platform": "Not specified",
   "type": "Official source release",
-  "description": "",
+  "description": "Official Doom 3 BFG Edition GPL source release. The upstream README states that game data is not included.",
   "progress": {
     "decompiled": null,
     "linked": null,
@@ -26,7 +26,9 @@
       "notes": []
     }
   ],
-  "sources": [],
+  "sources": [
+    "https://raw.githubusercontent.com/id-Software/DOOM-3-BFG/HEAD/README.txt"
+  ],
   "notes": [
     "Matching decompilation %: N/A — different project category; no comparable numerical metric verified here.",
     "Target: Doom 3 BFG Edition | Official source release"

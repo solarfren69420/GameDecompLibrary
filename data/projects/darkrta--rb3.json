@@ -5,7 +5,7 @@
   "category": "decomp",
   "group": "4. SMALLER COMMERCIAL, LICENSED, CULT AND NICHE GAMES",
   "platform": "Wii",
-  "type": "Matching decompilation",
+  "type": "Game decompilation",
   "description": "",
   "progress": {
     "decompiled": 54.28,
@@ -15,15 +15,18 @@
   },
   "targets": [],
   "sources": [
+    "https://decomp.dev/DarkRTA/rb3/SZBE69_B8/a2b36b2f8b54b29e1e3229a1f744d48ed8333a93",
     "https://decomp.dev/DarkRTA/rb3"
   ],
   "notes": [
     "Rock Band 3 | Wii | 54.28% decompiled | 10.65% fully linked",
-    "Progress source: https://decomp.dev/DarkRTA/rb3",
+    "Progress source: https://decomp.dev/DarkRTA/rb3/SZBE69_B8/a2b36b2f8b54b29e1e3229a1f744d48ed8333a93",
+    "Report target: SZBE69_B8",
     "Report commit date: 2026-10-03 18:38:08 +00:00",
     "Report commit: https://github.com/DarkRTA/rb3/commit/a2b36b2f8b54b29e1e3229a1f744d48ed8333a93"
   ],
   "snapshot_date": "2026-10-04",
   "report_date": "2026-10-03 18:38:08 +00:00",
-  "report_commit": "https://github.com/DarkRTA/rb3/commit/a2b36b2f8b54b29e1e3229a1f744d48ed8333a93"
+  "report_commit": "https://github.com/DarkRTA/rb3/commit/a2b36b2f8b54b29e1e3229a1f744d48ed8333a93",
+  "report_target": "SZBE69_B8"
 }

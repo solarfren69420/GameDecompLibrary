@@ -5,13 +5,13 @@
   "category": "decomp",
   "group": "2. OLDER AAA / FLAGSHIP CONSOLE AND PC GAMES",
   "platform": "Nintendo 64",
-  "type": "Matching decompilation",
+  "type": "Game decompilation",
   "description": "",
   "progress": {
     "decompiled": 100.0,
     "linked": null,
     "kind": "reported",
-    "label": "100% (team dashboard)"
+    "label": "100% dashboard code progress for the tracked US target; assets are separate"
   },
   "targets": [
     {
@@ -21,7 +21,7 @@
         "decompiled": 100.0,
         "linked": null,
         "kind": "reported",
-        "label": "100% (team dashboard)"
+        "label": "100% dashboard code progress for the tracked US target; assets are separate"
       },
       "notes": [
         "Percentage describes the team’s tracked code target; individual versions can differ."
@@ -29,15 +29,18 @@
     }
   ],
   "sources": [
-    "https://zelda.deco.mp/"
+    "https://zelda.deco.mp/assets/csv/progress-mm-shield.json",
+    "https://zelda.deco.mp/assets/csv/progress-mm-matching.csv",
+    "https://zelda.deco.mp/assets/json/games.json",
+    "https://raw.githubusercontent.com/zeldaret/mm/HEAD/README.md"
   ],
   "notes": [
-    "Target: The Legend of Zelda: Majora’s Mask",
-    "Platform: Nintendo 64 | 100% (team dashboard)",
-    "Evidence: https://zelda.deco.mp/",
-    "Note: Percentage describes the team’s tracked code target; individual versions can differ."
+    "Dashboard matching CSV reports 4,756,896 / 4,756,896 code bytes for its last stored report.",
+    "The same report has incomplete byte-matching for multiple asset categories. Its 100% code figure must not be promoted to overall game/asset completion.",
+    "The current README specifies N64 US as the supported target and describes the project as WIP; it does not produce a PC port."
   ],
   "snapshot_date": "2026-10-04",
-  "report_date": "",
-  "report_commit": ""
+  "report_date": "2026-07-19 14:59:01 +00:00",
+  "report_commit": "https://github.com/zeldaret/mm/commit/a6850d214927aafa2635177510a5029ab7e989ea",
+  "report_target": "Nintendo 64 US 1.0 (README / dashboard)"
 }

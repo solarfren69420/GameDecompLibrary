@@ -5,7 +5,7 @@
   "category": "decomp",
   "group": "4. SMALLER COMMERCIAL, LICENSED, CULT AND NICHE GAMES",
   "platform": "PlayStation 2",
-  "type": "Matching decompilation",
+  "type": "Game decompilation",
   "description": "",
   "progress": {
     "decompiled": 1.94,
@@ -15,15 +15,18 @@
   },
   "targets": [],
   "sources": [
+    "https://decomp.dev/Harskov/stretch-panic-usa/SLUS_201.82/a8bf4d79e74f9e39092aa96e2a1acc9003ef3f7e",
     "https://decomp.dev/Harskov/stretch-panic-usa"
   ],
   "notes": [
     "Stretch Panic | PlayStation 2 | 1.94% decompiled | 1.94% fully linked",
-    "Progress source: https://decomp.dev/Harskov/stretch-panic-usa",
+    "Progress source: https://decomp.dev/Harskov/stretch-panic-usa/SLUS_201.82/a8bf4d79e74f9e39092aa96e2a1acc9003ef3f7e",
+    "Report target: SLUS_201.82",
     "Report commit date: 2026-09-30 22:37:26 +00:00",
     "Report commit: https://github.com/Harskov/stretch-panic-usa/commit/a8bf4d79e74f9e39092aa96e2a1acc9003ef3f7e"
   ],
   "snapshot_date": "2026-10-04",
   "report_date": "2026-09-30 22:37:26 +00:00",
-  "report_commit": "https://github.com/Harskov/stretch-panic-usa/commit/a8bf4d79e74f9e39092aa96e2a1acc9003ef3f7e"
+  "report_commit": "https://github.com/Harskov/stretch-panic-usa/commit/a8bf4d79e74f9e39092aa96e2a1acc9003ef3f7e",
+  "report_target": "SLUS_201.82"
 }

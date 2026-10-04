@@ -5,7 +5,7 @@
   "category": "decomp",
   "group": "2. OLDER AAA / FLAGSHIP CONSOLE AND PC GAMES",
   "platform": "Nintendo 64",
-  "type": "Matching decompilation",
+  "type": "Game decompilation",
   "description": "",
   "progress": {
     "decompiled": 100.0,
@@ -15,15 +15,18 @@
   },
   "targets": [],
   "sources": [
+    "https://decomp.dev/VetriTheRetri/ssb-decomp-re/us/7a85d55c7d5bfb17b48447de948dc7406f7eedb9",
     "https://decomp.dev/VetriTheRetri/ssb-decomp-re"
   ],
   "notes": [
     "Super Smash Bros. | Nintendo 64 | 100.00% decompiled",
-    "Progress source: https://decomp.dev/VetriTheRetri/ssb-decomp-re",
+    "Progress source: https://decomp.dev/VetriTheRetri/ssb-decomp-re/us/7a85d55c7d5bfb17b48447de948dc7406f7eedb9",
+    "Report target: us",
     "Report commit date: 2026-09-08 01:26:12 +00:00",
     "Report commit: https://github.com/VetriTheRetri/ssb-decomp-re/commit/7a85d55c7d5bfb17b48447de948dc7406f7eedb9"
   ],
   "snapshot_date": "2026-10-04",
   "report_date": "2026-09-08 01:26:12 +00:00",
-  "report_commit": "https://github.com/VetriTheRetri/ssb-decomp-re/commit/7a85d55c7d5bfb17b48447de948dc7406f7eedb9"
+  "report_commit": "https://github.com/VetriTheRetri/ssb-decomp-re/commit/7a85d55c7d5bfb17b48447de948dc7406f7eedb9",
+  "report_target": "us"
 }

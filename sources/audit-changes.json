@@ -1,0 +1,302 @@
+[
+  {
+    "id": "doldecomp--sms",
+    "name": "Super Mario Sunshine",
+    "url": "https://github.com/doldecomp/sms",
+    "before": {
+      "progress": {
+        "decompiled": 47.12,
+        "linked": 18.26,
+        "kind": "reported",
+        "label": "47.12% decompiled | 18.26% fully linked"
+      },
+      "commit": "https://github.com/doldecomp/sms/commit/4c3bf234106ad24bccabbe33ab2746dff5798d26"
+    },
+    "after": {
+      "progress": {
+        "decompiled": 47.12,
+        "linked": 18.26,
+        "kind": "reported",
+        "label": "47.12% decompiled | 18.26% fully linked"
+      },
+      "commit": "https://github.com/doldecomp/sms/commit/b10839666abeeaad1d371032c8824ed9688adc06",
+      "date": "2026-10-04 10:43:53 +00:00",
+      "target": "GMSJ01"
+    }
+  },
+  {
+    "id": "juandav--dw3-decomp",
+    "name": "Digimon World 3",
+    "url": "https://github.com/juandav/dw3_decomp",
+    "before": {
+      "progress": {
+        "decompiled": 99.13,
+        "linked": null,
+        "kind": "reported",
+        "label": "99.13% decompiled"
+      },
+      "commit": "https://github.com/juandav/dw3_decomp/commit/57d319e86ec3682e71febc8ea224746a149caad2"
+    },
+    "after": {
+      "progress": {
+        "decompiled": 99.13,
+        "linked": null,
+        "kind": "reported",
+        "label": "99.13% decompiled"
+      },
+      "commit": "https://github.com/juandav/dw3_decomp/commit/ab41a5c2b02155e0ed1d29f9cbccbf846dba3c6e",
+      "date": "2026-10-04 12:09:05 +00:00",
+      "target": "SLES_039.36"
+    }
+  },
+  {
+    "id": "khasinski--parasite-eve-decomp",
+    "name": "Parasite Eve",
+    "url": "https://github.com/khasinski/parasite-eve-decomp",
+    "before": {
+      "progress": {
+        "decompiled": 95.5,
+        "linked": 95.5,
+        "kind": "reported",
+        "label": "95.50% decompiled | 95.50% fully linked"
+      },
+      "commit": "https://github.com/khasinski/parasite-eve-decomp/commit/1d45367df924cad1e85e3799f4513c4e9b1de8cf"
+    },
+    "after": {
+      "progress": {
+        "decompiled": 96.8,
+        "linked": 96.8,
+        "kind": "reported",
+        "label": "96.80% decompiled | 96.80% fully linked"
+      },
+      "commit": "https://github.com/khasinski/parasite-eve-decomp/commit/add85754bab8a60518acc3cee5695d81669b2250",
+      "date": "2026-10-04 12:06:52 +00:00",
+      "target": "SLUS_006.62"
+    }
+  },
+  {
+    "id": "lynder063--rac1-decomp",
+    "name": "Ratchet & Clank (PAL)",
+    "url": "https://github.com/Lynder063/rac1-decomp",
+    "before": {
+      "progress": {
+        "decompiled": 20.24,
+        "linked": 2.43,
+        "kind": "reported",
+        "label": "20.24% decompiled | 2.43% fully linked"
+      },
+      "commit": "https://github.com/Lynder063/rac1-decomp/commit/7502ff0e5cb286538859e9d107452ca185bfc3b8"
+    },
+    "after": {
+      "progress": {
+        "decompiled": 20.24,
+        "linked": 2.43,
+        "kind": "reported",
+        "label": "20.24% decompiled | 2.43% fully linked"
+      },
+      "commit": "https://github.com/Lynder063/rac1-decomp/commit/9ca0f7f71f8881c8bbc5b388f48327af9dd43be2",
+      "date": "2026-10-04 11:49:50 +00:00",
+      "target": "SCES_509.16"
+    }
+  },
+  {
+    "id": "megami-decomps--dds-decomp",
+    "name": "Shin Megami Tensei: Digital Devil Saga",
+    "url": "https://github.com/Megami-Decomps/dds-decomp",
+    "before": {
+      "progress": {
+        "decompiled": 44.95,
+        "linked": null,
+        "kind": "reported",
+        "label": "44.95% decompiled"
+      },
+      "commit": "https://github.com/Megami-Decomps/dds-decomp/commit/d1f42a8f7e11de564d0a78525aa22155970843d4"
+    },
+    "after": {
+      "progress": {
+        "decompiled": 45.36,
+        "linked": null,
+        "kind": "reported",
+        "label": "45.36% decompiled"
+      },
+      "commit": "https://github.com/Megami-Decomps/dds-decomp/commit/810b4769868d9d02e59f96ec51d4e784970fdcfc",
+      "date": "2026-10-04 12:15:27 +00:00",
+      "target": "dds1"
+    }
+  },
+  {
+    "id": "overjt--knidl",
+    "name": "Kirby: Nightmare in Dream Land",
+    "url": "https://github.com/overjt/knidl",
+    "before": {
+      "progress": {
+        "decompiled": 99.51,
+        "linked": 99.51,
+        "kind": "reported",
+        "label": "99.51% decompiled | 99.51% fully linked"
+      },
+      "commit": "https://github.com/overjt/knidl/commit/36458cc43782278e25090cc86f91ad0e17b0ffec"
+    },
+    "after": {
+      "progress": {
+        "decompiled": 100.0,
+        "linked": 100.0,
+        "kind": "reported",
+        "label": "100.00% decompiled | 100.00% fully linked"
+      },
+      "commit": "https://github.com/overjt/knidl/commit/48239761d38a706896626a4dab0484b6115a95e5",
+      "date": "2026-10-04 12:11:35 +00:00",
+      "target": "A7KE"
+    }
+  },
+  {
+    "id": "pheenoh--khcom",
+    "name": "Kingdom Hearts: Chain of Memories",
+    "url": "https://github.com/Pheenoh/khcom",
+    "before": {
+      "progress": {
+        "decompiled": 100.0,
+        "linked": 100.0,
+        "kind": "reported",
+        "label": "100.00% decompiled | 100.00% fully linked"
+      },
+      "commit": "https://github.com/Pheenoh/khcom/commit/76ad5ed12708dd4eba8adfe0c94fcc7992bd4ac6"
+    },
+    "after": {
+      "progress": {
+        "decompiled": 100.0,
+        "linked": 100.0,
+        "kind": "reported",
+        "label": "100.00% decompiled | 100.00% fully linked"
+      },
+      "commit": "https://github.com/Pheenoh/khcom/commit/d7b19676c61634630a559ba5db66fe60b91eaefe",
+      "date": "2026-10-04 11:34:54 +00:00",
+      "target": "us"
+    }
+  },
+  {
+    "id": "primedecomp--echoes",
+    "name": "Metroid Prime 2: Echoes",
+    "url": "https://github.com/PrimeDecomp/echoes",
+    "before": {
+      "progress": {
+        "decompiled": 25.85,
+        "linked": 10.53,
+        "kind": "reported",
+        "label": "25.85% decompiled | 10.53% fully linked"
+      },
+      "commit": "https://github.com/PrimeDecomp/echoes/commit/fc488396bd23d7f053a9fefe30e618ab96dc813f"
+    },
+    "after": {
+      "progress": {
+        "decompiled": 25.86,
+        "linked": 10.54,
+        "kind": "reported",
+        "label": "25.86% decompiled | 10.54% fully linked"
+      },
+      "commit": "https://github.com/PrimeDecomp/echoes/commit/e5eddac466d3e36de231ad91e59d0e4d4b3a6232",
+      "date": "2026-10-04 11:39:42 +00:00",
+      "target": "G2ME01"
+    }
+  },
+  {
+    "id": "shibbo--3dwdecomp",
+    "name": "Super Mario 3D World + Bowser's Fury",
+    "url": "https://github.com/shibbo/3DWDecomp",
+    "before": {
+      "progress": {
+        "decompiled": 29.18,
+        "linked": 10.49,
+        "kind": "reported",
+        "label": "29.18% decompiled | 10.49% fully linked"
+      },
+      "commit": "https://github.com/shibbo/3DWDecomp/commit/b98b89f21a8e10d169c2d60deb1009910fd84ceb"
+    },
+    "after": {
+      "progress": {
+        "decompiled": 29.29,
+        "linked": 10.49,
+        "kind": "reported",
+        "label": "29.29% decompiled | 10.49% fully linked"
+      },
+      "commit": "https://github.com/shibbo/3DWDecomp/commit/0e10244e1bc398d4d66e53f517af805ddb3f5d98",
+      "date": "2026-10-04 12:20:30 +00:00",
+      "target": "1.0.0"
+    }
+  },
+  {
+    "id": "vetusmagnus--ratchet-uya-decomp",
+    "name": "Ratchet & Clank: Up Your Arsenal",
+    "url": "https://github.com/vetusmagnus/ratchet-uya-decomp",
+    "before": {
+      "progress": {
+        "decompiled": 1.64,
+        "linked": null,
+        "kind": "reported",
+        "label": "1.64% decompiled"
+      },
+      "commit": "https://github.com/vetusmagnus/ratchet-uya-decomp/commit/ed38450e68658fffc95781035f4f176ca6b22dc4"
+    },
+    "after": {
+      "progress": {
+        "decompiled": 1.64,
+        "linked": null,
+        "kind": "reported",
+        "label": "1.64% decompiled"
+      },
+      "commit": "https://github.com/vetusmagnus/ratchet-uya-decomp/commit/b15cbb603d2ef399240f0a27af0f1d40ca0b0458",
+      "date": "2026-10-04 12:07:02 +00:00",
+      "target": "SCUS_973.53"
+    }
+  },
+  {
+    "id": "wyrelade--digimon-world-2-decomp",
+    "name": "Digimon World 2",
+    "url": "https://github.com/Wyrelade/Digimon-World-2-Decomp",
+    "before": {
+      "progress": {
+        "decompiled": 99.56,
+        "linked": null,
+        "kind": "reported",
+        "label": "99.56% decompiled"
+      },
+      "commit": "https://github.com/Wyrelade/Digimon-World-2-Decomp/commit/aeee76d79d456082fa6ad703742eb14d68640835"
+    },
+    "after": {
+      "progress": {
+        "decompiled": 99.61,
+        "linked": null,
+        "kind": "reported",
+        "label": "99.61% decompiled"
+      },
+      "commit": "https://github.com/Wyrelade/Digimon-World-2-Decomp/commit/2eda38446be372ebf6b7a976e66f6cef077f5f3e",
+      "date": "2026-10-04 11:36:00 +00:00",
+      "target": "SLUS-01193"
+    }
+  },
+  {
+    "id": "yannicksuter--mscharged-decomp",
+    "name": "Mario Strikers Charged",
+    "url": "https://github.com/yannicksuter/mscharged-decomp",
+    "before": {
+      "progress": {
+        "decompiled": 94.22,
+        "linked": 86.67,
+        "kind": "reported",
+        "label": "94.22% decompiled | 86.67% fully linked"
+      },
+      "commit": "https://github.com/yannicksuter/mscharged-decomp/commit/9ca59d250587adc0436d08176bec3898aa790fa0"
+    },
+    "after": {
+      "progress": {
+        "decompiled": 94.28,
+        "linked": 87.04,
+        "kind": "reported",
+        "label": "94.28% decompiled | 87.04% fully linked"
+      },
+      "commit": "https://github.com/yannicksuter/mscharged-decomp/commit/f84e4666a76d2b6b7abf41b2c6874583484392fa",
+      "date": "2026-10-04 11:34:20 +00:00",
+      "target": "R4QE01"
+    }
+  }
+]

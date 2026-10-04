@@ -5,7 +5,7 @@
   "category": "decomp",
   "group": "4. SMALLER COMMERCIAL, LICENSED, CULT AND NICHE GAMES",
   "platform": "Nintendo 64",
-  "type": "Matching decompilation",
+  "type": "Game decompilation",
   "description": "",
   "progress": {
     "decompiled": 30.52,
@@ -15,15 +15,18 @@
   },
   "targets": [],
   "sources": [
+    "https://decomp.dev/synamaxmusic/bar-decomp/us/695461fca341d0621a13a84b515d7dcab5ead12e",
     "https://decomp.dev/synamaxmusic/bar-decomp"
   ],
   "notes": [
     "Beetle Adventure Racing! | Nintendo 64 | 30.52% decompiled",
-    "Progress source: https://decomp.dev/synamaxmusic/bar-decomp",
+    "Progress source: https://decomp.dev/synamaxmusic/bar-decomp/us/695461fca341d0621a13a84b515d7dcab5ead12e",
+    "Report target: us",
     "Report commit date: 2026-10-04 04:08:08 +00:00",
     "Report commit: https://github.com/synamaxmusic/bar-decomp/commit/695461fca341d0621a13a84b515d7dcab5ead12e"
   ],
   "snapshot_date": "2026-10-04",
   "report_date": "2026-10-04 04:08:08 +00:00",
-  "report_commit": "https://github.com/synamaxmusic/bar-decomp/commit/695461fca341d0621a13a84b515d7dcab5ead12e"
+  "report_commit": "https://github.com/synamaxmusic/bar-decomp/commit/695461fca341d0621a13a84b515d7dcab5ead12e",
+  "report_target": "us"
 }

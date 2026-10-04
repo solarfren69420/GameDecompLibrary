@@ -5,7 +5,7 @@
   "category": "decomp",
   "group": "4. SMALLER COMMERCIAL, LICENSED, CULT AND NICHE GAMES",
   "platform": "Nintendo 64",
-  "type": "Matching decompilation",
+  "type": "Game decompilation",
   "description": "",
   "progress": {
     "decompiled": 33.46,
@@ -15,15 +15,18 @@
   },
   "targets": [],
   "sources": [
+    "https://decomp.dev/MatBourgon/Gex64Decomp/US/7f48432de8cad85db6d777397a9cb41005f82250",
     "https://decomp.dev/MatBourgon/Gex64Decomp"
   ],
   "notes": [
     "Gex: Enter the Gecko | Nintendo 64 | 33.46% decompiled",
-    "Progress source: https://decomp.dev/MatBourgon/Gex64Decomp",
+    "Progress source: https://decomp.dev/MatBourgon/Gex64Decomp/US/7f48432de8cad85db6d777397a9cb41005f82250",
+    "Report target: US",
     "Report commit date: 2026-09-03 02:38:33 +00:00",
     "Report commit: https://github.com/MatBourgon/Gex64Decomp/commit/7f48432de8cad85db6d777397a9cb41005f82250"
   ],
   "snapshot_date": "2026-10-04",
   "report_date": "2026-09-03 02:38:33 +00:00",
-  "report_commit": "https://github.com/MatBourgon/Gex64Decomp/commit/7f48432de8cad85db6d777397a9cb41005f82250"
+  "report_commit": "https://github.com/MatBourgon/Gex64Decomp/commit/7f48432de8cad85db6d777397a9cb41005f82250",
+  "report_target": "US"
 }

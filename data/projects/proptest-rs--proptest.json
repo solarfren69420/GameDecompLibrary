@@ -15,6 +15,7 @@
   },
   "targets": [],
   "sources": [
+    "https://raw.githubusercontent.com/proptest-rs/proptest/HEAD/proptest/README.md",
     "https://raw.githubusercontent.com/proptest-rs/proptest/main/README.md"
   ],
   "notes": [

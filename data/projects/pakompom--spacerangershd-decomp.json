@@ -5,7 +5,7 @@
   "category": "decomp",
   "group": "4. SMALLER COMMERCIAL, LICENSED, CULT AND NICHE GAMES",
   "platform": "Windows",
-  "type": "Matching decompilation",
+  "type": "Game decompilation",
   "description": "",
   "progress": {
     "decompiled": 100.0,
@@ -15,15 +15,18 @@
   },
   "targets": [],
   "sources": [
+    "https://decomp.dev/pakompom/SpaceRangersHD_decomp/2026-08-11/28766d75a4a22c6700fb60cf9e6d0c695cc5edfa",
     "https://decomp.dev/pakompom/SpaceRangersHD_decomp"
   ],
   "notes": [
     "Space Rangers HD: A War Apart | Windows | 100.00% decompiled | 100.00% fully linked",
-    "Progress source: https://decomp.dev/pakompom/SpaceRangersHD_decomp",
+    "Progress source: https://decomp.dev/pakompom/SpaceRangersHD_decomp/2026-08-11/28766d75a4a22c6700fb60cf9e6d0c695cc5edfa",
+    "Report target: 2026-08-11",
     "Report commit date: 2026-09-24 17:06:07 +00:00",
     "Report commit: https://github.com/pakompom/SpaceRangersHD_decomp/commit/28766d75a4a22c6700fb60cf9e6d0c695cc5edfa"
   ],
   "snapshot_date": "2026-10-04",
   "report_date": "2026-09-24 17:06:07 +00:00",
-  "report_commit": "https://github.com/pakompom/SpaceRangersHD_decomp/commit/28766d75a4a22c6700fb60cf9e6d0c695cc5edfa"
+  "report_commit": "https://github.com/pakompom/SpaceRangersHD_decomp/commit/28766d75a4a22c6700fb60cf9e6d0c695cc5edfa",
+  "report_target": "2026-08-11"
 }

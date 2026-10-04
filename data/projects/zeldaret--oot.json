@@ -5,13 +5,13 @@
   "category": "decomp",
   "group": "2. OLDER AAA / FLAGSHIP CONSOLE AND PC GAMES",
   "platform": "Nintendo 64",
-  "type": "Matching decompilation",
+  "type": "Game decompilation",
   "description": "",
   "progress": {
     "decompiled": 100.0,
     "linked": null,
     "kind": "reported",
-    "label": "100% (team dashboard)"
+    "label": "100% dashboard code progress for the Master Quest debug ROM; not a claim for every retail version"
   },
   "targets": [
     {
@@ -21,7 +21,7 @@
         "decompiled": 100.0,
         "linked": null,
         "kind": "reported",
-        "label": "100% (team dashboard)"
+        "label": "100% dashboard code progress for the Master Quest debug ROM; not a claim for every retail version"
       },
       "notes": [
         "Percentage describes the team’s tracked code target; individual versions can differ."
@@ -29,15 +29,18 @@
     }
   ],
   "sources": [
-    "https://zelda.deco.mp/"
+    "https://zelda.deco.mp/assets/csv/progress-oot-shield.json",
+    "https://zelda.deco.mp/assets/csv/progress-oot-matching.csv",
+    "https://zelda.deco.mp/assets/json/games.json",
+    "https://raw.githubusercontent.com/zeldaret/oot/HEAD/README.md"
   ],
   "notes": [
-    "Target: The Legend of Zelda: Ocarina of Time",
-    "Platform: Nintendo 64 | 100% (team dashboard)",
-    "Evidence: https://zelda.deco.mp/",
-    "Note: Percentage describes the team’s tracked code target; individual versions can differ."
+    "Dashboard scope: Ocarina of Time MQ Debug Rom. Matching CSV reports 3,843,392 / 3,843,392 code bytes for its last stored report.",
+    "The 100% badge is version-specific. The current repository README still describes the broader project as WIP, warns some parts may not be shiftable, and says it does not produce a PC port.",
+    "The dashboard report is historical; it must not be described as a newly measured report."
   ],
   "snapshot_date": "2026-10-04",
-  "report_date": "",
-  "report_commit": ""
+  "report_date": "2024-08-15 02:13:23 +00:00",
+  "report_commit": "https://github.com/zeldaret/oot/commit/1649bf32d64523ba79f6896d2b9c816a9cd20e77",
+  "report_target": "Master Quest debug ROM (Zelda dashboard scope)"
 }

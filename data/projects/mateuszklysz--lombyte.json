@@ -5,7 +5,7 @@
   "category": "decomp",
   "group": "2. OLDER AAA / FLAGSHIP CONSOLE AND PC GAMES",
   "platform": "PlayStation 2",
-  "type": "Matching decompilation",
+  "type": "Game decompilation",
   "description": "",
   "progress": {
     "decompiled": 21.25,
@@ -15,15 +15,18 @@
   },
   "targets": [],
   "sources": [
+    "https://decomp.dev/mateuszklysz/Lombyte/SCUS_971.99/e82305e6e01423428b814d397b2a687aa44f9253",
     "https://decomp.dev/mateuszklysz/Lombyte"
   ],
   "notes": [
     "Ratchet & Clank (NTSC) | PlayStation 2 | 21.25% decompiled | 21.25% fully linked",
-    "Progress source: https://decomp.dev/mateuszklysz/Lombyte",
+    "Progress source: https://decomp.dev/mateuszklysz/Lombyte/SCUS_971.99/e82305e6e01423428b814d397b2a687aa44f9253",
+    "Report target: SCUS_971.99",
     "Report commit date: 2026-10-04 09:35:09 +00:00",
     "Report commit: https://github.com/mateuszklysz/Lombyte/commit/e82305e6e01423428b814d397b2a687aa44f9253"
   ],
   "snapshot_date": "2026-10-04",
   "report_date": "2026-10-04 09:35:09 +00:00",
-  "report_commit": "https://github.com/mateuszklysz/Lombyte/commit/e82305e6e01423428b814d397b2a687aa44f9253"
+  "report_commit": "https://github.com/mateuszklysz/Lombyte/commit/e82305e6e01423428b814d397b2a687aa44f9253",
+  "report_target": "SCUS_971.99"
 }

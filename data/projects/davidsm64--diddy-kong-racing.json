@@ -5,7 +5,7 @@
   "category": "decomp",
   "group": "2. OLDER AAA / FLAGSHIP CONSOLE AND PC GAMES",
   "platform": "Nintendo 64",
-  "type": "Matching decompilation",
+  "type": "Game decompilation",
   "description": "",
   "progress": {
     "decompiled": 100.0,
@@ -35,9 +35,11 @@
     "Target: Diddy Kong Racing",
     "Platform: Nintendo 64 | 100% (published README progress; target-specific)",
     "Evidence: https://raw.githubusercontent.com/davidsm64/diddy-kong-racing/master/README.md",
-    "Note: 100% applies to us.v77; documentation is separately reported at 69.02%."
+    "Note: 100% applies to us.v77; documentation is separately reported at 69.02%.",
+    "README separately reports 100.00% decompilation for us.v77 and 69.02% documentation progress."
   ],
   "snapshot_date": "2026-10-04",
   "report_date": "",
-  "report_commit": ""
+  "report_commit": "",
+  "report_target": "us.v77"
 }

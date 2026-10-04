@@ -5,7 +5,7 @@
   "category": "decomp",
   "group": "3. MAJOR HANDHELD / FRANCHISE GAMES",
   "platform": "Game Boy Advance",
-  "type": "Matching decompilation",
+  "type": "Game decompilation",
   "description": "",
   "progress": {
     "decompiled": 100.0,
@@ -15,15 +15,18 @@
   },
   "targets": [],
   "sources": [
+    "https://decomp.dev/laqieer/fireemblem8j/jp/f27d18f1b597dd43481690d105dd518f4face8ef",
     "https://decomp.dev/laqieer/fireemblem8j"
   ],
   "notes": [
     "Fire Emblem: Seima no Kouseki | Game Boy Advance | 100.00% decompiled",
-    "Progress source: https://decomp.dev/laqieer/fireemblem8j",
+    "Progress source: https://decomp.dev/laqieer/fireemblem8j/jp/f27d18f1b597dd43481690d105dd518f4face8ef",
+    "Report target: jp",
     "Report commit date: 2026-10-02 02:35:01 +00:00",
     "Report commit: https://github.com/laqieer/fireemblem8j/commit/f27d18f1b597dd43481690d105dd518f4face8ef"
   ],
   "snapshot_date": "2026-10-04",
   "report_date": "2026-10-02 02:35:01 +00:00",
-  "report_commit": "https://github.com/laqieer/fireemblem8j/commit/f27d18f1b597dd43481690d105dd518f4face8ef"
+  "report_commit": "https://github.com/laqieer/fireemblem8j/commit/f27d18f1b597dd43481690d105dd518f4face8ef",
+  "report_target": "jp"
 }

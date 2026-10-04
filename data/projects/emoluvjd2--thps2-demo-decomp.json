@@ -5,7 +5,7 @@
   "category": "decomp",
   "group": "4. SMALLER COMMERCIAL, LICENSED, CULT AND NICHE GAMES",
   "platform": "PlayStation",
-  "type": "Matching decompilation",
+  "type": "Game decompilation",
   "description": "",
   "progress": {
     "decompiled": 97.61,
@@ -15,15 +15,18 @@
   },
   "targets": [],
   "sources": [
+    "https://decomp.dev/emoluvjd2/thps2-demo-decomp/SLUS_900.86/1050a327d0a009aad70549debc99788a8900a882",
     "https://decomp.dev/emoluvjd2/thps2-demo-decomp"
   ],
   "notes": [
     "Tony Hawk's Pro Skater 2 (Competition Demo) | PlayStation | 97.61% decompiled | 64.30% fully linked",
-    "Progress source: https://decomp.dev/emoluvjd2/thps2-demo-decomp",
+    "Progress source: https://decomp.dev/emoluvjd2/thps2-demo-decomp/SLUS_900.86/1050a327d0a009aad70549debc99788a8900a882",
+    "Report target: SLUS_900.86",
     "Report commit date: 2026-09-03 10:29:35 +00:00",
     "Report commit: https://github.com/emoluvjd2/thps2-demo-decomp/commit/1050a327d0a009aad70549debc99788a8900a882"
   ],
   "snapshot_date": "2026-10-04",
   "report_date": "2026-09-03 10:29:35 +00:00",
-  "report_commit": "https://github.com/emoluvjd2/thps2-demo-decomp/commit/1050a327d0a009aad70549debc99788a8900a882"
+  "report_commit": "https://github.com/emoluvjd2/thps2-demo-decomp/commit/1050a327d0a009aad70549debc99788a8900a882",
+  "report_target": "SLUS_900.86"
 }

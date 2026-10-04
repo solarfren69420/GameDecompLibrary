@@ -5,7 +5,7 @@
   "category": "decomp",
   "group": "4. SMALLER COMMERCIAL, LICENSED, CULT AND NICHE GAMES",
   "platform": "Nintendo 64",
-  "type": "Matching decompilation",
+  "type": "Game decompilation",
   "description": "",
   "progress": {
     "decompiled": 42.96,
@@ -15,15 +15,18 @@
   },
   "targets": [],
   "sources": [
+    "https://decomp.dev/LLONSIT-glitch/wonder/jp/e71737c72ca634faa25431f68ab69bc0272cda03",
     "https://decomp.dev/LLONSIT-glitch/wonder"
   ],
   "notes": [
     "Wonder Project J2: Josette of the Corlo Forest | Nintendo 64 | 42.96% decompiled",
-    "Progress source: https://decomp.dev/LLONSIT-glitch/wonder",
+    "Progress source: https://decomp.dev/LLONSIT-glitch/wonder/jp/e71737c72ca634faa25431f68ab69bc0272cda03",
+    "Report target: jp",
     "Report commit date: 2026-05-15 05:14:42 +00:00",
     "Report commit: https://github.com/LLONSIT-glitch/wonder/commit/e71737c72ca634faa25431f68ab69bc0272cda03"
   ],
   "snapshot_date": "2026-10-04",
   "report_date": "2026-05-15 05:14:42 +00:00",
-  "report_commit": "https://github.com/LLONSIT-glitch/wonder/commit/e71737c72ca634faa25431f68ab69bc0272cda03"
+  "report_commit": "https://github.com/LLONSIT-glitch/wonder/commit/e71737c72ca634faa25431f68ab69bc0272cda03",
+  "report_target": "jp"
 }

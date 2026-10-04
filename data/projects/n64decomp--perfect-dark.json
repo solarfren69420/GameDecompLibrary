@@ -5,13 +5,13 @@
   "category": "decomp",
   "group": "2. OLDER AAA / FLAGSHIP CONSOLE AND PC GAMES",
   "platform": "Nintendo 64",
-  "type": "Matching decompilation",
+  "type": "Game decompilation",
   "description": "",
   "progress": {
     "decompiled": null,
     "linked": null,
     "kind": "claim",
-    "label": "100% / complete matching decompilation (maintainer description)"
+    "label": "Maintainer describes a full or complete decompilation; no comparable numeric metric verified"
   },
   "targets": [
     {
@@ -21,7 +21,7 @@
         "decompiled": null,
         "linked": null,
         "kind": "claim",
-        "label": "100% / complete matching decompilation (maintainer description)"
+        "label": "Maintainer describes a full or complete decompilation; no comparable numeric metric verified"
       },
       "notes": [
         "Nintendo 64 game; not Perfect Dark Zero or the Xbox 360 remaster."
@@ -33,7 +33,7 @@
   ],
   "notes": [
     "Target: Perfect Dark",
-    "Platform: Nintendo 64 | 100% / complete matching decompilation (maintainer description)",
+    "Platform: Nintendo 64 | Complete matching decompilation (maintainer description; no numeric percentage asserted)",
     "Evidence: https://github.com/n64decomp/perfect_dark",
     "Note: Nintendo 64 game; not Perfect Dark Zero or the Xbox 360 remaster."
   ],

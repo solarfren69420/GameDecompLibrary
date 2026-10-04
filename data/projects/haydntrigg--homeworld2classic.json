@@ -5,7 +5,7 @@
   "category": "decomp",
   "group": "2. OLDER AAA / FLAGSHIP CONSOLE AND PC GAMES",
   "platform": "Windows",
-  "type": "Matching decompilation",
+  "type": "Game decompilation",
   "description": "",
   "progress": {
     "decompiled": 4.12,
@@ -15,15 +15,18 @@
   },
   "targets": [],
   "sources": [
+    "https://decomp.dev/HaydnTrigg/Homeworld2Classic/DevRelease/53926f994b22e9bcaa6295d2a8a14abeaf321941",
     "https://decomp.dev/HaydnTrigg/Homeworld2Classic"
   ],
   "notes": [
     "Homeworld 2 | Windows | 4.12% decompiled",
-    "Progress source: https://decomp.dev/HaydnTrigg/Homeworld2Classic",
+    "Progress source: https://decomp.dev/HaydnTrigg/Homeworld2Classic/DevRelease/53926f994b22e9bcaa6295d2a8a14abeaf321941",
+    "Report target: DevRelease",
     "Report commit date: 2026-06-15 16:42:59 +00:00",
     "Report commit: https://github.com/HaydnTrigg/Homeworld2Classic/commit/53926f994b22e9bcaa6295d2a8a14abeaf321941"
   ],
   "snapshot_date": "2026-10-04",
   "report_date": "2026-06-15 16:42:59 +00:00",
-  "report_commit": "https://github.com/HaydnTrigg/Homeworld2Classic/commit/53926f994b22e9bcaa6295d2a8a14abeaf321941"
+  "report_commit": "https://github.com/HaydnTrigg/Homeworld2Classic/commit/53926f994b22e9bcaa6295d2a8a14abeaf321941",
+  "report_target": "DevRelease"
 }

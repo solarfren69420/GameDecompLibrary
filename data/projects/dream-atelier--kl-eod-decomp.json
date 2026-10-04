@@ -5,7 +5,7 @@
   "category": "decomp",
   "group": "3. MAJOR HANDHELD / FRANCHISE GAMES",
   "platform": "Game Boy Advance",
-  "type": "Matching decompilation",
+  "type": "Game decompilation",
   "description": "",
   "progress": {
     "decompiled": 51.3,
@@ -15,15 +15,18 @@
   },
   "targets": [],
   "sources": [
+    "https://decomp.dev/Dream-Atelier/kl-eod-decomp/us/7f0f076352ce064ad8b0026837a8e61fe850ff28",
     "https://decomp.dev/Dream-Atelier/kl-eod-decomp"
   ],
   "notes": [
     "Klonoa: Empire of Dreams | Game Boy Advance | 51.30% decompiled",
-    "Progress source: https://decomp.dev/Dream-Atelier/kl-eod-decomp",
+    "Progress source: https://decomp.dev/Dream-Atelier/kl-eod-decomp/us/7f0f076352ce064ad8b0026837a8e61fe850ff28",
+    "Report target: us",
     "Report commit date: 2026-09-05 00:22:23 +00:00",
     "Report commit: https://github.com/Dream-Atelier/kl-eod-decomp/commit/7f0f076352ce064ad8b0026837a8e61fe850ff28"
   ],
   "snapshot_date": "2026-10-04",
   "report_date": "2026-09-05 00:22:23 +00:00",
-  "report_commit": "https://github.com/Dream-Atelier/kl-eod-decomp/commit/7f0f076352ce064ad8b0026837a8e61fe850ff28"
+  "report_commit": "https://github.com/Dream-Atelier/kl-eod-decomp/commit/7f0f076352ce064ad8b0026837a8e61fe850ff28",
+  "report_target": "us"
 }

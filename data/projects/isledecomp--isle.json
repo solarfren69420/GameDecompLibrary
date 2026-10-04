@@ -5,13 +5,13 @@
   "category": "decomp",
   "group": "4. SMALLER COMMERCIAL, LICENSED, CULT AND NICHE GAMES",
   "platform": "Windows, English version 1.1",
-  "type": "Matching decompilation",
+  "type": "Game decompilation",
   "description": "",
   "progress": {
     "decompiled": null,
     "linked": null,
     "kind": "claim",
-    "label": "100% / complete decompilation (maintainer description)"
+    "label": "Maintainer describes a full or complete decompilation; no comparable numeric metric verified"
   },
   "targets": [
     {
@@ -21,7 +21,7 @@
         "decompiled": null,
         "linked": null,
         "kind": "claim",
-        "label": "100% / complete decompilation (maintainer description)"
+        "label": "Maintainer describes a full or complete decompilation; no comparable numeric metric verified"
       },
       "notes": [
         "CONFIG.EXE, ISLE.EXE and LEGO1.DLL are completely decompiled; exact matching is a separate metric."
@@ -33,7 +33,7 @@
   ],
   "notes": [
     "Target: LEGO Island",
-    "Platform: Windows, English version 1.1 | 100% / complete decompilation (maintainer description)",
+    "Platform: Windows, English version 1.1 | Complete decompilation (maintainer description; no numeric percentage asserted)",
     "Evidence: https://github.com/isledecomp/isle",
     "Note: CONFIG.EXE, ISLE.EXE and LEGO1.DLL are completely decompiled; exact matching is a separate metric."
   ],

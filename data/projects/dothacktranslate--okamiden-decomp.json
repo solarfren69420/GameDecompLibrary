@@ -5,7 +5,7 @@
   "category": "decomp",
   "group": "3. MAJOR HANDHELD / FRANCHISE GAMES",
   "platform": "Nintendo DS",
-  "type": "Matching decompilation",
+  "type": "Game decompilation",
   "description": "",
   "progress": {
     "decompiled": 1.51,
@@ -15,15 +15,18 @@
   },
   "targets": [],
   "sources": [
+    "https://decomp.dev/dothacktranslate/okamiden-decomp/us/ca9db676c20ed384abe3d1eaf367aa826f914885",
     "https://decomp.dev/dothacktranslate/okamiden-decomp"
   ],
   "notes": [
     "Ōkamiden | Nintendo DS | 1.51% decompiled | 1.51% fully linked",
-    "Progress source: https://decomp.dev/dothacktranslate/okamiden-decomp",
+    "Progress source: https://decomp.dev/dothacktranslate/okamiden-decomp/us/ca9db676c20ed384abe3d1eaf367aa826f914885",
+    "Report target: us",
     "Report commit date: 2026-10-04 05:56:33 +00:00",
     "Report commit: https://github.com/dothacktranslate/okamiden-decomp/commit/ca9db676c20ed384abe3d1eaf367aa826f914885"
   ],
   "snapshot_date": "2026-10-04",
   "report_date": "2026-10-04 05:56:33 +00:00",
-  "report_commit": "https://github.com/dothacktranslate/okamiden-decomp/commit/ca9db676c20ed384abe3d1eaf367aa826f914885"
+  "report_commit": "https://github.com/dothacktranslate/okamiden-decomp/commit/ca9db676c20ed384abe3d1eaf367aa826f914885",
+  "report_target": "us"
 }

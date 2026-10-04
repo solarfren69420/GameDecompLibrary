@@ -5,7 +5,7 @@
   "category": "decomp",
   "group": "2. OLDER AAA / FLAGSHIP CONSOLE AND PC GAMES",
   "platform": "PlayStation",
-  "type": "Matching decompilation",
+  "type": "Game decompilation",
   "description": "",
   "progress": {
     "decompiled": 100.0,
@@ -15,15 +15,18 @@
   },
   "targets": [],
   "sources": [
+    "https://decomp.dev/Caesar0007/NFSHS-PSX-decomp/nfs4-f/8754e07224b9a421a020fde3764a9c0be1dea424",
     "https://decomp.dev/Caesar0007/NFSHS-PSX-decomp"
   ],
   "notes": [
     "Need for Speed: High Stakes | PlayStation | 100.00% decompiled",
-    "Progress source: https://decomp.dev/Caesar0007/NFSHS-PSX-decomp",
+    "Progress source: https://decomp.dev/Caesar0007/NFSHS-PSX-decomp/nfs4-f/8754e07224b9a421a020fde3764a9c0be1dea424",
+    "Report target: nfs4-f",
     "Report commit date: 2026-10-04 09:53:35 +00:00",
     "Report commit: https://github.com/Caesar0007/NFSHS-PSX-decomp/commit/8754e07224b9a421a020fde3764a9c0be1dea424"
   ],
   "snapshot_date": "2026-10-04",
   "report_date": "2026-10-04 09:53:35 +00:00",
-  "report_commit": "https://github.com/Caesar0007/NFSHS-PSX-decomp/commit/8754e07224b9a421a020fde3764a9c0be1dea424"
+  "report_commit": "https://github.com/Caesar0007/NFSHS-PSX-decomp/commit/8754e07224b9a421a020fde3764a9c0be1dea424",
+  "report_target": "nfs4-f"
 }

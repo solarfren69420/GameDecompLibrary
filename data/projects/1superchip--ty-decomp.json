@@ -5,7 +5,7 @@
   "category": "decomp",
   "group": "4. SMALLER COMMERCIAL, LICENSED, CULT AND NICHE GAMES",
   "platform": "GameCube",
-  "type": "Matching decompilation",
+  "type": "Game decompilation",
   "description": "",
   "progress": {
     "decompiled": 27.57,
@@ -15,15 +15,18 @@
   },
   "targets": [],
   "sources": [
+    "https://decomp.dev/1superchip/ty-decomp/GTYE69/9b6fd3904c7666ae086f1dbe971da58b41514df6",
     "https://decomp.dev/1superchip/ty-decomp"
   ],
   "notes": [
     "TY the Tasmanian Tiger | GameCube | 27.57% decompiled | 25.57% fully linked",
-    "Progress source: https://decomp.dev/1superchip/ty-decomp",
+    "Progress source: https://decomp.dev/1superchip/ty-decomp/GTYE69/9b6fd3904c7666ae086f1dbe971da58b41514df6",
+    "Report target: GTYE69",
     "Report commit date: 2026-10-03 20:07:30 +00:00",
     "Report commit: https://github.com/1superchip/ty-decomp/commit/9b6fd3904c7666ae086f1dbe971da58b41514df6"
   ],
   "snapshot_date": "2026-10-04",
   "report_date": "2026-10-03 20:07:30 +00:00",
-  "report_commit": "https://github.com/1superchip/ty-decomp/commit/9b6fd3904c7666ae086f1dbe971da58b41514df6"
+  "report_commit": "https://github.com/1superchip/ty-decomp/commit/9b6fd3904c7666ae086f1dbe971da58b41514df6",
+  "report_target": "GTYE69"
 }

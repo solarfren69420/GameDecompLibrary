@@ -5,7 +5,7 @@
   "category": "decomp",
   "group": "4. SMALLER COMMERCIAL, LICENSED, CULT AND NICHE GAMES",
   "platform": "Windows",
-  "type": "Matching decompilation",
+  "type": "Game decompilation",
   "description": "",
   "progress": {
     "decompiled": 21.38,
@@ -15,15 +15,18 @@
   },
   "targets": [],
   "sources": [
+    "https://decomp.dev/rbxrootx/MissionFleet/NF2_2062/49f9508cc20fd882f0b113b2759d566ee79064f7",
     "https://decomp.dev/rbxrootx/MissionFleet"
   ],
   "notes": [
     "NavyField 2000 PC | Windows | 21.38% decompiled | 21.38% fully linked",
-    "Progress source: https://decomp.dev/rbxrootx/MissionFleet",
+    "Progress source: https://decomp.dev/rbxrootx/MissionFleet/NF2_2062/49f9508cc20fd882f0b113b2759d566ee79064f7",
+    "Report target: NF2_2062",
     "Report commit date: 2026-10-04 04:45:41 +00:00",
     "Report commit: https://github.com/rbxrootx/MissionFleet/commit/49f9508cc20fd882f0b113b2759d566ee79064f7"
   ],
   "snapshot_date": "2026-10-04",
   "report_date": "2026-10-04 04:45:41 +00:00",
-  "report_commit": "https://github.com/rbxrootx/MissionFleet/commit/49f9508cc20fd882f0b113b2759d566ee79064f7"
+  "report_commit": "https://github.com/rbxrootx/MissionFleet/commit/49f9508cc20fd882f0b113b2759d566ee79064f7",
+  "report_target": "NF2_2062"
 }

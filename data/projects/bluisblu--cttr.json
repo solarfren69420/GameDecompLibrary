@@ -5,7 +5,7 @@
   "category": "decomp",
   "group": "2. OLDER AAA / FLAGSHIP CONSOLE AND PC GAMES",
   "platform": "GameCube",
-  "type": "Matching decompilation",
+  "type": "Game decompilation",
   "description": "",
   "progress": {
     "decompiled": 6.41,
@@ -15,15 +15,18 @@
   },
   "targets": [],
   "sources": [
+    "https://decomp.dev/bluisblu/cttr/G9RE7D/c9f5219150e5f427dc9f261399bf4c21523a6960",
     "https://decomp.dev/bluisblu/cttr"
   ],
   "notes": [
     "Crash Tag Team Racing | GameCube | 6.41% decompiled | 4.40% fully linked",
-    "Progress source: https://decomp.dev/bluisblu/cttr",
+    "Progress source: https://decomp.dev/bluisblu/cttr/G9RE7D/c9f5219150e5f427dc9f261399bf4c21523a6960",
+    "Report target: G9RE7D",
     "Report commit date: 2026-06-24 17:52:49 +00:00",
     "Report commit: https://github.com/bluisblu/cttr/commit/c9f5219150e5f427dc9f261399bf4c21523a6960"
   ],
   "snapshot_date": "2026-10-04",
   "report_date": "2026-06-24 17:52:49 +00:00",
-  "report_commit": "https://github.com/bluisblu/cttr/commit/c9f5219150e5f427dc9f261399bf4c21523a6960"
+  "report_commit": "https://github.com/bluisblu/cttr/commit/c9f5219150e5f427dc9f261399bf4c21523a6960",
+  "report_target": "G9RE7D"
 }

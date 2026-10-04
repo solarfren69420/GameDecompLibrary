@@ -5,7 +5,7 @@
   "category": "decomp",
   "group": "2. OLDER AAA / FLAGSHIP CONSOLE AND PC GAMES",
   "platform": "GameCube",
-  "type": "Matching decompilation",
+  "type": "Game decompilation",
   "description": "",
   "progress": {
     "decompiled": 4.8,
@@ -15,15 +15,18 @@
   },
   "targets": [],
   "sources": [
+    "https://decomp.dev/roeming/SA2B/GSNE8P/9334b0cb9e673dba362fd02671c44cd6c03639a1",
     "https://decomp.dev/roeming/SA2B"
   ],
   "notes": [
     "Sonic Adventure 2: Battle | GameCube | 4.80% decompiled | 4.78% fully linked",
-    "Progress source: https://decomp.dev/roeming/SA2B",
+    "Progress source: https://decomp.dev/roeming/SA2B/GSNE8P/9334b0cb9e673dba362fd02671c44cd6c03639a1",
+    "Report target: GSNE8P",
     "Report commit date: 2026-10-02 19:03:26 +00:00",
     "Report commit: https://github.com/roeming/SA2B/commit/9334b0cb9e673dba362fd02671c44cd6c03639a1"
   ],
   "snapshot_date": "2026-10-04",
   "report_date": "2026-10-02 19:03:26 +00:00",
-  "report_commit": "https://github.com/roeming/SA2B/commit/9334b0cb9e673dba362fd02671c44cd6c03639a1"
+  "report_commit": "https://github.com/roeming/SA2B/commit/9334b0cb9e673dba362fd02671c44cd6c03639a1",
+  "report_target": "GSNE8P"
 }

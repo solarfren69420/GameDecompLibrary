@@ -5,7 +5,7 @@
   "category": "decomp",
   "group": "2. OLDER AAA / FLAGSHIP CONSOLE AND PC GAMES",
   "platform": "GameCube",
-  "type": "Matching decompilation",
+  "type": "Game decompilation",
   "description": "",
   "progress": {
     "decompiled": 9.34,
@@ -15,15 +15,18 @@
   },
   "targets": [],
   "sources": [
+    "https://decomp.dev/Jovinull/sonicheroes/G9SE8P/ba1a6be64ec51757e4ff5dd066eaca6d0157c5e6",
     "https://decomp.dev/Jovinull/sonicheroes"
   ],
   "notes": [
     "Sonic Heroes | GameCube | 9.34% decompiled | 8.76% fully linked",
-    "Progress source: https://decomp.dev/Jovinull/sonicheroes",
+    "Progress source: https://decomp.dev/Jovinull/sonicheroes/G9SE8P/ba1a6be64ec51757e4ff5dd066eaca6d0157c5e6",
+    "Report target: G9SE8P",
     "Report commit date: 2026-10-02 11:26:15 +00:00",
     "Report commit: https://github.com/Jovinull/sonicheroes/commit/ba1a6be64ec51757e4ff5dd066eaca6d0157c5e6"
   ],
   "snapshot_date": "2026-10-04",
   "report_date": "2026-10-02 11:26:15 +00:00",
-  "report_commit": "https://github.com/Jovinull/sonicheroes/commit/ba1a6be64ec51757e4ff5dd066eaca6d0157c5e6"
+  "report_commit": "https://github.com/Jovinull/sonicheroes/commit/ba1a6be64ec51757e4ff5dd066eaca6d0157c5e6",
+  "report_target": "G9SE8P"
 }

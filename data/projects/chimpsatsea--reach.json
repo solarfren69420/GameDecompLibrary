@@ -5,7 +5,7 @@
   "category": "decomp",
   "group": "1. HD-ERA / MODERN HIGH-PROFILE GAMES — AAA AND MAJOR FRANCHISES",
   "platform": "Xbox 360",
-  "type": "Matching decompilation",
+  "type": "Game decompilation",
   "description": "",
   "progress": {
     "decompiled": 0.93,
@@ -15,15 +15,18 @@
   },
   "targets": [],
   "sources": [
+    "https://decomp.dev/ChimpsAtSea/Reach/tag_debug_untracked_jul_11_2011/8723dc3d051a29675e00ffe3f8eebf355a30a702",
     "https://decomp.dev/ChimpsAtSea/Reach"
   ],
   "notes": [
     "Halo Reach | Xbox 360 | 0.93% decompiled",
-    "Progress source: https://decomp.dev/ChimpsAtSea/Reach",
+    "Progress source: https://decomp.dev/ChimpsAtSea/Reach/tag_debug_untracked_jul_11_2011/8723dc3d051a29675e00ffe3f8eebf355a30a702",
+    "Report target: tag_debug_untracked_jul_11_2011",
     "Report commit date: 2026-07-31 02:37:18 +00:00",
     "Report commit: https://github.com/ChimpsAtSea/Reach/commit/8723dc3d051a29675e00ffe3f8eebf355a30a702"
   ],
   "snapshot_date": "2026-10-04",
   "report_date": "2026-07-31 02:37:18 +00:00",
-  "report_commit": "https://github.com/ChimpsAtSea/Reach/commit/8723dc3d051a29675e00ffe3f8eebf355a30a702"
+  "report_commit": "https://github.com/ChimpsAtSea/Reach/commit/8723dc3d051a29675e00ffe3f8eebf355a30a702",
+  "report_target": "tag_debug_untracked_jul_11_2011"
 }

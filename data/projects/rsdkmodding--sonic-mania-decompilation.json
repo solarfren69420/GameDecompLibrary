@@ -4,14 +4,14 @@
   "url": "https://github.com/RSDKModding/Sonic-Mania-Decompilation",
   "category": "decomp",
   "group": "4. SMALLER COMMERCIAL, LICENSED, CULT AND NICHE GAMES",
-  "platform": "2017 / RSDK",
-  "type": "Matching decompilation",
-  "description": "",
+  "platform": "RSDK / original game assets",
+  "type": "Game-logic decompilation and native port",
+  "description": "Game logic for Sonic Mania and Mania Plus, with a mod loader and support for RSDKv5/RSDKv5U. Requires original game assets; no numeric byte-matching metric verified.",
   "progress": {
     "decompiled": null,
     "linked": null,
     "kind": "claim",
-    "label": "100% / complete decompilation (project description)"
+    "label": "Maintainer describes a full or complete decompilation; no comparable numeric metric verified"
   },
   "targets": [
     {
@@ -21,7 +21,7 @@
         "decompiled": null,
         "linked": null,
         "kind": "claim",
-        "label": "100% / complete decompilation (project description)"
+        "label": "Maintainer describes a full or complete decompilation; no comparable numeric metric verified"
       },
       "notes": [
         "Requires the supporting RSDK engine implementation and original assets; complete is not a matching-byte report."
@@ -33,7 +33,7 @@
   ],
   "notes": [
     "Target: Sonic Mania",
-    "Platform: 2017 / RSDK | 100% / complete decompilation (project description)",
+    "Platform: 2017 / RSDK | Full decompilation (project description; no numeric percentage asserted)",
     "Evidence: https://github.com/RSDKModding/Sonic-Mania-Decompilation",
     "Note: Requires the supporting RSDK engine implementation and original assets; complete is not a matching-byte report."
   ],

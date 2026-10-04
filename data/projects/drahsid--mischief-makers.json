@@ -5,7 +5,7 @@
   "category": "decomp",
   "group": "4. SMALLER COMMERCIAL, LICENSED, CULT AND NICHE GAMES",
   "platform": "Nintendo 64",
-  "type": "Matching decompilation",
+  "type": "Game decompilation",
   "description": "",
   "progress": {
     "decompiled": 53.52,
@@ -15,15 +15,18 @@
   },
   "targets": [],
   "sources": [
+    "https://decomp.dev/Drahsid/mischief-makers/us1/d57c1e8f37863c61597ecba2d956ef04318d9b31",
     "https://decomp.dev/Drahsid/mischief-makers"
   ],
   "notes": [
     "Mischief Makers | Nintendo 64 | 53.52% decompiled",
-    "Progress source: https://decomp.dev/Drahsid/mischief-makers",
+    "Progress source: https://decomp.dev/Drahsid/mischief-makers/us1/d57c1e8f37863c61597ecba2d956ef04318d9b31",
+    "Report target: us1",
     "Report commit date: 2026-09-19 13:51:27 +00:00",
     "Report commit: https://github.com/Drahsid/mischief-makers/commit/d57c1e8f37863c61597ecba2d956ef04318d9b31"
   ],
   "snapshot_date": "2026-10-04",
   "report_date": "2026-09-19 13:51:27 +00:00",
-  "report_commit": "https://github.com/Drahsid/mischief-makers/commit/d57c1e8f37863c61597ecba2d956ef04318d9b31"
+  "report_commit": "https://github.com/Drahsid/mischief-makers/commit/d57c1e8f37863c61597ecba2d956ef04318d9b31",
+  "report_target": "us1"
 }

@@ -5,7 +5,7 @@
   "category": "decomp",
   "group": "2. OLDER AAA / FLAGSHIP CONSOLE AND PC GAMES",
   "platform": "Wii",
-  "type": "Matching decompilation",
+  "type": "Game decompilation",
   "description": "",
   "progress": {
     "decompiled": 5.77,
@@ -15,15 +15,18 @@
   },
   "targets": [],
   "sources": [
+    "https://decomp.dev/doldecomp/mkw/RMCP01/386051fb27b1af04d0ec4933a9d7485a48f81887",
     "https://decomp.dev/doldecomp/mkw"
   ],
   "notes": [
     "Mario Kart Wii | Wii | 5.77% decompiled | 3.95% fully linked",
-    "Progress source: https://decomp.dev/doldecomp/mkw",
+    "Progress source: https://decomp.dev/doldecomp/mkw/RMCP01/386051fb27b1af04d0ec4933a9d7485a48f81887",
+    "Report target: RMCP01",
     "Report commit date: 2026-10-02 02:25:08 +00:00",
     "Report commit: https://github.com/doldecomp/mkw/commit/386051fb27b1af04d0ec4933a9d7485a48f81887"
   ],
   "snapshot_date": "2026-10-04",
   "report_date": "2026-10-02 02:25:08 +00:00",
-  "report_commit": "https://github.com/doldecomp/mkw/commit/386051fb27b1af04d0ec4933a9d7485a48f81887"
+  "report_commit": "https://github.com/doldecomp/mkw/commit/386051fb27b1af04d0ec4933a9d7485a48f81887",
+  "report_target": "RMCP01"
 }

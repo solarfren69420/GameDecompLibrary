@@ -5,7 +5,7 @@
   "category": "decomp",
   "group": "2. OLDER AAA / FLAGSHIP CONSOLE AND PC GAMES",
   "platform": "GameCube",
-  "type": "Matching decompilation",
+  "type": "Game decompilation",
   "description": "",
   "progress": {
     "decompiled": 63.91,
@@ -15,15 +15,18 @@
   },
   "targets": [],
   "sources": [
+    "https://decomp.dev/zcanann/FFCC-Decomp/GCCP01/9093af3f6bd5efe6fc175f5890bef1b174093639",
     "https://decomp.dev/zcanann/FFCC-Decomp"
   ],
   "notes": [
     "Final Fantasy Crystal Chronicles | GameCube | 63.91% decompiled | 33.28% fully linked",
-    "Progress source: https://decomp.dev/zcanann/FFCC-Decomp",
+    "Progress source: https://decomp.dev/zcanann/FFCC-Decomp/GCCP01/9093af3f6bd5efe6fc175f5890bef1b174093639",
+    "Report target: GCCP01",
     "Report commit date: 2026-10-04 05:13:52 +00:00",
     "Report commit: https://github.com/zcanann/FFCC-Decomp/commit/9093af3f6bd5efe6fc175f5890bef1b174093639"
   ],
   "snapshot_date": "2026-10-04",
   "report_date": "2026-10-04 05:13:52 +00:00",
-  "report_commit": "https://github.com/zcanann/FFCC-Decomp/commit/9093af3f6bd5efe6fc175f5890bef1b174093639"
+  "report_commit": "https://github.com/zcanann/FFCC-Decomp/commit/9093af3f6bd5efe6fc175f5890bef1b174093639",
+  "report_target": "GCCP01"
 }

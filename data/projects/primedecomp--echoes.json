@@ -5,25 +5,28 @@
   "category": "decomp",
   "group": "2. OLDER AAA / FLAGSHIP CONSOLE AND PC GAMES",
   "platform": "GameCube",
-  "type": "Matching decompilation",
+  "type": "Game decompilation",
   "description": "",
   "progress": {
-    "decompiled": 25.85,
-    "linked": 10.53,
+    "decompiled": 25.86,
+    "linked": 10.54,
     "kind": "reported",
-    "label": "25.85% decompiled | 10.53% fully linked"
+    "label": "25.86% decompiled | 10.54% fully linked"
   },
   "targets": [],
   "sources": [
+    "https://decomp.dev/PrimeDecomp/echoes/G2ME01/e5eddac466d3e36de231ad91e59d0e4d4b3a6232",
     "https://decomp.dev/PrimeDecomp/echoes"
   ],
   "notes": [
-    "Metroid Prime 2: Echoes | GameCube | 25.85% decompiled | 10.53% fully linked",
-    "Progress source: https://decomp.dev/PrimeDecomp/echoes",
-    "Report commit date: 2026-10-04 10:59:39 +00:00",
-    "Report commit: https://github.com/PrimeDecomp/echoes/commit/fc488396bd23d7f053a9fefe30e618ab96dc813f"
+    "Metroid Prime 2: Echoes | GameCube | 25.86% decompiled | 10.54% fully linked",
+    "Progress source: https://decomp.dev/PrimeDecomp/echoes/G2ME01/e5eddac466d3e36de231ad91e59d0e4d4b3a6232",
+    "Report target: G2ME01",
+    "Report commit date: 2026-10-04 11:39:42 +00:00",
+    "Report commit: https://github.com/PrimeDecomp/echoes/commit/e5eddac466d3e36de231ad91e59d0e4d4b3a6232"
   ],
   "snapshot_date": "2026-10-04",
-  "report_date": "2026-10-04 10:59:39 +00:00",
-  "report_commit": "https://github.com/PrimeDecomp/echoes/commit/fc488396bd23d7f053a9fefe30e618ab96dc813f"
+  "report_date": "2026-10-04 11:39:42 +00:00",
+  "report_commit": "https://github.com/PrimeDecomp/echoes/commit/e5eddac466d3e36de231ad91e59d0e4d4b3a6232",
+  "report_target": "G2ME01"
 }

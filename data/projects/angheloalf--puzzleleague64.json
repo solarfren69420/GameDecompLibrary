@@ -5,7 +5,7 @@
   "category": "decomp",
   "group": "3. MAJOR HANDHELD / FRANCHISE GAMES",
   "platform": "Nintendo 64",
-  "type": "Matching decompilation",
+  "type": "Game decompilation",
   "description": "",
   "progress": {
     "decompiled": 55.34,
@@ -15,15 +15,18 @@
   },
   "targets": [],
   "sources": [
+    "https://decomp.dev/AngheloAlf/puzzleleague64/usa/db531cef8ab15eb0ab1b9afe3f6857ca47571338",
     "https://decomp.dev/AngheloAlf/puzzleleague64"
   ],
   "notes": [
     "Pokémon Puzzle League | Nintendo 64 | 55.34% decompiled",
-    "Progress source: https://decomp.dev/AngheloAlf/puzzleleague64",
+    "Progress source: https://decomp.dev/AngheloAlf/puzzleleague64/usa/db531cef8ab15eb0ab1b9afe3f6857ca47571338",
+    "Report target: usa",
     "Report commit date: 2026-10-04 01:29:27 +00:00",
     "Report commit: https://github.com/AngheloAlf/puzzleleague64/commit/db531cef8ab15eb0ab1b9afe3f6857ca47571338"
   ],
   "snapshot_date": "2026-10-04",
   "report_date": "2026-10-04 01:29:27 +00:00",
-  "report_commit": "https://github.com/AngheloAlf/puzzleleague64/commit/db531cef8ab15eb0ab1b9afe3f6857ca47571338"
+  "report_commit": "https://github.com/AngheloAlf/puzzleleague64/commit/db531cef8ab15eb0ab1b9afe3f6857ca47571338",
+  "report_target": "usa"
 }

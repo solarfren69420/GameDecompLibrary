@@ -5,7 +5,7 @@
   "category": "decomp",
   "group": "3. MAJOR HANDHELD / FRANCHISE GAMES",
   "platform": "Game Boy Advance",
-  "type": "Matching decompilation",
+  "type": "Game decompilation",
   "description": "",
   "progress": {
     "decompiled": 89.86,
@@ -15,15 +15,18 @@
   },
   "targets": [],
   "sources": [
+    "https://decomp.dev/PascalPixel/alchemy/The%20Broken%20Seal%20%F0%9F%87%AF%F0%9F%87%B5/d1a0a9b3c9f9096f988f511adc48aa16037693bd",
     "https://decomp.dev/PascalPixel/alchemy"
   ],
   "notes": [
     "Golden Sun | Game Boy Advance | 89.86% decompiled | 89.86% fully linked",
-    "Progress source: https://decomp.dev/PascalPixel/alchemy",
+    "Progress source: https://decomp.dev/PascalPixel/alchemy/The%20Broken%20Seal%20%F0%9F%87%AF%F0%9F%87%B5/d1a0a9b3c9f9096f988f511adc48aa16037693bd",
+    "Report target: The Broken Seal 🇯🇵",
     "Report commit date: 2026-10-04 10:48:07 +00:00",
     "Report commit: https://github.com/PascalPixel/alchemy/commit/d1a0a9b3c9f9096f988f511adc48aa16037693bd"
   ],
   "snapshot_date": "2026-10-04",
   "report_date": "2026-10-04 10:48:07 +00:00",
-  "report_commit": "https://github.com/PascalPixel/alchemy/commit/d1a0a9b3c9f9096f988f511adc48aa16037693bd"
+  "report_commit": "https://github.com/PascalPixel/alchemy/commit/d1a0a9b3c9f9096f988f511adc48aa16037693bd",
+  "report_target": "The Broken Seal 🇯🇵"
 }

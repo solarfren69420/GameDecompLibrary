@@ -5,7 +5,7 @@
   "category": "decomp",
   "group": "4. SMALLER COMMERCIAL, LICENSED, CULT AND NICHE GAMES",
   "platform": "Nintendo 64",
-  "type": "Matching decompilation",
+  "type": "Game decompilation",
   "description": "",
   "progress": {
     "decompiled": 97.35,
@@ -15,15 +15,18 @@
   },
   "targets": [],
   "sources": [
+    "https://decomp.dev/ethteck/pokemonsnap/us/1978bb520be7752ff13ea70dd91694e64caab51f",
     "https://decomp.dev/ethteck/pokemonsnap"
   ],
   "notes": [
     "Pokemon Snap | Nintendo 64 | 97.35% decompiled",
-    "Progress source: https://decomp.dev/ethteck/pokemonsnap",
+    "Progress source: https://decomp.dev/ethteck/pokemonsnap/us/1978bb520be7752ff13ea70dd91694e64caab51f",
+    "Report target: us",
     "Report commit date: 2026-08-29 03:34:45 +00:00",
     "Report commit: https://github.com/ethteck/pokemonsnap/commit/1978bb520be7752ff13ea70dd91694e64caab51f"
   ],
   "snapshot_date": "2026-10-04",
   "report_date": "2026-08-29 03:34:45 +00:00",
-  "report_commit": "https://github.com/ethteck/pokemonsnap/commit/1978bb520be7752ff13ea70dd91694e64caab51f"
+  "report_commit": "https://github.com/ethteck/pokemonsnap/commit/1978bb520be7752ff13ea70dd91694e64caab51f",
+  "report_target": "us"
 }

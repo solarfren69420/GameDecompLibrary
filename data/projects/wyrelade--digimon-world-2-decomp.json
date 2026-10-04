@@ -5,25 +5,28 @@
   "category": "decomp",
   "group": "3. MAJOR HANDHELD / FRANCHISE GAMES",
   "platform": "PlayStation",
-  "type": "Matching decompilation",
+  "type": "Game decompilation",
   "description": "",
   "progress": {
-    "decompiled": 99.56,
+    "decompiled": 99.61,
     "linked": null,
     "kind": "reported",
-    "label": "99.56% decompiled"
+    "label": "99.61% decompiled"
   },
   "targets": [],
   "sources": [
+    "https://decomp.dev/Wyrelade/Digimon-World-2-Decomp/SLUS-01193/2eda38446be372ebf6b7a976e66f6cef077f5f3e",
     "https://decomp.dev/Wyrelade/Digimon-World-2-Decomp"
   ],
   "notes": [
-    "Digimon World 2 | PlayStation | 99.56% decompiled",
-    "Progress source: https://decomp.dev/Wyrelade/Digimon-World-2-Decomp",
-    "Report commit date: 2026-10-04 10:21:03 +00:00",
-    "Report commit: https://github.com/Wyrelade/Digimon-World-2-Decomp/commit/aeee76d79d456082fa6ad703742eb14d68640835"
+    "Digimon World 2 | PlayStation | 99.61% decompiled",
+    "Progress source: https://decomp.dev/Wyrelade/Digimon-World-2-Decomp/SLUS-01193/2eda38446be372ebf6b7a976e66f6cef077f5f3e",
+    "Report target: SLUS-01193",
+    "Report commit date: 2026-10-04 11:36:00 +00:00",
+    "Report commit: https://github.com/Wyrelade/Digimon-World-2-Decomp/commit/2eda38446be372ebf6b7a976e66f6cef077f5f3e"
   ],
   "snapshot_date": "2026-10-04",
-  "report_date": "2026-10-04 10:21:03 +00:00",
-  "report_commit": "https://github.com/Wyrelade/Digimon-World-2-Decomp/commit/aeee76d79d456082fa6ad703742eb14d68640835"
+  "report_date": "2026-10-04 11:36:00 +00:00",
+  "report_commit": "https://github.com/Wyrelade/Digimon-World-2-Decomp/commit/2eda38446be372ebf6b7a976e66f6cef077f5f3e",
+  "report_target": "SLUS-01193"
 }

@@ -5,7 +5,7 @@
   "category": "decomp",
   "group": "2. OLDER AAA / FLAGSHIP CONSOLE AND PC GAMES",
   "platform": "Xbox",
-  "type": "Matching decompilation",
+  "type": "Game decompilation",
   "description": "",
   "progress": {
     "decompiled": 15.35,
@@ -15,15 +15,18 @@
   },
   "targets": [],
   "sources": [
+    "https://decomp.dev/punpckhdq/halo/2342/d3a3ca4242dcfb5bbcfa13c98b03591ed36ca514",
     "https://decomp.dev/punpckhdq/halo"
   ],
   "notes": [
     "Halo: Combat Evolved | Xbox | 15.35% decompiled | 13.60% fully linked",
-    "Progress source: https://decomp.dev/punpckhdq/halo",
+    "Progress source: https://decomp.dev/punpckhdq/halo/2342/d3a3ca4242dcfb5bbcfa13c98b03591ed36ca514",
+    "Report target: 2342",
     "Report commit date: 2026-10-03 19:16:24 +00:00",
     "Report commit: https://github.com/punpckhdq/halo/commit/d3a3ca4242dcfb5bbcfa13c98b03591ed36ca514"
   ],
   "snapshot_date": "2026-10-04",
   "report_date": "2026-10-03 19:16:24 +00:00",
-  "report_commit": "https://github.com/punpckhdq/halo/commit/d3a3ca4242dcfb5bbcfa13c98b03591ed36ca514"
+  "report_commit": "https://github.com/punpckhdq/halo/commit/d3a3ca4242dcfb5bbcfa13c98b03591ed36ca514",
+  "report_target": "2342"
 }

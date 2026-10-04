@@ -5,7 +5,7 @@
   "category": "decomp",
   "group": "2. OLDER AAA / FLAGSHIP CONSOLE AND PC GAMES",
   "platform": "Wii",
-  "type": "Matching decompilation",
+  "type": "Game decompilation",
   "description": "",
   "progress": {
     "decompiled": 2.44,
@@ -15,15 +15,18 @@
   },
   "targets": [],
   "sources": [
+    "https://decomp.dev/SeekyCt/spm-decomp/EU0/682e71fa9d2b9ee880afa415708f82edd29a3b8b",
     "https://decomp.dev/SeekyCt/spm-decomp"
   ],
   "notes": [
     "Super Paper Mario | Wii | 2.44% decompiled | 2.07% fully linked",
-    "Progress source: https://decomp.dev/SeekyCt/spm-decomp",
+    "Progress source: https://decomp.dev/SeekyCt/spm-decomp/EU0/682e71fa9d2b9ee880afa415708f82edd29a3b8b",
+    "Report target: EU0",
     "Report commit date: 2026-10-03 21:41:53 +00:00",
     "Report commit: https://github.com/SeekyCt/spm-decomp/commit/682e71fa9d2b9ee880afa415708f82edd29a3b8b"
   ],
   "snapshot_date": "2026-10-04",
   "report_date": "2026-10-03 21:41:53 +00:00",
-  "report_commit": "https://github.com/SeekyCt/spm-decomp/commit/682e71fa9d2b9ee880afa415708f82edd29a3b8b"
+  "report_commit": "https://github.com/SeekyCt/spm-decomp/commit/682e71fa9d2b9ee880afa415708f82edd29a3b8b",
+  "report_target": "EU0"
 }

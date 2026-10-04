@@ -5,7 +5,7 @@
   "category": "decomp",
   "group": "3. MAJOR HANDHELD / FRANCHISE GAMES",
   "platform": "Nintendo DS",
-  "type": "Matching decompilation",
+  "type": "Game decompilation",
   "description": "",
   "progress": {
     "decompiled": 0.81,
@@ -15,15 +15,18 @@
   },
   "targets": [],
   "sources": [
+    "https://decomp.dev/LagoLunatic/ooe/YR9E00/3dc4a82881b4cb8f9d584571fcf2053ddc584f6a",
     "https://decomp.dev/LagoLunatic/ooe"
   ],
   "notes": [
     "Castlevania: Order of Ecclesia | Nintendo DS | 0.81% decompiled | 0.13% fully linked",
-    "Progress source: https://decomp.dev/LagoLunatic/ooe",
+    "Progress source: https://decomp.dev/LagoLunatic/ooe/YR9E00/3dc4a82881b4cb8f9d584571fcf2053ddc584f6a",
+    "Report target: YR9E00",
     "Report commit date: 2025-05-04 18:43:22 +00:00",
     "Report commit: https://github.com/LagoLunatic/ooe/commit/3dc4a82881b4cb8f9d584571fcf2053ddc584f6a"
   ],
   "snapshot_date": "2026-10-04",
   "report_date": "2025-05-04 18:43:22 +00:00",
-  "report_commit": "https://github.com/LagoLunatic/ooe/commit/3dc4a82881b4cb8f9d584571fcf2053ddc584f6a"
+  "report_commit": "https://github.com/LagoLunatic/ooe/commit/3dc4a82881b4cb8f9d584571fcf2053ddc584f6a",
+  "report_target": "YR9E00"
 }

@@ -5,7 +5,7 @@
   "category": "decomp",
   "group": "4. SMALLER COMMERCIAL, LICENSED, CULT AND NICHE GAMES",
   "platform": "GameCube",
-  "type": "Matching decompilation",
+  "type": "Game decompilation",
   "description": "",
   "progress": {
     "decompiled": 32.84,
@@ -15,15 +15,18 @@
   },
   "targets": [],
   "sources": [
+    "https://decomp.dev/NewGBAXL/drmario64-gc/GPZJ01/82289b50d1aef179e8eaf94cf3b798e9732f9add",
     "https://decomp.dev/NewGBAXL/drmario64-gc"
   ],
   "notes": [
     "Nintendo Puzzle Collection: Dr. Mario 64 | GameCube | 32.84% decompiled | 7.68% fully linked",
-    "Progress source: https://decomp.dev/NewGBAXL/drmario64-gc",
+    "Progress source: https://decomp.dev/NewGBAXL/drmario64-gc/GPZJ01/82289b50d1aef179e8eaf94cf3b798e9732f9add",
+    "Report target: GPZJ01",
     "Report commit date: 2026-08-10 22:21:47 +00:00",
     "Report commit: https://github.com/NewGBAXL/drmario64-gc/commit/82289b50d1aef179e8eaf94cf3b798e9732f9add"
   ],
   "snapshot_date": "2026-10-04",
   "report_date": "2026-08-10 22:21:47 +00:00",
-  "report_commit": "https://github.com/NewGBAXL/drmario64-gc/commit/82289b50d1aef179e8eaf94cf3b798e9732f9add"
+  "report_commit": "https://github.com/NewGBAXL/drmario64-gc/commit/82289b50d1aef179e8eaf94cf3b798e9732f9add",
+  "report_target": "GPZJ01"
 }

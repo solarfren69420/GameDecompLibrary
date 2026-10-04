@@ -5,7 +5,7 @@
   "category": "decomp",
   "group": "3. MAJOR HANDHELD / FRANCHISE GAMES",
   "platform": "Game Boy Advance",
-  "type": "Matching decompilation",
+  "type": "Game decompilation",
   "description": "",
   "progress": {
     "decompiled": 99.76,
@@ -15,15 +15,18 @@
   },
   "targets": [],
   "sources": [
+    "https://decomp.dev/laqieer/fireemblem8u/us/7b47dec8da6ff7c2ff9aad2bfa9bf40cc8b07b90",
     "https://decomp.dev/laqieer/fireemblem8u"
   ],
   "notes": [
     "Fire Emblem: The Sacred Stones | Game Boy Advance | 99.76% decompiled",
-    "Progress source: https://decomp.dev/laqieer/fireemblem8u",
+    "Progress source: https://decomp.dev/laqieer/fireemblem8u/us/7b47dec8da6ff7c2ff9aad2bfa9bf40cc8b07b90",
+    "Report target: us",
     "Report commit date: 2026-07-09 06:18:15 +00:00",
     "Report commit: https://github.com/laqieer/fireemblem8u/commit/7b47dec8da6ff7c2ff9aad2bfa9bf40cc8b07b90"
   ],
   "snapshot_date": "2026-10-04",
   "report_date": "2026-07-09 06:18:15 +00:00",
-  "report_commit": "https://github.com/laqieer/fireemblem8u/commit/7b47dec8da6ff7c2ff9aad2bfa9bf40cc8b07b90"
+  "report_commit": "https://github.com/laqieer/fireemblem8u/commit/7b47dec8da6ff7c2ff9aad2bfa9bf40cc8b07b90",
+  "report_target": "us"
 }

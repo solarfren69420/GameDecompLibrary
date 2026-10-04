@@ -5,7 +5,7 @@
   "category": "decomp",
   "group": "3. MAJOR HANDHELD / FRANCHISE GAMES",
   "platform": "GameCube",
-  "type": "Matching decompilation",
+  "type": "Game decompilation",
   "description": "",
   "progress": {
     "decompiled": 8.64,
@@ -15,15 +15,18 @@
   },
   "targets": [],
   "sources": [
+    "https://decomp.dev/ivanno4317/dw4-gc/GDJEB2/41c27d8756e298558ca9be61c1c89afeee336c01",
     "https://decomp.dev/ivanno4317/dw4-gc"
   ],
   "notes": [
     "Digimon World 4 | GameCube | 8.64% decompiled | 8.30% fully linked",
-    "Progress source: https://decomp.dev/ivanno4317/dw4-gc",
+    "Progress source: https://decomp.dev/ivanno4317/dw4-gc/GDJEB2/41c27d8756e298558ca9be61c1c89afeee336c01",
+    "Report target: GDJEB2",
     "Report commit date: 2026-09-16 15:24:42 +00:00",
     "Report commit: https://github.com/ivanno4317/dw4-gc/commit/41c27d8756e298558ca9be61c1c89afeee336c01"
   ],
   "snapshot_date": "2026-10-04",
   "report_date": "2026-09-16 15:24:42 +00:00",
-  "report_commit": "https://github.com/ivanno4317/dw4-gc/commit/41c27d8756e298558ca9be61c1c89afeee336c01"
+  "report_commit": "https://github.com/ivanno4317/dw4-gc/commit/41c27d8756e298558ca9be61c1c89afeee336c01",
+  "report_target": "GDJEB2"
 }

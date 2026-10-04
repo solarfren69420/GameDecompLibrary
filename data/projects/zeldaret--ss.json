@@ -5,7 +5,7 @@
   "category": "decomp",
   "group": "2. OLDER AAA / FLAGSHIP CONSOLE AND PC GAMES",
   "platform": "Wii",
-  "type": "Matching decompilation",
+  "type": "Game decompilation",
   "description": "",
   "progress": {
     "decompiled": 26.8,
@@ -15,15 +15,18 @@
   },
   "targets": [],
   "sources": [
+    "https://decomp.dev/zeldaret/ss/SOUE01/3a93d428e870227349d77e8c860e230533a38f2f",
     "https://decomp.dev/zeldaret/ss"
   ],
   "notes": [
     "The Legend of Zelda: Skyward Sword | Wii | 26.80% decompiled | 15.74% fully linked",
-    "Progress source: https://decomp.dev/zeldaret/ss",
+    "Progress source: https://decomp.dev/zeldaret/ss/SOUE01/3a93d428e870227349d77e8c860e230533a38f2f",
+    "Report target: SOUE01",
     "Report commit date: 2026-10-04 09:33:58 +00:00",
     "Report commit: https://github.com/zeldaret/ss/commit/3a93d428e870227349d77e8c860e230533a38f2f"
   ],
   "snapshot_date": "2026-10-04",
   "report_date": "2026-10-04 09:33:58 +00:00",
-  "report_commit": "https://github.com/zeldaret/ss/commit/3a93d428e870227349d77e8c860e230533a38f2f"
+  "report_commit": "https://github.com/zeldaret/ss/commit/3a93d428e870227349d77e8c860e230533a38f2f",
+  "report_target": "SOUE01"
 }

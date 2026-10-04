@@ -5,7 +5,7 @@
   "category": "decomp",
   "group": "4. SMALLER COMMERCIAL, LICENSED, CULT AND NICHE GAMES",
   "platform": "GameCube",
-  "type": "Matching decompilation",
+  "type": "Game decompilation",
   "description": "",
   "progress": {
     "decompiled": 92.79,
@@ -15,15 +15,18 @@
   },
   "targets": [],
   "sources": [
+    "https://decomp.dev/zcanann/bfbb/GQPE78/8cc01f357bcdf483e93d1b133ae524bdaebdcfda",
     "https://decomp.dev/zcanann/bfbb"
   ],
   "notes": [
     "Battle for Bikini Bottom (Fork: AI) | GameCube | 92.79% decompiled | 61.76% fully linked",
-    "Progress source: https://decomp.dev/zcanann/bfbb",
+    "Progress source: https://decomp.dev/zcanann/bfbb/GQPE78/8cc01f357bcdf483e93d1b133ae524bdaebdcfda",
+    "Report target: GQPE78",
     "Report commit date: 2026-10-04 06:55:15 +00:00",
     "Report commit: https://github.com/zcanann/bfbb/commit/8cc01f357bcdf483e93d1b133ae524bdaebdcfda"
   ],
   "snapshot_date": "2026-10-04",
   "report_date": "2026-10-04 06:55:15 +00:00",
-  "report_commit": "https://github.com/zcanann/bfbb/commit/8cc01f357bcdf483e93d1b133ae524bdaebdcfda"
+  "report_commit": "https://github.com/zcanann/bfbb/commit/8cc01f357bcdf483e93d1b133ae524bdaebdcfda",
+  "report_target": "GQPE78"
 }

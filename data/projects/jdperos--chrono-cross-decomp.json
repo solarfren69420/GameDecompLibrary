@@ -5,7 +5,7 @@
   "category": "decomp",
   "group": "2. OLDER AAA / FLAGSHIP CONSOLE AND PC GAMES",
   "platform": "PlayStation",
-  "type": "Matching decompilation",
+  "type": "Game decompilation",
   "description": "",
   "progress": {
     "decompiled": 12.51,
@@ -15,15 +15,18 @@
   },
   "targets": [],
   "sources": [
+    "https://decomp.dev/jdperos/chrono-cross-decomp/slps_023.64/7dcadfc36421c9b26466f7fdbdbaa1a1102219c6",
     "https://decomp.dev/jdperos/chrono-cross-decomp"
   ],
   "notes": [
     "Chrono Cross | PlayStation | 12.51% decompiled",
-    "Progress source: https://decomp.dev/jdperos/chrono-cross-decomp",
+    "Progress source: https://decomp.dev/jdperos/chrono-cross-decomp/slps_023.64/7dcadfc36421c9b26466f7fdbdbaa1a1102219c6",
+    "Report target: slps_023.64",
     "Report commit date: 2026-04-14 03:51:12 +00:00",
     "Report commit: https://github.com/jdperos/chrono-cross-decomp/commit/7dcadfc36421c9b26466f7fdbdbaa1a1102219c6"
   ],
   "snapshot_date": "2026-10-04",
   "report_date": "2026-04-14 03:51:12 +00:00",
-  "report_commit": "https://github.com/jdperos/chrono-cross-decomp/commit/7dcadfc36421c9b26466f7fdbdbaa1a1102219c6"
+  "report_commit": "https://github.com/jdperos/chrono-cross-decomp/commit/7dcadfc36421c9b26466f7fdbdbaa1a1102219c6",
+  "report_target": "slps_023.64"
 }

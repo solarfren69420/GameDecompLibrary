@@ -5,7 +5,7 @@
   "category": "decomp",
   "group": "2. OLDER AAA / FLAGSHIP CONSOLE AND PC GAMES",
   "platform": "Wii",
-  "type": "Matching decompilation",
+  "type": "Game decompilation",
   "description": "",
   "progress": {
     "decompiled": 0.52,
@@ -15,15 +15,18 @@
   },
   "targets": [],
   "sources": [
+    "https://decomp.dev/ThePlayerRolo/LegoCloneWarsWii/SC4E64/b0ed795a586d1d921c536c991bf250bec39ae811",
     "https://decomp.dev/ThePlayerRolo/LegoCloneWarsWii"
   ],
   "notes": [
     "Lego Star Wars III: The Clone Wars | Wii | 0.52% decompiled | 0.45% fully linked",
-    "Progress source: https://decomp.dev/ThePlayerRolo/LegoCloneWarsWii",
+    "Progress source: https://decomp.dev/ThePlayerRolo/LegoCloneWarsWii/SC4E64/b0ed795a586d1d921c536c991bf250bec39ae811",
+    "Report target: SC4E64",
     "Report commit date: 2025-12-07 21:38:38 +00:00",
     "Report commit: https://github.com/ThePlayerRolo/LegoCloneWarsWii/commit/b0ed795a586d1d921c536c991bf250bec39ae811"
   ],
   "snapshot_date": "2026-10-04",
   "report_date": "2025-12-07 21:38:38 +00:00",
-  "report_commit": "https://github.com/ThePlayerRolo/LegoCloneWarsWii/commit/b0ed795a586d1d921c536c991bf250bec39ae811"
+  "report_commit": "https://github.com/ThePlayerRolo/LegoCloneWarsWii/commit/b0ed795a586d1d921c536c991bf250bec39ae811",
+  "report_target": "SC4E64"
 }

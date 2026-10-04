@@ -5,7 +5,7 @@
   "category": "decomp",
   "group": "2. OLDER AAA / FLAGSHIP CONSOLE AND PC GAMES",
   "platform": "GameCube",
-  "type": "Matching decompilation",
+  "type": "Game decompilation",
   "description": "",
   "progress": {
     "decompiled": 100.0,
@@ -15,15 +15,18 @@
   },
   "targets": [],
   "sources": [
+    "https://decomp.dev/mitsevox/tw2004/GW4E69/e90a46609ba8ec4d2e656aa1dc4d6c858d246ca3",
     "https://decomp.dev/mitsevox/tw2004"
   ],
   "notes": [
     "Tiger Woods PGA Tour 2004 | GameCube | 100.00% decompiled | 100.00% fully linked",
-    "Progress source: https://decomp.dev/mitsevox/tw2004",
+    "Progress source: https://decomp.dev/mitsevox/tw2004/GW4E69/e90a46609ba8ec4d2e656aa1dc4d6c858d246ca3",
+    "Report target: GW4E69",
     "Report commit date: 2026-10-03 02:45:32 +00:00",
     "Report commit: https://github.com/mitsevox/tw2004/commit/e90a46609ba8ec4d2e656aa1dc4d6c858d246ca3"
   ],
   "snapshot_date": "2026-10-04",
   "report_date": "2026-10-03 02:45:32 +00:00",
-  "report_commit": "https://github.com/mitsevox/tw2004/commit/e90a46609ba8ec4d2e656aa1dc4d6c858d246ca3"
+  "report_commit": "https://github.com/mitsevox/tw2004/commit/e90a46609ba8ec4d2e656aa1dc4d6c858d246ca3",
+  "report_target": "GW4E69"
 }

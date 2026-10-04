@@ -5,7 +5,7 @@
   "category": "decomp",
   "group": "1. HD-ERA / MODERN HIGH-PROFILE GAMES — AAA AND MAJOR FRANCHISES",
   "platform": "Switch",
-  "type": "Matching decompilation",
+  "type": "Game decompilation",
   "description": "",
   "progress": {
     "decompiled": 1.4,
@@ -15,15 +15,18 @@
   },
   "targets": [],
   "sources": [
+    "https://decomp.dev/Nintendocustom/Lego-City-Undercover-Decompilation/1.0.3/47dc365d26aae634528b3a4886ba571019845789",
     "https://decomp.dev/Nintendocustom/Lego-City-Undercover-Decompilation"
   ],
   "notes": [
     "LEGO City Undercover | Switch | 1.40% decompiled",
-    "Progress source: https://decomp.dev/Nintendocustom/Lego-City-Undercover-Decompilation",
+    "Progress source: https://decomp.dev/Nintendocustom/Lego-City-Undercover-Decompilation/1.0.3/47dc365d26aae634528b3a4886ba571019845789",
+    "Report target: 1.0.3",
     "Report commit date: 2026-10-02 14:02:21 +00:00",
     "Report commit: https://github.com/Nintendocustom/Lego-City-Undercover-Decompilation/commit/47dc365d26aae634528b3a4886ba571019845789"
   ],
   "snapshot_date": "2026-10-04",
   "report_date": "2026-10-02 14:02:21 +00:00",
-  "report_commit": "https://github.com/Nintendocustom/Lego-City-Undercover-Decompilation/commit/47dc365d26aae634528b3a4886ba571019845789"
+  "report_commit": "https://github.com/Nintendocustom/Lego-City-Undercover-Decompilation/commit/47dc365d26aae634528b3a4886ba571019845789",
+  "report_target": "1.0.3"
 }

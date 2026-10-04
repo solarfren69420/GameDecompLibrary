@@ -5,7 +5,7 @@
   "category": "decomp",
   "group": "2. OLDER AAA / FLAGSHIP CONSOLE AND PC GAMES",
   "platform": "GameCube",
-  "type": "Matching decompilation",
+  "type": "Game decompilation",
   "description": "",
   "progress": {
     "decompiled": 36.55,
@@ -15,15 +15,18 @@
   },
   "targets": [],
   "sources": [
+    "https://decomp.dev/denzi-gh/crashwoc-decomp-gc/GCBE7D/4e0fda4222f014b60551fa1bc30cefaae18dce31",
     "https://decomp.dev/denzi-gh/crashwoc-decomp-gc"
   ],
   "notes": [
     "Crash Bandicoot: The Wrath of Cortex | GameCube | 36.55% decompiled | 0.01% fully linked",
-    "Progress source: https://decomp.dev/denzi-gh/crashwoc-decomp-gc",
+    "Progress source: https://decomp.dev/denzi-gh/crashwoc-decomp-gc/GCBE7D/4e0fda4222f014b60551fa1bc30cefaae18dce31",
+    "Report target: GCBE7D",
     "Report commit date: 2026-07-16 17:16:33 +00:00",
     "Report commit: https://github.com/denzi-gh/crashwoc-decomp-gc/commit/4e0fda4222f014b60551fa1bc30cefaae18dce31"
   ],
   "snapshot_date": "2026-10-04",
   "report_date": "2026-07-16 17:16:33 +00:00",
-  "report_commit": "https://github.com/denzi-gh/crashwoc-decomp-gc/commit/4e0fda4222f014b60551fa1bc30cefaae18dce31"
+  "report_commit": "https://github.com/denzi-gh/crashwoc-decomp-gc/commit/4e0fda4222f014b60551fa1bc30cefaae18dce31",
+  "report_target": "GCBE7D"
 }

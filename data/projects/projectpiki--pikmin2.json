@@ -5,7 +5,7 @@
   "category": "decomp",
   "group": "2. OLDER AAA / FLAGSHIP CONSOLE AND PC GAMES",
   "platform": "GameCube",
-  "type": "Matching decompilation",
+  "type": "Game decompilation",
   "description": "",
   "progress": {
     "decompiled": 99.63,
@@ -15,15 +15,18 @@
   },
   "targets": [],
   "sources": [
+    "https://decomp.dev/projectPiki/pikmin2/GPVE01/29bc5478edffa2c963c88fdd261d876d055aa2b0",
     "https://decomp.dev/projectPiki/pikmin2"
   ],
   "notes": [
     "Pikmin 2 | GameCube | 99.63% decompiled | 98.09% fully linked",
-    "Progress source: https://decomp.dev/projectPiki/pikmin2",
+    "Progress source: https://decomp.dev/projectPiki/pikmin2/GPVE01/29bc5478edffa2c963c88fdd261d876d055aa2b0",
+    "Report target: GPVE01",
     "Report commit date: 2026-10-01 11:36:14 +00:00",
     "Report commit: https://github.com/projectPiki/pikmin2/commit/29bc5478edffa2c963c88fdd261d876d055aa2b0"
   ],
   "snapshot_date": "2026-10-04",
   "report_date": "2026-10-01 11:36:14 +00:00",
-  "report_commit": "https://github.com/projectPiki/pikmin2/commit/29bc5478edffa2c963c88fdd261d876d055aa2b0"
+  "report_commit": "https://github.com/projectPiki/pikmin2/commit/29bc5478edffa2c963c88fdd261d876d055aa2b0",
+  "report_target": "GPVE01"
 }

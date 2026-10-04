@@ -5,25 +5,28 @@
   "category": "decomp",
   "group": "3. MAJOR HANDHELD / FRANCHISE GAMES",
   "platform": "Game Boy Advance",
-  "type": "Matching decompilation",
+  "type": "Game decompilation",
   "description": "",
   "progress": {
-    "decompiled": 99.51,
-    "linked": 99.51,
+    "decompiled": 100.0,
+    "linked": 100.0,
     "kind": "reported",
-    "label": "99.51% decompiled | 99.51% fully linked"
+    "label": "100.00% decompiled | 100.00% fully linked"
   },
   "targets": [],
   "sources": [
+    "https://decomp.dev/overjt/knidl/A7KE/48239761d38a706896626a4dab0484b6115a95e5",
     "https://decomp.dev/overjt/knidl"
   ],
   "notes": [
-    "Kirby: Nightmare in Dream Land | Game Boy Advance | 99.51% decompiled | 99.51% fully linked",
-    "Progress source: https://decomp.dev/overjt/knidl",
-    "Report commit date: 2026-10-04 04:58:27 +00:00",
-    "Report commit: https://github.com/overjt/knidl/commit/36458cc43782278e25090cc86f91ad0e17b0ffec"
+    "Kirby: Nightmare in Dream Land | Game Boy Advance | 100.00% decompiled | 100.00% fully linked",
+    "Progress source: https://decomp.dev/overjt/knidl/A7KE/48239761d38a706896626a4dab0484b6115a95e5",
+    "Report target: A7KE",
+    "Report commit date: 2026-10-04 12:11:35 +00:00",
+    "Report commit: https://github.com/overjt/knidl/commit/48239761d38a706896626a4dab0484b6115a95e5"
   ],
   "snapshot_date": "2026-10-04",
-  "report_date": "2026-10-04 04:58:27 +00:00",
-  "report_commit": "https://github.com/overjt/knidl/commit/36458cc43782278e25090cc86f91ad0e17b0ffec"
+  "report_date": "2026-10-04 12:11:35 +00:00",
+  "report_commit": "https://github.com/overjt/knidl/commit/48239761d38a706896626a4dab0484b6115a95e5",
+  "report_target": "A7KE"
 }

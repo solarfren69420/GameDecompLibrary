@@ -5,7 +5,7 @@
   "category": "decomp",
   "group": "3. MAJOR HANDHELD / FRANCHISE GAMES",
   "platform": "Game Boy Advance",
-  "type": "Matching decompilation",
+  "type": "Game decompilation",
   "description": "",
   "progress": {
     "decompiled": 55.11,
@@ -15,15 +15,18 @@
   },
   "targets": [],
   "sources": [
+    "https://decomp.dev/cypressru/SonicBattleDecomp/BSBE78/23091f6190afc1a39f08f14a3e70d2a1b47fd762",
     "https://decomp.dev/cypressru/SonicBattleDecomp"
   ],
   "notes": [
     "Sonic Battle | Game Boy Advance | 55.11% decompiled | 47.21% fully linked",
-    "Progress source: https://decomp.dev/cypressru/SonicBattleDecomp",
+    "Progress source: https://decomp.dev/cypressru/SonicBattleDecomp/BSBE78/23091f6190afc1a39f08f14a3e70d2a1b47fd762",
+    "Report target: BSBE78",
     "Report commit date: 2026-09-16 21:37:32 +00:00",
     "Report commit: https://github.com/cypressru/SonicBattleDecomp/commit/23091f6190afc1a39f08f14a3e70d2a1b47fd762"
   ],
   "snapshot_date": "2026-10-04",
   "report_date": "2026-09-16 21:37:32 +00:00",
-  "report_commit": "https://github.com/cypressru/SonicBattleDecomp/commit/23091f6190afc1a39f08f14a3e70d2a1b47fd762"
+  "report_commit": "https://github.com/cypressru/SonicBattleDecomp/commit/23091f6190afc1a39f08f14a3e70d2a1b47fd762",
+  "report_target": "BSBE78"
 }

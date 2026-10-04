@@ -5,7 +5,7 @@
   "category": "decomp",
   "group": "2. OLDER AAA / FLAGSHIP CONSOLE AND PC GAMES",
   "platform": "Wii",
-  "type": "Matching decompilation",
+  "type": "Game decompilation",
   "description": "",
   "progress": {
     "decompiled": 2.7,
@@ -15,15 +15,18 @@
   },
   "targets": [],
   "sources": [
+    "https://decomp.dev/orangedude27/excite-truck/REXE01/29be6123144b13a966b679864097f6b529614752",
     "https://decomp.dev/orangedude27/excite-truck"
   ],
   "notes": [
     "Excite Truck | Wii | 2.70% decompiled | 2.19% fully linked",
-    "Progress source: https://decomp.dev/orangedude27/excite-truck",
+    "Progress source: https://decomp.dev/orangedude27/excite-truck/REXE01/29be6123144b13a966b679864097f6b529614752",
+    "Report target: REXE01",
     "Report commit date: 2026-09-07 01:48:48 +00:00",
     "Report commit: https://github.com/orangedude27/excite-truck/commit/29be6123144b13a966b679864097f6b529614752"
   ],
   "snapshot_date": "2026-10-04",
   "report_date": "2026-09-07 01:48:48 +00:00",
-  "report_commit": "https://github.com/orangedude27/excite-truck/commit/29be6123144b13a966b679864097f6b529614752"
+  "report_commit": "https://github.com/orangedude27/excite-truck/commit/29be6123144b13a966b679864097f6b529614752",
+  "report_target": "REXE01"
 }

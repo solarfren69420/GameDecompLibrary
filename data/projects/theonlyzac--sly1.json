@@ -5,7 +5,7 @@
   "category": "decomp",
   "group": "2. OLDER AAA / FLAGSHIP CONSOLE AND PC GAMES",
   "platform": "PlayStation 2",
-  "type": "Matching decompilation",
+  "type": "Game decompilation",
   "description": "",
   "progress": {
     "decompiled": 7.24,
@@ -15,15 +15,18 @@
   },
   "targets": [],
   "sources": [
+    "https://decomp.dev/TheOnlyZac/sly1/SCUS_971.98/7bd5cbcd0d2a31ae52f99231509463f5893b256b",
     "https://decomp.dev/TheOnlyZac/sly1"
   ],
   "notes": [
     "Sly Cooper and the Thievius Raccoonus | PlayStation 2 | 7.24% decompiled",
-    "Progress source: https://decomp.dev/TheOnlyZac/sly1",
+    "Progress source: https://decomp.dev/TheOnlyZac/sly1/SCUS_971.98/7bd5cbcd0d2a31ae52f99231509463f5893b256b",
+    "Report target: SCUS_971.98",
     "Report commit date: 2026-09-26 19:34:05 +00:00",
     "Report commit: https://github.com/TheOnlyZac/sly1/commit/7bd5cbcd0d2a31ae52f99231509463f5893b256b"
   ],
   "snapshot_date": "2026-10-04",
   "report_date": "2026-09-26 19:34:05 +00:00",
-  "report_commit": "https://github.com/TheOnlyZac/sly1/commit/7bd5cbcd0d2a31ae52f99231509463f5893b256b"
+  "report_commit": "https://github.com/TheOnlyZac/sly1/commit/7bd5cbcd0d2a31ae52f99231509463f5893b256b",
+  "report_target": "SCUS_971.98"
 }

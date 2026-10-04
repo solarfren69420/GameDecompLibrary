@@ -6,7 +6,7 @@
   "group": "FROM SOFTWARE / ELDEN RING",
   "platform": "Cross-platform / project-specific",
   "type": "Mod loader",
-  "description": "Load supported FromSoftware mods; useful host-side tooling, not a standalone game rewrite.",
+  "description": "Runtime mod loader for supported FromSoftware games. Development is discontinued; its README directs future work to me3.",
   "progress": {
     "decompiled": null,
     "linked": null,
@@ -23,7 +23,8 @@
     "Game decompilation %: NOT APPLICABLE TO THIS TOOL",
     "Helps with: Load supported FromSoftware mods; useful host-side tooling, not a standalone game rewrite.",
     "Scope/status: Development discontinued according to README; successor: garyttierney/me3. README support checklist enables Dark Souls III and Elden Ring. Checklist is not a game-decomp percentage.",
-    "Evidence: https://raw.githubusercontent.com/soulsmods/ModEngine2/main/README.md"
+    "Evidence: https://raw.githubusercontent.com/soulsmods/ModEngine2/main/README.md",
+    "Maintenance: Mod Engine 2 development is discontinued. Future work is in https://github.com/garyttierney/me3."
   ],
   "snapshot_date": "2026-10-04",
   "report_date": "",

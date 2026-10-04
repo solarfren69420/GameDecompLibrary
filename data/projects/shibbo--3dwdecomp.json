@@ -5,25 +5,28 @@
   "category": "decomp",
   "group": "1. HD-ERA / MODERN HIGH-PROFILE GAMES — AAA AND MAJOR FRANCHISES",
   "platform": "Switch",
-  "type": "Matching decompilation",
+  "type": "Game decompilation",
   "description": "",
   "progress": {
-    "decompiled": 29.18,
+    "decompiled": 29.29,
     "linked": 10.49,
     "kind": "reported",
-    "label": "29.18% decompiled | 10.49% fully linked"
+    "label": "29.29% decompiled | 10.49% fully linked"
   },
   "targets": [],
   "sources": [
+    "https://decomp.dev/shibbo/3DWDecomp/1.0.0/0e10244e1bc398d4d66e53f517af805ddb3f5d98",
     "https://decomp.dev/shibbo/3DWDecomp"
   ],
   "notes": [
-    "Super Mario 3D World + Bowser's Fury | Switch | 29.18% decompiled | 10.49% fully linked",
-    "Progress source: https://decomp.dev/shibbo/3DWDecomp",
-    "Report commit date: 2026-10-04 11:33:50 +00:00",
-    "Report commit: https://github.com/shibbo/3DWDecomp/commit/b98b89f21a8e10d169c2d60deb1009910fd84ceb"
+    "Super Mario 3D World + Bowser's Fury | Switch | 29.29% decompiled | 10.49% fully linked",
+    "Progress source: https://decomp.dev/shibbo/3DWDecomp/1.0.0/0e10244e1bc398d4d66e53f517af805ddb3f5d98",
+    "Report target: 1.0.0",
+    "Report commit date: 2026-10-04 12:20:30 +00:00",
+    "Report commit: https://github.com/shibbo/3DWDecomp/commit/0e10244e1bc398d4d66e53f517af805ddb3f5d98"
   ],
   "snapshot_date": "2026-10-04",
-  "report_date": "2026-10-04 11:33:50 +00:00",
-  "report_commit": "https://github.com/shibbo/3DWDecomp/commit/b98b89f21a8e10d169c2d60deb1009910fd84ceb"
+  "report_date": "2026-10-04 12:20:30 +00:00",
+  "report_commit": "https://github.com/shibbo/3DWDecomp/commit/0e10244e1bc398d4d66e53f517af805ddb3f5d98",
+  "report_target": "1.0.0"
 }

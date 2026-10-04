@@ -5,7 +5,7 @@
   "category": "decomp",
   "group": "4. SMALLER COMMERCIAL, LICENSED, CULT AND NICHE GAMES",
   "platform": "Nintendo 64",
-  "type": "Matching decompilation",
+  "type": "Game decompilation",
   "description": "",
   "progress": {
     "decompiled": 100.0,
@@ -15,15 +15,18 @@
   },
   "targets": [],
   "sources": [
+    "https://decomp.dev/AngheloAlf/drmario64/us/b5526094c4b699c1718ebec510acc31ccafd4b47",
     "https://decomp.dev/AngheloAlf/drmario64"
   ],
   "notes": [
     "Dr. Mario 64 | Nintendo 64 | 100.00% decompiled",
-    "Progress source: https://decomp.dev/AngheloAlf/drmario64",
+    "Progress source: https://decomp.dev/AngheloAlf/drmario64/us/b5526094c4b699c1718ebec510acc31ccafd4b47",
+    "Report target: us",
     "Report commit date: 2026-08-13 23:21:13 +00:00",
     "Report commit: https://github.com/AngheloAlf/drmario64/commit/b5526094c4b699c1718ebec510acc31ccafd4b47"
   ],
   "snapshot_date": "2026-10-04",
   "report_date": "2026-08-13 23:21:13 +00:00",
-  "report_commit": "https://github.com/AngheloAlf/drmario64/commit/b5526094c4b699c1718ebec510acc31ccafd4b47"
+  "report_commit": "https://github.com/AngheloAlf/drmario64/commit/b5526094c4b699c1718ebec510acc31ccafd4b47",
+  "report_target": "us"
 }

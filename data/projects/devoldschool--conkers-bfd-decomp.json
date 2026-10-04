@@ -5,7 +5,7 @@
   "category": "decomp",
   "group": "2. OLDER AAA / FLAGSHIP CONSOLE AND PC GAMES",
   "platform": "Nintendo 64",
-  "type": "Matching decompilation",
+  "type": "Game decompilation",
   "description": "",
   "progress": {
     "decompiled": 20.18,
@@ -15,15 +15,18 @@
   },
   "targets": [],
   "sources": [
+    "https://decomp.dev/DevOldSchool/conkers-bfd-decomp/us/a048a0cbb056c2e0d539efd0779a4ac9697a5ee5",
     "https://decomp.dev/DevOldSchool/conkers-bfd-decomp"
   ],
   "notes": [
     "Conker's Bad Fur Day | Nintendo 64 | 20.18% decompiled | 8.21% fully linked",
-    "Progress source: https://decomp.dev/DevOldSchool/conkers-bfd-decomp",
+    "Progress source: https://decomp.dev/DevOldSchool/conkers-bfd-decomp/us/a048a0cbb056c2e0d539efd0779a4ac9697a5ee5",
+    "Report target: us",
     "Report commit date: 2026-10-04 11:12:06 +00:00",
     "Report commit: https://github.com/DevOldSchool/conkers-bfd-decomp/commit/a048a0cbb056c2e0d539efd0779a4ac9697a5ee5"
   ],
   "snapshot_date": "2026-10-04",
   "report_date": "2026-10-04 11:12:06 +00:00",
-  "report_commit": "https://github.com/DevOldSchool/conkers-bfd-decomp/commit/a048a0cbb056c2e0d539efd0779a4ac9697a5ee5"
+  "report_commit": "https://github.com/DevOldSchool/conkers-bfd-decomp/commit/a048a0cbb056c2e0d539efd0779a4ac9697a5ee5",
+  "report_target": "us"
 }

@@ -5,7 +5,7 @@
   "category": "decomp",
   "group": "3. MAJOR HANDHELD / FRANCHISE GAMES",
   "platform": "Game Boy Advance",
-  "type": "Matching decompilation",
+  "type": "Game decompilation",
   "description": "",
   "progress": {
     "decompiled": 99.32,
@@ -15,15 +15,18 @@
   },
   "targets": [],
   "sources": [
+    "https://decomp.dev/TsilaAllaoui/warioland4/us/bfbbb8f4346144bee7a1a218dbe889a199e26f63",
     "https://decomp.dev/TsilaAllaoui/warioland4"
   ],
   "notes": [
     "Wario Land 4 | Game Boy Advance | 99.32% decompiled | 99.32% fully linked",
-    "Progress source: https://decomp.dev/TsilaAllaoui/warioland4",
+    "Progress source: https://decomp.dev/TsilaAllaoui/warioland4/us/bfbbb8f4346144bee7a1a218dbe889a199e26f63",
+    "Report target: us",
     "Report commit date: 2026-09-30 14:44:41 +00:00",
     "Report commit: https://github.com/TsilaAllaoui/warioland4/commit/bfbbb8f4346144bee7a1a218dbe889a199e26f63"
   ],
   "snapshot_date": "2026-10-04",
   "report_date": "2026-09-30 14:44:41 +00:00",
-  "report_commit": "https://github.com/TsilaAllaoui/warioland4/commit/bfbbb8f4346144bee7a1a218dbe889a199e26f63"
+  "report_commit": "https://github.com/TsilaAllaoui/warioland4/commit/bfbbb8f4346144bee7a1a218dbe889a199e26f63",
+  "report_target": "us"
 }

@@ -5,7 +5,7 @@
   "category": "decomp",
   "group": "2. OLDER AAA / FLAGSHIP CONSOLE AND PC GAMES",
   "platform": "GameCube",
-  "type": "Matching decompilation",
+  "type": "Game decompilation",
   "description": "",
   "progress": {
     "decompiled": 43.38,
@@ -15,15 +15,18 @@
   },
   "targets": [],
   "sources": [
+    "https://decomp.dev/dougchansan/pkmn-colosseum/GC6E01/41df4aa988add7d69dfc16c06ac4d31df96f4362",
     "https://decomp.dev/dougchansan/pkmn-colosseum"
   ],
   "notes": [
     "Pokemon Colosseum | GameCube | 43.38% decompiled | 29.37% fully linked",
-    "Progress source: https://decomp.dev/dougchansan/pkmn-colosseum",
+    "Progress source: https://decomp.dev/dougchansan/pkmn-colosseum/GC6E01/41df4aa988add7d69dfc16c06ac4d31df96f4362",
+    "Report target: GC6E01",
     "Report commit date: 2026-09-24 20:26:34 +00:00",
     "Report commit: https://github.com/dougchansan/pkmn-colosseum/commit/41df4aa988add7d69dfc16c06ac4d31df96f4362"
   ],
   "snapshot_date": "2026-10-04",
   "report_date": "2026-09-24 20:26:34 +00:00",
-  "report_commit": "https://github.com/dougchansan/pkmn-colosseum/commit/41df4aa988add7d69dfc16c06ac4d31df96f4362"
+  "report_commit": "https://github.com/dougchansan/pkmn-colosseum/commit/41df4aa988add7d69dfc16c06ac4d31df96f4362",
+  "report_target": "GC6E01"
 }

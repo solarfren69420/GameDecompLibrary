@@ -5,7 +5,7 @@
   "category": "decomp",
   "group": "2. OLDER AAA / FLAGSHIP CONSOLE AND PC GAMES",
   "platform": "Wii",
-  "type": "Matching decompilation",
+  "type": "Game decompilation",
   "description": "",
   "progress": {
     "decompiled": 1.46,
@@ -15,15 +15,18 @@
   },
   "targets": [],
   "sources": [
+    "https://decomp.dev/SephDB/pokepark-wii-decomp/R8AE01/735b49153c27f0f52de2af87911eaa3398ef6a72",
     "https://decomp.dev/SephDB/pokepark-wii-decomp"
   ],
   "notes": [
     "PokéPark Wii: Pikachu's Adventure | Wii | 1.46% decompiled | 1.46% fully linked",
-    "Progress source: https://decomp.dev/SephDB/pokepark-wii-decomp",
+    "Progress source: https://decomp.dev/SephDB/pokepark-wii-decomp/R8AE01/735b49153c27f0f52de2af87911eaa3398ef6a72",
+    "Report target: R8AE01",
     "Report commit date: 2026-10-03 19:49:27 +00:00",
     "Report commit: https://github.com/SephDB/pokepark-wii-decomp/commit/735b49153c27f0f52de2af87911eaa3398ef6a72"
   ],
   "snapshot_date": "2026-10-04",
   "report_date": "2026-10-03 19:49:27 +00:00",
-  "report_commit": "https://github.com/SephDB/pokepark-wii-decomp/commit/735b49153c27f0f52de2af87911eaa3398ef6a72"
+  "report_commit": "https://github.com/SephDB/pokepark-wii-decomp/commit/735b49153c27f0f52de2af87911eaa3398ef6a72",
+  "report_target": "R8AE01"
 }

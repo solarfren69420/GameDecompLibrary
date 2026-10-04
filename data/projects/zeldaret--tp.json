@@ -5,7 +5,7 @@
   "category": "decomp",
   "group": "2. OLDER AAA / FLAGSHIP CONSOLE AND PC GAMES",
   "platform": "GameCube",
-  "type": "Matching decompilation",
+  "type": "Game decompilation",
   "description": "",
   "progress": {
     "decompiled": 100.0,
@@ -15,15 +15,18 @@
   },
   "targets": [],
   "sources": [
+    "https://decomp.dev/zeldaret/tp/GZ2E01/c8fa8c9e2aab72cf4e5db0e5d1c84a9ea6ee6eb0",
     "https://decomp.dev/zeldaret/tp"
   ],
   "notes": [
     "The Legend of Zelda: Twilight Princess | GameCube | 100.00% decompiled | 87.13% fully linked",
-    "Progress source: https://decomp.dev/zeldaret/tp",
+    "Progress source: https://decomp.dev/zeldaret/tp/GZ2E01/c8fa8c9e2aab72cf4e5db0e5d1c84a9ea6ee6eb0",
+    "Report target: GZ2E01",
     "Report commit date: 2026-06-23 19:52:55 +00:00",
     "Report commit: https://github.com/zeldaret/tp/commit/c8fa8c9e2aab72cf4e5db0e5d1c84a9ea6ee6eb0"
   ],
   "snapshot_date": "2026-10-04",
   "report_date": "2026-06-23 19:52:55 +00:00",
-  "report_commit": "https://github.com/zeldaret/tp/commit/c8fa8c9e2aab72cf4e5db0e5d1c84a9ea6ee6eb0"
+  "report_commit": "https://github.com/zeldaret/tp/commit/c8fa8c9e2aab72cf4e5db0e5d1c84a9ea6ee6eb0",
+  "report_target": "GZ2E01"
 }

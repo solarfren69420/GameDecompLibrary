@@ -5,7 +5,7 @@
   "category": "decomp",
   "group": "2. OLDER AAA / FLAGSHIP CONSOLE AND PC GAMES",
   "platform": "PlayStation 2",
-  "type": "Matching decompilation",
+  "type": "Game decompilation",
   "description": "",
   "progress": {
     "decompiled": 100.0,
@@ -15,15 +15,18 @@
   },
   "targets": [],
   "sources": [
+    "https://decomp.dev/TheMoonPeople/Chronicle/ntsc/05fd37be122cd5833cfeeceb83475933959d938f",
     "https://decomp.dev/TheMoonPeople/Chronicle"
   ],
   "notes": [
     "Dark Cloud | PlayStation 2 | 100.00% decompiled",
-    "Progress source: https://decomp.dev/TheMoonPeople/Chronicle",
+    "Progress source: https://decomp.dev/TheMoonPeople/Chronicle/ntsc/05fd37be122cd5833cfeeceb83475933959d938f",
+    "Report target: ntsc",
     "Report commit date: 2026-10-03 00:02:18 +00:00",
     "Report commit: https://github.com/TheMoonPeople/Chronicle/commit/05fd37be122cd5833cfeeceb83475933959d938f"
   ],
   "snapshot_date": "2026-10-04",
   "report_date": "2026-10-03 00:02:18 +00:00",
-  "report_commit": "https://github.com/TheMoonPeople/Chronicle/commit/05fd37be122cd5833cfeeceb83475933959d938f"
+  "report_commit": "https://github.com/TheMoonPeople/Chronicle/commit/05fd37be122cd5833cfeeceb83475933959d938f",
+  "report_target": "ntsc"
 }

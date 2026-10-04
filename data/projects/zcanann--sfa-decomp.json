@@ -5,7 +5,7 @@
   "category": "decomp",
   "group": "2. OLDER AAA / FLAGSHIP CONSOLE AND PC GAMES",
   "platform": "GameCube",
-  "type": "Matching decompilation",
+  "type": "Game decompilation",
   "description": "",
   "progress": {
     "decompiled": 100.0,
@@ -15,15 +15,18 @@
   },
   "targets": [],
   "sources": [
+    "https://decomp.dev/zcanann/SFA-Decomp/GSAE01/13491b1880c8326f4acba4ca35d7e891ae78a806",
     "https://decomp.dev/zcanann/SFA-Decomp"
   ],
   "notes": [
     "Star Fox Adventures | GameCube | 100.00% decompiled | 100.00% fully linked",
-    "Progress source: https://decomp.dev/zcanann/SFA-Decomp",
+    "Progress source: https://decomp.dev/zcanann/SFA-Decomp/GSAE01/13491b1880c8326f4acba4ca35d7e891ae78a806",
+    "Report target: GSAE01",
     "Report commit date: 2026-09-30 00:00:05 +00:00",
     "Report commit: https://github.com/zcanann/SFA-Decomp/commit/13491b1880c8326f4acba4ca35d7e891ae78a806"
   ],
   "snapshot_date": "2026-10-04",
   "report_date": "2026-09-30 00:00:05 +00:00",
-  "report_commit": "https://github.com/zcanann/SFA-Decomp/commit/13491b1880c8326f4acba4ca35d7e891ae78a806"
+  "report_commit": "https://github.com/zcanann/SFA-Decomp/commit/13491b1880c8326f4acba4ca35d7e891ae78a806",
+  "report_target": "GSAE01"
 }

@@ -5,7 +5,7 @@
   "category": "decomp",
   "group": "4. SMALLER COMMERCIAL, LICENSED, CULT AND NICHE GAMES",
   "platform": "Windows",
-  "type": "Matching decompilation",
+  "type": "Game decompilation",
   "description": "",
   "progress": {
     "decompiled": 37.46,
@@ -15,15 +15,18 @@
   },
   "targets": [],
   "sources": [
+    "https://decomp.dev/banteg/snail/win32-reflexive/c97c9ba1d8b6d77674184721ad3c45c3b9f9166b",
     "https://decomp.dev/banteg/snail"
   ],
   "notes": [
     "Snail Mail | Windows | 37.46% decompiled",
-    "Progress source: https://decomp.dev/banteg/snail",
+    "Progress source: https://decomp.dev/banteg/snail/win32-reflexive/c97c9ba1d8b6d77674184721ad3c45c3b9f9166b",
+    "Report target: win32-reflexive",
     "Report commit date: 2026-09-29 22:17:48 +00:00",
     "Report commit: https://github.com/banteg/snail/commit/c97c9ba1d8b6d77674184721ad3c45c3b9f9166b"
   ],
   "snapshot_date": "2026-10-04",
   "report_date": "2026-09-29 22:17:48 +00:00",
-  "report_commit": "https://github.com/banteg/snail/commit/c97c9ba1d8b6d77674184721ad3c45c3b9f9166b"
+  "report_commit": "https://github.com/banteg/snail/commit/c97c9ba1d8b6d77674184721ad3c45c3b9f9166b",
+  "report_target": "win32-reflexive"
 }

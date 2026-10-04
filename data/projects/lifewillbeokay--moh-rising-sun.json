@@ -5,7 +5,7 @@
   "category": "decomp",
   "group": "4. SMALLER COMMERCIAL, LICENSED, CULT AND NICHE GAMES",
   "platform": "GameCube",
-  "type": "Matching decompilation",
+  "type": "Game decompilation",
   "description": "",
   "progress": {
     "decompiled": 20.01,
@@ -15,15 +15,18 @@
   },
   "targets": [],
   "sources": [
+    "https://decomp.dev/lifewillbeokay/moh-rising-sun/GR8E69/ea0c4a70693bb8d949cedbd989b41b709d7a1d76",
     "https://decomp.dev/lifewillbeokay/moh-rising-sun"
   ],
   "notes": [
     "Medal of Honor: Rising Sun | GameCube | 20.01% decompiled | 20.01% fully linked",
-    "Progress source: https://decomp.dev/lifewillbeokay/moh-rising-sun",
+    "Progress source: https://decomp.dev/lifewillbeokay/moh-rising-sun/GR8E69/ea0c4a70693bb8d949cedbd989b41b709d7a1d76",
+    "Report target: GR8E69",
     "Report commit date: 2026-10-04 05:57:30 +00:00",
     "Report commit: https://github.com/lifewillbeokay/moh-rising-sun/commit/ea0c4a70693bb8d949cedbd989b41b709d7a1d76"
   ],
   "snapshot_date": "2026-10-04",
   "report_date": "2026-10-04 05:57:30 +00:00",
-  "report_commit": "https://github.com/lifewillbeokay/moh-rising-sun/commit/ea0c4a70693bb8d949cedbd989b41b709d7a1d76"
+  "report_commit": "https://github.com/lifewillbeokay/moh-rising-sun/commit/ea0c4a70693bb8d949cedbd989b41b709d7a1d76",
+  "report_target": "GR8E69"
 }

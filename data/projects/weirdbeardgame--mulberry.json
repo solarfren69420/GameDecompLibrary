@@ -5,7 +5,7 @@
   "category": "decomp",
   "group": "4. SMALLER COMMERCIAL, LICENSED, CULT AND NICHE GAMES",
   "platform": "PlayStation 2",
-  "type": "Matching decompilation",
+  "type": "Game decompilation",
   "description": "",
   "progress": {
     "decompiled": 1.48,
@@ -15,15 +15,18 @@
   },
   "targets": [],
   "sources": [
+    "https://decomp.dev/weirdbeardgame/Mulberry/SLUS_210.07/4b01e9494cbd87f0a07ce5b72fa303fb2379fc91",
     "https://decomp.dev/weirdbeardgame/Mulberry"
   ],
   "notes": [
     "Kuon | PlayStation 2 | 1.48% decompiled | 0.82% fully linked",
-    "Progress source: https://decomp.dev/weirdbeardgame/Mulberry",
+    "Progress source: https://decomp.dev/weirdbeardgame/Mulberry/SLUS_210.07/4b01e9494cbd87f0a07ce5b72fa303fb2379fc91",
+    "Report target: SLUS_210.07",
     "Report commit date: 2026-09-26 00:59:38 +00:00",
     "Report commit: https://github.com/weirdbeardgame/Mulberry/commit/4b01e9494cbd87f0a07ce5b72fa303fb2379fc91"
   ],
   "snapshot_date": "2026-10-04",
   "report_date": "2026-09-26 00:59:38 +00:00",
-  "report_commit": "https://github.com/weirdbeardgame/Mulberry/commit/4b01e9494cbd87f0a07ce5b72fa303fb2379fc91"
+  "report_commit": "https://github.com/weirdbeardgame/Mulberry/commit/4b01e9494cbd87f0a07ce5b72fa303fb2379fc91",
+  "report_target": "SLUS_210.07"
 }

@@ -5,7 +5,7 @@
   "category": "decomp",
   "group": "4. SMALLER COMMERCIAL, LICENSED, CULT AND NICHE GAMES",
   "platform": "PlayStation",
-  "type": "Matching decompilation",
+  "type": "Game decompilation",
   "description": "",
   "progress": {
     "decompiled": 100.0,
@@ -15,15 +15,18 @@
   },
   "targets": [],
   "sources": [
+    "https://decomp.dev/brian-oblivion/lsddecomp/SLPS_015.56/865b853282e5d4e613b621b20b7f31599847b905",
     "https://decomp.dev/brian-oblivion/lsddecomp"
   ],
   "notes": [
     "LSD: Dream Emulator | PlayStation | 100.00% decompiled",
-    "Progress source: https://decomp.dev/brian-oblivion/lsddecomp",
+    "Progress source: https://decomp.dev/brian-oblivion/lsddecomp/SLPS_015.56/865b853282e5d4e613b621b20b7f31599847b905",
+    "Report target: SLPS_015.56",
     "Report commit date: 2026-10-04 09:43:53 +00:00",
     "Report commit: https://github.com/brian-oblivion/lsddecomp/commit/865b853282e5d4e613b621b20b7f31599847b905"
   ],
   "snapshot_date": "2026-10-04",
   "report_date": "2026-10-04 09:43:53 +00:00",
-  "report_commit": "https://github.com/brian-oblivion/lsddecomp/commit/865b853282e5d4e613b621b20b7f31599847b905"
+  "report_commit": "https://github.com/brian-oblivion/lsddecomp/commit/865b853282e5d4e613b621b20b7f31599847b905",
+  "report_target": "SLPS_015.56"
 }

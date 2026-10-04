@@ -5,7 +5,7 @@
   "category": "decomp",
   "group": "1. HD-ERA / MODERN HIGH-PROFILE GAMES — AAA AND MAJOR FRANCHISES",
   "platform": "Xbox 360",
-  "type": "Matching decompilation",
+  "type": "Game decompilation",
   "description": "",
   "progress": {
     "decompiled": 1.53,
@@ -15,15 +15,18 @@
   },
   "targets": [],
   "sources": [
+    "https://decomp.dev/SebaaMG/Kinect-Sports-Decomp/4D5308C9/e2cf4eb30ed1002ee8960ceaf40434c65aec2ba2",
     "https://decomp.dev/SebaaMG/Kinect-Sports-Decomp"
   ],
   "notes": [
     "Kinect Sports | Xbox 360 | 1.53% decompiled | 1.47% fully linked",
-    "Progress source: https://decomp.dev/SebaaMG/Kinect-Sports-Decomp",
+    "Progress source: https://decomp.dev/SebaaMG/Kinect-Sports-Decomp/4D5308C9/e2cf4eb30ed1002ee8960ceaf40434c65aec2ba2",
+    "Report target: 4D5308C9",
     "Report commit date: 2026-09-28 21:48:41 +00:00",
     "Report commit: https://github.com/SebaaMG/Kinect-Sports-Decomp/commit/e2cf4eb30ed1002ee8960ceaf40434c65aec2ba2"
   ],
   "snapshot_date": "2026-10-04",
   "report_date": "2026-09-28 21:48:41 +00:00",
-  "report_commit": "https://github.com/SebaaMG/Kinect-Sports-Decomp/commit/e2cf4eb30ed1002ee8960ceaf40434c65aec2ba2"
+  "report_commit": "https://github.com/SebaaMG/Kinect-Sports-Decomp/commit/e2cf4eb30ed1002ee8960ceaf40434c65aec2ba2",
+  "report_target": "4D5308C9"
 }

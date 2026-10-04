@@ -5,7 +5,7 @@
   "category": "decomp",
   "group": "2. OLDER AAA / FLAGSHIP CONSOLE AND PC GAMES",
   "platform": "PlayStation 2",
-  "type": "Matching decompilation",
+  "type": "Game decompilation",
   "description": "",
   "progress": {
     "decompiled": 20.24,
@@ -15,15 +15,18 @@
   },
   "targets": [],
   "sources": [
+    "https://decomp.dev/Lynder063/rac1-decomp/SCES_509.16/9ca0f7f71f8881c8bbc5b388f48327af9dd43be2",
     "https://decomp.dev/Lynder063/rac1-decomp"
   ],
   "notes": [
     "Ratchet & Clank (PAL) | PlayStation 2 | 20.24% decompiled | 2.43% fully linked",
-    "Progress source: https://decomp.dev/Lynder063/rac1-decomp",
-    "Report commit date: 2026-10-04 09:32:16 +00:00",
-    "Report commit: https://github.com/Lynder063/rac1-decomp/commit/7502ff0e5cb286538859e9d107452ca185bfc3b8"
+    "Progress source: https://decomp.dev/Lynder063/rac1-decomp/SCES_509.16/9ca0f7f71f8881c8bbc5b388f48327af9dd43be2",
+    "Report target: SCES_509.16",
+    "Report commit date: 2026-10-04 11:49:50 +00:00",
+    "Report commit: https://github.com/Lynder063/rac1-decomp/commit/9ca0f7f71f8881c8bbc5b388f48327af9dd43be2"
   ],
   "snapshot_date": "2026-10-04",
-  "report_date": "2026-10-04 09:32:16 +00:00",
-  "report_commit": "https://github.com/Lynder063/rac1-decomp/commit/7502ff0e5cb286538859e9d107452ca185bfc3b8"
+  "report_date": "2026-10-04 11:49:50 +00:00",
+  "report_commit": "https://github.com/Lynder063/rac1-decomp/commit/9ca0f7f71f8881c8bbc5b388f48327af9dd43be2",
+  "report_target": "SCES_509.16"
 }

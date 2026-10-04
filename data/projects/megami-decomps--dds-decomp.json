@@ -5,25 +5,28 @@
   "category": "decomp",
   "group": "2. OLDER AAA / FLAGSHIP CONSOLE AND PC GAMES",
   "platform": "PlayStation 2",
-  "type": "Matching decompilation",
+  "type": "Game decompilation",
   "description": "",
   "progress": {
-    "decompiled": 44.95,
+    "decompiled": 45.36,
     "linked": null,
     "kind": "reported",
-    "label": "44.95% decompiled"
+    "label": "45.36% decompiled"
   },
   "targets": [],
   "sources": [
+    "https://decomp.dev/Megami-Decomps/dds-decomp/dds1/810b4769868d9d02e59f96ec51d4e784970fdcfc",
     "https://decomp.dev/Megami-Decomps/dds-decomp"
   ],
   "notes": [
-    "Shin Megami Tensei: Digital Devil Saga | PlayStation 2 | 44.95% decompiled",
-    "Progress source: https://decomp.dev/Megami-Decomps/dds-decomp",
-    "Report commit date: 2026-10-04 08:55:35 +00:00",
-    "Report commit: https://github.com/Megami-Decomps/dds-decomp/commit/d1f42a8f7e11de564d0a78525aa22155970843d4"
+    "Shin Megami Tensei: Digital Devil Saga | PlayStation 2 | 45.36% decompiled",
+    "Progress source: https://decomp.dev/Megami-Decomps/dds-decomp/dds1/810b4769868d9d02e59f96ec51d4e784970fdcfc",
+    "Report target: dds1",
+    "Report commit date: 2026-10-04 12:15:27 +00:00",
+    "Report commit: https://github.com/Megami-Decomps/dds-decomp/commit/810b4769868d9d02e59f96ec51d4e784970fdcfc"
   ],
   "snapshot_date": "2026-10-04",
-  "report_date": "2026-10-04 08:55:35 +00:00",
-  "report_commit": "https://github.com/Megami-Decomps/dds-decomp/commit/d1f42a8f7e11de564d0a78525aa22155970843d4"
+  "report_date": "2026-10-04 12:15:27 +00:00",
+  "report_commit": "https://github.com/Megami-Decomps/dds-decomp/commit/810b4769868d9d02e59f96ec51d4e784970fdcfc",
+  "report_target": "dds1"
 }

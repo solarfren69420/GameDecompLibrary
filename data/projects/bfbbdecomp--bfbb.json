@@ -5,7 +5,7 @@
   "category": "decomp",
   "group": "4. SMALLER COMMERCIAL, LICENSED, CULT AND NICHE GAMES",
   "platform": "GameCube",
-  "type": "Matching decompilation",
+  "type": "Game decompilation",
   "description": "",
   "progress": {
     "decompiled": 38.06,
@@ -15,15 +15,18 @@
   },
   "targets": [],
   "sources": [
+    "https://decomp.dev/bfbbdecomp/bfbb/GQPE78/8fb1c232addcacf44932c10c4cede41b43f98f40",
     "https://decomp.dev/bfbbdecomp/bfbb"
   ],
   "notes": [
     "SpongeBob SquarePants: Battle for Bikini Bottom | GameCube | 38.06% decompiled | 10.99% fully linked",
-    "Progress source: https://decomp.dev/bfbbdecomp/bfbb",
+    "Progress source: https://decomp.dev/bfbbdecomp/bfbb/GQPE78/8fb1c232addcacf44932c10c4cede41b43f98f40",
+    "Report target: GQPE78",
     "Report commit date: 2026-08-29 14:10:37 +00:00",
     "Report commit: https://github.com/bfbbdecomp/bfbb/commit/8fb1c232addcacf44932c10c4cede41b43f98f40"
   ],
   "snapshot_date": "2026-10-04",
   "report_date": "2026-08-29 14:10:37 +00:00",
-  "report_commit": "https://github.com/bfbbdecomp/bfbb/commit/8fb1c232addcacf44932c10c4cede41b43f98f40"
+  "report_commit": "https://github.com/bfbbdecomp/bfbb/commit/8fb1c232addcacf44932c10c4cede41b43f98f40",
+  "report_target": "GQPE78"
 }

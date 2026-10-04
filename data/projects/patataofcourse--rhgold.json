@@ -5,7 +5,7 @@
   "category": "decomp",
   "group": "3. MAJOR HANDHELD / FRANCHISE GAMES",
   "platform": "Nintendo DS",
-  "type": "Matching decompilation",
+  "type": "Game decompilation",
   "description": "",
   "progress": {
     "decompiled": 1.27,
@@ -15,15 +15,18 @@
   },
   "targets": [],
   "sources": [
+    "https://decomp.dev/patataofcourse/rhgold/YLZE01/bb9d0fe86926fdce3752262155b6efe51d903f72",
     "https://decomp.dev/patataofcourse/rhgold"
   ],
   "notes": [
     "Rhythm Heaven | Nintendo DS | 1.27% decompiled | 0.31% fully linked",
-    "Progress source: https://decomp.dev/patataofcourse/rhgold",
+    "Progress source: https://decomp.dev/patataofcourse/rhgold/YLZE01/bb9d0fe86926fdce3752262155b6efe51d903f72",
+    "Report target: YLZE01",
     "Report commit date: 2026-06-21 13:44:20 +00:00",
     "Report commit: https://github.com/patataofcourse/rhgold/commit/bb9d0fe86926fdce3752262155b6efe51d903f72"
   ],
   "snapshot_date": "2026-10-04",
   "report_date": "2026-06-21 13:44:20 +00:00",
-  "report_commit": "https://github.com/patataofcourse/rhgold/commit/bb9d0fe86926fdce3752262155b6efe51d903f72"
+  "report_commit": "https://github.com/patataofcourse/rhgold/commit/bb9d0fe86926fdce3752262155b6efe51d903f72",
+  "report_target": "YLZE01"
 }

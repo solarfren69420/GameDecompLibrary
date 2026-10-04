@@ -87,7 +87,7 @@ def parse(source):
             name, _, project_type = name.partition(" | ")
             metric = progress("Not applicable to this project category")
         else:
-            project_type = fields.get("Type", "Matching decompilation" if category == "decomp" else "Unconfirmed project")
+            project_type = fields.get("Type", "Game decompilation" if category == "decomp" else "Unconfirmed project")
         sources = list(dict.fromkeys(v for k, v in fields.items()
                                     if k in ("Evidence", "Progress source")))
         # Multi-target records may cite more than one source.

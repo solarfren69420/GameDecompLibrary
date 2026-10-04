@@ -5,7 +5,7 @@
   "category": "decomp",
   "group": "3. MAJOR HANDHELD / FRANCHISE GAMES",
   "platform": "Game Boy Advance",
-  "type": "Matching decompilation",
+  "type": "Game decompilation",
   "description": "",
   "progress": {
     "decompiled": 25.48,
@@ -15,15 +15,18 @@
   },
   "targets": [],
   "sources": [
+    "https://decomp.dev/Coaltergeist/goldensun-decomp/USA/57125258d0b1f976ade36fead186134d35221883",
     "https://decomp.dev/Coaltergeist/goldensun-decomp"
   ],
   "notes": [
     "Golden Sun: The Broken Seal | Game Boy Advance | 25.48% decompiled",
-    "Progress source: https://decomp.dev/Coaltergeist/goldensun-decomp",
+    "Progress source: https://decomp.dev/Coaltergeist/goldensun-decomp/USA/57125258d0b1f976ade36fead186134d35221883",
+    "Report target: USA",
     "Report commit date: 2026-10-04 06:38:00 +00:00",
     "Report commit: https://github.com/Coaltergeist/goldensun-decomp/commit/57125258d0b1f976ade36fead186134d35221883"
   ],
   "snapshot_date": "2026-10-04",
   "report_date": "2026-10-04 06:38:00 +00:00",
-  "report_commit": "https://github.com/Coaltergeist/goldensun-decomp/commit/57125258d0b1f976ade36fead186134d35221883"
+  "report_commit": "https://github.com/Coaltergeist/goldensun-decomp/commit/57125258d0b1f976ade36fead186134d35221883",
+  "report_target": "USA"
 }

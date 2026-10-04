@@ -5,7 +5,7 @@
   "category": "decomp",
   "group": "2. OLDER AAA / FLAGSHIP CONSOLE AND PC GAMES",
   "platform": "GameCube",
-  "type": "Matching decompilation",
+  "type": "Game decompilation",
   "description": "",
   "progress": {
     "decompiled": 22.7,
@@ -15,15 +15,18 @@
   },
   "targets": [],
   "sources": [
+    "https://decomp.dev/mariopartyrd/marioparty5/GP5E01_00/e246f9d9850ff53ac684b971068fbf87fdcf6acb",
     "https://decomp.dev/mariopartyrd/marioparty5"
   ],
   "notes": [
     "Mario Party 5 | GameCube | 22.70% decompiled | 18.19% fully linked",
-    "Progress source: https://decomp.dev/mariopartyrd/marioparty5",
+    "Progress source: https://decomp.dev/mariopartyrd/marioparty5/GP5E01_00/e246f9d9850ff53ac684b971068fbf87fdcf6acb",
+    "Report target: GP5E01_00",
     "Report commit date: 2026-05-30 00:36:04 +00:00",
     "Report commit: https://github.com/mariopartyrd/marioparty5/commit/e246f9d9850ff53ac684b971068fbf87fdcf6acb"
   ],
   "snapshot_date": "2026-10-04",
   "report_date": "2026-05-30 00:36:04 +00:00",
-  "report_commit": "https://github.com/mariopartyrd/marioparty5/commit/e246f9d9850ff53ac684b971068fbf87fdcf6acb"
+  "report_commit": "https://github.com/mariopartyrd/marioparty5/commit/e246f9d9850ff53ac684b971068fbf87fdcf6acb",
+  "report_target": "GP5E01_00"
 }

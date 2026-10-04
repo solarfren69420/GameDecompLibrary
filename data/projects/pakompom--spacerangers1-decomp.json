@@ -5,7 +5,7 @@
   "category": "decomp",
   "group": "4. SMALLER COMMERCIAL, LICENSED, CULT AND NICHE GAMES",
   "platform": "Windows",
-  "type": "Matching decompilation",
+  "type": "Game decompilation",
   "description": "",
   "progress": {
     "decompiled": 100.0,
@@ -15,15 +15,18 @@
   },
   "targets": [],
   "sources": [
+    "https://decomp.dev/pakompom/SpaceRangers1_decomp/sr1-1.7.2-steam-en/28dfefdab7f03d63386d0af2e7f92df01df3ea1c",
     "https://decomp.dev/pakompom/SpaceRangers1_decomp"
   ],
   "notes": [
     "Space Rangers | Windows | 100.00% decompiled | 100.00% fully linked",
-    "Progress source: https://decomp.dev/pakompom/SpaceRangers1_decomp",
+    "Progress source: https://decomp.dev/pakompom/SpaceRangers1_decomp/sr1-1.7.2-steam-en/28dfefdab7f03d63386d0af2e7f92df01df3ea1c",
+    "Report target: sr1-1.7.2-steam-en",
     "Report commit date: 2026-09-29 03:22:41 +00:00",
     "Report commit: https://github.com/pakompom/SpaceRangers1_decomp/commit/28dfefdab7f03d63386d0af2e7f92df01df3ea1c"
   ],
   "snapshot_date": "2026-10-04",
   "report_date": "2026-09-29 03:22:41 +00:00",
-  "report_commit": "https://github.com/pakompom/SpaceRangers1_decomp/commit/28dfefdab7f03d63386d0af2e7f92df01df3ea1c"
+  "report_commit": "https://github.com/pakompom/SpaceRangers1_decomp/commit/28dfefdab7f03d63386d0af2e7f92df01df3ea1c",
+  "report_target": "sr1-1.7.2-steam-en"
 }

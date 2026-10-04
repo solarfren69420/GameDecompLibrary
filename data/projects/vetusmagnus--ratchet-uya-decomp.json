@@ -5,7 +5,7 @@
   "category": "decomp",
   "group": "2. OLDER AAA / FLAGSHIP CONSOLE AND PC GAMES",
   "platform": "PlayStation 2",
-  "type": "Matching decompilation",
+  "type": "Game decompilation",
   "description": "",
   "progress": {
     "decompiled": 1.64,
@@ -15,15 +15,18 @@
   },
   "targets": [],
   "sources": [
+    "https://decomp.dev/vetusmagnus/ratchet-uya-decomp/SCUS_973.53/b15cbb603d2ef399240f0a27af0f1d40ca0b0458",
     "https://decomp.dev/vetusmagnus/ratchet-uya-decomp"
   ],
   "notes": [
     "Ratchet & Clank: Up Your Arsenal | PlayStation 2 | 1.64% decompiled",
-    "Progress source: https://decomp.dev/vetusmagnus/ratchet-uya-decomp",
-    "Report commit date: 2026-10-04 11:28:47 +00:00",
-    "Report commit: https://github.com/vetusmagnus/ratchet-uya-decomp/commit/ed38450e68658fffc95781035f4f176ca6b22dc4"
+    "Progress source: https://decomp.dev/vetusmagnus/ratchet-uya-decomp/SCUS_973.53/b15cbb603d2ef399240f0a27af0f1d40ca0b0458",
+    "Report target: SCUS_973.53",
+    "Report commit date: 2026-10-04 12:07:02 +00:00",
+    "Report commit: https://github.com/vetusmagnus/ratchet-uya-decomp/commit/b15cbb603d2ef399240f0a27af0f1d40ca0b0458"
   ],
   "snapshot_date": "2026-10-04",
-  "report_date": "2026-10-04 11:28:47 +00:00",
-  "report_commit": "https://github.com/vetusmagnus/ratchet-uya-decomp/commit/ed38450e68658fffc95781035f4f176ca6b22dc4"
+  "report_date": "2026-10-04 12:07:02 +00:00",
+  "report_commit": "https://github.com/vetusmagnus/ratchet-uya-decomp/commit/b15cbb603d2ef399240f0a27af0f1d40ca0b0458",
+  "report_target": "SCUS_973.53"
 }

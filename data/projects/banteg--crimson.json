@@ -5,7 +5,7 @@
   "category": "decomp",
   "group": "4. SMALLER COMMERCIAL, LICENSED, CULT AND NICHE GAMES",
   "platform": "Windows",
-  "type": "Matching decompilation",
+  "type": "Game decompilation",
   "description": "",
   "progress": {
     "decompiled": 64.09,
@@ -15,15 +15,18 @@
   },
   "targets": [],
   "sources": [
+    "https://decomp.dev/banteg/crimson/1.9.93/b23e3af6d750818cbd189565fa464e1c69bee043",
     "https://decomp.dev/banteg/crimson"
   ],
   "notes": [
     "Crimsonland | Windows | 64.09% decompiled | 0.01% fully linked",
-    "Progress source: https://decomp.dev/banteg/crimson",
+    "Progress source: https://decomp.dev/banteg/crimson/1.9.93/b23e3af6d750818cbd189565fa464e1c69bee043",
+    "Report target: 1.9.93",
     "Report commit date: 2026-10-03 16:55:22 +00:00",
     "Report commit: https://github.com/banteg/crimson/commit/b23e3af6d750818cbd189565fa464e1c69bee043"
   ],
   "snapshot_date": "2026-10-04",
   "report_date": "2026-10-03 16:55:22 +00:00",
-  "report_commit": "https://github.com/banteg/crimson/commit/b23e3af6d750818cbd189565fa464e1c69bee043"
+  "report_commit": "https://github.com/banteg/crimson/commit/b23e3af6d750818cbd189565fa464e1c69bee043",
+  "report_target": "1.9.93"
 }

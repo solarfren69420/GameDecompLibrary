@@ -5,7 +5,7 @@
   "category": "related",
   "group": "REGRESSION TESTS / AUTOMATED REPAIR SUPPORT",
   "platform": "Not specified",
-  "type": "Mixed/disassembly-labelled reconstruction",
+  "type": "Assembly-labelled disassembly / reconstruction",
   "description": "",
   "progress": {
     "decompiled": null,
@@ -26,7 +26,9 @@
       "notes": []
     }
   ],
-  "sources": [],
+  "sources": [
+    "https://raw.githubusercontent.com/pret/pokeruby/HEAD/README.md"
+  ],
   "notes": [
     "Matching decompilation %: N/A — different project category; no comparable numerical metric verified here.",
     "Target: Pokémon Ruby / Sapphire | Mixed/disassembly-labelled reconstruction"

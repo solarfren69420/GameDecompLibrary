@@ -5,7 +5,7 @@
   "category": "decomp",
   "group": "3. MAJOR HANDHELD / FRANCHISE GAMES",
   "platform": "Nintendo DS",
-  "type": "Matching decompilation",
+  "type": "Game decompilation",
   "description": "",
   "progress": {
     "decompiled": 2.82,
@@ -15,15 +15,18 @@
   },
   "targets": [],
   "sources": [
+    "https://decomp.dev/zeldaret/ph/usa/29e3578e388b2ff350388e2cdfe45497c4ebdae2",
     "https://decomp.dev/zeldaret/ph"
   ],
   "notes": [
     "The Legend of Zelda: Phantom Hourglass | Nintendo DS | 2.82% decompiled | 1.16% fully linked",
-    "Progress source: https://decomp.dev/zeldaret/ph",
+    "Progress source: https://decomp.dev/zeldaret/ph/usa/29e3578e388b2ff350388e2cdfe45497c4ebdae2",
+    "Report target: usa",
     "Report commit date: 2026-08-04 17:45:49 +00:00",
     "Report commit: https://github.com/zeldaret/ph/commit/29e3578e388b2ff350388e2cdfe45497c4ebdae2"
   ],
   "snapshot_date": "2026-10-04",
   "report_date": "2026-08-04 17:45:49 +00:00",
-  "report_commit": "https://github.com/zeldaret/ph/commit/29e3578e388b2ff350388e2cdfe45497c4ebdae2"
+  "report_commit": "https://github.com/zeldaret/ph/commit/29e3578e388b2ff350388e2cdfe45497c4ebdae2",
+  "report_target": "usa"
 }

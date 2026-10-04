@@ -5,13 +5,13 @@
   "category": "decomp",
   "group": "2. OLDER AAA / FLAGSHIP CONSOLE AND PC GAMES",
   "platform": "Nintendo 64",
-  "type": "Matching decompilation",
+  "type": "Game decompilation",
   "description": "",
   "progress": {
     "decompiled": null,
     "linked": null,
     "kind": "claim",
-    "label": "100% / full decompilation (maintainer description)"
+    "label": "Maintainer describes a full or complete decompilation; no comparable numeric metric verified"
   },
   "targets": [
     {
@@ -21,7 +21,7 @@
         "decompiled": null,
         "linked": null,
         "kind": "claim",
-        "label": "100% / full decompilation (maintainer description)"
+        "label": "Maintainer describes a full or complete decompilation; no comparable numeric metric verified"
       },
       "notes": [
         "README lists JP, US, EU, Shindou and iQue releases; naming/documentation work continues."
@@ -33,7 +33,7 @@
   ],
   "notes": [
     "Target: Super Mario 64",
-    "Platform: Nintendo 64 | 100% / full decompilation (maintainer description)",
+    "Platform: Nintendo 64 | Full decompilation (maintainer description; no numeric percentage asserted)",
     "Evidence: https://github.com/n64decomp/sm64",
     "Note: README lists JP, US, EU, Shindou and iQue releases; naming/documentation work continues."
   ],

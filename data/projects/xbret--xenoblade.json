@@ -5,7 +5,7 @@
   "category": "decomp",
   "group": "2. OLDER AAA / FLAGSHIP CONSOLE AND PC GAMES",
   "platform": "Wii",
-  "type": "Matching decompilation",
+  "type": "Game decompilation",
   "description": "",
   "progress": {
     "decompiled": 10.77,
@@ -15,15 +15,18 @@
   },
   "targets": [],
   "sources": [
+    "https://decomp.dev/xbret/xenoblade/jp/ea25691b2029394ab777bda7060139e517a13cba",
     "https://decomp.dev/xbret/xenoblade"
   ],
   "notes": [
     "Xenoblade Chronicles | Wii | 10.77% decompiled | 7.61% fully linked",
-    "Progress source: https://decomp.dev/xbret/xenoblade",
+    "Progress source: https://decomp.dev/xbret/xenoblade/jp/ea25691b2029394ab777bda7060139e517a13cba",
+    "Report target: jp",
     "Report commit date: 2026-06-28 10:22:22 +00:00",
     "Report commit: https://github.com/xbret/xenoblade/commit/ea25691b2029394ab777bda7060139e517a13cba"
   ],
   "snapshot_date": "2026-10-04",
   "report_date": "2026-06-28 10:22:22 +00:00",
-  "report_commit": "https://github.com/xbret/xenoblade/commit/ea25691b2029394ab777bda7060139e517a13cba"
+  "report_commit": "https://github.com/xbret/xenoblade/commit/ea25691b2029394ab777bda7060139e517a13cba",
+  "report_target": "jp"
 }

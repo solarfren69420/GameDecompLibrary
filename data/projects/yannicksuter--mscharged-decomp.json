@@ -5,25 +5,28 @@
   "category": "decomp",
   "group": "2. OLDER AAA / FLAGSHIP CONSOLE AND PC GAMES",
   "platform": "Wii",
-  "type": "Matching decompilation",
+  "type": "Game decompilation",
   "description": "",
   "progress": {
-    "decompiled": 94.22,
-    "linked": 86.67,
+    "decompiled": 94.28,
+    "linked": 87.04,
     "kind": "reported",
-    "label": "94.22% decompiled | 86.67% fully linked"
+    "label": "94.28% decompiled | 87.04% fully linked"
   },
   "targets": [],
   "sources": [
+    "https://decomp.dev/yannicksuter/mscharged-decomp/R4QE01/f84e4666a76d2b6b7abf41b2c6874583484392fa",
     "https://decomp.dev/yannicksuter/mscharged-decomp"
   ],
   "notes": [
-    "Mario Strikers Charged | Wii | 94.22% decompiled | 86.67% fully linked",
-    "Progress source: https://decomp.dev/yannicksuter/mscharged-decomp",
-    "Report commit date: 2026-10-04 07:56:36 +00:00",
-    "Report commit: https://github.com/yannicksuter/mscharged-decomp/commit/9ca59d250587adc0436d08176bec3898aa790fa0"
+    "Mario Strikers Charged | Wii | 94.28% decompiled | 87.04% fully linked",
+    "Progress source: https://decomp.dev/yannicksuter/mscharged-decomp/R4QE01/f84e4666a76d2b6b7abf41b2c6874583484392fa",
+    "Report target: R4QE01",
+    "Report commit date: 2026-10-04 11:34:20 +00:00",
+    "Report commit: https://github.com/yannicksuter/mscharged-decomp/commit/f84e4666a76d2b6b7abf41b2c6874583484392fa"
   ],
   "snapshot_date": "2026-10-04",
-  "report_date": "2026-10-04 07:56:36 +00:00",
-  "report_commit": "https://github.com/yannicksuter/mscharged-decomp/commit/9ca59d250587adc0436d08176bec3898aa790fa0"
+  "report_date": "2026-10-04 11:34:20 +00:00",
+  "report_commit": "https://github.com/yannicksuter/mscharged-decomp/commit/f84e4666a76d2b6b7abf41b2c6874583484392fa",
+  "report_target": "R4QE01"
 }

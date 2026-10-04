@@ -5,7 +5,7 @@
   "category": "decomp",
   "group": "2. OLDER AAA / FLAGSHIP CONSOLE AND PC GAMES",
   "platform": "PlayStation 2",
-  "type": "Matching decompilation",
+  "type": "Game decompilation",
   "description": "",
   "progress": {
     "decompiled": 12.53,
@@ -15,15 +15,18 @@
   },
   "targets": [],
   "sources": [
+    "https://decomp.dev/g-guthrie/mvc2-ps2-decomp/ps2/d4fd9f961b98f0540489dab33507a5ace70de28a",
     "https://decomp.dev/g-guthrie/mvc2-ps2-decomp"
   ],
   "notes": [
     "Marvel vs. Capcom 2: New Age of Heroes | PlayStation 2 | 12.53% decompiled | 12.53% fully linked",
-    "Progress source: https://decomp.dev/g-guthrie/mvc2-ps2-decomp",
+    "Progress source: https://decomp.dev/g-guthrie/mvc2-ps2-decomp/ps2/d4fd9f961b98f0540489dab33507a5ace70de28a",
+    "Report target: ps2",
     "Report commit date: 2026-09-29 05:08:03 +00:00",
     "Report commit: https://github.com/g-guthrie/mvc2-ps2-decomp/commit/d4fd9f961b98f0540489dab33507a5ace70de28a"
   ],
   "snapshot_date": "2026-10-04",
   "report_date": "2026-09-29 05:08:03 +00:00",
-  "report_commit": "https://github.com/g-guthrie/mvc2-ps2-decomp/commit/d4fd9f961b98f0540489dab33507a5ace70de28a"
+  "report_commit": "https://github.com/g-guthrie/mvc2-ps2-decomp/commit/d4fd9f961b98f0540489dab33507a5ace70de28a",
+  "report_target": "ps2"
 }

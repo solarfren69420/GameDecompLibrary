@@ -5,7 +5,7 @@
   "category": "decomp",
   "group": "2. OLDER AAA / FLAGSHIP CONSOLE AND PC GAMES",
   "platform": "GameCube",
-  "type": "Matching decompilation",
+  "type": "Game decompilation",
   "description": "",
   "progress": {
     "decompiled": 7.03,
@@ -15,15 +15,18 @@
   },
   "targets": [],
   "sources": [
+    "https://decomp.dev/mitsevox/nflstreet2/GN7E69/b522b39b3c17609b9215cd278482674dc4fba005",
     "https://decomp.dev/mitsevox/nflstreet2"
   ],
   "notes": [
     "NFL Street 2 | GameCube | 7.03% decompiled | 7.03% fully linked",
-    "Progress source: https://decomp.dev/mitsevox/nflstreet2",
+    "Progress source: https://decomp.dev/mitsevox/nflstreet2/GN7E69/b522b39b3c17609b9215cd278482674dc4fba005",
+    "Report target: GN7E69",
     "Report commit date: 2026-10-04 09:51:09 +00:00",
     "Report commit: https://github.com/mitsevox/nflstreet2/commit/b522b39b3c17609b9215cd278482674dc4fba005"
   ],
   "snapshot_date": "2026-10-04",
   "report_date": "2026-10-04 09:51:09 +00:00",
-  "report_commit": "https://github.com/mitsevox/nflstreet2/commit/b522b39b3c17609b9215cd278482674dc4fba005"
+  "report_commit": "https://github.com/mitsevox/nflstreet2/commit/b522b39b3c17609b9215cd278482674dc4fba005",
+  "report_target": "GN7E69"
 }

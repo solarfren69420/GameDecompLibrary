@@ -5,7 +5,7 @@
   "category": "decomp",
   "group": "2. OLDER AAA / FLAGSHIP CONSOLE AND PC GAMES",
   "platform": "Wii",
-  "type": "Matching decompilation",
+  "type": "Game decompilation",
   "description": "",
   "progress": {
     "decompiled": 1.2,
@@ -15,15 +15,18 @@
   },
   "targets": [],
   "sources": [
+    "https://decomp.dev/doldecomp/brawl/RSBE01_02/39d7fee6a8e70a198052d0e658d5cfa27aa5226a",
     "https://decomp.dev/doldecomp/brawl"
   ],
   "notes": [
     "Super Smash Bros. Brawl | Wii | 1.20% decompiled | 1.02% fully linked",
-    "Progress source: https://decomp.dev/doldecomp/brawl",
+    "Progress source: https://decomp.dev/doldecomp/brawl/RSBE01_02/39d7fee6a8e70a198052d0e658d5cfa27aa5226a",
+    "Report target: RSBE01_02",
     "Report commit date: 2026-10-02 22:41:01 +00:00",
     "Report commit: https://github.com/doldecomp/brawl/commit/39d7fee6a8e70a198052d0e658d5cfa27aa5226a"
   ],
   "snapshot_date": "2026-10-04",
   "report_date": "2026-10-02 22:41:01 +00:00",
-  "report_commit": "https://github.com/doldecomp/brawl/commit/39d7fee6a8e70a198052d0e658d5cfa27aa5226a"
+  "report_commit": "https://github.com/doldecomp/brawl/commit/39d7fee6a8e70a198052d0e658d5cfa27aa5226a",
+  "report_target": "RSBE01_02"
 }

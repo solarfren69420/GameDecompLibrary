@@ -5,7 +5,7 @@
   "category": "decomp",
   "group": "4. SMALLER COMMERCIAL, LICENSED, CULT AND NICHE GAMES",
   "platform": "Windows",
-  "type": "Matching decompilation",
+  "type": "Game decompilation",
   "description": "",
   "progress": {
     "decompiled": 18.98,
@@ -15,15 +15,18 @@
   },
   "targets": [],
   "sources": [
+    "https://decomp.dev/regratka/mkp/MKPVE01/682277c4f4e57b26e5df4990eab3eeffba900dd7",
     "https://decomp.dev/regratka/mkp"
   ],
   "notes": [
     "Komputerowa Gratka 3D - Magiczna Kula Papatki | Windows | 18.98% decompiled | 8.17% fully linked",
-    "Progress source: https://decomp.dev/regratka/mkp",
+    "Progress source: https://decomp.dev/regratka/mkp/MKPVE01/682277c4f4e57b26e5df4990eab3eeffba900dd7",
+    "Report target: MKPVE01",
     "Report commit date: 2026-10-04 09:55:07 +00:00",
     "Report commit: https://github.com/regratka/mkp/commit/682277c4f4e57b26e5df4990eab3eeffba900dd7"
   ],
   "snapshot_date": "2026-10-04",
   "report_date": "2026-10-04 09:55:07 +00:00",
-  "report_commit": "https://github.com/regratka/mkp/commit/682277c4f4e57b26e5df4990eab3eeffba900dd7"
+  "report_commit": "https://github.com/regratka/mkp/commit/682277c4f4e57b26e5df4990eab3eeffba900dd7",
+  "report_target": "MKPVE01"
 }

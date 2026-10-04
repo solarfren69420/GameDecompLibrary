@@ -5,7 +5,7 @@
   "category": "decomp",
   "group": "4. SMALLER COMMERCIAL, LICENSED, CULT AND NICHE GAMES",
   "platform": "Windows",
-  "type": "Matching decompilation",
+  "type": "Game decompilation",
   "description": "",
   "progress": {
     "decompiled": 7.59,
@@ -15,15 +15,18 @@
   },
   "targets": [],
   "sources": [
+    "https://decomp.dev/banteg/harvest/1.18-linux-amd64/b7e85daa30322744c862543cb4202151f145afe5",
     "https://decomp.dev/banteg/harvest"
   ],
   "notes": [
     "Harvest: Massive Encounter | Windows | 7.59% decompiled",
-    "Progress source: https://decomp.dev/banteg/harvest",
+    "Progress source: https://decomp.dev/banteg/harvest/1.18-linux-amd64/b7e85daa30322744c862543cb4202151f145afe5",
+    "Report target: 1.18-linux-amd64",
     "Report commit date: 2026-10-02 14:46:29 +00:00",
     "Report commit: https://github.com/banteg/harvest/commit/b7e85daa30322744c862543cb4202151f145afe5"
   ],
   "snapshot_date": "2026-10-04",
   "report_date": "2026-10-02 14:46:29 +00:00",
-  "report_commit": "https://github.com/banteg/harvest/commit/b7e85daa30322744c862543cb4202151f145afe5"
+  "report_commit": "https://github.com/banteg/harvest/commit/b7e85daa30322744c862543cb4202151f145afe5",
+  "report_target": "1.18-linux-amd64"
 }

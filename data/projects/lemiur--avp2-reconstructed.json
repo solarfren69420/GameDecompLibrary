@@ -5,7 +5,7 @@
   "category": "decomp",
   "group": "2. OLDER AAA / FLAGSHIP CONSOLE AND PC GAMES",
   "platform": "Windows",
-  "type": "Matching decompilation",
+  "type": "Game decompilation",
   "description": "",
   "progress": {
     "decompiled": 91.2,
@@ -15,15 +15,18 @@
   },
   "targets": [],
   "sources": [
+    "https://decomp.dev/lemiur/AVP2-Reconstructed/lithtech_1.0.9.6/42a976fa9cfb03df9bf35b131f8f78ea9bd7263a",
     "https://decomp.dev/lemiur/AVP2-Reconstructed"
   ],
   "notes": [
     "Alien vs. Predator 2 | Windows | 91.20% decompiled | 60.70% fully linked",
-    "Progress source: https://decomp.dev/lemiur/AVP2-Reconstructed",
+    "Progress source: https://decomp.dev/lemiur/AVP2-Reconstructed/lithtech_1.0.9.6/42a976fa9cfb03df9bf35b131f8f78ea9bd7263a",
+    "Report target: lithtech_1.0.9.6",
     "Report commit date: 2026-10-03 23:53:18 +00:00",
     "Report commit: https://github.com/lemiur/AVP2-Reconstructed/commit/42a976fa9cfb03df9bf35b131f8f78ea9bd7263a"
   ],
   "snapshot_date": "2026-10-04",
   "report_date": "2026-10-03 23:53:18 +00:00",
-  "report_commit": "https://github.com/lemiur/AVP2-Reconstructed/commit/42a976fa9cfb03df9bf35b131f8f78ea9bd7263a"
+  "report_commit": "https://github.com/lemiur/AVP2-Reconstructed/commit/42a976fa9cfb03df9bf35b131f8f78ea9bd7263a",
+  "report_target": "lithtech_1.0.9.6"
 }

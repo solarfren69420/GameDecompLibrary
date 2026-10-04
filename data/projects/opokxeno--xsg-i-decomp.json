@@ -5,7 +5,7 @@
   "category": "decomp",
   "group": "2. OLDER AAA / FLAGSHIP CONSOLE AND PC GAMES",
   "platform": "PlayStation 2",
-  "type": "Matching decompilation",
+  "type": "Game decompilation",
   "description": "",
   "progress": {
     "decompiled": 29.64,
@@ -15,15 +15,18 @@
   },
   "targets": [],
   "sources": [
+    "https://decomp.dev/OpokXeno/xsg-i-decomp/SLUS_204.69/c271867b034c77023ee2bc81a40873bcd33564ea",
     "https://decomp.dev/OpokXeno/xsg-i-decomp"
   ],
   "notes": [
     "Xenosaga Episode I: Der Wille zur Macht | PlayStation 2 | 29.64% decompiled | 0.64% fully linked",
-    "Progress source: https://decomp.dev/OpokXeno/xsg-i-decomp",
+    "Progress source: https://decomp.dev/OpokXeno/xsg-i-decomp/SLUS_204.69/c271867b034c77023ee2bc81a40873bcd33564ea",
+    "Report target: SLUS_204.69",
     "Report commit date: 2026-10-01 23:49:01 +00:00",
     "Report commit: https://github.com/OpokXeno/xsg-i-decomp/commit/c271867b034c77023ee2bc81a40873bcd33564ea"
   ],
   "snapshot_date": "2026-10-04",
   "report_date": "2026-10-01 23:49:01 +00:00",
-  "report_commit": "https://github.com/OpokXeno/xsg-i-decomp/commit/c271867b034c77023ee2bc81a40873bcd33564ea"
+  "report_commit": "https://github.com/OpokXeno/xsg-i-decomp/commit/c271867b034c77023ee2bc81a40873bcd33564ea",
+  "report_target": "SLUS_204.69"
 }

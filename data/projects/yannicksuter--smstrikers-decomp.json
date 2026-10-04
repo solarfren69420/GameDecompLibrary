@@ -5,7 +5,7 @@
   "category": "decomp",
   "group": "2. OLDER AAA / FLAGSHIP CONSOLE AND PC GAMES",
   "platform": "GameCube",
-  "type": "Matching decompilation",
+  "type": "Game decompilation",
   "description": "",
   "progress": {
     "decompiled": 100.0,
@@ -15,15 +15,18 @@
   },
   "targets": [],
   "sources": [
+    "https://decomp.dev/yannicksuter/smstrikers-decomp/G4QE01/d1f357ffeb1d8e89311edebf9a4b304b05ece7bb",
     "https://decomp.dev/yannicksuter/smstrikers-decomp"
   ],
   "notes": [
     "Super Mario Strikers | GameCube | 100.00% decompiled | 100.00% fully linked",
-    "Progress source: https://decomp.dev/yannicksuter/smstrikers-decomp",
+    "Progress source: https://decomp.dev/yannicksuter/smstrikers-decomp/G4QE01/d1f357ffeb1d8e89311edebf9a4b304b05ece7bb",
+    "Report target: G4QE01",
     "Report commit date: 2026-09-17 11:30:28 +00:00",
     "Report commit: https://github.com/yannicksuter/smstrikers-decomp/commit/d1f357ffeb1d8e89311edebf9a4b304b05ece7bb"
   ],
   "snapshot_date": "2026-10-04",
   "report_date": "2026-09-17 11:30:28 +00:00",
-  "report_commit": "https://github.com/yannicksuter/smstrikers-decomp/commit/d1f357ffeb1d8e89311edebf9a4b304b05ece7bb"
+  "report_commit": "https://github.com/yannicksuter/smstrikers-decomp/commit/d1f357ffeb1d8e89311edebf9a4b304b05ece7bb",
+  "report_target": "G4QE01"
 }

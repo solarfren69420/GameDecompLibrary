@@ -5,7 +5,7 @@
   "category": "decomp",
   "group": "2. OLDER AAA / FLAGSHIP CONSOLE AND PC GAMES",
   "platform": "Nintendo 64",
-  "type": "Matching decompilation",
+  "type": "Game decompilation",
   "description": "",
   "progress": {
     "decompiled": 97.1,
@@ -15,15 +15,18 @@
   },
   "targets": [],
   "sources": [
+    "https://decomp.dev/inspectredc/fzerox-expansion-kit/jp/80599932af86c4421e2b1d5a19b88af9303cb77d",
     "https://decomp.dev/inspectredc/fzerox-expansion-kit"
   ],
   "notes": [
     "F-Zero X (Expansion Kit) | Nintendo 64 | 97.10% decompiled",
-    "Progress source: https://decomp.dev/inspectredc/fzerox-expansion-kit",
+    "Progress source: https://decomp.dev/inspectredc/fzerox-expansion-kit/jp/80599932af86c4421e2b1d5a19b88af9303cb77d",
+    "Report target: jp",
     "Report commit date: 2026-01-06 15:42:50 +00:00",
     "Report commit: https://github.com/inspectredc/fzerox-expansion-kit/commit/80599932af86c4421e2b1d5a19b88af9303cb77d"
   ],
   "snapshot_date": "2026-10-04",
   "report_date": "2026-01-06 15:42:50 +00:00",
-  "report_commit": "https://github.com/inspectredc/fzerox-expansion-kit/commit/80599932af86c4421e2b1d5a19b88af9303cb77d"
+  "report_commit": "https://github.com/inspectredc/fzerox-expansion-kit/commit/80599932af86c4421e2b1d5a19b88af9303cb77d",
+  "report_target": "jp"
 }

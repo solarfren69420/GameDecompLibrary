@@ -5,7 +5,7 @@
   "category": "decomp",
   "group": "3. MAJOR HANDHELD / FRANCHISE GAMES",
   "platform": "Nintendo DS",
-  "type": "Matching decompilation",
+  "type": "Game decompilation",
   "description": "",
   "progress": {
     "decompiled": 100.0,
@@ -15,15 +15,18 @@
   },
   "targets": [],
   "sources": [
+    "https://decomp.dev/Yokimitsuro/khdays-decomp/YKGP/ea39ead5e3c4f284bb243b9082e948847038bcd4",
     "https://decomp.dev/Yokimitsuro/khdays-decomp"
   ],
   "notes": [
     "Kingdom Hearts 358/2 Days | Nintendo DS | 100.00% decompiled | 100.00% fully linked",
-    "Progress source: https://decomp.dev/Yokimitsuro/khdays-decomp",
+    "Progress source: https://decomp.dev/Yokimitsuro/khdays-decomp/YKGP/ea39ead5e3c4f284bb243b9082e948847038bcd4",
+    "Report target: YKGP",
     "Report commit date: 2026-09-30 11:15:53 +00:00",
     "Report commit: https://github.com/Yokimitsuro/khdays-decomp/commit/ea39ead5e3c4f284bb243b9082e948847038bcd4"
   ],
   "snapshot_date": "2026-10-04",
   "report_date": "2026-09-30 11:15:53 +00:00",
-  "report_commit": "https://github.com/Yokimitsuro/khdays-decomp/commit/ea39ead5e3c4f284bb243b9082e948847038bcd4"
+  "report_commit": "https://github.com/Yokimitsuro/khdays-decomp/commit/ea39ead5e3c4f284bb243b9082e948847038bcd4",
+  "report_target": "YKGP"
 }

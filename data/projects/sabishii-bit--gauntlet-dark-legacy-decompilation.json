@@ -5,7 +5,7 @@
   "category": "decomp",
   "group": "4. SMALLER COMMERCIAL, LICENSED, CULT AND NICHE GAMES",
   "platform": "GameCube",
-  "type": "Matching decompilation",
+  "type": "Game decompilation",
   "description": "",
   "progress": {
     "decompiled": 64.03,
@@ -15,15 +15,18 @@
   },
   "targets": [],
   "sources": [
+    "https://decomp.dev/sabishii-bit/Gauntlet-Dark-Legacy-Decompilation/GUNE5D/4fdf0492d5d828b16ee1a961c17bf855a8d2668f",
     "https://decomp.dev/sabishii-bit/Gauntlet-Dark-Legacy-Decompilation"
   ],
   "notes": [
     "Gauntlet: Dark Legacy | GameCube | 64.03% decompiled | 32.23% fully linked",
-    "Progress source: https://decomp.dev/sabishii-bit/Gauntlet-Dark-Legacy-Decompilation",
+    "Progress source: https://decomp.dev/sabishii-bit/Gauntlet-Dark-Legacy-Decompilation/GUNE5D/4fdf0492d5d828b16ee1a961c17bf855a8d2668f",
+    "Report target: GUNE5D",
     "Report commit date: 2026-09-25 14:24:41 +00:00",
     "Report commit: https://github.com/sabishii-bit/Gauntlet-Dark-Legacy-Decompilation/commit/4fdf0492d5d828b16ee1a961c17bf855a8d2668f"
   ],
   "snapshot_date": "2026-10-04",
   "report_date": "2026-09-25 14:24:41 +00:00",
-  "report_commit": "https://github.com/sabishii-bit/Gauntlet-Dark-Legacy-Decompilation/commit/4fdf0492d5d828b16ee1a961c17bf855a8d2668f"
+  "report_commit": "https://github.com/sabishii-bit/Gauntlet-Dark-Legacy-Decompilation/commit/4fdf0492d5d828b16ee1a961c17bf855a8d2668f",
+  "report_target": "GUNE5D"
 }

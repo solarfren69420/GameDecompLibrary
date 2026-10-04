@@ -5,7 +5,7 @@
   "category": "decomp",
   "group": "2. OLDER AAA / FLAGSHIP CONSOLE AND PC GAMES",
   "platform": "GameCube",
-  "type": "Matching decompilation",
+  "type": "Game decompilation",
   "description": "",
   "progress": {
     "decompiled": 12.1,
@@ -15,15 +15,18 @@
   },
   "targets": [],
   "sources": [
+    "https://decomp.dev/doldecomp/ttyd/G8MJ01/62131fc31866f85a12e4817a8dc37f0c25eb5f8c",
     "https://decomp.dev/doldecomp/ttyd"
   ],
   "notes": [
     "Paper Mario: The Thousand-Year Door | GameCube | 12.10% decompiled | 8.12% fully linked",
-    "Progress source: https://decomp.dev/doldecomp/ttyd",
+    "Progress source: https://decomp.dev/doldecomp/ttyd/G8MJ01/62131fc31866f85a12e4817a8dc37f0c25eb5f8c",
+    "Report target: G8MJ01",
     "Report commit date: 2026-09-27 22:35:16 +00:00",
     "Report commit: https://github.com/doldecomp/ttyd/commit/62131fc31866f85a12e4817a8dc37f0c25eb5f8c"
   ],
   "snapshot_date": "2026-10-04",
   "report_date": "2026-09-27 22:35:16 +00:00",
-  "report_commit": "https://github.com/doldecomp/ttyd/commit/62131fc31866f85a12e4817a8dc37f0c25eb5f8c"
+  "report_commit": "https://github.com/doldecomp/ttyd/commit/62131fc31866f85a12e4817a8dc37f0c25eb5f8c",
+  "report_target": "G8MJ01"
 }

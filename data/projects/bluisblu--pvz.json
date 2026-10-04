@@ -5,7 +5,7 @@
   "category": "decomp",
   "group": "4. SMALLER COMMERCIAL, LICENSED, CULT AND NICHE GAMES",
   "platform": "Windows",
-  "type": "Matching decompilation",
+  "type": "Game decompilation",
   "description": "",
   "progress": {
     "decompiled": 0.98,
@@ -15,15 +15,18 @@
   },
   "targets": [],
   "sources": [
+    "https://decomp.dev/bluisblu/pvz/BETA_099/35ae4660f3527505917cb00289d962de75aafb49",
     "https://decomp.dev/bluisblu/pvz"
   ],
   "notes": [
     "Plants vs. Zombies | Windows | 0.98% decompiled",
-    "Progress source: https://decomp.dev/bluisblu/pvz",
+    "Progress source: https://decomp.dev/bluisblu/pvz/BETA_099/35ae4660f3527505917cb00289d962de75aafb49",
+    "Report target: BETA_099",
     "Report commit date: 2026-07-29 16:41:22 +00:00",
     "Report commit: https://github.com/bluisblu/pvz/commit/35ae4660f3527505917cb00289d962de75aafb49"
   ],
   "snapshot_date": "2026-10-04",
   "report_date": "2026-07-29 16:41:22 +00:00",
-  "report_commit": "https://github.com/bluisblu/pvz/commit/35ae4660f3527505917cb00289d962de75aafb49"
+  "report_commit": "https://github.com/bluisblu/pvz/commit/35ae4660f3527505917cb00289d962de75aafb49",
+  "report_target": "BETA_099"
 }

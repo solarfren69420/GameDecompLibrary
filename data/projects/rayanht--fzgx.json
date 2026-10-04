@@ -5,7 +5,7 @@
   "category": "decomp",
   "group": "2. OLDER AAA / FLAGSHIP CONSOLE AND PC GAMES",
   "platform": "GameCube",
-  "type": "Matching decompilation",
+  "type": "Game decompilation",
   "description": "",
   "progress": {
     "decompiled": 30.6,
@@ -15,15 +15,18 @@
   },
   "targets": [],
   "sources": [
+    "https://decomp.dev/rayanht/fzgx/GFZE01/3a0542c9d1b58f7a907f932bc00e3657b382e9aa",
     "https://decomp.dev/rayanht/fzgx"
   ],
   "notes": [
     "F-Zero GX | GameCube | 30.60% decompiled | 30.53% fully linked",
-    "Progress source: https://decomp.dev/rayanht/fzgx",
+    "Progress source: https://decomp.dev/rayanht/fzgx/GFZE01/3a0542c9d1b58f7a907f932bc00e3657b382e9aa",
+    "Report target: GFZE01",
     "Report commit date: 2026-09-16 20:22:28 +00:00",
     "Report commit: https://github.com/rayanht/fzgx/commit/3a0542c9d1b58f7a907f932bc00e3657b382e9aa"
   ],
   "snapshot_date": "2026-10-04",
   "report_date": "2026-09-16 20:22:28 +00:00",
-  "report_commit": "https://github.com/rayanht/fzgx/commit/3a0542c9d1b58f7a907f932bc00e3657b382e9aa"
+  "report_commit": "https://github.com/rayanht/fzgx/commit/3a0542c9d1b58f7a907f932bc00e3657b382e9aa",
+  "report_target": "GFZE01"
 }

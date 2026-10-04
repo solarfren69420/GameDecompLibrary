@@ -2,6 +2,7 @@
 import json
 import math
 import re
+from datetime import date
 from pathlib import Path
 from urllib.parse import urlparse
 
@@ -28,6 +29,9 @@ def validate(entry):
         raise ValueError("Unknown project category")
     if not re.fullmatch(r"\d{4}-\d{2}-\d{2}", entry["snapshot_date"]):
         raise ValueError("snapshot_date must be YYYY-MM-DD")
+    date.fromisoformat(entry["snapshot_date"])
+    if 'report_target' in entry and not isinstance(entry['report_target'], str):
+        raise ValueError('report_target must be text')
     for key in ("sources", "notes"):
         if not isinstance(entry.get(key), list) or not all(isinstance(x, str) for x in entry[key]):
             raise ValueError(f"{key} must be a list of text values")

@@ -26,7 +26,9 @@
       "notes": []
     }
   ],
-  "sources": [],
+  "sources": [
+    "https://raw.githubusercontent.com/alexbatalov/fallout2-ce/HEAD/README.md"
+  ],
   "notes": [
     "Matching decompilation %: N/A — different project category; no comparable numerical metric verified here.",
     "Target: Fallout 2 | Playable reimplementation"

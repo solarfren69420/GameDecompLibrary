@@ -5,7 +5,7 @@
   "category": "decomp",
   "group": "2. OLDER AAA / FLAGSHIP CONSOLE AND PC GAMES",
   "platform": "GameCube",
-  "type": "Matching decompilation",
+  "type": "Game decompilation",
   "description": "",
   "progress": {
     "decompiled": 17.83,
@@ -15,15 +15,18 @@
   },
   "targets": [],
   "sources": [
+    "https://decomp.dev/ThePlayerRolo/lm-decomp/GLME01/edb2188517bb234e8171da7ebdfa9f3c8797c405",
     "https://decomp.dev/ThePlayerRolo/lm-decomp"
   ],
   "notes": [
     "Luigi's Mansion | GameCube | 17.83% decompiled | 11.44% fully linked",
-    "Progress source: https://decomp.dev/ThePlayerRolo/lm-decomp",
+    "Progress source: https://decomp.dev/ThePlayerRolo/lm-decomp/GLME01/edb2188517bb234e8171da7ebdfa9f3c8797c405",
+    "Report target: GLME01",
     "Report commit date: 2026-08-17 22:23:29 +00:00",
     "Report commit: https://github.com/ThePlayerRolo/lm-decomp/commit/edb2188517bb234e8171da7ebdfa9f3c8797c405"
   ],
   "snapshot_date": "2026-10-04",
   "report_date": "2026-08-17 22:23:29 +00:00",
-  "report_commit": "https://github.com/ThePlayerRolo/lm-decomp/commit/edb2188517bb234e8171da7ebdfa9f3c8797c405"
+  "report_commit": "https://github.com/ThePlayerRolo/lm-decomp/commit/edb2188517bb234e8171da7ebdfa9f3c8797c405",
+  "report_target": "GLME01"
 }

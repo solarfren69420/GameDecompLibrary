@@ -5,7 +5,7 @@
   "category": "decomp",
   "group": "2. OLDER AAA / FLAGSHIP CONSOLE AND PC GAMES",
   "platform": "Wii",
-  "type": "Matching decompilation",
+  "type": "Game decompilation",
   "description": "",
   "progress": {
     "decompiled": 35.99,
@@ -15,15 +15,18 @@
   },
   "targets": [],
   "sources": [
+    "https://decomp.dev/akiramusic000/Rhae/RHAE01_01/182cf1a172a944a088fd69b1cd84e3d0c21e0bd5",
     "https://decomp.dev/akiramusic000/Rhae"
   ],
   "notes": [
     "Wii Play | Wii | 35.99% decompiled | 32.23% fully linked",
-    "Progress source: https://decomp.dev/akiramusic000/Rhae",
+    "Progress source: https://decomp.dev/akiramusic000/Rhae/RHAE01_01/182cf1a172a944a088fd69b1cd84e3d0c21e0bd5",
+    "Report target: RHAE01_01",
     "Report commit date: 2026-10-03 22:19:31 +00:00",
     "Report commit: https://github.com/akiramusic000/Rhae/commit/182cf1a172a944a088fd69b1cd84e3d0c21e0bd5"
   ],
   "snapshot_date": "2026-10-04",
   "report_date": "2026-10-03 22:19:31 +00:00",
-  "report_commit": "https://github.com/akiramusic000/Rhae/commit/182cf1a172a944a088fd69b1cd84e3d0c21e0bd5"
+  "report_commit": "https://github.com/akiramusic000/Rhae/commit/182cf1a172a944a088fd69b1cd84e3d0c21e0bd5",
+  "report_target": "RHAE01_01"
 }

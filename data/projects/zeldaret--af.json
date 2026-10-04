@@ -5,7 +5,7 @@
   "category": "decomp",
   "group": "4. SMALLER COMMERCIAL, LICENSED, CULT AND NICHE GAMES",
   "platform": "Nintendo 64",
-  "type": "Matching decompilation",
+  "type": "Game decompilation",
   "description": "",
   "progress": {
     "decompiled": 18.52,
@@ -15,15 +15,18 @@
   },
   "targets": [],
   "sources": [
+    "https://decomp.dev/zeldaret/af/jp/4ddba04604ee7b4c4cfc0b64f8ee4d094bb385be",
     "https://decomp.dev/zeldaret/af"
   ],
   "notes": [
     "Animal Forest | Nintendo 64 | 18.52% decompiled",
-    "Progress source: https://decomp.dev/zeldaret/af",
+    "Progress source: https://decomp.dev/zeldaret/af/jp/4ddba04604ee7b4c4cfc0b64f8ee4d094bb385be",
+    "Report target: jp",
     "Report commit date: 2026-08-16 17:56:24 +00:00",
     "Report commit: https://github.com/zeldaret/af/commit/4ddba04604ee7b4c4cfc0b64f8ee4d094bb385be"
   ],
   "snapshot_date": "2026-10-04",
   "report_date": "2026-08-16 17:56:24 +00:00",
-  "report_commit": "https://github.com/zeldaret/af/commit/4ddba04604ee7b4c4cfc0b64f8ee4d094bb385be"
+  "report_commit": "https://github.com/zeldaret/af/commit/4ddba04604ee7b4c4cfc0b64f8ee4d094bb385be",
+  "report_target": "jp"
 }

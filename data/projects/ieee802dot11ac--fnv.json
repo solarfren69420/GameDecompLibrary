@@ -5,7 +5,7 @@
   "category": "decomp",
   "group": "1. HD-ERA / MODERN HIGH-PROFILE GAMES — AAA AND MAJOR FRANCHISES",
   "platform": "Xbox 360",
-  "type": "Matching decompilation",
+  "type": "Game decompilation",
   "description": "",
   "progress": {
     "decompiled": 1.36,
@@ -15,15 +15,18 @@
   },
   "targets": [],
   "sources": [
+    "https://decomp.dev/ieee802dot11ac/fnv/425307E0/074e045ef8220666fd8481e0745af6ecf197f24b",
     "https://decomp.dev/ieee802dot11ac/fnv"
   ],
   "notes": [
     "Fallout: New Vegas | Xbox 360 | 1.36% decompiled | 0.26% fully linked",
-    "Progress source: https://decomp.dev/ieee802dot11ac/fnv",
+    "Progress source: https://decomp.dev/ieee802dot11ac/fnv/425307E0/074e045ef8220666fd8481e0745af6ecf197f24b",
+    "Report target: 425307E0",
     "Report commit date: 2026-08-30 22:09:31 +00:00",
     "Report commit: https://github.com/ieee802dot11ac/fnv/commit/074e045ef8220666fd8481e0745af6ecf197f24b"
   ],
   "snapshot_date": "2026-10-04",
   "report_date": "2026-08-30 22:09:31 +00:00",
-  "report_commit": "https://github.com/ieee802dot11ac/fnv/commit/074e045ef8220666fd8481e0745af6ecf197f24b"
+  "report_commit": "https://github.com/ieee802dot11ac/fnv/commit/074e045ef8220666fd8481e0745af6ecf197f24b",
+  "report_target": "425307E0"
 }

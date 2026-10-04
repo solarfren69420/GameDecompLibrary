@@ -5,7 +5,7 @@
   "category": "decomp",
   "group": "2. OLDER AAA / FLAGSHIP CONSOLE AND PC GAMES",
   "platform": "PlayStation 2",
-  "type": "Matching decompilation",
+  "type": "Game decompilation",
   "description": "",
   "progress": {
     "decompiled": 7.27,
@@ -15,15 +15,18 @@
   },
   "targets": [],
   "sources": [
+    "https://decomp.dev/nf807942/dc2-decomp/pal/508af33b5bef904d029354b2a755ba49a3112b09",
     "https://decomp.dev/nf807942/dc2-decomp"
   ],
   "notes": [
     "Dark Cloud 2 | PlayStation 2 | 7.27% decompiled",
-    "Progress source: https://decomp.dev/nf807942/dc2-decomp",
+    "Progress source: https://decomp.dev/nf807942/dc2-decomp/pal/508af33b5bef904d029354b2a755ba49a3112b09",
+    "Report target: pal",
     "Report commit date: 2026-10-01 20:41:47 +00:00",
     "Report commit: https://github.com/nf807942/dc2-decomp/commit/508af33b5bef904d029354b2a755ba49a3112b09"
   ],
   "snapshot_date": "2026-10-04",
   "report_date": "2026-10-01 20:41:47 +00:00",
-  "report_commit": "https://github.com/nf807942/dc2-decomp/commit/508af33b5bef904d029354b2a755ba49a3112b09"
+  "report_commit": "https://github.com/nf807942/dc2-decomp/commit/508af33b5bef904d029354b2a755ba49a3112b09",
+  "report_target": "pal"
 }

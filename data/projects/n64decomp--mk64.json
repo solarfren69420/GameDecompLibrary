@@ -5,13 +5,13 @@
   "category": "decomp",
   "group": "2. OLDER AAA / FLAGSHIP CONSOLE AND PC GAMES",
   "platform": "Nintendo 64",
-  "type": "Matching decompilation",
+  "type": "Game decompilation",
   "description": "",
   "progress": {
     "decompiled": 100.0,
     "linked": null,
     "kind": "reported",
-    "label": "100.0% (published total-progress badge)"
+    "label": "100.0% published total-progress badge; not asserted as an independently measured matching-byte percentage"
   },
   "targets": [
     {
@@ -21,7 +21,7 @@
         "decompiled": 100.0,
         "linked": null,
         "kind": "reported",
-        "label": "100.0% (published total-progress badge)"
+        "label": "100.0% published total-progress badge; not asserted as an independently measured matching-byte percentage"
       },
       "notes": [
         "Additional established reverse-engineering/decomp project; use its version-specific progress page."
@@ -35,9 +35,11 @@
     "Target: Mario Kart 64",
     "Platform: Nintendo 64 | 100.0% (published total-progress badge)",
     "Evidence: https://n64decomp.github.io/mk64/total_progress.svg",
-    "Note: Additional established reverse-engineering/decomp project; use its version-specific progress page."
+    "Note: Additional established reverse-engineering/decomp project; use its version-specific progress page.",
+    "The README lists multiple ROM versions and notes that a byte-matching tkmk00 compressor/decompressor does not yet exist. A 100% progress badge is not proof all asset tooling is complete."
   ],
   "snapshot_date": "2026-10-04",
   "report_date": "",
-  "report_commit": ""
+  "report_commit": "",
+  "report_target": "Repository total-progress badge; denominator not independently established"
 }

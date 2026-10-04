@@ -5,7 +5,7 @@
   "category": "decomp",
   "group": "Other hosts",
   "platform": "Nintendo 64",
-  "type": "Matching decompilation",
+  "type": "Game decompilation",
   "description": "",
   "progress": {
     "decompiled": 100.0,
@@ -35,9 +35,11 @@
     "Target: Banjo-Kazooie",
     "Platform: Nintendo 64 | 100% (published README progress; target-specific)",
     "Evidence: https://gitlab.com/banjo.decomp/banjo-kazooie/-/raw/master/README.md",
-    "Note: Additional established reverse-engineering/decomp project; use its version-specific progress page."
+    "Note: Additional established reverse-engineering/decomp project; use its version-specific progress page.",
+    "README headline publishes 100.0000%. Its default build instructions use US v1.0; other version support is listed separately."
   ],
   "snapshot_date": "2026-10-04",
   "report_date": "",
-  "report_commit": ""
+  "report_commit": "",
+  "report_target": "Repository headline; default build us.v10"
 }

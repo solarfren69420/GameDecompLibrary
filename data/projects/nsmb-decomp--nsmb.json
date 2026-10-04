@@ -5,7 +5,7 @@
   "category": "decomp",
   "group": "3. MAJOR HANDHELD / FRANCHISE GAMES",
   "platform": "Nintendo DS",
-  "type": "Matching decompilation",
+  "type": "Game decompilation",
   "description": "",
   "progress": {
     "decompiled": 2.8,
@@ -15,15 +15,18 @@
   },
   "targets": [],
   "sources": [
+    "https://decomp.dev/NSMB-Decomp/nsmb/A2DE/9c7c0b341ae87f860df090e1e35d720f06c70bfa",
     "https://decomp.dev/NSMB-Decomp/nsmb"
   ],
   "notes": [
     "New Super Mario Bros. | Nintendo DS | 2.80% decompiled | 0.01% fully linked",
-    "Progress source: https://decomp.dev/NSMB-Decomp/nsmb",
+    "Progress source: https://decomp.dev/NSMB-Decomp/nsmb/A2DE/9c7c0b341ae87f860df090e1e35d720f06c70bfa",
+    "Report target: A2DE",
     "Report commit date: 2026-09-03 19:10:14 +00:00",
     "Report commit: https://github.com/NSMB-Decomp/nsmb/commit/9c7c0b341ae87f860df090e1e35d720f06c70bfa"
   ],
   "snapshot_date": "2026-10-04",
   "report_date": "2026-09-03 19:10:14 +00:00",
-  "report_commit": "https://github.com/NSMB-Decomp/nsmb/commit/9c7c0b341ae87f860df090e1e35d720f06c70bfa"
+  "report_commit": "https://github.com/NSMB-Decomp/nsmb/commit/9c7c0b341ae87f860df090e1e35d720f06c70bfa",
+  "report_target": "A2DE"
 }

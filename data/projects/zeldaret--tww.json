@@ -5,7 +5,7 @@
   "category": "decomp",
   "group": "2. OLDER AAA / FLAGSHIP CONSOLE AND PC GAMES",
   "platform": "GameCube",
-  "type": "Matching decompilation",
+  "type": "Game decompilation",
   "description": "",
   "progress": {
     "decompiled": 78.86,
@@ -15,15 +15,18 @@
   },
   "targets": [],
   "sources": [
+    "https://decomp.dev/zeldaret/tww/GZLE01/49f2e3484e5814cbafde68525128669589e86bb2",
     "https://decomp.dev/zeldaret/tww"
   ],
   "notes": [
     "The Legend of Zelda: The Wind Waker | GameCube | 78.86% decompiled | 66.91% fully linked",
-    "Progress source: https://decomp.dev/zeldaret/tww",
+    "Progress source: https://decomp.dev/zeldaret/tww/GZLE01/49f2e3484e5814cbafde68525128669589e86bb2",
+    "Report target: GZLE01",
     "Report commit date: 2026-10-03 23:50:45 +00:00",
     "Report commit: https://github.com/zeldaret/tww/commit/49f2e3484e5814cbafde68525128669589e86bb2"
   ],
   "snapshot_date": "2026-10-04",
   "report_date": "2026-10-03 23:50:45 +00:00",
-  "report_commit": "https://github.com/zeldaret/tww/commit/49f2e3484e5814cbafde68525128669589e86bb2"
+  "report_commit": "https://github.com/zeldaret/tww/commit/49f2e3484e5814cbafde68525128669589e86bb2",
+  "report_target": "GZLE01"
 }

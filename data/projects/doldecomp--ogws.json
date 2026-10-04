@@ -5,7 +5,7 @@
   "category": "decomp",
   "group": "2. OLDER AAA / FLAGSHIP CONSOLE AND PC GAMES",
   "platform": "Wii",
-  "type": "Matching decompilation",
+  "type": "Game decompilation",
   "description": "",
   "progress": {
     "decompiled": 35.03,
@@ -15,15 +15,18 @@
   },
   "targets": [],
   "sources": [
+    "https://decomp.dev/doldecomp/ogws/RSPE01_01/27fa94a593096eed7442efc4e70981fd52025b9c",
     "https://decomp.dev/doldecomp/ogws"
   ],
   "notes": [
     "Wii Sports | Wii | 35.03% decompiled | 28.93% fully linked",
-    "Progress source: https://decomp.dev/doldecomp/ogws",
+    "Progress source: https://decomp.dev/doldecomp/ogws/RSPE01_01/27fa94a593096eed7442efc4e70981fd52025b9c",
+    "Report target: RSPE01_01",
     "Report commit date: 2026-09-19 21:27:59 +00:00",
     "Report commit: https://github.com/doldecomp/ogws/commit/27fa94a593096eed7442efc4e70981fd52025b9c"
   ],
   "snapshot_date": "2026-10-04",
   "report_date": "2026-09-19 21:27:59 +00:00",
-  "report_commit": "https://github.com/doldecomp/ogws/commit/27fa94a593096eed7442efc4e70981fd52025b9c"
+  "report_commit": "https://github.com/doldecomp/ogws/commit/27fa94a593096eed7442efc4e70981fd52025b9c",
+  "report_target": "RSPE01_01"
 }

@@ -5,7 +5,7 @@
   "category": "decomp",
   "group": "3. MAJOR HANDHELD / FRANCHISE GAMES",
   "platform": "PlayStation",
-  "type": "Matching decompilation",
+  "type": "Game decompilation",
   "description": "",
   "progress": {
     "decompiled": 80.36,
@@ -15,15 +15,18 @@
   },
   "targets": [],
   "sources": [
+    "https://decomp.dev/daanhenke/persona-psx/JP1/dfd1cd401d2c260cf2b8a91e50acb78a9e803e75",
     "https://decomp.dev/daanhenke/persona-psx"
   ],
   "notes": [
     "Megami Ibunroku Persona | PlayStation | 80.36% decompiled",
-    "Progress source: https://decomp.dev/daanhenke/persona-psx",
+    "Progress source: https://decomp.dev/daanhenke/persona-psx/JP1/dfd1cd401d2c260cf2b8a91e50acb78a9e803e75",
+    "Report target: JP1",
     "Report commit date: 2026-10-03 02:57:35 +00:00",
     "Report commit: https://github.com/daanhenke/persona-psx/commit/dfd1cd401d2c260cf2b8a91e50acb78a9e803e75"
   ],
   "snapshot_date": "2026-10-04",
   "report_date": "2026-10-03 02:57:35 +00:00",
-  "report_commit": "https://github.com/daanhenke/persona-psx/commit/dfd1cd401d2c260cf2b8a91e50acb78a9e803e75"
+  "report_commit": "https://github.com/daanhenke/persona-psx/commit/dfd1cd401d2c260cf2b8a91e50acb78a9e803e75",
+  "report_target": "JP1"
 }

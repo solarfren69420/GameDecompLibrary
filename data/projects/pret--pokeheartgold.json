@@ -26,7 +26,9 @@
       "notes": []
     }
   ],
-  "sources": [],
+  "sources": [
+    "https://raw.githubusercontent.com/pret/pokeheartgold/HEAD/README.md"
+  ],
   "notes": [
     "Matching decompilation %: N/A — different project category; no comparable numerical metric verified here.",
     "Target: Pokémon HeartGold / SoulSilver | WIP disassembly"

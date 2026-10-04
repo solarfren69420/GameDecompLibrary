@@ -5,7 +5,7 @@
   "category": "decomp",
   "group": "4. SMALLER COMMERCIAL, LICENSED, CULT AND NICHE GAMES",
   "platform": "Windows",
-  "type": "Matching decompilation",
+  "type": "Game decompilation",
   "description": "",
   "progress": {
     "decompiled": 0.51,
@@ -15,15 +15,18 @@
   },
   "targets": [],
   "sources": [
+    "https://decomp.dev/AARosson48/SummonerDecomp/sum-pc/94a1a58c13516f5ae163dd96c485f299d41a636a",
     "https://decomp.dev/AARosson48/SummonerDecomp"
   ],
   "notes": [
     "Summoner | Windows | 0.51% decompiled",
-    "Progress source: https://decomp.dev/AARosson48/SummonerDecomp",
+    "Progress source: https://decomp.dev/AARosson48/SummonerDecomp/sum-pc/94a1a58c13516f5ae163dd96c485f299d41a636a",
+    "Report target: sum-pc",
     "Report commit date: 2026-10-03 04:19:43 +00:00",
     "Report commit: https://github.com/AARosson48/SummonerDecomp/commit/94a1a58c13516f5ae163dd96c485f299d41a636a"
   ],
   "snapshot_date": "2026-10-04",
   "report_date": "2026-10-03 04:19:43 +00:00",
-  "report_commit": "https://github.com/AARosson48/SummonerDecomp/commit/94a1a58c13516f5ae163dd96c485f299d41a636a"
+  "report_commit": "https://github.com/AARosson48/SummonerDecomp/commit/94a1a58c13516f5ae163dd96c485f299d41a636a",
+  "report_target": "sum-pc"
 }

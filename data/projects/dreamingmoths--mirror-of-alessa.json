@@ -5,7 +5,7 @@
   "category": "decomp",
   "group": "2. OLDER AAA / FLAGSHIP CONSOLE AND PC GAMES",
   "platform": "PlayStation 2",
-  "type": "Matching decompilation",
+  "type": "Game decompilation",
   "description": "",
   "progress": {
     "decompiled": 44.97,
@@ -15,15 +15,18 @@
   },
   "targets": [],
   "sources": [
+    "https://decomp.dev/dreamingmoths/mirror-of-alessa/SLUS_202.28/80ae481de65c4ac7fcd23da66a7eaed9cddfc3f3",
     "https://decomp.dev/dreamingmoths/mirror-of-alessa"
   ],
   "notes": [
     "Silent Hill 2 | PlayStation 2 | 44.97% decompiled",
-    "Progress source: https://decomp.dev/dreamingmoths/mirror-of-alessa",
+    "Progress source: https://decomp.dev/dreamingmoths/mirror-of-alessa/SLUS_202.28/80ae481de65c4ac7fcd23da66a7eaed9cddfc3f3",
+    "Report target: SLUS_202.28",
     "Report commit date: 2026-10-03 20:08:11 +00:00",
     "Report commit: https://github.com/dreamingmoths/mirror-of-alessa/commit/80ae481de65c4ac7fcd23da66a7eaed9cddfc3f3"
   ],
   "snapshot_date": "2026-10-04",
   "report_date": "2026-10-03 20:08:11 +00:00",
-  "report_commit": "https://github.com/dreamingmoths/mirror-of-alessa/commit/80ae481de65c4ac7fcd23da66a7eaed9cddfc3f3"
+  "report_commit": "https://github.com/dreamingmoths/mirror-of-alessa/commit/80ae481de65c4ac7fcd23da66a7eaed9cddfc3f3",
+  "report_target": "SLUS_202.28"
 }

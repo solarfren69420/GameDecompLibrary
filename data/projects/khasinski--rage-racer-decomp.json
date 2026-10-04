@@ -5,7 +5,7 @@
   "category": "decomp",
   "group": "4. SMALLER COMMERCIAL, LICENSED, CULT AND NICHE GAMES",
   "platform": "PlayStation",
-  "type": "Matching decompilation",
+  "type": "Game decompilation",
   "description": "",
   "progress": {
     "decompiled": 100.0,
@@ -15,15 +15,18 @@
   },
   "targets": [],
   "sources": [
+    "https://decomp.dev/khasinski/rage-racer-decomp/SCES_006.50/c5273505acbe282aa92f88cff52065fbc5007aed",
     "https://decomp.dev/khasinski/rage-racer-decomp"
   ],
   "notes": [
     "Rage Racer | PlayStation | 100.00% decompiled | 95.34% fully linked",
-    "Progress source: https://decomp.dev/khasinski/rage-racer-decomp",
+    "Progress source: https://decomp.dev/khasinski/rage-racer-decomp/SCES_006.50/c5273505acbe282aa92f88cff52065fbc5007aed",
+    "Report target: SCES_006.50",
     "Report commit date: 2026-09-05 12:22:12 +00:00",
     "Report commit: https://github.com/khasinski/rage-racer-decomp/commit/c5273505acbe282aa92f88cff52065fbc5007aed"
   ],
   "snapshot_date": "2026-10-04",
   "report_date": "2026-09-05 12:22:12 +00:00",
-  "report_commit": "https://github.com/khasinski/rage-racer-decomp/commit/c5273505acbe282aa92f88cff52065fbc5007aed"
+  "report_commit": "https://github.com/khasinski/rage-racer-decomp/commit/c5273505acbe282aa92f88cff52065fbc5007aed",
+  "report_target": "SCES_006.50"
 }

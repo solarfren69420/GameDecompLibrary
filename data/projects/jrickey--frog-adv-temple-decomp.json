@@ -5,7 +5,7 @@
   "category": "decomp",
   "group": "4. SMALLER COMMERCIAL, LICENSED, CULT AND NICHE GAMES",
   "platform": "Game Boy Advance",
-  "type": "Matching decompilation",
+  "type": "Game decompilation",
   "description": "",
   "progress": {
     "decompiled": 42.48,
@@ -15,15 +15,18 @@
   },
   "targets": [],
   "sources": [
+    "https://decomp.dev/JRickey/frog-adv-temple-decomp/us/fed8033013cb0e8c546008c83e04d2b80fc6f19b",
     "https://decomp.dev/JRickey/frog-adv-temple-decomp"
   ],
   "notes": [
     "Frogger's Adventures: Temple of the Frog | Game Boy Advance | 42.48% decompiled | 45.59% fully linked",
-    "Progress source: https://decomp.dev/JRickey/frog-adv-temple-decomp",
+    "Progress source: https://decomp.dev/JRickey/frog-adv-temple-decomp/us/fed8033013cb0e8c546008c83e04d2b80fc6f19b",
+    "Report target: us",
     "Report commit date: 2026-09-08 22:12:42 +00:00",
     "Report commit: https://github.com/JRickey/frog-adv-temple-decomp/commit/fed8033013cb0e8c546008c83e04d2b80fc6f19b"
   ],
   "snapshot_date": "2026-10-04",
   "report_date": "2026-09-08 22:12:42 +00:00",
-  "report_commit": "https://github.com/JRickey/frog-adv-temple-decomp/commit/fed8033013cb0e8c546008c83e04d2b80fc6f19b"
+  "report_commit": "https://github.com/JRickey/frog-adv-temple-decomp/commit/fed8033013cb0e8c546008c83e04d2b80fc6f19b",
+  "report_target": "us"
 }

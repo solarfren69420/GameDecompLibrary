@@ -5,7 +5,7 @@
   "category": "decomp",
   "group": "3. MAJOR HANDHELD / FRANCHISE GAMES",
   "platform": "Wii",
-  "type": "Matching decompilation",
+  "type": "Game decompilation",
   "description": "",
   "progress": {
     "decompiled": 2.21,
@@ -15,15 +15,18 @@
   },
   "targets": [],
   "sources": [
+    "https://decomp.dev/Swiftshine/key/RK5E01/2d27380678e863aacb069703ea6da262819432a4",
     "https://decomp.dev/Swiftshine/key"
   ],
   "notes": [
     "Kirby's Epic Yarn | Wii | 2.21% decompiled | 0.96% fully linked",
-    "Progress source: https://decomp.dev/Swiftshine/key",
+    "Progress source: https://decomp.dev/Swiftshine/key/RK5E01/2d27380678e863aacb069703ea6da262819432a4",
+    "Report target: RK5E01",
     "Report commit date: 2026-09-29 19:33:42 +00:00",
     "Report commit: https://github.com/Swiftshine/key/commit/2d27380678e863aacb069703ea6da262819432a4"
   ],
   "snapshot_date": "2026-10-04",
   "report_date": "2026-09-29 19:33:42 +00:00",
-  "report_commit": "https://github.com/Swiftshine/key/commit/2d27380678e863aacb069703ea6da262819432a4"
+  "report_commit": "https://github.com/Swiftshine/key/commit/2d27380678e863aacb069703ea6da262819432a4",
+  "report_target": "RK5E01"
 }

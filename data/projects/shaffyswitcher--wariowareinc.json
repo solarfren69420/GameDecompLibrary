@@ -5,7 +5,7 @@
   "category": "decomp",
   "group": "3. MAJOR HANDHELD / FRANCHISE GAMES",
   "platform": "Game Boy Advance",
-  "type": "Matching decompilation",
+  "type": "Game decompilation",
   "description": "",
   "progress": {
     "decompiled": 30.77,
@@ -15,15 +15,18 @@
   },
   "targets": [],
   "sources": [
+    "https://decomp.dev/ShaffySwitcher/wariowareinc/AZWE/5681c02963f5011e509c6e7cb2ee77d0e9017917",
     "https://decomp.dev/ShaffySwitcher/wariowareinc"
   ],
   "notes": [
     "WarioWare, Inc.: Mega Microgames! | Game Boy Advance | 30.77% decompiled | 30.77% fully linked",
-    "Progress source: https://decomp.dev/ShaffySwitcher/wariowareinc",
+    "Progress source: https://decomp.dev/ShaffySwitcher/wariowareinc/AZWE/5681c02963f5011e509c6e7cb2ee77d0e9017917",
+    "Report target: AZWE",
     "Report commit date: 2026-06-26 17:31:13 +00:00",
     "Report commit: https://github.com/ShaffySwitcher/wariowareinc/commit/5681c02963f5011e509c6e7cb2ee77d0e9017917"
   ],
   "snapshot_date": "2026-10-04",
   "report_date": "2026-06-26 17:31:13 +00:00",
-  "report_commit": "https://github.com/ShaffySwitcher/wariowareinc/commit/5681c02963f5011e509c6e7cb2ee77d0e9017917"
+  "report_commit": "https://github.com/ShaffySwitcher/wariowareinc/commit/5681c02963f5011e509c6e7cb2ee77d0e9017917",
+  "report_target": "AZWE"
 }

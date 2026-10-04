@@ -6,7 +6,7 @@
   "group": "REGRESSION TESTS / AUTOMATED REPAIR SUPPORT",
   "platform": "Not specified",
   "type": "Static recompilation",
-  "description": "",
+  "description": "Static recompilation of Sonic the Hedgehog (2006) for PC. The README says it remains under active development and is not intended for public use before an official release.",
   "progress": {
     "decompiled": null,
     "linked": null,
@@ -26,10 +26,13 @@
       "notes": []
     }
   ],
-  "sources": [],
+  "sources": [
+    "https://raw.githubusercontent.com/sonicnext-dev/MarathonRecomp/HEAD/README.md"
+  ],
   "notes": [
     "Matching decompilation %: N/A — different project category; no comparable numerical metric verified here.",
-    "Target: Sonic the Hedgehog (2006), Marathon Recompiled | Static recompilation"
+    "Target: Sonic the Hedgehog (2006), Marathon Recompiled | Static recompilation",
+    "Release scope: README warns that the project is under active development, is not meant for public use yet, and provides no support until an official release."
   ],
   "snapshot_date": "2026-10-04",
   "report_date": "",

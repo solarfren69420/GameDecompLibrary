@@ -6,7 +6,7 @@
   "group": "UNREAL ENGINE",
   "platform": "Cross-platform / project-specific",
   "type": "Rust engine integration",
-  "description": "Run Rust components/gameplay in supported Unreal Engine versions; does not expose all Unreal gameplay APIs.",
+  "description": "Proof-of-concept Rust integration for Unreal Engine. The upstream README explicitly says it is not ready for a real project; APIs and compatibility can change.",
   "progress": {
     "decompiled": null,
     "linked": null,
@@ -23,7 +23,8 @@
     "Game decompilation %: NOT APPLICABLE TO THIS TOOL",
     "Helps with: Run Rust components/gameplay in supported Unreal Engine versions; does not expose all Unreal gameplay APIs.",
     "Scope/status: Limited Unreal API/engine-version integration; it is not a universal Rust binding for arbitrary shipped Unreal games.",
-    "Evidence: https://raw.githubusercontent.com/MaikKlein/unreal-rust/main/README.md"
+    "Evidence: https://raw.githubusercontent.com/MaikKlein/unreal-rust/main/README.md",
+    "Maturity: early proof of concept; upstream says it is not ready for use in a real project."
   ],
   "snapshot_date": "2026-10-04",
   "report_date": "",

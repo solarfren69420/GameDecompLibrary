@@ -5,7 +5,7 @@
   "category": "decomp",
   "group": "4. SMALLER COMMERCIAL, LICENSED, CULT AND NICHE GAMES",
   "platform": "Nintendo 64",
-  "type": "Matching decompilation",
+  "type": "Game decompilation",
   "description": "",
   "progress": {
     "decompiled": 100.0,
@@ -15,15 +15,18 @@
   },
   "targets": [],
   "sources": [
+    "https://decomp.dev/cdlewis/snowboardkids-decomp/us/551d4d12565f1112e148ee95f5f228d540d73bbb",
     "https://decomp.dev/cdlewis/snowboardkids-decomp"
   ],
   "notes": [
     "Snowboard Kids | Nintendo 64 | 100.00% decompiled",
-    "Progress source: https://decomp.dev/cdlewis/snowboardkids-decomp",
+    "Progress source: https://decomp.dev/cdlewis/snowboardkids-decomp/us/551d4d12565f1112e148ee95f5f228d540d73bbb",
+    "Report target: us",
     "Report commit date: 2026-09-27 17:30:58 +00:00",
     "Report commit: https://github.com/cdlewis/snowboardkids-decomp/commit/551d4d12565f1112e148ee95f5f228d540d73bbb"
   ],
   "snapshot_date": "2026-10-04",
   "report_date": "2026-09-27 17:30:58 +00:00",
-  "report_commit": "https://github.com/cdlewis/snowboardkids-decomp/commit/551d4d12565f1112e148ee95f5f228d540d73bbb"
+  "report_commit": "https://github.com/cdlewis/snowboardkids-decomp/commit/551d4d12565f1112e148ee95f5f228d540d73bbb",
+  "report_target": "us"
 }

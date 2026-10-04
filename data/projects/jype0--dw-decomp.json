@@ -5,7 +5,7 @@
   "category": "decomp",
   "group": "3. MAJOR HANDHELD / FRANCHISE GAMES",
   "platform": "PlayStation",
-  "type": "Matching decompilation",
+  "type": "Game decompilation",
   "description": "",
   "progress": {
     "decompiled": 100.0,
@@ -15,15 +15,18 @@
   },
   "targets": [],
   "sources": [
+    "https://decomp.dev/jype0/dw_decomp/us/bd2f7cc55ad1011efe0ee26061e70c569c211559",
     "https://decomp.dev/jype0/dw_decomp"
   ],
   "notes": [
     "Digimon World | PlayStation | 100.00% decompiled",
-    "Progress source: https://decomp.dev/jype0/dw_decomp",
+    "Progress source: https://decomp.dev/jype0/dw_decomp/us/bd2f7cc55ad1011efe0ee26061e70c569c211559",
+    "Report target: us",
     "Report commit date: 2026-10-02 07:48:43 +00:00",
     "Report commit: https://github.com/jype0/dw_decomp/commit/bd2f7cc55ad1011efe0ee26061e70c569c211559"
   ],
   "snapshot_date": "2026-10-04",
   "report_date": "2026-10-02 07:48:43 +00:00",
-  "report_commit": "https://github.com/jype0/dw_decomp/commit/bd2f7cc55ad1011efe0ee26061e70c569c211559"
+  "report_commit": "https://github.com/jype0/dw_decomp/commit/bd2f7cc55ad1011efe0ee26061e70c569c211559",
+  "report_target": "us"
 }
