@@ -83,13 +83,14 @@ def main():
     checked = {r['id']: r for r in report['projects']}
     audit_date = report['checked_at'][:10]
     lines = [
-        '<p align="center"><img src="web/banner.svg" alt="Game Decompilation Library" width="100%"></p>', '',
+        '<p align="center"><a href="https://solarfren69420.github.io/GameDecompLibrary/"><img src="assets/library-card.png" alt="GameDecompLibrary: a golden librarian with a collection of game decompilation projects, tools and resources" width="100%"></a></p>', '',
         '# Game Decompilation Library — final accuracy report', '',
         f'**Audit date: {audit_date} (UTC).** This README contains the final report, corrections, limits and an entry-by-entry audit of the complete 303-project snapshot.', '',
         f'[Interactive library](https://solarfren69420.github.io/GameDecompLibrary/) · [Full catalog](CATALOG.md) · [Submit your GitHub]({REPO}/issues/new?template=add-project.yml) · [Suggest a correction]({REPO}/issues/new?template=update-project.yml)', '',
         '<!-- catalog-stats:start -->',
         f"**{len(records)} projects** · {counts['decomp']} game projects · {counts['tool']} tools · {counts['related']} related projects · {counts['unconfirmed']} unconfirmed link",
         '<!-- catalog-stats:end -->', '',
+        'The artwork uses approximate counts. The totals above track the catalog; use the links above to browse, submit a project or suggest a correction.', '',
         '## Result', '',
         '| Check | Result |', '| --- | --- |',
         '| Original catalog preservation | All 303 original project URLs retained; no repository silently removed |',
@@ -170,6 +171,10 @@ def main():
         f'The workflow is in **[Actions → Build and update catalog]({REPO}/actions/workflows/catalog.yml)**, not the Pages template chooser. In [Settings → Pages]({REPO}/settings/pages), choose **GitHub Actions** as Source. Then open the workflow, click **Run workflow**, select `main`, and run it. New pushes to `main` also trigger it. The supplied Jekyll and Static HTML templates are unnecessary for this repository.', '',
         'Website address: **https://solarfren69420.github.io/GameDecompLibrary/**.', '',
         'The responsive static library includes search, platform/progress filters, sorting, pagination, project sources, report targets, shared project links and GitHub editing/submission links. Its build uses Python’s standard library. No database, API key or npm dependency is needed.', '',
+        '## Repository social preview', '',
+        "The blue, yellow and orange strip on GitHub's default preview represents this repository's Python, JavaScript and HTML file sizes. It does not indicate game decompilation progress.", '',
+        "To replace that default card, download [the prepared social preview](assets/social-preview.jpg), open [Settings → General](https://github.com/solarfren69420/GameDecompLibrary/settings), and choose **Social preview → Edit → Upload an image…**. The JPEG is 1280 × 640 and under 1 MB, following [GitHub's image requirements](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/customizing-your-repositorys-social-media-preview). Committing artwork to the README does not activate this separate GitHub setting.", '',
+        'The README uses your original artwork. The wider social preview uses the same theme with the exact 303-entry snapshot counts. Artwork is static; the catalog workflow updates the text totals above. After catalog additions, update the preview artwork and upload it again if you want its numbers to reflect the newer totals.', '',
         '## Reproducible evidence and checks', '',
         'The readable final report is this single README. Supporting machine records include [per-source results and hashes](sources/audit-results.json), [before/after tracker records](sources/audit-changes.json) and the [unaltered original catalog](sources/game-decomp-github-linklist.txt). Source bodies are cached locally for the audit and are not copied into the public repository.', '',
         '```sh', 'python3 -m unittest discover -s tests -v', 'python3 scripts/build.py --update-docs', 'node --check web/app.js', '```', '',

@@ -1,4 +1,4 @@
-<p align="center"><img src="web/banner.svg" alt="Game Decompilation Library" width="100%"></p>
+<p align="center"><a href="https://solarfren69420.github.io/GameDecompLibrary/"><img src="assets/library-card.png" alt="GameDecompLibrary: a golden librarian with a collection of game decompilation projects, tools and resources" width="100%"></a></p>
 
 # Game Decompilation Library — final accuracy report
 
@@ -9,6 +9,8 @@
 <!-- catalog-stats:start -->
 **303 projects** · 220 game projects · 71 tools · 11 related projects · 1 unconfirmed link
 <!-- catalog-stats:end -->
+
+The artwork uses approximate counts. The totals above track the catalog; use the links above to browse, submit a project or suggest a correction.
 
 ## Result
 
@@ -430,6 +432,14 @@ The workflow is in **[Actions → Build and update catalog](https://github.com/s
 Website address: **https://solarfren69420.github.io/GameDecompLibrary/**.
 
 The responsive static library includes search, platform/progress filters, sorting, pagination, project sources, report targets, shared project links and GitHub editing/submission links. Its build uses Python’s standard library. No database, API key or npm dependency is needed.
+
+## Repository social preview
+
+The blue, yellow and orange strip on GitHub's default preview represents this repository's Python, JavaScript and HTML file sizes. It does not indicate game decompilation progress.
+
+To replace that default card, download [the prepared social preview](assets/social-preview.jpg), open [Settings → General](https://github.com/solarfren69420/GameDecompLibrary/settings), and choose **Social preview → Edit → Upload an image…**. The JPEG is 1280 × 640 and under 1 MB, following [GitHub's image requirements](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/customizing-your-repositorys-social-media-preview). Committing artwork to the README does not activate this separate GitHub setting.
+
+The README uses your original artwork. The wider social preview uses the same theme with the exact 303-entry snapshot counts. Artwork is static; the catalog workflow updates the text totals above. After catalog additions, update the preview artwork and upload it again if you want its numbers to reflect the newer totals.
 
 ## Reproducible evidence and checks
 
