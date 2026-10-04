@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Browse the complete catalog
+    url: https://github.com/solarfren69420/GameDecompLibrary/blob/main/CATALOG.md
+    about: Search the existing projects before submitting a new one.
+  - name: Contribution and editing guide
+    url: https://github.com/solarfren69420/GameDecompLibrary/blob/main/CONTRIBUTING.md
+    about: Learn how to send a pull request or update a project file.

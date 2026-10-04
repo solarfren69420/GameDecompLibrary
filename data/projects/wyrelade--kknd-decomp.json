@@ -1,0 +1,29 @@
+{
+  "id": "wyrelade--kknd-decomp",
+  "name": "Krush Kill 'N Destroy Xtreme",
+  "url": "https://github.com/Wyrelade/KKND-Decomp",
+  "category": "decomp",
+  "group": "4. SMALLER COMMERCIAL, LICENSED, CULT AND NICHE GAMES",
+  "platform": "Windows",
+  "type": "Matching decompilation",
+  "description": "",
+  "progress": {
+    "decompiled": 1.64,
+    "linked": 1.64,
+    "kind": "reported",
+    "label": "1.64% decompiled | 1.64% fully linked"
+  },
+  "targets": [],
+  "sources": [
+    "https://decomp.dev/Wyrelade/KKND-Decomp"
+  ],
+  "notes": [
+    "Krush Kill 'N Destroy Xtreme | Windows | 1.64% decompiled | 1.64% fully linked",
+    "Progress source: https://decomp.dev/Wyrelade/KKND-Decomp",
+    "Report commit date: 2026-09-24 17:37:13 +00:00",
+    "Report commit: https://github.com/Wyrelade/KKND-Decomp/commit/a1c8c22d8c8e38e74a1dd6ba6315a6b32326a140"
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "2026-09-24 17:37:13 +00:00",
+  "report_commit": "https://github.com/Wyrelade/KKND-Decomp/commit/a1c8c22d8c8e38e74a1dd6ba6315a6b32326a140"
+}

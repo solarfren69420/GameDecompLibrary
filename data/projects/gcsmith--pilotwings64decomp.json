@@ -1,0 +1,29 @@
+{
+  "id": "gcsmith--pilotwings64decomp",
+  "name": "Pilotwings 64",
+  "url": "https://github.com/gcsmith/Pilotwings64Decomp",
+  "category": "decomp",
+  "group": "2. OLDER AAA / FLAGSHIP CONSOLE AND PC GAMES",
+  "platform": "Nintendo 64",
+  "type": "Matching decompilation",
+  "description": "",
+  "progress": {
+    "decompiled": 100.0,
+    "linked": null,
+    "kind": "reported",
+    "label": "100.00% decompiled"
+  },
+  "targets": [],
+  "sources": [
+    "https://decomp.dev/gcsmith/Pilotwings64Decomp"
+  ],
+  "notes": [
+    "Pilotwings 64 | Nintendo 64 | 100.00% decompiled",
+    "Progress source: https://decomp.dev/gcsmith/Pilotwings64Decomp",
+    "Report commit date: 2026-09-28 17:36:49 +00:00",
+    "Report commit: https://github.com/gcsmith/Pilotwings64Decomp/commit/1a8558f5ceb320cce254d6da0a49a1f2bbc23e21"
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "2026-09-28 17:36:49 +00:00",
+  "report_commit": "https://github.com/gcsmith/Pilotwings64Decomp/commit/1a8558f5ceb320cce254d6da0a49a1f2bbc23e21"
+}

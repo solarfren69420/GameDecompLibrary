@@ -1,0 +1,30 @@
+{
+  "id": "rust-sdl2--rust-sdl2",
+  "name": "Rust-SDL2/rust-sdl2",
+  "url": "https://github.com/Rust-SDL2/rust-sdl2",
+  "category": "tool",
+  "group": "REUSABLE RUST CLIENT COMPONENTS",
+  "platform": "Cross-platform / project-specific",
+  "type": "Rust multimedia bindings",
+  "description": "SDL2 window/input/audio interfaces; useful platform layer.",
+  "progress": {
+    "decompiled": null,
+    "linked": null,
+    "kind": "unknown",
+    "label": "Not applicable to tools"
+  },
+  "targets": [],
+  "sources": [
+    "https://raw.githubusercontent.com/Rust-SDL2/rust-sdl2/master/README.md"
+  ],
+  "notes": [
+    "Type: Rust multimedia bindings",
+    "Tool completion %: NOT PUBLISHED IN CHECKED SOURCES",
+    "Game decompilation %: NOT APPLICABLE TO THIS TOOL",
+    "Helps with: SDL2 window/input/audio interfaces; useful platform layer.",
+    "Evidence: https://raw.githubusercontent.com/Rust-SDL2/rust-sdl2/master/README.md"
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "",
+  "report_commit": ""
+}

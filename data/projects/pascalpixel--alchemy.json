@@ -1,0 +1,29 @@
+{
+  "id": "pascalpixel--alchemy",
+  "name": "Golden Sun",
+  "url": "https://github.com/PascalPixel/alchemy",
+  "category": "decomp",
+  "group": "3. MAJOR HANDHELD / FRANCHISE GAMES",
+  "platform": "Game Boy Advance",
+  "type": "Matching decompilation",
+  "description": "",
+  "progress": {
+    "decompiled": 89.86,
+    "linked": 89.86,
+    "kind": "reported",
+    "label": "89.86% decompiled | 89.86% fully linked"
+  },
+  "targets": [],
+  "sources": [
+    "https://decomp.dev/PascalPixel/alchemy"
+  ],
+  "notes": [
+    "Golden Sun | Game Boy Advance | 89.86% decompiled | 89.86% fully linked",
+    "Progress source: https://decomp.dev/PascalPixel/alchemy",
+    "Report commit date: 2026-10-04 10:48:07 +00:00",
+    "Report commit: https://github.com/PascalPixel/alchemy/commit/d1a0a9b3c9f9096f988f511adc48aa16037693bd"
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "2026-10-04 10:48:07 +00:00",
+  "report_commit": "https://github.com/PascalPixel/alchemy/commit/d1a0a9b3c9f9096f988f511adc48aa16037693bd"
+}

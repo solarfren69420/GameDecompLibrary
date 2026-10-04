@@ -1,0 +1,29 @@
+{
+  "id": "rjkiv--sonic06",
+  "name": "Sonic the Hedgehog (2006)",
+  "url": "https://github.com/rjkiv/sonic06",
+  "category": "decomp",
+  "group": "1. HD-ERA / MODERN HIGH-PROFILE GAMES — AAA AND MAJOR FRANCHISES",
+  "platform": "Xbox 360",
+  "type": "Matching decompilation",
+  "description": "",
+  "progress": {
+    "decompiled": 0.61,
+    "linked": 0.38,
+    "kind": "reported",
+    "label": "0.61% decompiled | 0.38% fully linked"
+  },
+  "targets": [],
+  "sources": [
+    "https://decomp.dev/rjkiv/sonic06"
+  ],
+  "notes": [
+    "Sonic the Hedgehog (2006) | Xbox 360 | 0.61% decompiled | 0.38% fully linked",
+    "Progress source: https://decomp.dev/rjkiv/sonic06",
+    "Report commit date: 2026-08-30 17:31:53 +00:00",
+    "Report commit: https://github.com/rjkiv/sonic06/commit/eb11705eabe94830001eb897877a1655a1144b1c"
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "2026-08-30 17:31:53 +00:00",
+  "report_commit": "https://github.com/rjkiv/sonic06/commit/eb11705eabe94830001eb897877a1655a1144b1c"
+}

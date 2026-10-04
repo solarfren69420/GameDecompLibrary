@@ -1,0 +1,30 @@
+{
+  "id": "ue4ss-re--re-ue4ss",
+  "name": "UE4SS-RE/RE-UE4SS",
+  "url": "https://github.com/UE4SS-RE/RE-UE4SS",
+  "category": "tool",
+  "group": "UNREAL ENGINE",
+  "platform": "Cross-platform / project-specific",
+  "type": "C++/Lua modding framework",
+  "description": "Unreal reflection, mod loading and runtime interaction; not a Rust binding by itself.",
+  "progress": {
+    "decompiled": null,
+    "linked": null,
+    "kind": "unknown",
+    "label": "Not applicable to tools"
+  },
+  "targets": [],
+  "sources": [
+    "https://raw.githubusercontent.com/UE4SS-RE/RE-UE4SS/main/README.md"
+  ],
+  "notes": [
+    "Type: C++/Lua modding framework",
+    "Tool completion %: NOT PUBLISHED IN CHECKED SOURCES",
+    "Game decompilation %: NOT APPLICABLE TO THIS TOOL",
+    "Helps with: Unreal reflection, mod loading and runtime interaction; not a Rust binding by itself.",
+    "Evidence: https://raw.githubusercontent.com/UE4SS-RE/RE-UE4SS/main/README.md"
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "",
+  "report_commit": ""
+}

@@ -1,0 +1,30 @@
+{
+  "id": "casualx--pelite",
+  "name": "CasualX/pelite",
+  "url": "https://github.com/CasualX/pelite",
+  "category": "tool",
+  "group": "BINARY FORMATS / RUNTIME ANALYSIS",
+  "platform": "Cross-platform / project-specific",
+  "type": "Rust PE analysis",
+  "description": "Windows executable parsing and pattern-related tooling; useful for understanding native game binaries.",
+  "progress": {
+    "decompiled": null,
+    "linked": null,
+    "kind": "unknown",
+    "label": "Not applicable to tools"
+  },
+  "targets": [],
+  "sources": [
+    "https://github.com/CasualX/pelite"
+  ],
+  "notes": [
+    "Type: Rust PE analysis",
+    "Tool completion %: NOT PUBLISHED IN CHECKED SOURCES",
+    "Game decompilation %: NOT APPLICABLE TO THIS TOOL",
+    "Helps with: Windows executable parsing and pattern-related tooling; useful for understanding native game binaries.",
+    "Evidence: https://github.com/CasualX/pelite"
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "",
+  "report_commit": ""
+}

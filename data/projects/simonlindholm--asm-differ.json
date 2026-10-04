@@ -1,0 +1,30 @@
+{
+  "id": "simonlindholm--asm-differ",
+  "name": "simonlindholm/asm-differ",
+  "url": "https://github.com/simonlindholm/asm-differ",
+  "category": "tool",
+  "group": "BINARY FORMATS / RUNTIME ANALYSIS",
+  "platform": "Cross-platform / project-specific",
+  "type": "Python assembly diff tool",
+  "description": "Compare compiled assembly against the original during matching decompilation.",
+  "progress": {
+    "decompiled": null,
+    "linked": null,
+    "kind": "unknown",
+    "label": "Not applicable to tools"
+  },
+  "targets": [],
+  "sources": [
+    "https://raw.githubusercontent.com/simonlindholm/asm-differ/main/README.md"
+  ],
+  "notes": [
+    "Type: Python assembly diff tool",
+    "Tool completion %: NOT PUBLISHED IN CHECKED SOURCES",
+    "Game decompilation %: NOT APPLICABLE TO THIS TOOL",
+    "Helps with: Compare compiled assembly against the original during matching decompilation.",
+    "Evidence: https://raw.githubusercontent.com/simonlindholm/asm-differ/main/README.md"
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "",
+  "report_commit": ""
+}

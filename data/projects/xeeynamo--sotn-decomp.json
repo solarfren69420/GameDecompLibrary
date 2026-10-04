@@ -1,0 +1,29 @@
+{
+  "id": "xeeynamo--sotn-decomp",
+  "name": "Castlevania: Symphony of the Night",
+  "url": "https://github.com/Xeeynamo/sotn-decomp",
+  "category": "decomp",
+  "group": "2. OLDER AAA / FLAGSHIP CONSOLE AND PC GAMES",
+  "platform": "PlayStation",
+  "type": "Matching decompilation",
+  "description": "",
+  "progress": {
+    "decompiled": 69.39,
+    "linked": null,
+    "kind": "reported",
+    "label": "69.39% decompiled"
+  },
+  "targets": [],
+  "sources": [
+    "https://decomp.dev/Xeeynamo/sotn-decomp"
+  ],
+  "notes": [
+    "Castlevania: Symphony of the Night | PlayStation | 69.39% decompiled",
+    "Progress source: https://decomp.dev/Xeeynamo/sotn-decomp",
+    "Report commit date: 2026-10-03 08:55:35 +00:00",
+    "Report commit: https://github.com/Xeeynamo/sotn-decomp/commit/c7c2f6896def2b7891ff8019ab0ce309404ff93f"
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "2026-10-03 08:55:35 +00:00",
+  "report_commit": "https://github.com/Xeeynamo/sotn-decomp/commit/c7c2f6896def2b7891ff8019ab0ce309404ff93f"
+}

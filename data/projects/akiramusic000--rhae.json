@@ -1,0 +1,29 @@
+{
+  "id": "akiramusic000--rhae",
+  "name": "Wii Play",
+  "url": "https://github.com/akiramusic000/Rhae",
+  "category": "decomp",
+  "group": "2. OLDER AAA / FLAGSHIP CONSOLE AND PC GAMES",
+  "platform": "Wii",
+  "type": "Matching decompilation",
+  "description": "",
+  "progress": {
+    "decompiled": 35.99,
+    "linked": 32.23,
+    "kind": "reported",
+    "label": "35.99% decompiled | 32.23% fully linked"
+  },
+  "targets": [],
+  "sources": [
+    "https://decomp.dev/akiramusic000/Rhae"
+  ],
+  "notes": [
+    "Wii Play | Wii | 35.99% decompiled | 32.23% fully linked",
+    "Progress source: https://decomp.dev/akiramusic000/Rhae",
+    "Report commit date: 2026-10-03 22:19:31 +00:00",
+    "Report commit: https://github.com/akiramusic000/Rhae/commit/182cf1a172a944a088fd69b1cd84e3d0c21e0bd5"
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "2026-10-03 22:19:31 +00:00",
+  "report_commit": "https://github.com/akiramusic000/Rhae/commit/182cf1a172a944a088fd69b1cd84e3d0c21e0bd5"
+}

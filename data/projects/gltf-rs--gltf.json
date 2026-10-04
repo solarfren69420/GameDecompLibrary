@@ -1,0 +1,30 @@
+{
+  "id": "gltf-rs--gltf",
+  "name": "gltf-rs/gltf",
+  "url": "https://github.com/gltf-rs/gltf",
+  "category": "tool",
+  "group": "REUSABLE RUST CLIENT COMPONENTS",
+  "platform": "Cross-platform / project-specific",
+  "type": "Rust standard-format loader",
+  "description": "Read glTF assets after conversion from proprietary formats.",
+  "progress": {
+    "decompiled": null,
+    "linked": null,
+    "kind": "unknown",
+    "label": "Not applicable to tools"
+  },
+  "targets": [],
+  "sources": [
+    "https://raw.githubusercontent.com/gltf-rs/gltf/main/README.md"
+  ],
+  "notes": [
+    "Type: Rust standard-format loader",
+    "Tool completion %: NOT PUBLISHED IN CHECKED SOURCES",
+    "Game decompilation %: NOT APPLICABLE TO THIS TOOL",
+    "Helps with: Read glTF assets after conversion from proprietary formats.",
+    "Evidence: https://raw.githubusercontent.com/gltf-rs/gltf/main/README.md"
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "",
+  "report_commit": ""
+}

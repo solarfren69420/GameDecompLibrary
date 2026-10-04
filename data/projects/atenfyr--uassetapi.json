@@ -1,0 +1,30 @@
+{
+  "id": "atenfyr--uassetapi",
+  "name": "atenfyr/UAssetAPI",
+  "url": "https://github.com/atenfyr/UAssetAPI",
+  "category": "tool",
+  "group": "UNREAL ENGINE",
+  "platform": "Cross-platform / project-specific",
+  "type": "C# asset library",
+  "description": "Read/write Unreal asset files; useful format reference or preprocessing tool.",
+  "progress": {
+    "decompiled": null,
+    "linked": null,
+    "kind": "unknown",
+    "label": "Not applicable to tools"
+  },
+  "targets": [],
+  "sources": [
+    "https://raw.githubusercontent.com/atenfyr/UAssetAPI/master/README.md"
+  ],
+  "notes": [
+    "Type: C# asset library",
+    "Tool completion %: NOT PUBLISHED IN CHECKED SOURCES",
+    "Game decompilation %: NOT APPLICABLE TO THIS TOOL",
+    "Helps with: Read/write Unreal asset files; useful format reference or preprocessing tool.",
+    "Evidence: https://raw.githubusercontent.com/atenfyr/UAssetAPI/master/README.md"
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "",
+  "report_commit": ""
+}

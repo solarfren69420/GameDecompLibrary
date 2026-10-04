@@ -1,0 +1,29 @@
+{
+  "id": "wowjinxy--kar",
+  "name": "Kirby Air Ride",
+  "url": "https://github.com/wowjinxy/KAR",
+  "category": "decomp",
+  "group": "2. OLDER AAA / FLAGSHIP CONSOLE AND PC GAMES",
+  "platform": "GameCube",
+  "type": "Matching decompilation",
+  "description": "",
+  "progress": {
+    "decompiled": 9.02,
+    "linked": 1.49,
+    "kind": "reported",
+    "label": "9.02% decompiled | 1.49% fully linked"
+  },
+  "targets": [],
+  "sources": [
+    "https://decomp.dev/wowjinxy/KAR"
+  ],
+  "notes": [
+    "Kirby Air Ride | GameCube | 9.02% decompiled | 1.49% fully linked",
+    "Progress source: https://decomp.dev/wowjinxy/KAR",
+    "Report commit date: 2026-08-16 03:23:08 +00:00",
+    "Report commit: https://github.com/wowjinxy/KAR/commit/cb94b157612a1d8d187f0bd6ecb5c02aa4c77b57"
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "2026-08-16 03:23:08 +00:00",
+  "report_commit": "https://github.com/wowjinxy/KAR/commit/cb94b157612a1d8d187f0bd6ecb5c02aa4c77b57"
+}

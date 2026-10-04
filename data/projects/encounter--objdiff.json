@@ -1,0 +1,30 @@
+{
+  "id": "encounter--objdiff",
+  "name": "encounter/objdiff",
+  "url": "https://github.com/encounter/objdiff",
+  "category": "tool",
+  "group": "BINARY FORMATS / RUNTIME ANALYSIS",
+  "platform": "Cross-platform / project-specific",
+  "type": "Rust object-code comparison",
+  "description": "Compare reconstructed functions/object files against originals; matching-decomp verification aid.",
+  "progress": {
+    "decompiled": null,
+    "linked": null,
+    "kind": "unknown",
+    "label": "Not applicable to tools"
+  },
+  "targets": [],
+  "sources": [
+    "https://raw.githubusercontent.com/encounter/objdiff/main/README.md"
+  ],
+  "notes": [
+    "Type: Rust object-code comparison",
+    "Tool completion %: NOT PUBLISHED IN CHECKED SOURCES",
+    "Game decompilation %: NOT APPLICABLE TO THIS TOOL",
+    "Helps with: Compare reconstructed functions/object files against originals; matching-decomp verification aid.",
+    "Evidence: https://raw.githubusercontent.com/encounter/objdiff/main/README.md"
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "",
+  "report_commit": ""
+}

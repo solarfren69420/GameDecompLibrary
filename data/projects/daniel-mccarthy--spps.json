@@ -1,0 +1,29 @@
+{
+  "id": "daniel-mccarthy--spps",
+  "name": "Shaun Palmer's Pro Snowboarder",
+  "url": "https://github.com/Daniel-McCarthy/SPPS",
+  "category": "decomp",
+  "group": "2. OLDER AAA / FLAGSHIP CONSOLE AND PC GAMES",
+  "platform": "PlayStation 2",
+  "type": "Matching decompilation",
+  "description": "",
+  "progress": {
+    "decompiled": 48.18,
+    "linked": 15.5,
+    "kind": "reported",
+    "label": "48.18% decompiled | 15.50% fully linked"
+  },
+  "targets": [],
+  "sources": [
+    "https://decomp.dev/Daniel-McCarthy/SPPS"
+  ],
+  "notes": [
+    "Shaun Palmer's Pro Snowboarder | PlayStation 2 | 48.18% decompiled | 15.50% fully linked",
+    "Progress source: https://decomp.dev/Daniel-McCarthy/SPPS",
+    "Report commit date: 2026-10-03 02:00:34 +00:00",
+    "Report commit: https://github.com/Daniel-McCarthy/SPPS/commit/fe04270df49c92e6a7e96291314011e7f18e586f"
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "2026-10-03 02:00:34 +00:00",
+  "report_commit": "https://github.com/Daniel-McCarthy/SPPS/commit/fe04270df49c92e6a7e96291314011e7f18e586f"
+}

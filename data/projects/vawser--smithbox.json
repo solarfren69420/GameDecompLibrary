@@ -1,0 +1,31 @@
+{
+  "id": "vawser--smithbox",
+  "name": "vawser/Smithbox",
+  "url": "https://github.com/vawser/Smithbox",
+  "category": "tool",
+  "group": "FROM SOFTWARE / ELDEN RING",
+  "platform": "Cross-platform / project-specific",
+  "type": "C# editor",
+  "description": "Browse and edit FromSoftware game data, maps, parameters and text.",
+  "progress": {
+    "decompiled": null,
+    "linked": null,
+    "kind": "unknown",
+    "label": "Not applicable to tools"
+  },
+  "targets": [],
+  "sources": [
+    "https://raw.githubusercontent.com/vawser/Smithbox/main/README.md"
+  ],
+  "notes": [
+    "Type: C# editor",
+    "Tool completion %: NOT PUBLISHED IN CHECKED SOURCES",
+    "Game decompilation %: NOT APPLICABLE TO THIS TOOL",
+    "Helps with: Browse and edit FromSoftware game data, maps, parameters and text.",
+    "Scope/status: README lists Elden Ring, Nightreign, Armored Core VI, Sekiro, Dark Souls III, Dark Souls II, Dark Souls, Bloodborne and Demons Souls. Editors vary by game; listed game support does not imply every editor feature works everywhere.",
+    "Evidence: https://raw.githubusercontent.com/vawser/Smithbox/main/README.md"
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "",
+  "report_commit": ""
+}

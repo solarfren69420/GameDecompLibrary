@@ -1,0 +1,29 @@
+{
+  "id": "monsterdruide1--odysseydecomp",
+  "name": "Super Mario Odyssey",
+  "url": "https://github.com/MonsterDruide1/OdysseyDecomp",
+  "category": "decomp",
+  "group": "1. HD-ERA / MODERN HIGH-PROFILE GAMES — AAA AND MAJOR FRANCHISES",
+  "platform": "Switch",
+  "type": "Matching decompilation",
+  "description": "",
+  "progress": {
+    "decompiled": 15.77,
+    "linked": null,
+    "kind": "reported",
+    "label": "15.77% decompiled"
+  },
+  "targets": [],
+  "sources": [
+    "https://decomp.dev/MonsterDruide1/OdysseyDecomp"
+  ],
+  "notes": [
+    "Super Mario Odyssey | Switch | 15.77% decompiled",
+    "Progress source: https://decomp.dev/MonsterDruide1/OdysseyDecomp",
+    "Report commit date: 2026-09-29 21:17:14 +00:00",
+    "Report commit: https://github.com/MonsterDruide1/OdysseyDecomp/commit/696db2ff5ed558b053c753de420504b8682f24b0"
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "2026-09-29 21:17:14 +00:00",
+  "report_commit": "https://github.com/MonsterDruide1/OdysseyDecomp/commit/696db2ff5ed558b053c753de420504b8682f24b0"
+}

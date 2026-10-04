@@ -1,0 +1,29 @@
+{
+  "id": "conhlee--rhf",
+  "name": "Rhythm Heaven Fever",
+  "url": "https://github.com/conhlee/rhf",
+  "category": "decomp",
+  "group": "3. MAJOR HANDHELD / FRANCHISE GAMES",
+  "platform": "Wii",
+  "type": "Matching decompilation",
+  "description": "",
+  "progress": {
+    "decompiled": 13.33,
+    "linked": 9.46,
+    "kind": "reported",
+    "label": "13.33% decompiled | 9.46% fully linked"
+  },
+  "targets": [],
+  "sources": [
+    "https://decomp.dev/conhlee/rhf"
+  ],
+  "notes": [
+    "Rhythm Heaven Fever | Wii | 13.33% decompiled | 9.46% fully linked",
+    "Progress source: https://decomp.dev/conhlee/rhf",
+    "Report commit date: 2026-06-09 17:42:49 +00:00",
+    "Report commit: https://github.com/conhlee/rhf/commit/4429cbcb000abff644683d98701f6ab8c1671e10"
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "2026-06-09 17:42:49 +00:00",
+  "report_commit": "https://github.com/conhlee/rhf/commit/4429cbcb000abff644683d98701f6ab8c1671e10"
+}

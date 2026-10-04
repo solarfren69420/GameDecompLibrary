@@ -1,0 +1,30 @@
+{
+  "id": "bitshifter--glam-rs",
+  "name": "bitshifter/glam-rs",
+  "url": "https://github.com/bitshifter/glam-rs",
+  "category": "tool",
+  "group": "REUSABLE RUST CLIENT COMPONENTS",
+  "platform": "Cross-platform / project-specific",
+  "type": "Rust math library",
+  "description": "Vectors, matrices and quaternions; compare conventions and precision to the original game.",
+  "progress": {
+    "decompiled": null,
+    "linked": null,
+    "kind": "unknown",
+    "label": "Not applicable to tools"
+  },
+  "targets": [],
+  "sources": [
+    "https://raw.githubusercontent.com/bitshifter/glam-rs/main/README.md"
+  ],
+  "notes": [
+    "Type: Rust math library",
+    "Tool completion %: NOT PUBLISHED IN CHECKED SOURCES",
+    "Game decompilation %: NOT APPLICABLE TO THIS TOOL",
+    "Helps with: Vectors, matrices and quaternions; compare conventions and precision to the original game.",
+    "Evidence: https://raw.githubusercontent.com/bitshifter/glam-rs/main/README.md"
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "",
+  "report_commit": ""
+}

@@ -1,0 +1,29 @@
+{
+  "id": "jdperos--chrono-cross-decomp",
+  "name": "Chrono Cross",
+  "url": "https://github.com/jdperos/chrono-cross-decomp",
+  "category": "decomp",
+  "group": "2. OLDER AAA / FLAGSHIP CONSOLE AND PC GAMES",
+  "platform": "PlayStation",
+  "type": "Matching decompilation",
+  "description": "",
+  "progress": {
+    "decompiled": 12.51,
+    "linked": null,
+    "kind": "reported",
+    "label": "12.51% decompiled"
+  },
+  "targets": [],
+  "sources": [
+    "https://decomp.dev/jdperos/chrono-cross-decomp"
+  ],
+  "notes": [
+    "Chrono Cross | PlayStation | 12.51% decompiled",
+    "Progress source: https://decomp.dev/jdperos/chrono-cross-decomp",
+    "Report commit date: 2026-04-14 03:51:12 +00:00",
+    "Report commit: https://github.com/jdperos/chrono-cross-decomp/commit/7dcadfc36421c9b26466f7fdbdbaa1a1102219c6"
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "2026-04-14 03:51:12 +00:00",
+  "report_commit": "https://github.com/jdperos/chrono-cross-decomp/commit/7dcadfc36421c9b26466f7fdbdbaa1a1102219c6"
+}

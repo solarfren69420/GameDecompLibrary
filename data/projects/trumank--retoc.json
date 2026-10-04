@@ -1,0 +1,30 @@
+{
+  "id": "trumank--retoc",
+  "name": "trumank/retoc",
+  "url": "https://github.com/trumank/retoc",
+  "category": "tool",
+  "group": "UNREAL ENGINE",
+  "platform": "Cross-platform / project-specific",
+  "type": "Rust archive/conversion tool",
+  "description": "Unreal IoStore tooling; useful for newer archive layouts where PAK alone is insufficient.",
+  "progress": {
+    "decompiled": null,
+    "linked": null,
+    "kind": "unknown",
+    "label": "Not applicable to tools"
+  },
+  "targets": [],
+  "sources": [
+    "https://raw.githubusercontent.com/trumank/retoc/master/README.md"
+  ],
+  "notes": [
+    "Type: Rust archive/conversion tool",
+    "Tool completion %: NOT PUBLISHED IN CHECKED SOURCES",
+    "Game decompilation %: NOT APPLICABLE TO THIS TOOL",
+    "Helps with: Unreal IoStore tooling; useful for newer archive layouts where PAK alone is insufficient.",
+    "Evidence: https://raw.githubusercontent.com/trumank/retoc/master/README.md"
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "",
+  "report_commit": ""
+}

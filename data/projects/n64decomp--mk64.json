@@ -1,0 +1,43 @@
+{
+  "id": "n64decomp--mk64",
+  "name": "Mario Kart 64",
+  "url": "https://github.com/n64decomp/mk64",
+  "category": "decomp",
+  "group": "2. OLDER AAA / FLAGSHIP CONSOLE AND PC GAMES",
+  "platform": "Nintendo 64",
+  "type": "Matching decompilation",
+  "description": "",
+  "progress": {
+    "decompiled": 100.0,
+    "linked": null,
+    "kind": "reported",
+    "label": "100.0% (published total-progress badge)"
+  },
+  "targets": [
+    {
+      "name": "Mario Kart 64",
+      "platform": "Nintendo 64",
+      "progress": {
+        "decompiled": 100.0,
+        "linked": null,
+        "kind": "reported",
+        "label": "100.0% (published total-progress badge)"
+      },
+      "notes": [
+        "Additional established reverse-engineering/decomp project; use its version-specific progress page."
+      ]
+    }
+  ],
+  "sources": [
+    "https://n64decomp.github.io/mk64/total_progress.svg"
+  ],
+  "notes": [
+    "Target: Mario Kart 64",
+    "Platform: Nintendo 64 | 100.0% (published total-progress badge)",
+    "Evidence: https://n64decomp.github.io/mk64/total_progress.svg",
+    "Note: Additional established reverse-engineering/decomp project; use its version-specific progress page."
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "",
+  "report_commit": ""
+}

@@ -1,0 +1,31 @@
+{
+  "id": "soulsmods--modengine2",
+  "name": "soulsmods/ModEngine2",
+  "url": "https://github.com/soulsmods/ModEngine2",
+  "category": "tool",
+  "group": "FROM SOFTWARE / ELDEN RING",
+  "platform": "Cross-platform / project-specific",
+  "type": "Mod loader",
+  "description": "Load supported FromSoftware mods; useful host-side tooling, not a standalone game rewrite.",
+  "progress": {
+    "decompiled": null,
+    "linked": null,
+    "kind": "unknown",
+    "label": "Not applicable to tools"
+  },
+  "targets": [],
+  "sources": [
+    "https://raw.githubusercontent.com/soulsmods/ModEngine2/main/README.md"
+  ],
+  "notes": [
+    "Type: Mod loader",
+    "Tool completion %: NOT PUBLISHED IN CHECKED SOURCES",
+    "Game decompilation %: NOT APPLICABLE TO THIS TOOL",
+    "Helps with: Load supported FromSoftware mods; useful host-side tooling, not a standalone game rewrite.",
+    "Scope/status: Development discontinued according to README; successor: garyttierney/me3. README support checklist enables Dark Souls III and Elden Ring. Checklist is not a game-decomp percentage.",
+    "Evidence: https://raw.githubusercontent.com/soulsmods/ModEngine2/main/README.md"
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "",
+  "report_commit": ""
+}

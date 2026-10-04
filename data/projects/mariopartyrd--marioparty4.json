@@ -1,0 +1,29 @@
+{
+  "id": "mariopartyrd--marioparty4",
+  "name": "Mario Party 4",
+  "url": "https://github.com/mariopartyrd/marioparty4",
+  "category": "decomp",
+  "group": "2. OLDER AAA / FLAGSHIP CONSOLE AND PC GAMES",
+  "platform": "GameCube",
+  "type": "Matching decompilation",
+  "description": "",
+  "progress": {
+    "decompiled": 100.0,
+    "linked": 100.0,
+    "kind": "reported",
+    "label": "100.00% decompiled | 100.00% fully linked"
+  },
+  "targets": [],
+  "sources": [
+    "https://decomp.dev/mariopartyrd/marioparty4"
+  ],
+  "notes": [
+    "Mario Party 4 | GameCube | 100.00% decompiled | 100.00% fully linked",
+    "Progress source: https://decomp.dev/mariopartyrd/marioparty4",
+    "Report commit date: 2026-06-04 03:18:46 +00:00",
+    "Report commit: https://github.com/mariopartyrd/marioparty4/commit/147b165a83187ac9e6cfdc3bf52f2e73437b1ffd"
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "2026-06-04 03:18:46 +00:00",
+  "report_commit": "https://github.com/mariopartyrd/marioparty4/commit/147b165a83187ac9e6cfdc3bf52f2e73437b1ffd"
+}

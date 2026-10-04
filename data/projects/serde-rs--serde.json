@@ -1,0 +1,30 @@
+{
+  "id": "serde-rs--serde",
+  "name": "serde-rs/serde",
+  "url": "https://github.com/serde-rs/serde",
+  "category": "tool",
+  "group": "REUSABLE RUST CLIENT COMPONENTS",
+  "platform": "Cross-platform / project-specific",
+  "type": "Rust serialization framework",
+  "description": "Serialize interoperable configuration/state formats; not a game-file parser by itself.",
+  "progress": {
+    "decompiled": null,
+    "linked": null,
+    "kind": "unknown",
+    "label": "Not applicable to tools"
+  },
+  "targets": [],
+  "sources": [
+    "https://raw.githubusercontent.com/serde-rs/serde/master/README.md"
+  ],
+  "notes": [
+    "Type: Rust serialization framework",
+    "Tool completion %: NOT PUBLISHED IN CHECKED SOURCES",
+    "Game decompilation %: NOT APPLICABLE TO THIS TOOL",
+    "Helps with: Serialize interoperable configuration/state formats; not a game-file parser by itself.",
+    "Evidence: https://raw.githubusercontent.com/serde-rs/serde/master/README.md"
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "",
+  "report_commit": ""
+}

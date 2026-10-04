@@ -1,0 +1,31 @@
+{
+  "id": "homoradahn--soulsformats-rs",
+  "name": "HomoRadahn/soulsformats-rs",
+  "url": "https://github.com/HomoRadahn/soulsformats-rs",
+  "category": "tool",
+  "group": "FROM SOFTWARE / ELDEN RING",
+  "platform": "Cross-platform / project-specific",
+  "type": "Rust format library",
+  "description": "Read/write FromSoftware data formats; inspect the supported-format modules rather than assuming every format is implemented.",
+  "progress": {
+    "decompiled": null,
+    "linked": null,
+    "kind": "unknown",
+    "label": "Not applicable to tools"
+  },
+  "targets": [],
+  "sources": [
+    "https://raw.githubusercontent.com/HomoRadahn/soulsformats-rs/master/README.md"
+  ],
+  "notes": [
+    "Type: Rust format library",
+    "Tool completion %: NOT PUBLISHED IN CHECKED SOURCES",
+    "Game decompilation %: NOT APPLICABLE TO THIS TOOL",
+    "Helps with: Read/write FromSoftware data formats; inspect the supported-format modules rather than assuming every format is implemented.",
+    "Scope/status: Active WIP: README says most formats are not implemented yet. Listed supported families: Binder, DCX, BTL and FMG. No denominator or numerical format-coverage percentage is published.",
+    "Evidence: https://raw.githubusercontent.com/HomoRadahn/soulsformats-rs/master/README.md"
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "",
+  "report_commit": ""
+}

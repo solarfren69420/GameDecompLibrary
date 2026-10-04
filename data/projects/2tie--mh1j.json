@@ -1,0 +1,29 @@
+{
+  "id": "2tie--mh1j",
+  "name": "Monster Hunter (JP)",
+  "url": "https://github.com/2Tie/mh1j",
+  "category": "decomp",
+  "group": "2. OLDER AAA / FLAGSHIP CONSOLE AND PC GAMES",
+  "platform": "PlayStation 2",
+  "type": "Matching decompilation",
+  "description": "",
+  "progress": {
+    "decompiled": 0.67,
+    "linked": null,
+    "kind": "reported",
+    "label": "0.67% decompiled"
+  },
+  "targets": [],
+  "sources": [
+    "https://decomp.dev/2Tie/mh1j"
+  ],
+  "notes": [
+    "Monster Hunter (JP) | PlayStation 2 | 0.67% decompiled",
+    "Progress source: https://decomp.dev/2Tie/mh1j",
+    "Report commit date: 2026-09-21 20:36:48 +00:00",
+    "Report commit: https://github.com/2Tie/mh1j/commit/62d4ba27f2c485b3377a360cd3f0ae20b5ee3e6f"
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "2026-09-21 20:36:48 +00:00",
+  "report_commit": "https://github.com/2Tie/mh1j/commit/62d4ba27f2c485b3377a360cd3f0ae20b5ee3e6f"
+}

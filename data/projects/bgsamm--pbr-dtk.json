@@ -1,0 +1,29 @@
+{
+  "id": "bgsamm--pbr-dtk",
+  "name": "Pokémon Battle Revolution",
+  "url": "https://github.com/bgsamm/pbr-dtk",
+  "category": "decomp",
+  "group": "2. OLDER AAA / FLAGSHIP CONSOLE AND PC GAMES",
+  "platform": "Wii",
+  "type": "Matching decompilation",
+  "description": "",
+  "progress": {
+    "decompiled": 2.34,
+    "linked": 0.83,
+    "kind": "reported",
+    "label": "2.34% decompiled | 0.83% fully linked"
+  },
+  "targets": [],
+  "sources": [
+    "https://decomp.dev/bgsamm/pbr-dtk"
+  ],
+  "notes": [
+    "Pokémon Battle Revolution | Wii | 2.34% decompiled | 0.83% fully linked",
+    "Progress source: https://decomp.dev/bgsamm/pbr-dtk",
+    "Report commit date: 2026-09-19 11:25:23 +00:00",
+    "Report commit: https://github.com/bgsamm/pbr-dtk/commit/09af9f9a5b1ffad9b83483485a6c49f35a1c4976"
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "2026-09-19 11:25:23 +00:00",
+  "report_commit": "https://github.com/bgsamm/pbr-dtk/commit/09af9f9a5b1ffad9b83483485a6c49f35a1c4976"
+}

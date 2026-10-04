@@ -1,0 +1,77 @@
+{
+  "id": "open-goal--jak-project",
+  "name": "Jak 3 / Jak and Daxter: The Precursor Legacy / Jak II",
+  "url": "https://github.com/open-goal/jak-project",
+  "category": "decomp",
+  "group": "2. OLDER AAA / FLAGSHIP CONSOLE AND PC GAMES",
+  "platform": "PlayStation 2",
+  "type": "Matching decompilation",
+  "description": "",
+  "progress": {
+    "decompiled": null,
+    "linked": null,
+    "kind": "unknown",
+    "label": "Multiple targets — see project details"
+  },
+  "targets": [
+    {
+      "name": "Jak 3",
+      "platform": "PlayStation 2",
+      "progress": {
+        "decompiled": null,
+        "linked": null,
+        "kind": "unknown",
+        "label": "Numeric % not published in checked README; substantial work remains"
+      },
+      "notes": [
+        "Do not assume it has Jak 1’s completion status."
+      ]
+    },
+    {
+      "name": "Jak and Daxter: The Precursor Legacy",
+      "platform": "PlayStation 2",
+      "progress": {
+        "decompiled": null,
+        "linked": null,
+        "kind": "unknown",
+        "label": "Numeric % not published in checked README; polished and complete"
+      },
+      "notes": [
+        "GOAL-language decomp and native port. Completion status is not a byte-matching percentage."
+      ]
+    },
+    {
+      "name": "Jak II",
+      "platform": "PlayStation 2",
+      "progress": {
+        "decompiled": null,
+        "linked": null,
+        "kind": "unknown",
+        "label": "Numeric % not published in checked README; essentially complete / beta"
+      },
+      "notes": [
+        "A few known issues remain. GOAL-language decomp and port."
+      ]
+    }
+  ],
+  "sources": [
+    "https://github.com/open-goal/jak-project"
+  ],
+  "notes": [
+    "Target: Jak 3",
+    "Platform: PlayStation 2 | Numeric % not published in checked README; substantial work remains",
+    "Evidence: https://github.com/open-goal/jak-project",
+    "Note: Do not assume it has Jak 1’s completion status.",
+    "Target: Jak and Daxter: The Precursor Legacy",
+    "Platform: PlayStation 2 | Numeric % not published in checked README; polished and complete",
+    "Evidence: https://github.com/open-goal/jak-project",
+    "Note: GOAL-language decomp and native port. Completion status is not a byte-matching percentage.",
+    "Target: Jak II",
+    "Platform: PlayStation 2 | Numeric % not published in checked README; essentially complete / beta",
+    "Evidence: https://github.com/open-goal/jak-project",
+    "Note: A few known issues remain. GOAL-language decomp and port."
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "",
+  "report_commit": ""
+}

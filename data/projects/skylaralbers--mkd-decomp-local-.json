@@ -1,0 +1,24 @@
+{
+  "id": "skylaralbers--mkd-decomp-local-",
+  "name": "Mortal Kombat: Deception",
+  "url": "https://github.com/skylaralbers/mkd-decomp-local-",
+  "category": "unconfirmed",
+  "group": "Unconfirmed original link",
+  "platform": "Not specified",
+  "type": "Unconfirmed project",
+  "description": "",
+  "progress": {
+    "decompiled": null,
+    "linked": null,
+    "kind": "unknown",
+    "label": "Not published"
+  },
+  "targets": [],
+  "sources": [],
+  "notes": [
+    "HTTP check: 404 on 2026-10-04; no current progress percentage verified."
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "",
+  "report_commit": ""
+}

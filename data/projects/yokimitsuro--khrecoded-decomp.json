@@ -1,0 +1,29 @@
+{
+  "id": "yokimitsuro--khrecoded-decomp",
+  "name": "Kingdom Hearts Re:coded",
+  "url": "https://github.com/Yokimitsuro/khrecoded-decomp",
+  "category": "decomp",
+  "group": "3. MAJOR HANDHELD / FRANCHISE GAMES",
+  "platform": "Nintendo DS",
+  "type": "Matching decompilation",
+  "description": "",
+  "progress": {
+    "decompiled": 5.99,
+    "linked": 5.99,
+    "kind": "reported",
+    "label": "5.99% decompiled | 5.99% fully linked"
+  },
+  "targets": [],
+  "sources": [
+    "https://decomp.dev/Yokimitsuro/khrecoded-decomp"
+  ],
+  "notes": [
+    "Kingdom Hearts Re:coded | Nintendo DS | 5.99% decompiled | 5.99% fully linked",
+    "Progress source: https://decomp.dev/Yokimitsuro/khrecoded-decomp",
+    "Report commit date: 2026-10-01 19:39:31 +00:00",
+    "Report commit: https://github.com/Yokimitsuro/khrecoded-decomp/commit/7ce758c331bb954aa874f459d2da3dccec7f1654"
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "2026-10-01 19:39:31 +00:00",
+  "report_commit": "https://github.com/Yokimitsuro/khrecoded-decomp/commit/7ce758c331bb954aa874f459d2da3dccec7f1654"
+}

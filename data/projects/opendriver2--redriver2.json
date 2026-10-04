@@ -1,0 +1,43 @@
+{
+  "id": "opendriver2--redriver2",
+  "name": "Driver 2",
+  "url": "https://github.com/OpenDriver2/REDRIVER2",
+  "category": "decomp",
+  "group": "2. OLDER AAA / FLAGSHIP CONSOLE AND PC GAMES",
+  "platform": "PlayStation",
+  "type": "Matching decompilation",
+  "description": "",
+  "progress": {
+    "decompiled": null,
+    "linked": null,
+    "kind": "unknown",
+    "label": "Numeric % not verified in retrieved README"
+  },
+  "targets": [
+    {
+      "name": "Driver 2",
+      "platform": "PlayStation",
+      "progress": {
+        "decompiled": null,
+        "linked": null,
+        "kind": "unknown",
+        "label": "Numeric % not verified in retrieved README"
+      },
+      "notes": [
+        "Playable C reconstruction; maintainer notes the Memory Card menu exception. No exact decomp percentage verified."
+      ]
+    }
+  ],
+  "sources": [
+    "https://raw.githubusercontent.com/OpenDriver2/REDRIVER2/master/README.md"
+  ],
+  "notes": [
+    "Target: Driver 2",
+    "Platform: PlayStation | Numeric % not verified in retrieved README",
+    "Evidence: https://raw.githubusercontent.com/OpenDriver2/REDRIVER2/master/README.md",
+    "Note: Playable C reconstruction; maintainer notes the Memory Card menu exception. No exact decomp percentage verified."
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "",
+  "report_commit": ""
+}

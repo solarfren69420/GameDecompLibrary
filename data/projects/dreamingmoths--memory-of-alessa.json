@@ -1,0 +1,29 @@
+{
+  "id": "dreamingmoths--memory-of-alessa",
+  "name": "Silent Hill 3",
+  "url": "https://github.com/dreamingmoths/memory-of-alessa",
+  "category": "decomp",
+  "group": "2. OLDER AAA / FLAGSHIP CONSOLE AND PC GAMES",
+  "platform": "PlayStation 2",
+  "type": "Matching decompilation",
+  "description": "",
+  "progress": {
+    "decompiled": 6.63,
+    "linked": null,
+    "kind": "reported",
+    "label": "6.63% decompiled"
+  },
+  "targets": [],
+  "sources": [
+    "https://decomp.dev/dreamingmoths/memory-of-alessa"
+  ],
+  "notes": [
+    "Silent Hill 3 | PlayStation 2 | 6.63% decompiled",
+    "Progress source: https://decomp.dev/dreamingmoths/memory-of-alessa",
+    "Report commit date: 2026-10-03 20:05:15 +00:00",
+    "Report commit: https://github.com/dreamingmoths/memory-of-alessa/commit/6a650e522a0e608804dc2d0214327a06f2e77129"
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "2026-10-03 20:05:15 +00:00",
+  "report_commit": "https://github.com/dreamingmoths/memory-of-alessa/commit/6a650e522a0e608804dc2d0214327a06f2e77129"
+}

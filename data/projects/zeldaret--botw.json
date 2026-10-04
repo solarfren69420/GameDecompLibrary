@@ -1,0 +1,43 @@
+{
+  "id": "zeldaret--botw",
+  "name": "The Legend of Zelda: Breath of the Wild",
+  "url": "https://github.com/zeldaret/botw",
+  "category": "decomp",
+  "group": "1. HD-ERA / MODERN HIGH-PROFILE GAMES — AAA AND MAJOR FRANCHISES",
+  "platform": "Switch 1.5.0",
+  "type": "Matching decompilation",
+  "description": "",
+  "progress": {
+    "decompiled": 17.489,
+    "linked": null,
+    "kind": "reported",
+    "label": "17.489% (published project badge)"
+  },
+  "targets": [
+    {
+      "name": "The Legend of Zelda: Breath of the Wild",
+      "platform": "Switch 1.5.0",
+      "progress": {
+        "decompiled": 17.489,
+        "linked": null,
+        "kind": "reported",
+        "label": "17.489% (published project badge)"
+      },
+      "notes": [
+        "Experimental decomp; not a playable standalone port."
+      ]
+    }
+  ],
+  "sources": [
+    "https://botw.link/badges/progress.json"
+  ],
+  "notes": [
+    "Target: The Legend of Zelda: Breath of the Wild",
+    "Platform: Switch 1.5.0 | 17.489% (published project badge)",
+    "Evidence: https://botw.link/badges/progress.json",
+    "Note: Experimental decomp; not a playable standalone port."
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "",
+  "report_commit": ""
+}

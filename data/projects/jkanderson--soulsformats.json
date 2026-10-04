@@ -1,0 +1,31 @@
+{
+  "id": "jkanderson--soulsformats",
+  "name": "JKAnderson/SoulsFormats",
+  "url": "https://github.com/JKAnderson/SoulsFormats",
+  "category": "tool",
+  "group": "FROM SOFTWARE / ELDEN RING",
+  "platform": "Cross-platform / project-specific",
+  "type": "C#/.NET format reference",
+  "description": "Original SoulsFormats library; check archival and successor status before choosing it for new work.",
+  "progress": {
+    "decompiled": null,
+    "linked": null,
+    "kind": "unknown",
+    "label": "Not applicable to tools"
+  },
+  "targets": [],
+  "sources": [
+    "https://raw.githubusercontent.com/JKAnderson/SoulsFormats/master/README.md"
+  ],
+  "notes": [
+    "Type: C#/.NET format reference",
+    "Tool completion %: NOT PUBLISHED IN CHECKED SOURCES",
+    "Game decompilation %: NOT APPLICABLE TO THIS TOOL",
+    "Helps with: Original SoulsFormats library; check archival and successor status before choosing it for new work.",
+    "Scope/status: Original archived project/reference; see soulsmods/SoulsFormatsNEXT for the successor.",
+    "Evidence: https://raw.githubusercontent.com/JKAnderson/SoulsFormats/master/README.md"
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "",
+  "report_commit": ""
+}

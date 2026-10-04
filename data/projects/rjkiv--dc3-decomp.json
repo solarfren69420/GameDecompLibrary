@@ -1,0 +1,29 @@
+{
+  "id": "rjkiv--dc3-decomp",
+  "name": "Dance Central 3",
+  "url": "https://github.com/rjkiv/dc3-decomp",
+  "category": "decomp",
+  "group": "1. HD-ERA / MODERN HIGH-PROFILE GAMES — AAA AND MAJOR FRANCHISES",
+  "platform": "Xbox 360",
+  "type": "Matching decompilation",
+  "description": "",
+  "progress": {
+    "decompiled": 49.94,
+    "linked": 22.07,
+    "kind": "reported",
+    "label": "49.94% decompiled | 22.07% fully linked"
+  },
+  "targets": [],
+  "sources": [
+    "https://decomp.dev/rjkiv/dc3-decomp"
+  ],
+  "notes": [
+    "Dance Central 3 | Xbox 360 | 49.94% decompiled | 22.07% fully linked",
+    "Progress source: https://decomp.dev/rjkiv/dc3-decomp",
+    "Report commit date: 2026-10-04 05:27:40 +00:00",
+    "Report commit: https://github.com/rjkiv/dc3-decomp/commit/112b405870ff96f65ffba9c18cb0db6845b7794d"
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "2026-10-04 05:27:40 +00:00",
+  "report_commit": "https://github.com/rjkiv/dc3-decomp/commit/112b405870ff96f65ffba9c18cb0db6845b7794d"
+}

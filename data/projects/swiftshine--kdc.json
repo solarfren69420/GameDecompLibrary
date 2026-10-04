@@ -1,0 +1,29 @@
+{
+  "id": "swiftshine--kdc",
+  "name": "Kirby's Dream Collection Special Edition",
+  "url": "https://github.com/Swiftshine/kdc",
+  "category": "decomp",
+  "group": "2. OLDER AAA / FLAGSHIP CONSOLE AND PC GAMES",
+  "platform": "Wii",
+  "type": "Matching decompilation",
+  "description": "",
+  "progress": {
+    "decompiled": 3.39,
+    "linked": 1.24,
+    "kind": "reported",
+    "label": "3.39% decompiled | 1.24% fully linked"
+  },
+  "targets": [],
+  "sources": [
+    "https://decomp.dev/Swiftshine/kdc"
+  ],
+  "notes": [
+    "Kirby's Dream Collection Special Edition | Wii | 3.39% decompiled | 1.24% fully linked",
+    "Progress source: https://decomp.dev/Swiftshine/kdc",
+    "Report commit date: 2026-07-24 21:11:15 +00:00",
+    "Report commit: https://github.com/Swiftshine/kdc/commit/2be1c20faa215b7969c07900ae8bd112c82fef1f"
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "2026-07-24 21:11:15 +00:00",
+  "report_commit": "https://github.com/Swiftshine/kdc/commit/2be1c20faa215b7969c07900ae8bd112c82fef1f"
+}

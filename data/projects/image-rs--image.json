@@ -1,0 +1,30 @@
+{
+  "id": "image-rs--image",
+  "name": "image-rs/image",
+  "url": "https://github.com/image-rs/image",
+  "category": "tool",
+  "group": "REUSABLE RUST CLIENT COMPONENTS",
+  "platform": "Cross-platform / project-specific",
+  "type": "Rust image codecs",
+  "description": "Read/write common image formats; proprietary texture formats may need separate decoders.",
+  "progress": {
+    "decompiled": null,
+    "linked": null,
+    "kind": "unknown",
+    "label": "Not applicable to tools"
+  },
+  "targets": [],
+  "sources": [
+    "https://raw.githubusercontent.com/image-rs/image/main/README.md"
+  ],
+  "notes": [
+    "Type: Rust image codecs",
+    "Tool completion %: NOT PUBLISHED IN CHECKED SOURCES",
+    "Game decompilation %: NOT APPLICABLE TO THIS TOOL",
+    "Helps with: Read/write common image formats; proprietary texture formats may need separate decoders.",
+    "Evidence: https://raw.githubusercontent.com/image-rs/image/main/README.md"
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "",
+  "report_commit": ""
+}

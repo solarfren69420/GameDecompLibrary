@@ -1,0 +1,29 @@
+{
+  "id": "mitsevox--mvp2005",
+  "name": "MVP Baseball 2005",
+  "url": "https://github.com/mitsevox/mvp2005",
+  "category": "decomp",
+  "group": "2. OLDER AAA / FLAGSHIP CONSOLE AND PC GAMES",
+  "platform": "GameCube",
+  "type": "Matching decompilation",
+  "description": "",
+  "progress": {
+    "decompiled": 4.3,
+    "linked": 4.24,
+    "kind": "reported",
+    "label": "4.30% decompiled | 4.24% fully linked"
+  },
+  "targets": [],
+  "sources": [
+    "https://decomp.dev/mitsevox/mvp2005"
+  ],
+  "notes": [
+    "MVP Baseball 2005 | GameCube | 4.30% decompiled | 4.24% fully linked",
+    "Progress source: https://decomp.dev/mitsevox/mvp2005",
+    "Report commit date: 2026-09-30 20:16:16 +00:00",
+    "Report commit: https://github.com/mitsevox/mvp2005/commit/f1e1763bf76b7806ba704868be26935876a6efb1"
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "2026-09-30 20:16:16 +00:00",
+  "report_commit": "https://github.com/mitsevox/mvp2005/commit/f1e1763bf76b7806ba704868be26935876a6efb1"
+}

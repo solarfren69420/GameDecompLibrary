@@ -1,0 +1,29 @@
+{
+  "id": "juandav--dw3-decomp",
+  "name": "Digimon World 3",
+  "url": "https://github.com/juandav/dw3_decomp",
+  "category": "decomp",
+  "group": "3. MAJOR HANDHELD / FRANCHISE GAMES",
+  "platform": "PlayStation",
+  "type": "Matching decompilation",
+  "description": "",
+  "progress": {
+    "decompiled": 99.13,
+    "linked": null,
+    "kind": "reported",
+    "label": "99.13% decompiled"
+  },
+  "targets": [],
+  "sources": [
+    "https://decomp.dev/juandav/dw3_decomp"
+  ],
+  "notes": [
+    "Digimon World 3 | PlayStation | 99.13% decompiled",
+    "Progress source: https://decomp.dev/juandav/dw3_decomp",
+    "Report commit date: 2026-10-04 11:28:30 +00:00",
+    "Report commit: https://github.com/juandav/dw3_decomp/commit/57d319e86ec3682e71febc8ea224746a149caad2"
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "2026-10-04 11:28:30 +00:00",
+  "report_commit": "https://github.com/juandav/dw3_decomp/commit/57d319e86ec3682e71febc8ea224746a149caad2"
+}

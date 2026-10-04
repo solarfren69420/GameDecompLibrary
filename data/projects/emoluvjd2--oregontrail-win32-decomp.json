@@ -1,0 +1,29 @@
+{
+  "id": "emoluvjd2--oregontrail-win32-decomp",
+  "name": "The Oregon Trail (Windows 95)",
+  "url": "https://github.com/emoluvjd2/oregontrail-win32-decomp",
+  "category": "decomp",
+  "group": "4. SMALLER COMMERCIAL, LICENSED, CULT AND NICHE GAMES",
+  "platform": "Windows",
+  "type": "Matching decompilation",
+  "description": "",
+  "progress": {
+    "decompiled": 55.7,
+    "linked": 41.63,
+    "kind": "reported",
+    "label": "55.70% decompiled | 41.63% fully linked"
+  },
+  "targets": [],
+  "sources": [
+    "https://decomp.dev/emoluvjd2/oregontrail-win32-decomp"
+  ],
+  "notes": [
+    "The Oregon Trail (Windows 95) | Windows | 55.70% decompiled | 41.63% fully linked",
+    "Progress source: https://decomp.dev/emoluvjd2/oregontrail-win32-decomp",
+    "Report commit date: 2026-09-03 22:55:17 +00:00",
+    "Report commit: https://github.com/emoluvjd2/oregontrail-win32-decomp/commit/4a39fc8e9d1d5b729a3d958bba2b415d39fa054a"
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "2026-09-03 22:55:17 +00:00",
+  "report_commit": "https://github.com/emoluvjd2/oregontrail-win32-decomp/commit/4a39fc8e9d1d5b729a3d958bba2b415d39fa054a"
+}

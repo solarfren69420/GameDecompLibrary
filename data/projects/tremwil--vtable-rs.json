@@ -1,0 +1,30 @@
+{
+  "id": "tremwil--vtable-rs",
+  "name": "tremwil/vtable-rs",
+  "url": "https://github.com/tremwil/vtable-rs",
+  "category": "tool",
+  "group": "FROM SOFTWARE / ELDEN RING",
+  "platform": "Cross-platform / project-specific",
+  "type": "Rust C++ interop utility",
+  "description": "Represent and work with C++ virtual-table interfaces from Rust.",
+  "progress": {
+    "decompiled": null,
+    "linked": null,
+    "kind": "unknown",
+    "label": "Not applicable to tools"
+  },
+  "targets": [],
+  "sources": [
+    "https://raw.githubusercontent.com/tremwil/vtable-rs/master/README.md"
+  ],
+  "notes": [
+    "Type: Rust C++ interop utility",
+    "Tool completion %: NOT PUBLISHED IN CHECKED SOURCES",
+    "Game decompilation %: NOT APPLICABLE TO THIS TOOL",
+    "Helps with: Represent and work with C++ virtual-table interfaces from Rust.",
+    "Evidence: https://raw.githubusercontent.com/tremwil/vtable-rs/master/README.md"
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "",
+  "report_commit": ""
+}

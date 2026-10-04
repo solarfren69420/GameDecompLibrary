@@ -1,0 +1,29 @@
+{
+  "id": "marijnvdwerf--gba-beyblade-vforce",
+  "name": "Beyblade VForce: Ultimate Blader Jam",
+  "url": "https://github.com/marijnvdwerf/gba-beyblade-vforce",
+  "category": "decomp",
+  "group": "3. MAJOR HANDHELD / FRANCHISE GAMES",
+  "platform": "Game Boy Advance",
+  "type": "Matching decompilation",
+  "description": "",
+  "progress": {
+    "decompiled": 100.0,
+    "linked": null,
+    "kind": "reported",
+    "label": "100.00% decompiled"
+  },
+  "targets": [],
+  "sources": [
+    "https://decomp.dev/marijnvdwerf/gba-beyblade-vforce"
+  ],
+  "notes": [
+    "Beyblade VForce: Ultimate Blader Jam | Game Boy Advance | 100.00% decompiled",
+    "Progress source: https://decomp.dev/marijnvdwerf/gba-beyblade-vforce",
+    "Report commit date: 2026-09-24 13:23:34 +00:00",
+    "Report commit: https://github.com/marijnvdwerf/gba-beyblade-vforce/commit/e1f747d1dbc07ee6a0d63415ee45d1b67e1d23aa"
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "2026-09-24 13:23:34 +00:00",
+  "report_commit": "https://github.com/marijnvdwerf/gba-beyblade-vforce/commit/e1f747d1dbc07ee6a0d63415ee45d1b67e1d23aa"
+}

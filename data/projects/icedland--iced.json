@@ -1,0 +1,30 @@
+{
+  "id": "icedland--iced",
+  "name": "icedland/iced",
+  "url": "https://github.com/icedland/iced",
+  "category": "tool",
+  "group": "BINARY FORMATS / RUNTIME ANALYSIS",
+  "platform": "Cross-platform / project-specific",
+  "type": "Instruction decoding toolkit",
+  "description": "Includes Rust x86/x64 instruction decoding/encoding; useful for binary analysis and tooling.",
+  "progress": {
+    "decompiled": null,
+    "linked": null,
+    "kind": "unknown",
+    "label": "Not applicable to tools"
+  },
+  "targets": [],
+  "sources": [
+    "https://raw.githubusercontent.com/icedland/iced/master/README.md"
+  ],
+  "notes": [
+    "Type: Instruction decoding toolkit",
+    "Tool completion %: NOT PUBLISHED IN CHECKED SOURCES",
+    "Game decompilation %: NOT APPLICABLE TO THIS TOOL",
+    "Helps with: Includes Rust x86/x64 instruction decoding/encoding; useful for binary analysis and tooling.",
+    "Evidence: https://raw.githubusercontent.com/icedland/iced/master/README.md"
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "",
+  "report_commit": ""
+}

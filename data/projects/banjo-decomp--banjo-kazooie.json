@@ -1,0 +1,43 @@
+{
+  "id": "banjo-decomp--banjo-kazooie",
+  "name": "Banjo-Kazooie",
+  "url": "https://gitlab.com/banjo.decomp/banjo-kazooie",
+  "category": "decomp",
+  "group": "Other hosts",
+  "platform": "Nintendo 64",
+  "type": "Matching decompilation",
+  "description": "",
+  "progress": {
+    "decompiled": 100.0,
+    "linked": null,
+    "kind": "reported",
+    "label": "100% (published README progress; target-specific)"
+  },
+  "targets": [
+    {
+      "name": "Banjo-Kazooie",
+      "platform": "Nintendo 64",
+      "progress": {
+        "decompiled": 100.0,
+        "linked": null,
+        "kind": "reported",
+        "label": "100% (published README progress; target-specific)"
+      },
+      "notes": [
+        "Additional established reverse-engineering/decomp project; use its version-specific progress page."
+      ]
+    }
+  ],
+  "sources": [
+    "https://gitlab.com/banjo.decomp/banjo-kazooie/-/raw/master/README.md"
+  ],
+  "notes": [
+    "Target: Banjo-Kazooie",
+    "Platform: Nintendo 64 | 100% (published README progress; target-specific)",
+    "Evidence: https://gitlab.com/banjo.decomp/banjo-kazooie/-/raw/master/README.md",
+    "Note: Additional established reverse-engineering/decomp project; use its version-specific progress page."
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "",
+  "report_commit": ""
+}

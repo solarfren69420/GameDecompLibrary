@@ -1,0 +1,43 @@
+{
+  "id": "sonicdcer--sf64",
+  "name": "Star Fox 64",
+  "url": "https://github.com/sonicdcer/sf64",
+  "category": "decomp",
+  "group": "2. OLDER AAA / FLAGSHIP CONSOLE AND PC GAMES",
+  "platform": "Nintendo 64",
+  "type": "Matching decompilation",
+  "description": "",
+  "progress": {
+    "decompiled": null,
+    "linked": null,
+    "kind": "functions",
+    "label": "100% matching functions (2951/2951; README)"
+  },
+  "targets": [
+    {
+      "name": "Star Fox 64",
+      "platform": "Nintendo 64",
+      "progress": {
+        "decompiled": null,
+        "linked": null,
+        "kind": "functions",
+        "label": "100% matching functions (2951/2951; README)"
+      },
+      "notes": [
+        "Additional established reverse-engineering/decomp project; use its version-specific progress page."
+      ]
+    }
+  ],
+  "sources": [
+    "https://raw.githubusercontent.com/sonicdcer/sf64/master/README.md"
+  ],
+  "notes": [
+    "Target: Star Fox 64",
+    "Platform: Nintendo 64 | 100% matching functions (2951/2951; README)",
+    "Evidence: https://raw.githubusercontent.com/sonicdcer/sf64/master/README.md",
+    "Note: Additional established reverse-engineering/decomp project; use its version-specific progress page."
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "",
+  "report_commit": ""
+}

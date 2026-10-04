@@ -1,0 +1,29 @@
+{
+  "id": "doldecomp--ttyd",
+  "name": "Paper Mario: The Thousand-Year Door",
+  "url": "https://github.com/doldecomp/ttyd",
+  "category": "decomp",
+  "group": "2. OLDER AAA / FLAGSHIP CONSOLE AND PC GAMES",
+  "platform": "GameCube",
+  "type": "Matching decompilation",
+  "description": "",
+  "progress": {
+    "decompiled": 12.1,
+    "linked": 8.12,
+    "kind": "reported",
+    "label": "12.10% decompiled | 8.12% fully linked"
+  },
+  "targets": [],
+  "sources": [
+    "https://decomp.dev/doldecomp/ttyd"
+  ],
+  "notes": [
+    "Paper Mario: The Thousand-Year Door | GameCube | 12.10% decompiled | 8.12% fully linked",
+    "Progress source: https://decomp.dev/doldecomp/ttyd",
+    "Report commit date: 2026-09-27 22:35:16 +00:00",
+    "Report commit: https://github.com/doldecomp/ttyd/commit/62131fc31866f85a12e4817a8dc37f0c25eb5f8c"
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "2026-09-27 22:35:16 +00:00",
+  "report_commit": "https://github.com/doldecomp/ttyd/commit/62131fc31866f85a12e4817a8dc37f0c25eb5f8c"
+}

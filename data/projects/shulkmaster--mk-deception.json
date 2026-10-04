@@ -1,0 +1,29 @@
+{
+  "id": "shulkmaster--mk-deception",
+  "name": "Mortal Kombat: Deception",
+  "url": "https://github.com/ShulkMaster/mk-deception",
+  "category": "decomp",
+  "group": "2. OLDER AAA / FLAGSHIP CONSOLE AND PC GAMES",
+  "platform": "GameCube",
+  "type": "Matching decompilation",
+  "description": "",
+  "progress": {
+    "decompiled": 54.41,
+    "linked": 16.74,
+    "kind": "reported",
+    "label": "54.41% decompiled | 16.74% fully linked"
+  },
+  "targets": [],
+  "sources": [
+    "https://decomp.dev/ShulkMaster/mk-deception"
+  ],
+  "notes": [
+    "Mortal Kombat: Deception | GameCube | 54.41% decompiled | 16.74% fully linked",
+    "Progress source: https://decomp.dev/ShulkMaster/mk-deception",
+    "Report commit date: 2026-10-02 05:23:12 +00:00",
+    "Report commit: https://github.com/ShulkMaster/mk-deception/commit/a90164d01d4bab03239378efb5b5bbcb8ac35490"
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "2026-10-02 05:23:12 +00:00",
+  "report_commit": "https://github.com/ShulkMaster/mk-deception/commit/a90164d01d4bab03239378efb5b5bbcb8ac35490"
+}

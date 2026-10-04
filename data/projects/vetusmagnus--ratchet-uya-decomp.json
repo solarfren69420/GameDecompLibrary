@@ -1,0 +1,29 @@
+{
+  "id": "vetusmagnus--ratchet-uya-decomp",
+  "name": "Ratchet & Clank: Up Your Arsenal",
+  "url": "https://github.com/vetusmagnus/ratchet-uya-decomp",
+  "category": "decomp",
+  "group": "2. OLDER AAA / FLAGSHIP CONSOLE AND PC GAMES",
+  "platform": "PlayStation 2",
+  "type": "Matching decompilation",
+  "description": "",
+  "progress": {
+    "decompiled": 1.64,
+    "linked": null,
+    "kind": "reported",
+    "label": "1.64% decompiled"
+  },
+  "targets": [],
+  "sources": [
+    "https://decomp.dev/vetusmagnus/ratchet-uya-decomp"
+  ],
+  "notes": [
+    "Ratchet & Clank: Up Your Arsenal | PlayStation 2 | 1.64% decompiled",
+    "Progress source: https://decomp.dev/vetusmagnus/ratchet-uya-decomp",
+    "Report commit date: 2026-10-04 11:28:47 +00:00",
+    "Report commit: https://github.com/vetusmagnus/ratchet-uya-decomp/commit/ed38450e68658fffc95781035f4f176ca6b22dc4"
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "2026-10-04 11:28:47 +00:00",
+  "report_commit": "https://github.com/vetusmagnus/ratchet-uya-decomp/commit/ed38450e68658fffc95781035f4f176ca6b22dc4"
+}

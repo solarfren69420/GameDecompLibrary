@@ -1,0 +1,29 @@
+{
+  "id": "doldecomp--ogws",
+  "name": "Wii Sports",
+  "url": "https://github.com/doldecomp/ogws",
+  "category": "decomp",
+  "group": "2. OLDER AAA / FLAGSHIP CONSOLE AND PC GAMES",
+  "platform": "Wii",
+  "type": "Matching decompilation",
+  "description": "",
+  "progress": {
+    "decompiled": 35.03,
+    "linked": 28.93,
+    "kind": "reported",
+    "label": "35.03% decompiled | 28.93% fully linked"
+  },
+  "targets": [],
+  "sources": [
+    "https://decomp.dev/doldecomp/ogws"
+  ],
+  "notes": [
+    "Wii Sports | Wii | 35.03% decompiled | 28.93% fully linked",
+    "Progress source: https://decomp.dev/doldecomp/ogws",
+    "Report commit date: 2026-09-19 21:27:59 +00:00",
+    "Report commit: https://github.com/doldecomp/ogws/commit/27fa94a593096eed7442efc4e70981fd52025b9c"
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "2026-09-19 21:27:59 +00:00",
+  "report_commit": "https://github.com/doldecomp/ogws/commit/27fa94a593096eed7442efc4e70981fd52025b9c"
+}

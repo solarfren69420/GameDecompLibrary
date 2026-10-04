@@ -1,0 +1,37 @@
+{
+  "id": "pret--pokered",
+  "name": "Pokémon Red / Blue",
+  "url": "https://github.com/pret/pokered",
+  "category": "related",
+  "group": "REGRESSION TESTS / AUTOMATED REPAIR SUPPORT",
+  "platform": "Not specified",
+  "type": "Assembly disassembly",
+  "description": "",
+  "progress": {
+    "decompiled": null,
+    "linked": null,
+    "kind": "unknown",
+    "label": "Not applicable to this project category"
+  },
+  "targets": [
+    {
+      "name": "Pokémon Red / Blue | Assembly disassembly",
+      "platform": "Not specified",
+      "progress": {
+        "decompiled": null,
+        "linked": null,
+        "kind": "unknown",
+        "label": "Not published"
+      },
+      "notes": []
+    }
+  ],
+  "sources": [],
+  "notes": [
+    "Matching decompilation %: N/A — different project category; no comparable numerical metric verified here.",
+    "Target: Pokémon Red / Blue | Assembly disassembly"
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "",
+  "report_commit": ""
+}

@@ -1,0 +1,29 @@
+{
+  "id": "acreteam--afe-decomp",
+  "name": "Animal Forest e+ (Dōbutsu no Mori e+)",
+  "url": "https://github.com/ACreTeam/afe-decomp",
+  "category": "decomp",
+  "group": "2. OLDER AAA / FLAGSHIP CONSOLE AND PC GAMES",
+  "platform": "GameCube",
+  "type": "Matching decompilation",
+  "description": "",
+  "progress": {
+    "decompiled": 92.98,
+    "linked": 86.54,
+    "kind": "reported",
+    "label": "92.98% decompiled | 86.54% fully linked"
+  },
+  "targets": [],
+  "sources": [
+    "https://decomp.dev/ACreTeam/afe-decomp"
+  ],
+  "notes": [
+    "どうぶつの森 e+ | GameCube | 92.98% decompiled | 86.54% fully linked",
+    "Progress source: https://decomp.dev/ACreTeam/afe-decomp",
+    "Report commit date: 2026-09-16 17:27:23 +00:00",
+    "Report commit: https://github.com/ACreTeam/afe-decomp/commit/2048fc2396d53cc57d80c1ce1adc07e16df07eb6"
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "2026-09-16 17:27:23 +00:00",
+  "report_commit": "https://github.com/ACreTeam/afe-decomp/commit/2048fc2396d53cc57d80c1ce1adc07e16df07eb6"
+}

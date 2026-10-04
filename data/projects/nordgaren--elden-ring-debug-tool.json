@@ -1,0 +1,30 @@
+{
+  "id": "nordgaren--elden-ring-debug-tool",
+  "name": "Nordgaren/Elden-Ring-Debug-Tool",
+  "url": "https://github.com/Nordgaren/Elden-Ring-Debug-Tool",
+  "category": "tool",
+  "group": "FROM SOFTWARE / ELDEN RING",
+  "platform": "Cross-platform / project-specific",
+  "type": "Debugging tool",
+  "description": "Inspect and experiment with Elden Ring runtime state; check release and patch compatibility.",
+  "progress": {
+    "decompiled": null,
+    "linked": null,
+    "kind": "unknown",
+    "label": "Not applicable to tools"
+  },
+  "targets": [],
+  "sources": [
+    "https://raw.githubusercontent.com/Nordgaren/Elden-Ring-Debug-Tool/main/README.md"
+  ],
+  "notes": [
+    "Type: Debugging tool",
+    "Tool completion %: NOT PUBLISHED IN CHECKED SOURCES",
+    "Game decompilation %: NOT APPLICABLE TO THIS TOOL",
+    "Helps with: Inspect and experiment with Elden Ring runtime state; check release and patch compatibility.",
+    "Evidence: https://raw.githubusercontent.com/Nordgaren/Elden-Ring-Debug-Tool/main/README.md"
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "",
+  "report_commit": ""
+}

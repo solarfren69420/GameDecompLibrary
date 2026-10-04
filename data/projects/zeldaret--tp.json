@@ -1,0 +1,29 @@
+{
+  "id": "zeldaret--tp",
+  "name": "The Legend of Zelda: Twilight Princess",
+  "url": "https://github.com/zeldaret/tp",
+  "category": "decomp",
+  "group": "2. OLDER AAA / FLAGSHIP CONSOLE AND PC GAMES",
+  "platform": "GameCube",
+  "type": "Matching decompilation",
+  "description": "",
+  "progress": {
+    "decompiled": 100.0,
+    "linked": 87.13,
+    "kind": "reported",
+    "label": "100.00% decompiled | 87.13% fully linked"
+  },
+  "targets": [],
+  "sources": [
+    "https://decomp.dev/zeldaret/tp"
+  ],
+  "notes": [
+    "The Legend of Zelda: Twilight Princess | GameCube | 100.00% decompiled | 87.13% fully linked",
+    "Progress source: https://decomp.dev/zeldaret/tp",
+    "Report commit date: 2026-06-23 19:52:55 +00:00",
+    "Report commit: https://github.com/zeldaret/tp/commit/c8fa8c9e2aab72cf4e5db0e5d1c84a9ea6ee6eb0"
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "2026-06-23 19:52:55 +00:00",
+  "report_commit": "https://github.com/zeldaret/tp/commit/c8fa8c9e2aab72cf4e5db0e5d1c84a9ea6ee6eb0"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "plinkr--wild9-decompilation",
+  "name": "Wild 9",
+  "url": "https://github.com/plinkr/Wild9-Decompilation",
+  "category": "decomp",
+  "group": "4. SMALLER COMMERCIAL, LICENSED, CULT AND NICHE GAMES",
+  "platform": "PlayStation",
+  "type": "Matching decompilation",
+  "description": "",
+  "progress": {
+    "decompiled": 1.92,
+    "linked": null,
+    "kind": "reported",
+    "label": "1.92% decompiled"
+  },
+  "targets": [],
+  "sources": [
+    "https://decomp.dev/plinkr/Wild9-Decompilation"
+  ],
+  "notes": [
+    "Wild 9 | PlayStation | 1.92% decompiled",
+    "Progress source: https://decomp.dev/plinkr/Wild9-Decompilation",
+    "Report commit date: 2026-10-02 20:18:36 +00:00",
+    "Report commit: https://github.com/plinkr/Wild9-Decompilation/commit/c90a780952016fde4a04660170e60b6e5fbea5da"
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "2026-10-02 20:18:36 +00:00",
+  "report_commit": "https://github.com/plinkr/Wild9-Decompilation/commit/c90a780952016fde4a04660170e60b6e5fbea5da"
+}

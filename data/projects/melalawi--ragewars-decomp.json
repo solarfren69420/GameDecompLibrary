@@ -1,0 +1,29 @@
+{
+  "id": "melalawi--ragewars-decomp",
+  "name": "Turok: Rage Wars",
+  "url": "https://github.com/melalawi/ragewars-decomp",
+  "category": "decomp",
+  "group": "2. OLDER AAA / FLAGSHIP CONSOLE AND PC GAMES",
+  "platform": "Nintendo 64",
+  "type": "Matching decompilation",
+  "description": "",
+  "progress": {
+    "decompiled": 75.89,
+    "linked": 75.89,
+    "kind": "reported",
+    "label": "75.89% decompiled | 75.89% fully linked"
+  },
+  "targets": [],
+  "sources": [
+    "https://decomp.dev/melalawi/ragewars-decomp"
+  ],
+  "notes": [
+    "Turok: Rage Wars | Nintendo 64 | 75.89% decompiled | 75.89% fully linked",
+    "Progress source: https://decomp.dev/melalawi/ragewars-decomp",
+    "Report commit date: 2026-10-02 03:23:27 +00:00",
+    "Report commit: https://github.com/melalawi/ragewars-decomp/commit/fc786b3678f95e1901a39a9cd65295a132827e2c"
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "2026-10-02 03:23:27 +00:00",
+  "report_commit": "https://github.com/melalawi/ragewars-decomp/commit/fc786b3678f95e1901a39a9cd65295a132827e2c"
+}

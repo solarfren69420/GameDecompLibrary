@@ -1,0 +1,29 @@
+{
+  "id": "cdlewis--snowboardkids2-decomp",
+  "name": "Snowboard Kids 2",
+  "url": "https://github.com/cdlewis/snowboardkids2-decomp",
+  "category": "decomp",
+  "group": "4. SMALLER COMMERCIAL, LICENSED, CULT AND NICHE GAMES",
+  "platform": "Nintendo 64",
+  "type": "Matching decompilation",
+  "description": "",
+  "progress": {
+    "decompiled": 100.0,
+    "linked": null,
+    "kind": "reported",
+    "label": "100.00% decompiled"
+  },
+  "targets": [],
+  "sources": [
+    "https://decomp.dev/cdlewis/snowboardkids2-decomp"
+  ],
+  "notes": [
+    "Snowboard Kids 2 | Nintendo 64 | 100.00% decompiled",
+    "Progress source: https://decomp.dev/cdlewis/snowboardkids2-decomp",
+    "Report commit date: 2026-09-27 17:30:22 +00:00",
+    "Report commit: https://github.com/cdlewis/snowboardkids2-decomp/commit/3b1bd5db108193528fd7dbe6facba02901218a13"
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "2026-09-27 17:30:22 +00:00",
+  "report_commit": "https://github.com/cdlewis/snowboardkids2-decomp/commit/3b1bd5db108193528fd7dbe6facba02901218a13"
+}

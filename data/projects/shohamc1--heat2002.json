@@ -1,0 +1,29 @@
+{
+  "id": "shohamc1--heat2002",
+  "name": "NASCAR Heat 2002",
+  "url": "https://github.com/shohamc1/heat2002",
+  "category": "decomp",
+  "group": "4. SMALLER COMMERCIAL, LICENSED, CULT AND NICHE GAMES",
+  "platform": "Game Boy Advance",
+  "type": "Matching decompilation",
+  "description": "",
+  "progress": {
+    "decompiled": 100.0,
+    "linked": 100.0,
+    "kind": "reported",
+    "label": "100.00% decompiled | 100.00% fully linked"
+  },
+  "targets": [],
+  "sources": [
+    "https://decomp.dev/shohamc1/heat2002"
+  ],
+  "notes": [
+    "NASCAR Heat 2002 | Game Boy Advance | 100.00% decompiled | 100.00% fully linked",
+    "Progress source: https://decomp.dev/shohamc1/heat2002",
+    "Report commit date: 2026-10-02 12:21:48 +00:00",
+    "Report commit: https://github.com/shohamc1/heat2002/commit/5b9ed567e2129d38c0b18e0135c83c453a038862"
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "2026-10-02 12:21:48 +00:00",
+  "report_commit": "https://github.com/shohamc1/heat2002/commit/5b9ed567e2129d38c0b18e0135c83c453a038862"
+}

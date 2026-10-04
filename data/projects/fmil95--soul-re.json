@@ -1,0 +1,29 @@
+{
+  "id": "fmil95--soul-re",
+  "name": "Legacy of Kain: Soul Reaver",
+  "url": "https://github.com/fmil95/soul-re",
+  "category": "decomp",
+  "group": "2. OLDER AAA / FLAGSHIP CONSOLE AND PC GAMES",
+  "platform": "PlayStation",
+  "type": "Matching decompilation",
+  "description": "",
+  "progress": {
+    "decompiled": 85.05,
+    "linked": null,
+    "kind": "reported",
+    "label": "85.05% decompiled"
+  },
+  "targets": [],
+  "sources": [
+    "https://decomp.dev/fmil95/soul-re"
+  ],
+  "notes": [
+    "Legacy of Kain: Soul Reaver | PlayStation | 85.05% decompiled",
+    "Progress source: https://decomp.dev/fmil95/soul-re",
+    "Report commit date: 2026-09-21 23:11:30 +00:00",
+    "Report commit: https://github.com/fmil95/soul-re/commit/59d1ee87749da95b6ced413a9f60b30a6fb91d45"
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "2026-09-21 23:11:30 +00:00",
+  "report_commit": "https://github.com/fmil95/soul-re/commit/59d1ee87749da95b6ced413a9f60b30a6fb91d45"
+}

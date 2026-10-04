@@ -1,0 +1,29 @@
+{
+  "id": "gaberealb--parasite-eve-2-decomp",
+  "name": "Parasite Eve II",
+  "url": "https://github.com/GabeRealB/parasite-eve-2-decomp",
+  "category": "decomp",
+  "group": "2. OLDER AAA / FLAGSHIP CONSOLE AND PC GAMES",
+  "platform": "PlayStation",
+  "type": "Matching decompilation",
+  "description": "",
+  "progress": {
+    "decompiled": 100.0,
+    "linked": null,
+    "kind": "reported",
+    "label": "100.00% decompiled"
+  },
+  "targets": [],
+  "sources": [
+    "https://decomp.dev/GabeRealB/parasite-eve-2-decomp"
+  ],
+  "notes": [
+    "Parasite Eve II | PlayStation | 100.00% decompiled",
+    "Progress source: https://decomp.dev/GabeRealB/parasite-eve-2-decomp",
+    "Report commit date: 2026-10-04 10:33:58 +00:00",
+    "Report commit: https://github.com/GabeRealB/parasite-eve-2-decomp/commit/f3f021a0c15756074d05f6305893e21a292b3e98"
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "2026-10-04 10:33:58 +00:00",
+  "report_commit": "https://github.com/GabeRealB/parasite-eve-2-decomp/commit/f3f021a0c15756074d05f6305893e21a292b3e98"
+}

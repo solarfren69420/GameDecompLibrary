@@ -1,0 +1,29 @@
+{
+  "id": "gamemasterplc--bltouch2",
+  "name": "Bomberman Land Touch 2",
+  "url": "https://github.com/gamemasterplc/bltouch2",
+  "category": "decomp",
+  "group": "4. SMALLER COMMERCIAL, LICENSED, CULT AND NICHE GAMES",
+  "platform": "Nintendo DS",
+  "type": "Matching decompilation",
+  "description": "",
+  "progress": {
+    "decompiled": 1.83,
+    "linked": 0.75,
+    "kind": "reported",
+    "label": "1.83% decompiled | 0.75% fully linked"
+  },
+  "targets": [],
+  "sources": [
+    "https://decomp.dev/gamemasterplc/bltouch2"
+  ],
+  "notes": [
+    "Bomberman Land Touch 2 | Nintendo DS | 1.83% decompiled | 0.75% fully linked",
+    "Progress source: https://decomp.dev/gamemasterplc/bltouch2",
+    "Report commit date: 2026-09-28 00:23:10 +00:00",
+    "Report commit: https://github.com/gamemasterplc/bltouch2/commit/a6d94c55e471107c59aa742dd3c9aee9ef195c85"
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "2026-09-28 00:23:10 +00:00",
+  "report_commit": "https://github.com/gamemasterplc/bltouch2/commit/a6d94c55e471107c59aa742dd3c9aee9ef195c85"
+}

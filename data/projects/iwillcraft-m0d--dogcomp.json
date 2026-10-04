@@ -1,0 +1,29 @@
+{
+  "id": "iwillcraft-m0d--dogcomp",
+  "name": "Dog's Life",
+  "url": "https://github.com/IWILLCRAFT-M0d/dogcomp",
+  "category": "decomp",
+  "group": "4. SMALLER COMMERCIAL, LICENSED, CULT AND NICHE GAMES",
+  "platform": "PlayStation 2",
+  "type": "Matching decompilation",
+  "description": "",
+  "progress": {
+    "decompiled": 0.79,
+    "linked": null,
+    "kind": "reported",
+    "label": "0.79% decompiled"
+  },
+  "targets": [],
+  "sources": [
+    "https://decomp.dev/IWILLCRAFT-M0d/dogcomp"
+  ],
+  "notes": [
+    "Dog's Life | PlayStation 2 | 0.79% decompiled",
+    "Progress source: https://decomp.dev/IWILLCRAFT-M0d/dogcomp",
+    "Report commit date: 2026-09-25 22:29:00 +00:00",
+    "Report commit: https://github.com/IWILLCRAFT-M0d/dogcomp/commit/9a6e3b2fea88668eb7feb0248601ae085e5b4e6d"
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "2026-09-25 22:29:00 +00:00",
+  "report_commit": "https://github.com/IWILLCRAFT-M0d/dogcomp/commit/9a6e3b2fea88668eb7feb0248601ae085e5b4e6d"
+}

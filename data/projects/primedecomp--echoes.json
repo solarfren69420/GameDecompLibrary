@@ -1,0 +1,29 @@
+{
+  "id": "primedecomp--echoes",
+  "name": "Metroid Prime 2: Echoes",
+  "url": "https://github.com/PrimeDecomp/echoes",
+  "category": "decomp",
+  "group": "2. OLDER AAA / FLAGSHIP CONSOLE AND PC GAMES",
+  "platform": "GameCube",
+  "type": "Matching decompilation",
+  "description": "",
+  "progress": {
+    "decompiled": 25.85,
+    "linked": 10.53,
+    "kind": "reported",
+    "label": "25.85% decompiled | 10.53% fully linked"
+  },
+  "targets": [],
+  "sources": [
+    "https://decomp.dev/PrimeDecomp/echoes"
+  ],
+  "notes": [
+    "Metroid Prime 2: Echoes | GameCube | 25.85% decompiled | 10.53% fully linked",
+    "Progress source: https://decomp.dev/PrimeDecomp/echoes",
+    "Report commit date: 2026-10-04 10:59:39 +00:00",
+    "Report commit: https://github.com/PrimeDecomp/echoes/commit/fc488396bd23d7f053a9fefe30e618ab96dc813f"
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "2026-10-04 10:59:39 +00:00",
+  "report_commit": "https://github.com/PrimeDecomp/echoes/commit/fc488396bd23d7f053a9fefe30e618ab96dc813f"
+}

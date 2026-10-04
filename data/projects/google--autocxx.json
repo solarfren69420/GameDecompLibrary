@@ -1,0 +1,30 @@
+{
+  "id": "google--autocxx",
+  "name": "google/autocxx",
+  "url": "https://github.com/google/autocxx",
+  "category": "tool",
+  "group": "RUST TO C / C++ BINDING GENERATORS",
+  "platform": "Cross-platform / project-specific",
+  "type": "Rust/C++ binding generator",
+  "description": "Generate Rust interfaces for C++ libraries, built around CXX; unsupported constructs still need manual handling.",
+  "progress": {
+    "decompiled": null,
+    "linked": null,
+    "kind": "unknown",
+    "label": "Not applicable to tools"
+  },
+  "targets": [],
+  "sources": [
+    "https://raw.githubusercontent.com/google/autocxx/main/README.md"
+  ],
+  "notes": [
+    "Type: Rust/C++ binding generator",
+    "Tool completion %: NOT PUBLISHED IN CHECKED SOURCES",
+    "Game decompilation %: NOT APPLICABLE TO THIS TOOL",
+    "Helps with: Generate Rust interfaces for C++ libraries, built around CXX; unsupported constructs still need manual handling.",
+    "Evidence: https://raw.githubusercontent.com/google/autocxx/main/README.md"
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "",
+  "report_commit": ""
+}

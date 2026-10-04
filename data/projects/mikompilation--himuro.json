@@ -1,0 +1,29 @@
+{
+  "id": "mikompilation--himuro",
+  "name": "Fatal Frame",
+  "url": "https://github.com/Mikompilation/Himuro",
+  "category": "decomp",
+  "group": "2. OLDER AAA / FLAGSHIP CONSOLE AND PC GAMES",
+  "platform": "PlayStation 2",
+  "type": "Matching decompilation",
+  "description": "",
+  "progress": {
+    "decompiled": 69.56,
+    "linked": null,
+    "kind": "reported",
+    "label": "69.56% decompiled"
+  },
+  "targets": [],
+  "sources": [
+    "https://decomp.dev/Mikompilation/Himuro"
+  ],
+  "notes": [
+    "Fatal Frame | PlayStation 2 | 69.56% decompiled",
+    "Progress source: https://decomp.dev/Mikompilation/Himuro",
+    "Report commit date: 2026-10-03 22:24:29 +00:00",
+    "Report commit: https://github.com/Mikompilation/Himuro/commit/96e723fd02be68f3abe55e6ffc34632022d6eadf"
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "2026-10-03 22:24:29 +00:00",
+  "report_commit": "https://github.com/Mikompilation/Himuro/commit/96e723fd02be68f3abe55e6ffc34632022d6eadf"
+}

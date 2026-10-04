@@ -1,0 +1,29 @@
+{
+  "id": "parappadev--parappa2",
+  "name": "PaRappa the Rapper 2",
+  "url": "https://github.com/parappadev/parappa2",
+  "category": "decomp",
+  "group": "4. SMALLER COMMERCIAL, LICENSED, CULT AND NICHE GAMES",
+  "platform": "PlayStation 2",
+  "type": "Matching decompilation",
+  "description": "",
+  "progress": {
+    "decompiled": 63.3,
+    "linked": null,
+    "kind": "reported",
+    "label": "63.30% decompiled"
+  },
+  "targets": [],
+  "sources": [
+    "https://decomp.dev/parappadev/parappa2"
+  ],
+  "notes": [
+    "PaRappa the Rapper 2 | PlayStation 2 | 63.30% decompiled",
+    "Progress source: https://decomp.dev/parappadev/parappa2",
+    "Report commit date: 2026-09-17 09:45:51 +00:00",
+    "Report commit: https://github.com/parappadev/parappa2/commit/45694de3b6ed8d8bb0514e27bcaf091198698faf"
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "2026-09-17 09:45:51 +00:00",
+  "report_commit": "https://github.com/parappadev/parappa2/commit/45694de3b6ed8d8bb0514e27bcaf091198698faf"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "alexbatalov--fallout1-ce",
+  "name": "Fallout",
+  "url": "https://github.com/alexbatalov/fallout1-ce",
+  "category": "related",
+  "group": "REGRESSION TESTS / AUTOMATED REPAIR SUPPORT",
+  "platform": "Not specified",
+  "type": "Playable reimplementation",
+  "description": "",
+  "progress": {
+    "decompiled": null,
+    "linked": null,
+    "kind": "unknown",
+    "label": "Not applicable to this project category"
+  },
+  "targets": [
+    {
+      "name": "Fallout | Playable reimplementation",
+      "platform": "Not specified",
+      "progress": {
+        "decompiled": null,
+        "linked": null,
+        "kind": "unknown",
+        "label": "Not published"
+      },
+      "notes": []
+    }
+  ],
+  "sources": [],
+  "notes": [
+    "Matching decompilation %: N/A — different project category; no comparable numerical metric verified here.",
+    "Target: Fallout | Playable reimplementation"
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "",
+  "report_commit": ""
+}

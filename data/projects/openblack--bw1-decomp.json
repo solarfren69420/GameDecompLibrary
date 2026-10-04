@@ -1,0 +1,29 @@
+{
+  "id": "openblack--bw1-decomp",
+  "name": "Black & White",
+  "url": "https://github.com/openblack/bw1-decomp",
+  "category": "decomp",
+  "group": "2. OLDER AAA / FLAGSHIP CONSOLE AND PC GAMES",
+  "platform": "Windows",
+  "type": "Matching decompilation",
+  "description": "",
+  "progress": {
+    "decompiled": 11.1,
+    "linked": 7.16,
+    "kind": "reported",
+    "label": "11.10% decompiled | 7.16% fully linked"
+  },
+  "targets": [],
+  "sources": [
+    "https://decomp.dev/openblack/bw1-decomp"
+  ],
+  "notes": [
+    "Black & White | Windows | 11.10% decompiled | 7.16% fully linked",
+    "Progress source: https://decomp.dev/openblack/bw1-decomp",
+    "Report commit date: 2026-10-04 10:14:52 +00:00",
+    "Report commit: https://github.com/openblack/bw1-decomp/commit/39efb439b93d863e4b7aea4b5269ddc10228b735"
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "2026-10-04 10:14:52 +00:00",
+  "report_commit": "https://github.com/openblack/bw1-decomp/commit/39efb439b93d863e4b7aea4b5269ddc10228b735"
+}

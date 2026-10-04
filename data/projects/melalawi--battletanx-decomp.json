@@ -1,0 +1,29 @@
+{
+  "id": "melalawi--battletanx-decomp",
+  "name": "BattleTanx",
+  "url": "https://github.com/melalawi/battletanx-decomp",
+  "category": "decomp",
+  "group": "4. SMALLER COMMERCIAL, LICENSED, CULT AND NICHE GAMES",
+  "platform": "Nintendo 64",
+  "type": "Matching decompilation",
+  "description": "",
+  "progress": {
+    "decompiled": 2.14,
+    "linked": 2.14,
+    "kind": "reported",
+    "label": "2.14% decompiled | 2.14% fully linked"
+  },
+  "targets": [],
+  "sources": [
+    "https://decomp.dev/melalawi/battletanx-decomp"
+  ],
+  "notes": [
+    "BattleTanx | Nintendo 64 | 2.14% decompiled | 2.14% fully linked",
+    "Progress source: https://decomp.dev/melalawi/battletanx-decomp",
+    "Report commit date: 2026-10-01 20:05:09 +00:00",
+    "Report commit: https://github.com/melalawi/battletanx-decomp/commit/874a72c13cd8428872cefc71adde9fd839b78e2a"
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "2026-10-01 20:05:09 +00:00",
+  "report_commit": "https://github.com/melalawi/battletanx-decomp/commit/874a72c13cd8428872cefc71adde9fd839b78e2a"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "cosmicscribe64--eds-decomp",
+  "name": "Yu-Gi-Oh! The Eternal Duelist Soul",
+  "url": "https://github.com/CosmicScribe64/eds-decomp",
+  "category": "decomp",
+  "group": "3. MAJOR HANDHELD / FRANCHISE GAMES",
+  "platform": "Game Boy Advance",
+  "type": "Matching decompilation",
+  "description": "",
+  "progress": {
+    "decompiled": 100.0,
+    "linked": 100.0,
+    "kind": "reported",
+    "label": "100.00% decompiled | 100.00% fully linked"
+  },
+  "targets": [],
+  "sources": [
+    "https://decomp.dev/CosmicScribe64/eds-decomp"
+  ],
+  "notes": [
+    "Yu-Gi-Oh! The Eternal Duelist Soul | Game Boy Advance | 100.00% decompiled | 100.00% fully linked",
+    "Progress source: https://decomp.dev/CosmicScribe64/eds-decomp",
+    "Report commit date: 2026-10-03 18:33:40 +00:00",
+    "Report commit: https://github.com/CosmicScribe64/eds-decomp/commit/a64981db3ffecb0e44d3dd88a08e98ddd879bb0b"
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "2026-10-03 18:33:40 +00:00",
+  "report_commit": "https://github.com/CosmicScribe64/eds-decomp/commit/a64981db3ffecb0e44d3dd88a08e98ddd879bb0b"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "kidwizardoftheweb--sr2",
+  "name": "Sonic Riders: Zero Gravity (PS2 Prototype)",
+  "url": "https://github.com/KidWizardOfTheWeb/SR2",
+  "category": "decomp",
+  "group": "2. OLDER AAA / FLAGSHIP CONSOLE AND PC GAMES",
+  "platform": "PlayStation 2",
+  "type": "Matching decompilation",
+  "description": "",
+  "progress": {
+    "decompiled": 1.51,
+    "linked": null,
+    "kind": "reported",
+    "label": "1.51% decompiled"
+  },
+  "targets": [],
+  "sources": [
+    "https://decomp.dev/KidWizardOfTheWeb/SR2"
+  ],
+  "notes": [
+    "Sonic Riders: Zero Gravity (PS2 Prototype) | PlayStation 2 | 1.51% decompiled",
+    "Progress source: https://decomp.dev/KidWizardOfTheWeb/SR2",
+    "Report commit date: 2026-09-05 17:46:42 +00:00",
+    "Report commit: https://github.com/KidWizardOfTheWeb/SR2/commit/b5820699c9120ddc72bebe4d5a2329e20f835c81"
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "2026-09-05 17:46:42 +00:00",
+  "report_commit": "https://github.com/KidWizardOfTheWeb/SR2/commit/b5820699c9120ddc72bebe4d5a2329e20f835c81"
+}

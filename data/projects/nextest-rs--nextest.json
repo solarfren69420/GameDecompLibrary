@@ -1,0 +1,30 @@
+{
+  "id": "nextest-rs--nextest",
+  "name": "nextest-rs/nextest",
+  "url": "https://github.com/nextest-rs/nextest",
+  "category": "tool",
+  "group": "REGRESSION TESTS / AUTOMATED REPAIR SUPPORT",
+  "platform": "Cross-platform / project-specific",
+  "type": "Rust test runner",
+  "description": "Run and manage large Rust test suites; the tests still need meaningful original-game reference cases.",
+  "progress": {
+    "decompiled": null,
+    "linked": null,
+    "kind": "unknown",
+    "label": "Not applicable to tools"
+  },
+  "targets": [],
+  "sources": [
+    "https://raw.githubusercontent.com/nextest-rs/nextest/main/README.md"
+  ],
+  "notes": [
+    "Type: Rust test runner",
+    "Tool completion %: NOT PUBLISHED IN CHECKED SOURCES",
+    "Game decompilation %: NOT APPLICABLE TO THIS TOOL",
+    "Helps with: Run and manage large Rust test suites; the tests still need meaningful original-game reference cases.",
+    "Evidence: https://raw.githubusercontent.com/nextest-rs/nextest/main/README.md"
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "",
+  "report_commit": ""
+}

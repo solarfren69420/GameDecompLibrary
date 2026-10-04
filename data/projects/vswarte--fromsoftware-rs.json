@@ -1,0 +1,31 @@
+{
+  "id": "vswarte--fromsoftware-rs",
+  "name": "vswarte/fromsoftware-rs",
+  "url": "https://github.com/vswarte/fromsoftware-rs",
+  "category": "tool",
+  "group": "FROM SOFTWARE / ELDEN RING",
+  "platform": "Cross-platform / project-specific",
+  "type": "Rust runtime bindings",
+  "description": "Elden Ring, Dark Souls 3, Sekiro and Nightreign structure definitions; a direct starting point for Rust mods.",
+  "progress": {
+    "decompiled": null,
+    "linked": null,
+    "kind": "unknown",
+    "label": "Not applicable to tools"
+  },
+  "targets": [],
+  "sources": [
+    "https://raw.githubusercontent.com/vswarte/fromsoftware-rs/main/README.md"
+  ],
+  "notes": [
+    "Type: Rust runtime bindings",
+    "Tool completion %: NOT PUBLISHED IN CHECKED SOURCES",
+    "Game decompilation %: NOT APPLICABLE TO THIS TOOL",
+    "Helps with: Elden Ring, Dark Souls 3, Sekiro and Nightreign structure definitions; a direct starting point for Rust mods.",
+    "Scope/status: Supported game crates: Elden Ring, Dark Souls III, Sekiro and Elden Ring Nightreign. Runtime bindings require the original game; no standalone full decompilation percentage is published.",
+    "Evidence: https://raw.githubusercontent.com/vswarte/fromsoftware-rs/main/README.md"
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "",
+  "report_commit": ""
+}

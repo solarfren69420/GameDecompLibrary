@@ -1,0 +1,29 @@
+{
+  "id": "dougchansan--pkmn-colosseum",
+  "name": "Pokemon Colosseum",
+  "url": "https://github.com/dougchansan/pkmn-colosseum",
+  "category": "decomp",
+  "group": "2. OLDER AAA / FLAGSHIP CONSOLE AND PC GAMES",
+  "platform": "GameCube",
+  "type": "Matching decompilation",
+  "description": "",
+  "progress": {
+    "decompiled": 43.38,
+    "linked": 29.37,
+    "kind": "reported",
+    "label": "43.38% decompiled | 29.37% fully linked"
+  },
+  "targets": [],
+  "sources": [
+    "https://decomp.dev/dougchansan/pkmn-colosseum"
+  ],
+  "notes": [
+    "Pokemon Colosseum | GameCube | 43.38% decompiled | 29.37% fully linked",
+    "Progress source: https://decomp.dev/dougchansan/pkmn-colosseum",
+    "Report commit date: 2026-09-24 20:26:34 +00:00",
+    "Report commit: https://github.com/dougchansan/pkmn-colosseum/commit/41df4aa988add7d69dfc16c06ac4d31df96f4362"
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "2026-09-24 20:26:34 +00:00",
+  "report_commit": "https://github.com/dougchansan/pkmn-colosseum/commit/41df4aa988add7d69dfc16c06ac4d31df96f4362"
+}

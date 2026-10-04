@@ -1,0 +1,29 @@
+{
+  "id": "1superchip--ty-decomp",
+  "name": "TY the Tasmanian Tiger",
+  "url": "https://github.com/1superchip/ty-decomp",
+  "category": "decomp",
+  "group": "4. SMALLER COMMERCIAL, LICENSED, CULT AND NICHE GAMES",
+  "platform": "GameCube",
+  "type": "Matching decompilation",
+  "description": "",
+  "progress": {
+    "decompiled": 27.57,
+    "linked": 25.57,
+    "kind": "reported",
+    "label": "27.57% decompiled | 25.57% fully linked"
+  },
+  "targets": [],
+  "sources": [
+    "https://decomp.dev/1superchip/ty-decomp"
+  ],
+  "notes": [
+    "TY the Tasmanian Tiger | GameCube | 27.57% decompiled | 25.57% fully linked",
+    "Progress source: https://decomp.dev/1superchip/ty-decomp",
+    "Report commit date: 2026-10-03 20:07:30 +00:00",
+    "Report commit: https://github.com/1superchip/ty-decomp/commit/9b6fd3904c7666ae086f1dbe971da58b41514df6"
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "2026-10-03 20:07:30 +00:00",
+  "report_commit": "https://github.com/1superchip/ty-decomp/commit/9b6fd3904c7666ae086f1dbe971da58b41514df6"
+}

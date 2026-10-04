@@ -1,0 +1,22 @@
+{
+  "id": "owner--repository",
+  "name": "Your game or tool",
+  "url": "https://github.com/owner/repository",
+  "category": "decomp",
+  "group": "Community submissions",
+  "platform": "Platform and target version",
+  "type": "Matching decompilation",
+  "description": "Describe what the project does.",
+  "progress": {
+    "decompiled": null,
+    "linked": null,
+    "kind": "unknown",
+    "label": "Numeric progress not published"
+  },
+  "targets": [],
+  "sources": ["https://github.com/owner/repository#readme"],
+  "notes": ["Document scope and limitations here."],
+  "snapshot_date": "2026-10-04",
+  "report_date": "",
+  "report_commit": ""
+}

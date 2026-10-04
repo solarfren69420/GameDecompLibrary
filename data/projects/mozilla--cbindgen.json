@@ -1,0 +1,30 @@
+{
+  "id": "mozilla--cbindgen",
+  "name": "mozilla/cbindgen",
+  "url": "https://github.com/mozilla/cbindgen",
+  "category": "tool",
+  "group": "RUST TO C / C++ BINDING GENERATORS",
+  "platform": "Cross-platform / project-specific",
+  "type": "C/C++ header generator",
+  "description": "Expose Rust library APIs to C/C++; direction is Rust outward, unlike bindgen.",
+  "progress": {
+    "decompiled": null,
+    "linked": null,
+    "kind": "unknown",
+    "label": "Not applicable to tools"
+  },
+  "targets": [],
+  "sources": [
+    "https://raw.githubusercontent.com/mozilla/cbindgen/main/README.md"
+  ],
+  "notes": [
+    "Type: C/C++ header generator",
+    "Tool completion %: NOT PUBLISHED IN CHECKED SOURCES",
+    "Game decompilation %: NOT APPLICABLE TO THIS TOOL",
+    "Helps with: Expose Rust library APIs to C/C++; direction is Rust outward, unlike bindgen.",
+    "Evidence: https://raw.githubusercontent.com/mozilla/cbindgen/main/README.md"
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "",
+  "report_commit": ""
+}

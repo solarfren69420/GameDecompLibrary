@@ -1,0 +1,29 @@
+{
+  "id": "testyourmine--kleod",
+  "name": "Klonoa: Empire of Dreams",
+  "url": "https://github.com/testyourmine/kleod",
+  "category": "decomp",
+  "group": "3. MAJOR HANDHELD / FRANCHISE GAMES",
+  "platform": "Game Boy Advance",
+  "type": "Matching decompilation",
+  "description": "",
+  "progress": {
+    "decompiled": 100.0,
+    "linked": null,
+    "kind": "reported",
+    "label": "100.00% decompiled"
+  },
+  "targets": [],
+  "sources": [
+    "https://decomp.dev/testyourmine/kleod"
+  ],
+  "notes": [
+    "Klonoa: Empire of Dreams | Game Boy Advance | 100.00% decompiled",
+    "Progress source: https://decomp.dev/testyourmine/kleod",
+    "Report commit date: 2026-10-04 00:57:47 +00:00",
+    "Report commit: https://github.com/testyourmine/kleod/commit/952dd0b57276e84b1034c8dfda0acccf2f604950"
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "2026-10-04 00:57:47 +00:00",
+  "report_commit": "https://github.com/testyourmine/kleod/commit/952dd0b57276e84b1034c8dfda0acccf2f604950"
+}

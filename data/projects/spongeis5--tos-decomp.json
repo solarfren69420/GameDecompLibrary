@@ -1,0 +1,29 @@
+{
+  "id": "spongeis5--tos-decomp",
+  "name": "SpongeBob's Truth or Square",
+  "url": "https://github.com/spongeis5/ToS-Decomp",
+  "category": "decomp",
+  "group": "4. SMALLER COMMERCIAL, LICENSED, CULT AND NICHE GAMES",
+  "platform": "Xbox 360",
+  "type": "Matching decompilation",
+  "description": "",
+  "progress": {
+    "decompiled": 0.81,
+    "linked": 0.11,
+    "kind": "reported",
+    "label": "0.81% decompiled | 0.11% fully linked"
+  },
+  "targets": [],
+  "sources": [
+    "https://decomp.dev/spongeis5/ToS-Decomp"
+  ],
+  "notes": [
+    "SpongeBob's Truth or Square | Xbox 360 | 0.81% decompiled | 0.11% fully linked",
+    "Progress source: https://decomp.dev/spongeis5/ToS-Decomp",
+    "Report commit date: 2026-08-31 05:39:41 +00:00",
+    "Report commit: https://github.com/spongeis5/ToS-Decomp/commit/0f3d173e4535edbaa0bb53c0569bf3556c8a0fe2"
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "2026-08-31 05:39:41 +00:00",
+  "report_commit": "https://github.com/spongeis5/ToS-Decomp/commit/0f3d173e4535edbaa0bb53c0569bf3556c8a0fe2"
+}

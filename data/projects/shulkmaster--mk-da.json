@@ -1,0 +1,29 @@
+{
+  "id": "shulkmaster--mk-da",
+  "name": "Mortal Kombat: Deadly Alliance",
+  "url": "https://github.com/ShulkMaster/mk-da",
+  "category": "decomp",
+  "group": "2. OLDER AAA / FLAGSHIP CONSOLE AND PC GAMES",
+  "platform": "GameCube",
+  "type": "Matching decompilation",
+  "description": "",
+  "progress": {
+    "decompiled": 24.34,
+    "linked": 21.63,
+    "kind": "reported",
+    "label": "24.34% decompiled | 21.63% fully linked"
+  },
+  "targets": [],
+  "sources": [
+    "https://decomp.dev/ShulkMaster/mk-da"
+  ],
+  "notes": [
+    "Mortal Kombat: Deadly Alliance | GameCube | 24.34% decompiled | 21.63% fully linked",
+    "Progress source: https://decomp.dev/ShulkMaster/mk-da",
+    "Report commit date: 2026-10-04 00:31:30 +00:00",
+    "Report commit: https://github.com/ShulkMaster/mk-da/commit/3d6f17751309eb5e7cb5b6162c21360cbb5a35bf"
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "2026-10-04 00:31:30 +00:00",
+  "report_commit": "https://github.com/ShulkMaster/mk-da/commit/3d6f17751309eb5e7cb5b6162c21360cbb5a35bf"
+}

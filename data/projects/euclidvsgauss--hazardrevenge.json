@@ -1,0 +1,29 @@
+{
+  "id": "euclidvsgauss--hazardrevenge",
+  "name": "Hazard (해저드)",
+  "url": "https://github.com/EuclidVsGauss/HazardRevenge",
+  "category": "decomp",
+  "group": "4. SMALLER COMMERCIAL, LICENSED, CULT AND NICHE GAMES",
+  "platform": "Windows",
+  "type": "Matching decompilation",
+  "description": "",
+  "progress": {
+    "decompiled": 15.45,
+    "linked": null,
+    "kind": "reported",
+    "label": "15.45% decompiled"
+  },
+  "targets": [],
+  "sources": [
+    "https://decomp.dev/EuclidVsGauss/HazardRevenge"
+  ],
+  "notes": [
+    "Hazard (해저드) | Windows | 15.45% decompiled",
+    "Progress source: https://decomp.dev/EuclidVsGauss/HazardRevenge",
+    "Report commit date: 2026-08-29 10:31:45 +00:00",
+    "Report commit: https://github.com/EuclidVsGauss/HazardRevenge/commit/a6e9fe2ebcc3c46ea19089469f8476978030c362"
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "2026-08-29 10:31:45 +00:00",
+  "report_commit": "https://github.com/EuclidVsGauss/HazardRevenge/commit/a6e9fe2ebcc3c46ea19089469f8476978030c362"
+}

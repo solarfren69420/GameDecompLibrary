@@ -1,0 +1,29 @@
+{
+  "id": "bigyoshi51--glover-decomp",
+  "name": "Glover",
+  "url": "https://github.com/bigyoshi51/glover-decomp",
+  "category": "decomp",
+  "group": "4. SMALLER COMMERCIAL, LICENSED, CULT AND NICHE GAMES",
+  "platform": "Nintendo 64",
+  "type": "Matching decompilation",
+  "description": "",
+  "progress": {
+    "decompiled": 0.99,
+    "linked": null,
+    "kind": "reported",
+    "label": "0.99% decompiled"
+  },
+  "targets": [],
+  "sources": [
+    "https://decomp.dev/bigyoshi51/glover-decomp"
+  ],
+  "notes": [
+    "Glover | Nintendo 64 | 0.99% decompiled",
+    "Progress source: https://decomp.dev/bigyoshi51/glover-decomp",
+    "Report commit date: 2026-03-23 22:47:38 +00:00",
+    "Report commit: https://github.com/bigyoshi51/glover-decomp/commit/a8c5ed2769ba83d2bacdb6cd9303a6152789efd9"
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "2026-03-23 22:47:38 +00:00",
+  "report_commit": "https://github.com/bigyoshi51/glover-decomp/commit/a8c5ed2769ba83d2bacdb6cd9303a6152789efd9"
+}

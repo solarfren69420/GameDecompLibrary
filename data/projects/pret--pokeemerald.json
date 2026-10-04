@@ -1,0 +1,43 @@
+{
+  "id": "pret--pokeemerald",
+  "name": "Pokémon Emerald",
+  "url": "https://github.com/pret/pokeemerald",
+  "category": "decomp",
+  "group": "3. MAJOR HANDHELD / FRANCHISE GAMES",
+  "platform": "Game Boy Advance",
+  "type": "Matching decompilation",
+  "description": "",
+  "progress": {
+    "decompiled": null,
+    "linked": null,
+    "kind": "unknown",
+    "label": "Numeric % not published in checked README"
+  },
+  "targets": [
+    {
+      "name": "Pokémon Emerald",
+      "platform": "Game Boy Advance",
+      "progress": {
+        "decompiled": null,
+        "linked": null,
+        "kind": "unknown",
+        "label": "Numeric % not published in checked README"
+      },
+      "notes": [
+        "Established decompilation; README identifies the ROM it builds. A buildable ROM alone is not proof every function is decompiled."
+      ]
+    }
+  ],
+  "sources": [
+    "https://github.com/pret/pokeemerald"
+  ],
+  "notes": [
+    "Target: Pokémon Emerald",
+    "Platform: Game Boy Advance | Numeric % not published in checked README",
+    "Evidence: https://github.com/pret/pokeemerald",
+    "Note: Established decompilation; README identifies the ROM it builds. A buildable ROM alone is not proof every function is decompiled."
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "",
+  "report_commit": ""
+}

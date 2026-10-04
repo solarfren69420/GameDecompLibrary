@@ -1,0 +1,31 @@
+{
+  "id": "ryan-rsm-mckenzie--bsa-rs",
+  "name": "ryan-rsm-mckenzie/bsa-rs",
+  "url": "https://github.com/ryan-rsm-mckenzie/bsa-rs",
+  "category": "tool",
+  "group": "SOURCE / BETHESDA / OTHER GAME ECOSYSTEMS",
+  "platform": "Cross-platform / project-specific",
+  "type": "Rust archive library",
+  "description": "Bethesda BSA/BA2 archive handling; consult its per-format support.",
+  "progress": {
+    "decompiled": null,
+    "linked": null,
+    "kind": "unknown",
+    "label": "Not applicable to tools"
+  },
+  "targets": [],
+  "sources": [
+    "https://raw.githubusercontent.com/ryan-rsm-mckenzie/bsa-rs/main/README.md"
+  ],
+  "notes": [
+    "Type: Rust archive library",
+    "Tool completion %: NOT PUBLISHED IN CHECKED SOURCES",
+    "Game decompilation %: NOT APPLICABLE TO THIS TOOL",
+    "Helps with: Bethesda BSA/BA2 archive handling; consult its per-format support.",
+    "Scope/status: Rust crate named ba2. README describes near-complete archive coverage from Morrowind through Starfield, with less maturity than the C++ library. No numeric completion percentage is published.",
+    "Evidence: https://raw.githubusercontent.com/ryan-rsm-mckenzie/bsa-rs/main/README.md"
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "",
+  "report_commit": ""
+}

@@ -1,0 +1,29 @@
+{
+  "id": "ashfordfamily--recvx-decomp",
+  "name": "Resident Evil - Code: Veronica X",
+  "url": "https://github.com/AshfordFamily/recvx-decomp",
+  "category": "decomp",
+  "group": "2. OLDER AAA / FLAGSHIP CONSOLE AND PC GAMES",
+  "platform": "PlayStation 2",
+  "type": "Matching decompilation",
+  "description": "",
+  "progress": {
+    "decompiled": 83.23,
+    "linked": null,
+    "kind": "reported",
+    "label": "83.23% decompiled"
+  },
+  "targets": [],
+  "sources": [
+    "https://decomp.dev/AshfordFamily/recvx-decomp"
+  ],
+  "notes": [
+    "Resident Evil - Code: Veronica X | PlayStation 2 | 83.23% decompiled",
+    "Progress source: https://decomp.dev/AshfordFamily/recvx-decomp",
+    "Report commit date: 2026-10-02 16:10:38 +00:00",
+    "Report commit: https://github.com/AshfordFamily/recvx-decomp/commit/12a05ddfeef521d1f5e9a4082a182e788329135f"
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "2026-10-02 16:10:38 +00:00",
+  "report_commit": "https://github.com/AshfordFamily/recvx-decomp/commit/12a05ddfeef521d1f5e9a4082a182e788329135f"
+}

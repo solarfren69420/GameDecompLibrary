@@ -1,0 +1,30 @@
+{
+  "id": "dimforge--parry",
+  "name": "dimforge/parry",
+  "url": "https://github.com/dimforge/parry",
+  "category": "tool",
+  "group": "REUSABLE RUST CLIENT COMPONENTS",
+  "platform": "Cross-platform / project-specific",
+  "type": "Rust collision library",
+  "description": "Collision detection building blocks; useful beside game-specific movement logic.",
+  "progress": {
+    "decompiled": null,
+    "linked": null,
+    "kind": "unknown",
+    "label": "Not applicable to tools"
+  },
+  "targets": [],
+  "sources": [
+    "https://raw.githubusercontent.com/dimforge/parry/master/README.md"
+  ],
+  "notes": [
+    "Type: Rust collision library",
+    "Tool completion %: NOT PUBLISHED IN CHECKED SOURCES",
+    "Game decompilation %: NOT APPLICABLE TO THIS TOOL",
+    "Helps with: Collision detection building blocks; useful beside game-specific movement logic.",
+    "Evidence: https://raw.githubusercontent.com/dimforge/parry/master/README.md"
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "",
+  "report_commit": ""
+}

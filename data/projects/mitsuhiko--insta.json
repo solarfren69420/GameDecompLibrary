@@ -1,0 +1,30 @@
+{
+  "id": "mitsuhiko--insta",
+  "name": "mitsuhiko/insta",
+  "url": "https://github.com/mitsuhiko/insta",
+  "category": "tool",
+  "group": "REGRESSION TESTS / AUTOMATED REPAIR SUPPORT",
+  "platform": "Cross-platform / project-specific",
+  "type": "Rust snapshot testing",
+  "description": "Track structured-output changes; useful for parser and asset-conversion regression fixtures.",
+  "progress": {
+    "decompiled": null,
+    "linked": null,
+    "kind": "unknown",
+    "label": "Not applicable to tools"
+  },
+  "targets": [],
+  "sources": [
+    "https://raw.githubusercontent.com/mitsuhiko/insta/master/README.md"
+  ],
+  "notes": [
+    "Type: Rust snapshot testing",
+    "Tool completion %: NOT PUBLISHED IN CHECKED SOURCES",
+    "Game decompilation %: NOT APPLICABLE TO THIS TOOL",
+    "Helps with: Track structured-output changes; useful for parser and asset-conversion regression fixtures.",
+    "Evidence: https://raw.githubusercontent.com/mitsuhiko/insta/master/README.md"
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "",
+  "report_commit": ""
+}

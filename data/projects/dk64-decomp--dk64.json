@@ -1,0 +1,43 @@
+{
+  "id": "dk64-decomp--dk64",
+  "name": "Donkey Kong 64",
+  "url": "https://gitlab.com/dk64_decomp/dk64",
+  "category": "decomp",
+  "group": "Other hosts",
+  "platform": "Nintendo 64",
+  "type": "Matching decompilation",
+  "description": "",
+  "progress": {
+    "decompiled": null,
+    "linked": null,
+    "kind": "unknown",
+    "label": "Numeric % not verified in retrieved README"
+  },
+  "targets": [
+    {
+      "name": "Donkey Kong 64",
+      "platform": "Nintendo 64",
+      "progress": {
+        "decompiled": null,
+        "linked": null,
+        "kind": "unknown",
+        "label": "Numeric % not verified in retrieved README"
+      },
+      "notes": [
+        "Additional established reverse-engineering/decomp project; use its version-specific progress page."
+      ]
+    }
+  ],
+  "sources": [
+    "https://gitlab.com/dk64_decomp/dk64/-/raw/main/README.md"
+  ],
+  "notes": [
+    "Target: Donkey Kong 64",
+    "Platform: Nintendo 64 | Numeric % not verified in retrieved README",
+    "Evidence: https://gitlab.com/dk64_decomp/dk64/-/raw/main/README.md",
+    "Note: Additional established reverse-engineering/decomp project; use its version-specific progress page."
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "",
+  "report_commit": ""
+}

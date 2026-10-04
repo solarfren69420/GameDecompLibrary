@@ -1,0 +1,30 @@
+{
+  "id": "ortham--libloadorder",
+  "name": "Ortham/libloadorder",
+  "url": "https://github.com/Ortham/libloadorder",
+  "category": "tool",
+  "group": "SOURCE / BETHESDA / OTHER GAME ECOSYSTEMS",
+  "platform": "Cross-platform / project-specific",
+  "type": "Rust load-order library",
+  "description": "Manage Bethesda plugin load ordering; does not implement the games' engines.",
+  "progress": {
+    "decompiled": null,
+    "linked": null,
+    "kind": "unknown",
+    "label": "Not applicable to tools"
+  },
+  "targets": [],
+  "sources": [
+    "https://raw.githubusercontent.com/Ortham/libloadorder/master/README.md"
+  ],
+  "notes": [
+    "Type: Rust load-order library",
+    "Tool completion %: NOT PUBLISHED IN CHECKED SOURCES",
+    "Game decompilation %: NOT APPLICABLE TO THIS TOOL",
+    "Helps with: Manage Bethesda plugin load ordering; does not implement the games' engines.",
+    "Evidence: https://raw.githubusercontent.com/Ortham/libloadorder/master/README.md"
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "",
+  "report_commit": ""
+}

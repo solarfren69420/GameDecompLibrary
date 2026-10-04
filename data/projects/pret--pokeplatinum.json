@@ -1,0 +1,43 @@
+{
+  "id": "pret--pokeplatinum",
+  "name": "Pokémon Platinum",
+  "url": "https://github.com/pret/pokeplatinum",
+  "category": "decomp",
+  "group": "3. MAJOR HANDHELD / FRANCHISE GAMES",
+  "platform": "Nintendo DS",
+  "type": "Matching decompilation",
+  "description": "",
+  "progress": {
+    "decompiled": null,
+    "linked": null,
+    "kind": "unknown",
+    "label": "Numeric % not published in checked README; WIP"
+  },
+  "targets": [
+    {
+      "name": "Pokémon Platinum",
+      "platform": "Nintendo DS",
+      "progress": {
+        "decompiled": null,
+        "linked": null,
+        "kind": "unknown",
+        "label": "Numeric % not published in checked README; WIP"
+      },
+      "notes": [
+        "Buildable project; no invented completion percentage."
+      ]
+    }
+  ],
+  "sources": [
+    "https://github.com/pret/pokeplatinum"
+  ],
+  "notes": [
+    "Target: Pokémon Platinum",
+    "Platform: Nintendo DS | Numeric % not published in checked README; WIP",
+    "Evidence: https://github.com/pret/pokeplatinum",
+    "Note: Buildable project; no invented completion percentage."
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "",
+  "report_commit": ""
+}

@@ -1,0 +1,29 @@
+{
+  "id": "celophi--so3-decomp",
+  "name": "Star Ocean: Till the End of Time",
+  "url": "https://github.com/celophi/so3-decomp",
+  "category": "decomp",
+  "group": "2. OLDER AAA / FLAGSHIP CONSOLE AND PC GAMES",
+  "platform": "PlayStation 2",
+  "type": "Matching decompilation",
+  "description": "",
+  "progress": {
+    "decompiled": 2.7,
+    "linked": 0.07,
+    "kind": "reported",
+    "label": "2.70% decompiled | 0.07% fully linked"
+  },
+  "targets": [],
+  "sources": [
+    "https://decomp.dev/celophi/so3-decomp"
+  ],
+  "notes": [
+    "Star Ocean: Till the End of Time | PlayStation 2 | 2.70% decompiled | 0.07% fully linked",
+    "Progress source: https://decomp.dev/celophi/so3-decomp",
+    "Report commit date: 2026-10-04 03:13:54 +00:00",
+    "Report commit: https://github.com/celophi/so3-decomp/commit/36e0c031c813e4d83b2e6f7c56a82f0d60929c21"
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "2026-10-04 03:13:54 +00:00",
+  "report_commit": "https://github.com/celophi/so3-decomp/commit/36e0c031c813e4d83b2e6f7c56a82f0d60929c21"
+}

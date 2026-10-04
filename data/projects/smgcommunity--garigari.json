@@ -1,0 +1,29 @@
+{
+  "id": "smgcommunity--garigari",
+  "name": "Super Mario Galaxy 2",
+  "url": "https://github.com/SMGCommunity/Garigari",
+  "category": "decomp",
+  "group": "2. OLDER AAA / FLAGSHIP CONSOLE AND PC GAMES",
+  "platform": "Wii",
+  "type": "Matching decompilation",
+  "description": "",
+  "progress": {
+    "decompiled": 15.63,
+    "linked": 1.5,
+    "kind": "reported",
+    "label": "15.63% decompiled | 1.50% fully linked"
+  },
+  "targets": [],
+  "sources": [
+    "https://decomp.dev/SMGCommunity/Garigari"
+  ],
+  "notes": [
+    "Super Mario Galaxy 2 | Wii | 15.63% decompiled | 1.50% fully linked",
+    "Progress source: https://decomp.dev/SMGCommunity/Garigari",
+    "Report commit date: 2026-10-02 14:59:52 +00:00",
+    "Report commit: https://github.com/SMGCommunity/Garigari/commit/6bff50a405a858638f39e944ad3f7919f056cea5"
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "2026-10-02 14:59:52 +00:00",
+  "report_commit": "https://github.com/SMGCommunity/Garigari/commit/6bff50a405a858638f39e944ad3f7919f056cea5"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "marijnvdwerf--paperboy-n64",
+  "name": "Paperboy",
+  "url": "https://github.com/marijnvdwerf/paperboy-n64",
+  "category": "decomp",
+  "group": "4. SMALLER COMMERCIAL, LICENSED, CULT AND NICHE GAMES",
+  "platform": "Nintendo 64",
+  "type": "Matching decompilation",
+  "description": "",
+  "progress": {
+    "decompiled": 17.51,
+    "linked": null,
+    "kind": "reported",
+    "label": "17.51% decompiled"
+  },
+  "targets": [],
+  "sources": [
+    "https://decomp.dev/marijnvdwerf/paperboy-n64"
+  ],
+  "notes": [
+    "Paperboy | Nintendo 64 | 17.51% decompiled",
+    "Progress source: https://decomp.dev/marijnvdwerf/paperboy-n64",
+    "Report commit date: 2026-09-27 11:51:17 +00:00",
+    "Report commit: https://github.com/marijnvdwerf/paperboy-n64/commit/439f9883fc4c11ffde3de37876bd69a958307220"
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "2026-09-27 11:51:17 +00:00",
+  "report_commit": "https://github.com/marijnvdwerf/paperboy-n64/commit/439f9883fc4c11ffde3de37876bd69a958307220"
+}

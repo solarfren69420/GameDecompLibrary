@@ -1,0 +1,30 @@
+{
+  "id": "m4b--goblin",
+  "name": "m4b/goblin",
+  "url": "https://github.com/m4b/goblin",
+  "category": "tool",
+  "group": "BINARY FORMATS / RUNTIME ANALYSIS",
+  "platform": "Cross-platform / project-specific",
+  "type": "Rust binary parser",
+  "description": "Parse executable/object formats such as ELF, PE and Mach-O.",
+  "progress": {
+    "decompiled": null,
+    "linked": null,
+    "kind": "unknown",
+    "label": "Not applicable to tools"
+  },
+  "targets": [],
+  "sources": [
+    "https://raw.githubusercontent.com/m4b/goblin/master/README.md"
+  ],
+  "notes": [
+    "Type: Rust binary parser",
+    "Tool completion %: NOT PUBLISHED IN CHECKED SOURCES",
+    "Game decompilation %: NOT APPLICABLE TO THIS TOOL",
+    "Helps with: Parse executable/object formats such as ELF, PE and Mach-O.",
+    "Evidence: https://raw.githubusercontent.com/m4b/goblin/master/README.md"
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "",
+  "report_commit": ""
+}

@@ -1,0 +1,30 @@
+{
+  "id": "model-checking--kani",
+  "name": "model-checking/kani",
+  "url": "https://github.com/model-checking/kani",
+  "category": "tool",
+  "group": "REGRESSION TESTS / AUTOMATED REPAIR SUPPORT",
+  "platform": "Cross-platform / project-specific",
+  "type": "Rust model checking",
+  "description": "Verify properties of supported Rust code; not a guarantee an entire game rewrite is bug-free.",
+  "progress": {
+    "decompiled": null,
+    "linked": null,
+    "kind": "unknown",
+    "label": "Not applicable to tools"
+  },
+  "targets": [],
+  "sources": [
+    "https://raw.githubusercontent.com/model-checking/kani/main/README.md"
+  ],
+  "notes": [
+    "Type: Rust model checking",
+    "Tool completion %: NOT PUBLISHED IN CHECKED SOURCES",
+    "Game decompilation %: NOT APPLICABLE TO THIS TOOL",
+    "Helps with: Verify properties of supported Rust code; not a guarantee an entire game rewrite is bug-free.",
+    "Evidence: https://raw.githubusercontent.com/model-checking/kani/main/README.md"
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "",
+  "report_commit": ""
+}

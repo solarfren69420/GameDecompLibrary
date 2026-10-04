@@ -1,0 +1,29 @@
+{
+  "id": "charlieduzstuf--pokesword",
+  "name": "Pokémon Sword",
+  "url": "https://github.com/charlieduzstuf/pokesword",
+  "category": "decomp",
+  "group": "1. HD-ERA / MODERN HIGH-PROFILE GAMES — AAA AND MAJOR FRANCHISES",
+  "platform": "Switch",
+  "type": "Matching decompilation",
+  "description": "",
+  "progress": {
+    "decompiled": 0.52,
+    "linked": null,
+    "kind": "reported",
+    "label": "0.52% decompiled"
+  },
+  "targets": [],
+  "sources": [
+    "https://decomp.dev/charlieduzstuf/pokesword"
+  ],
+  "notes": [
+    "Pokémon Sword | Switch | 0.52% decompiled",
+    "Progress source: https://decomp.dev/charlieduzstuf/pokesword",
+    "Report commit date: 2026-10-04 10:33:23 +00:00",
+    "Report commit: https://github.com/charlieduzstuf/pokesword/commit/33623d01bcba2e1e1102f8f20008f6f1822600e3"
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "2026-10-04 10:33:23 +00:00",
+  "report_commit": "https://github.com/charlieduzstuf/pokesword/commit/33623d01bcba2e1e1102f8f20008f6f1822600e3"
+}

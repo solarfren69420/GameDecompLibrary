@@ -1,0 +1,29 @@
+{
+  "id": "theplayerrolo--super-mario-all-star-decomp",
+  "name": "Super Mario All-Stars 25th Anniversary Edition",
+  "url": "https://github.com/ThePlayerRolo/Super-Mario-All-Star-Decomp",
+  "category": "decomp",
+  "group": "2. OLDER AAA / FLAGSHIP CONSOLE AND PC GAMES",
+  "platform": "Wii",
+  "type": "Matching decompilation",
+  "description": "",
+  "progress": {
+    "decompiled": 0.52,
+    "linked": 0.11,
+    "kind": "reported",
+    "label": "0.52% decompiled | 0.11% fully linked"
+  },
+  "targets": [],
+  "sources": [
+    "https://decomp.dev/ThePlayerRolo/Super-Mario-All-Star-Decomp"
+  ],
+  "notes": [
+    "Super Mario All-Stars 25th Anniversary Edition | Wii | 0.52% decompiled | 0.11% fully linked",
+    "Progress source: https://decomp.dev/ThePlayerRolo/Super-Mario-All-Star-Decomp",
+    "Report commit date: 2026-07-01 13:36:59 +00:00",
+    "Report commit: https://github.com/ThePlayerRolo/Super-Mario-All-Star-Decomp/commit/685ac3c1e85ea9e88ebe13568343afaf31e7ee8c"
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "2026-07-01 13:36:59 +00:00",
+  "report_commit": "https://github.com/ThePlayerRolo/Super-Mario-All-Star-Decomp/commit/685ac3c1e85ea9e88ebe13568343afaf31e7ee8c"
+}

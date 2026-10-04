@@ -1,0 +1,29 @@
+{
+  "id": "banteg--snail",
+  "name": "Snail Mail",
+  "url": "https://github.com/banteg/snail",
+  "category": "decomp",
+  "group": "4. SMALLER COMMERCIAL, LICENSED, CULT AND NICHE GAMES",
+  "platform": "Windows",
+  "type": "Matching decompilation",
+  "description": "",
+  "progress": {
+    "decompiled": 37.46,
+    "linked": null,
+    "kind": "reported",
+    "label": "37.46% decompiled"
+  },
+  "targets": [],
+  "sources": [
+    "https://decomp.dev/banteg/snail"
+  ],
+  "notes": [
+    "Snail Mail | Windows | 37.46% decompiled",
+    "Progress source: https://decomp.dev/banteg/snail",
+    "Report commit date: 2026-09-29 22:17:48 +00:00",
+    "Report commit: https://github.com/banteg/snail/commit/c97c9ba1d8b6d77674184721ad3c45c3b9f9166b"
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "2026-09-29 22:17:48 +00:00",
+  "report_commit": "https://github.com/banteg/snail/commit/c97c9ba1d8b6d77674184721ad3c45c3b9f9166b"
+}

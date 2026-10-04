@@ -1,0 +1,29 @@
+{
+  "id": "bluisblu--cttr",
+  "name": "Crash Tag Team Racing",
+  "url": "https://github.com/bluisblu/cttr",
+  "category": "decomp",
+  "group": "2. OLDER AAA / FLAGSHIP CONSOLE AND PC GAMES",
+  "platform": "GameCube",
+  "type": "Matching decompilation",
+  "description": "",
+  "progress": {
+    "decompiled": 6.41,
+    "linked": 4.4,
+    "kind": "reported",
+    "label": "6.41% decompiled | 4.40% fully linked"
+  },
+  "targets": [],
+  "sources": [
+    "https://decomp.dev/bluisblu/cttr"
+  ],
+  "notes": [
+    "Crash Tag Team Racing | GameCube | 6.41% decompiled | 4.40% fully linked",
+    "Progress source: https://decomp.dev/bluisblu/cttr",
+    "Report commit date: 2026-06-24 17:52:49 +00:00",
+    "Report commit: https://github.com/bluisblu/cttr/commit/c9f5219150e5f427dc9f261399bf4c21523a6960"
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "2026-06-24 17:52:49 +00:00",
+  "report_commit": "https://github.com/bluisblu/cttr/commit/c9f5219150e5f427dc9f261399bf4c21523a6960"
+}

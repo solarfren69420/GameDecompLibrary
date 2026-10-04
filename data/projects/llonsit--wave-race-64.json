@@ -1,0 +1,29 @@
+{
+  "id": "llonsit--wave-race-64",
+  "name": "Wave Race 64",
+  "url": "https://github.com/LLONSIT/Wave-Race-64",
+  "category": "decomp",
+  "group": "2. OLDER AAA / FLAGSHIP CONSOLE AND PC GAMES",
+  "platform": "Nintendo 64",
+  "type": "Matching decompilation",
+  "description": "",
+  "progress": {
+    "decompiled": 33.73,
+    "linked": null,
+    "kind": "reported",
+    "label": "33.73% decompiled"
+  },
+  "targets": [],
+  "sources": [
+    "https://decomp.dev/LLONSIT/Wave-Race-64"
+  ],
+  "notes": [
+    "Wave Race 64 | Nintendo 64 | 33.73% decompiled",
+    "Progress source: https://decomp.dev/LLONSIT/Wave-Race-64",
+    "Report commit date: 2026-04-02 23:02:11 +00:00",
+    "Report commit: https://github.com/LLONSIT/Wave-Race-64/commit/3c86d610f974bd0b3f0af1003cc16a74bf54928e"
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "2026-04-02 23:02:11 +00:00",
+  "report_commit": "https://github.com/LLONSIT/Wave-Race-64/commit/3c86d610f974bd0b3f0af1003cc16a74bf54928e"
+}

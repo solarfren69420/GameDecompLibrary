@@ -1,0 +1,29 @@
+{
+  "id": "roengstrom--ff8-decomp",
+  "name": "Final Fantasy VIII",
+  "url": "https://github.com/roengstrom/ff8-decomp",
+  "category": "decomp",
+  "group": "2. OLDER AAA / FLAGSHIP CONSOLE AND PC GAMES",
+  "platform": "PlayStation",
+  "type": "Matching decompilation",
+  "description": "",
+  "progress": {
+    "decompiled": 63.06,
+    "linked": null,
+    "kind": "reported",
+    "label": "63.06% decompiled"
+  },
+  "targets": [],
+  "sources": [
+    "https://decomp.dev/roengstrom/ff8-decomp"
+  ],
+  "notes": [
+    "Final Fantasy VIII | PlayStation | 63.06% decompiled",
+    "Progress source: https://decomp.dev/roengstrom/ff8-decomp",
+    "Report commit date: 2026-10-02 19:43:33 +00:00",
+    "Report commit: https://github.com/roengstrom/ff8-decomp/commit/e6969cf6eacd8dd73235edd78575fc3c61788a45"
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "2026-10-02 19:43:33 +00:00",
+  "report_commit": "https://github.com/roengstrom/ff8-decomp/commit/e6969cf6eacd8dd73235edd78575fc3c61788a45"
+}

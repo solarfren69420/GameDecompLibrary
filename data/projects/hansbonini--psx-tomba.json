@@ -1,0 +1,29 @@
+{
+  "id": "hansbonini--psx-tomba",
+  "name": "Tomba!",
+  "url": "https://github.com/hansbonini/psx_tomba",
+  "category": "decomp",
+  "group": "4. SMALLER COMMERCIAL, LICENSED, CULT AND NICHE GAMES",
+  "platform": "PlayStation",
+  "type": "Matching decompilation",
+  "description": "",
+  "progress": {
+    "decompiled": 23.97,
+    "linked": null,
+    "kind": "reported",
+    "label": "23.97% decompiled"
+  },
+  "targets": [],
+  "sources": [
+    "https://decomp.dev/hansbonini/psx_tomba"
+  ],
+  "notes": [
+    "Tomba! | PlayStation | 23.97% decompiled",
+    "Progress source: https://decomp.dev/hansbonini/psx_tomba",
+    "Report commit date: 2026-09-19 22:46:10 +00:00",
+    "Report commit: https://github.com/hansbonini/psx_tomba/commit/191c3f48d2002cc697653e25df81f2ce1e35d3f5"
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "2026-09-19 22:46:10 +00:00",
+  "report_commit": "https://github.com/hansbonini/psx_tomba/commit/191c3f48d2002cc697653e25df81f2ce1e35d3f5"
+}

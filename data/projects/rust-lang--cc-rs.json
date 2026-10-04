@@ -1,0 +1,30 @@
+{
+  "id": "rust-lang--cc-rs",
+  "name": "rust-lang/cc-rs",
+  "url": "https://github.com/rust-lang/cc-rs",
+  "category": "tool",
+  "group": "RUST TO C / C++ BINDING GENERATORS",
+  "platform": "Cross-platform / project-specific",
+  "type": "Build integration",
+  "description": "Compile C/C++ code from Cargo build scripts; helps retain native modules during migration.",
+  "progress": {
+    "decompiled": null,
+    "linked": null,
+    "kind": "unknown",
+    "label": "Not applicable to tools"
+  },
+  "targets": [],
+  "sources": [
+    "https://raw.githubusercontent.com/rust-lang/cc-rs/main/README.md"
+  ],
+  "notes": [
+    "Type: Build integration",
+    "Tool completion %: NOT PUBLISHED IN CHECKED SOURCES",
+    "Game decompilation %: NOT APPLICABLE TO THIS TOOL",
+    "Helps with: Compile C/C++ code from Cargo build scripts; helps retain native modules during migration.",
+    "Evidence: https://raw.githubusercontent.com/rust-lang/cc-rs/main/README.md"
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "",
+  "report_commit": ""
+}

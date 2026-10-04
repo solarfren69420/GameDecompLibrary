@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#f6f8fa">
+  <meta name="description" content="A community-maintained library of game decompilations, Rust bindings, reverse engineering tools and source projects. Find a project or submit your own GitHub repository.">
+  <title>Game Decompilation Library · SolarFren</title>
+  <link rel="icon" href="icon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="style.css">
+  <script defer src="app.js"></script>
+</head>
+<body>
+  <a class="skip" href="#catalog">Skip to catalog</a>
+  <header class="topbar">
+    <a class="brand" href="https://github.com/solarfren69420/GameDecompLibrary" aria-label="GameDecompLibrary on GitHub"><img src="icon.svg" width="29" height="29" alt=""><span>SolarFren <span class="slash">/</span> <strong>GameDecompLibrary</strong></span></a>
+    <nav aria-label="Repository"><a href="https://github.com/solarfren69420/GameDecompLibrary">↗ GitHub</a><a href="https://github.com/solarfren69420/GameDecompLibrary/issues">Submissions <span class="dot"></span></a></nav>
+  </header>
+  <main class="wrap">
+    <section class="hero" aria-labelledby="title">
+      <div class="eyebrow"><span class="tiny-grid">▦</span> THE COMMUNITY SOURCE SHELF <span class="pill">Public library</span></div>
+      <div class="hero-line"><div><h1 id="title">Game Decompilation Library<span class="title-dot">.</span></h1><p>Recovered source. Shared tools. A place to build from.</p></div><a class="button green" href="https://github.com/solarfren69420/GameDecompLibrary/issues/new?template=add-project.yml"><span aria-hidden="true">＋</span> Submit a project</a></div>
+      <div class="stats" id="stats" aria-label="Library statistics"><div class="stat"><span class="stat-icon blue">▦</span><div><strong>Loading catalog…</strong><small>Community-maintained projects</small></div></div></div>
+    </section>
+    <div class="layout">
+      <section class="catalog" id="catalog" aria-label="Project catalog">
+        <div class="tabs" role="tablist" aria-label="Project categories">
+          <button role="tab" aria-selected="true" aria-controls="catalog-panel" id="tab-decomp" data-category="decomp">Games <span id="count-decomp">…</span></button>
+          <button role="tab" aria-selected="false" aria-controls="catalog-panel" id="tab-tool" tabindex="-1" data-category="tool">Bindings & tools <span id="count-tool">…</span></button>
+          <button role="tab" aria-selected="false" aria-controls="catalog-panel" id="tab-related" tabindex="-1" data-category="related">Related <span id="count-related">…</span></button>
+          <button role="tab" aria-selected="false" aria-controls="catalog-panel" id="tab-unconfirmed" tabindex="-1" data-category="unconfirmed">Unconfirmed <span id="count-unconfirmed">…</span></button>
+        </div>
+        <div role="tabpanel" id="catalog-panel" aria-labelledby="tab-decomp">
+          <div class="filters">
+            <label class="search"><span aria-hidden="true">⌕</span><input id="search" type="search" placeholder="Find a game, tool, owner or repository…" aria-label="Search projects"><kbd>/</kbd></label>
+            <label class="sr-only" for="platform">Platform</label><select id="platform"><option value="">All platforms</option></select>
+            <label class="sr-only" for="status">Progress</label><select id="status"><option value="">All progress</option><option value="reported">Reported %</option><option value="complete">100% reported</option><option value="unknown">No numeric metric</option></select>
+          </div>
+          <div class="table-meta"><span id="result-count" role="status" aria-live="polite">Loading projects…</span><label>Sort <select id="sort" aria-label="Sort projects"><option value="featured">Library order</option><option value="name">Name A–Z</option><option value="progress">Progress ↓</option><option value="date">Report date ↓</option></select></label></div>
+          <div class="table-scroll"><table><caption class="sr-only">Select a project to view its evidence and details.</caption><thead><tr><th scope="col">Game / repository</th><th scope="col" id="platform-heading">Platform</th><th scope="col">Decompiled</th><th scope="col">Linked</th><th scope="col">Source</th><th scope="col" class="detail-column"><span class="sr-only">Details</span></th></tr></thead><tbody id="rows"></tbody></table></div>
+          <div class="empty" id="empty" hidden><span aria-hidden="true">⌕</span><h2>No projects found</h2><p>Try another name or clear your filters.</p><button class="button" id="clear-filters">Clear filters</button></div>
+          <div class="pagination"><span id="page-info"></span><div><button id="previous" class="page-button" aria-label="Previous page">←</button><span id="page-number"></span><button id="next" class="page-button" aria-label="Next page">→</button></div></div>
+          <p class="scope-note"><span class="dot"></span> Published snapshots, with original sources. <a href="#reading">How to read progress</a></p>
+        </div>
+      </section>
+      <aside class="sidebar">
+        <section class="about"><h2>About the library</h2><p>A shared catalog of game source reconstructions, native bindings, asset formats and the tools behind them.</p><div class="tags"><span>decompilation</span><span>preservation</span><span>rust</span><span>reverse-engineering</span></div><a class="subtle-link" href="https://github.com/solarfren69420/GameDecompLibrary/blob/main/CONTRIBUTING.md">▤ Contribution guide <span>↗</span></a><a class="subtle-link" href="https://github.com/solarfren69420/GameDecompLibrary/issues/new?template=update-project.yml">↻ Suggest a correction <span>↗</span></a></section>
+        <section class="selected" aria-label="Selected project" id="selected"><h2>Selected project</h2><p>Select a project to explore its sources.</p></section>
+        <section class="contribute"><span class="contribute-icon" aria-hidden="true">⌘</span><h2>Working on something?</h2><p>Your repository belongs on the shelf. Send a link, add its scope, and we’ll review it.</p><a class="button" href="https://github.com/solarfren69420/GameDecompLibrary/issues/new?template=add-project.yml">Share your GitHub <span>↗</span></a></section>
+        <section id="reading" class="reading"><h2>Reading the numbers</h2><p><strong>Decompiled</strong> describes the published code target. <strong>Linked</strong> is a separate measure.</p><p>A 100% code report does not establish asset, port or gameplay completion. Claims and function counts retain their own labels.</p><p>Builds and tests have not been verified by this library. Tools and related projects have no comparable game decompilation percentage.</p></section>
+        <section class="discovery"><h2>Keep exploring</h2><div id="discovery"></div></section>
+      </aside>
+    </div>
+    <footer><span><img src="icon.svg" alt="" width="20" height="20"> Built for the people rebuilding games.</span><a href="https://github.com/solarfren69420/GameDecompLibrary">Maintained by SolarFren ↗</a></footer>
+  </main>
+  <noscript><p class="noscript">JavaScript is needed for search. <a href="https://github.com/solarfren69420/GameDecompLibrary/blob/main/CATALOG.md">Browse every project in the GitHub catalog.</a></p></noscript>
+</body>
+</html>

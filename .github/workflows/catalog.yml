@@ -1,0 +1,93 @@
+name: Build and update catalog
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+permissions:
+  contents: read
+concurrency:
+  group: catalog-${{ github.ref }}
+  cancel-in-progress: true
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      issues: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Test submission parsing and validate catalog
+        run: |
+          python3 -m unittest discover -s tests -v
+          python3 scripts/build.py --update-docs
+          node --check web/app.js
+      - name: Set up submission labels
+        if: github.event_name != 'pull_request' && github.ref == 'refs/heads/main'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 scripts/setup_labels.py
+      - name: Keep GitHub catalog pages current
+        if: github.event_name != 'pull_request' && github.ref == 'refs/heads/main'
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add README.md CATALOG.md
+          if ! git diff --cached --quiet; then
+            git commit -m 'Update generated catalog index'
+            git push
+          fi
+      - uses: actions/upload-artifact@v4
+        with:
+          name: library-site
+          path: _site/
+          include-hidden-files: true
+  pages:
+    needs: validate
+    if: github.event_name != 'pull_request' && github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/download-artifact@v4
+        with:
+          name: library-site
+          path: _site
+      - name: Check whether GitHub Pages is enabled
+        id: pages
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python3 - <<'PY'
+          import os, urllib.request, urllib.error, json
+          request = urllib.request.Request('https://api.github.com/repos/' + os.environ['GITHUB_REPOSITORY'] + '/pages', headers={'Authorization': 'Bearer ' + os.environ['GITHUB_TOKEN'], 'Accept': 'application/vnd.github+json'})
+          enabled = False
+          try:
+              with urllib.request.urlopen(request) as response:
+                  enabled = json.load(response).get('build_type') == 'workflow'
+          except urllib.error.HTTPError as error:
+              if error.code not in (403, 404):
+                  raise
+          with open(os.environ['GITHUB_OUTPUT'], 'a') as out:
+              out.write('enabled=' + str(enabled).lower() + '\n')
+          if not enabled:
+              with open(os.environ['GITHUB_STEP_SUMMARY'], 'a') as out:
+                  out.write('The catalog is built. To publish the website, open Settings → Pages, select GitHub Actions as the source, then rerun this workflow.\n')
+          PY
+      - uses: actions/configure-pages@v5
+        if: steps.pages.outputs.enabled == 'true'
+      - uses: actions/upload-pages-artifact@v3
+        if: steps.pages.outputs.enabled == 'true'
+        with:
+          path: _site
+      - uses: actions/deploy-pages@v4
+        if: steps.pages.outputs.enabled == 'true'
+        id: deployment

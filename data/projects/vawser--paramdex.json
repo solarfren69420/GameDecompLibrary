@@ -1,0 +1,30 @@
+{
+  "id": "vawser--paramdex",
+  "name": "vawser/Paramdex",
+  "url": "https://github.com/vawser/Paramdex",
+  "category": "tool",
+  "group": "FROM SOFTWARE / ELDEN RING",
+  "platform": "Cross-platform / project-specific",
+  "type": "Data definitions",
+  "description": "Parameter definitions and names for SoulsFormats-based tooling; data/schema reference, not a full engine SDK.",
+  "progress": {
+    "decompiled": null,
+    "linked": null,
+    "kind": "unknown",
+    "label": "Not applicable to tools"
+  },
+  "targets": [],
+  "sources": [
+    "https://raw.githubusercontent.com/vawser/Paramdex/master/README.md"
+  ],
+  "notes": [
+    "Type: Data definitions",
+    "Tool completion %: NOT PUBLISHED IN CHECKED SOURCES",
+    "Game decompilation %: NOT APPLICABLE TO THIS TOOL",
+    "Helps with: Parameter definitions and names for SoulsFormats-based tooling; data/schema reference, not a full engine SDK.",
+    "Evidence: https://raw.githubusercontent.com/vawser/Paramdex/master/README.md"
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "",
+  "report_commit": ""
+}

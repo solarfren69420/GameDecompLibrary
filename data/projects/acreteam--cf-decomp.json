@@ -1,0 +1,29 @@
+{
+  "id": "acreteam--cf-decomp",
+  "name": "Animal Crossing: City Folk",
+  "url": "https://github.com/ACreTeam/cf-decomp",
+  "category": "decomp",
+  "group": "2. OLDER AAA / FLAGSHIP CONSOLE AND PC GAMES",
+  "platform": "Wii",
+  "type": "Matching decompilation",
+  "description": "",
+  "progress": {
+    "decompiled": 10.89,
+    "linked": 2.08,
+    "kind": "reported",
+    "label": "10.89% decompiled | 2.08% fully linked"
+  },
+  "targets": [],
+  "sources": [
+    "https://decomp.dev/ACreTeam/cf-decomp"
+  ],
+  "notes": [
+    "Animal Crossing: City Folk | Wii | 10.89% decompiled | 2.08% fully linked",
+    "Progress source: https://decomp.dev/ACreTeam/cf-decomp",
+    "Report commit date: 2026-10-03 12:08:08 +00:00",
+    "Report commit: https://github.com/ACreTeam/cf-decomp/commit/44144329d4f6b89e11b562fb35368f272ec805a5"
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "2026-10-03 12:08:08 +00:00",
+  "report_commit": "https://github.com/ACreTeam/cf-decomp/commit/44144329d4f6b89e11b562fb35368f272ec805a5"
+}

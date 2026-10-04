@@ -1,0 +1,29 @@
+{
+  "id": "veradictus--thief3-decomp",
+  "name": "Thief: Deadly Shadows",
+  "url": "https://github.com/Veradictus/Thief3-Decomp",
+  "category": "decomp",
+  "group": "2. OLDER AAA / FLAGSHIP CONSOLE AND PC GAMES",
+  "platform": "Windows",
+  "type": "Matching decompilation",
+  "description": "",
+  "progress": {
+    "decompiled": 5.53,
+    "linked": null,
+    "kind": "reported",
+    "label": "5.53% decompiled"
+  },
+  "targets": [],
+  "sources": [
+    "https://decomp.dev/Veradictus/Thief3-Decomp"
+  ],
+  "notes": [
+    "Thief: Deadly Shadows | Windows | 5.53% decompiled",
+    "Progress source: https://decomp.dev/Veradictus/Thief3-Decomp",
+    "Report commit date: 2026-10-03 06:19:18 +00:00",
+    "Report commit: https://github.com/Veradictus/Thief3-Decomp/commit/59b578892fe148d858ffee2e33241e506510f492"
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "2026-10-03 06:19:18 +00:00",
+  "report_commit": "https://github.com/Veradictus/Thief3-Decomp/commit/59b578892fe148d858ffee2e33241e506510f492"
+}

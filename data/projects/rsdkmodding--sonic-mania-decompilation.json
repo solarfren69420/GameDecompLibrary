@@ -1,0 +1,43 @@
+{
+  "id": "rsdkmodding--sonic-mania-decompilation",
+  "name": "Sonic Mania",
+  "url": "https://github.com/RSDKModding/Sonic-Mania-Decompilation",
+  "category": "decomp",
+  "group": "4. SMALLER COMMERCIAL, LICENSED, CULT AND NICHE GAMES",
+  "platform": "2017 / RSDK",
+  "type": "Matching decompilation",
+  "description": "",
+  "progress": {
+    "decompiled": null,
+    "linked": null,
+    "kind": "claim",
+    "label": "100% / complete decompilation (project description)"
+  },
+  "targets": [
+    {
+      "name": "Sonic Mania",
+      "platform": "2017 / RSDK",
+      "progress": {
+        "decompiled": null,
+        "linked": null,
+        "kind": "claim",
+        "label": "100% / complete decompilation (project description)"
+      },
+      "notes": [
+        "Requires the supporting RSDK engine implementation and original assets; complete is not a matching-byte report."
+      ]
+    }
+  ],
+  "sources": [
+    "https://github.com/RSDKModding/Sonic-Mania-Decompilation"
+  ],
+  "notes": [
+    "Target: Sonic Mania",
+    "Platform: 2017 / RSDK | 100% / complete decompilation (project description)",
+    "Evidence: https://github.com/RSDKModding/Sonic-Mania-Decompilation",
+    "Note: Requires the supporting RSDK engine implementation and original assets; complete is not a matching-byte report."
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "",
+  "report_commit": ""
+}

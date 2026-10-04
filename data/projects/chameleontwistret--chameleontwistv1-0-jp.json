@@ -1,0 +1,29 @@
+{
+  "id": "chameleontwistret--chameleontwistv1-0-jp",
+  "name": "Chameleon Twist",
+  "url": "https://github.com/chameleonTwistRet/chameleonTwistv1.0-JP",
+  "category": "decomp",
+  "group": "4. SMALLER COMMERCIAL, LICENSED, CULT AND NICHE GAMES",
+  "platform": "Nintendo 64",
+  "type": "Matching decompilation",
+  "description": "",
+  "progress": {
+    "decompiled": 51.24,
+    "linked": null,
+    "kind": "reported",
+    "label": "51.24% decompiled"
+  },
+  "targets": [],
+  "sources": [
+    "https://decomp.dev/chameleonTwistRet/chameleonTwistv1.0-JP"
+  ],
+  "notes": [
+    "Chameleon Twist | Nintendo 64 | 51.24% decompiled",
+    "Progress source: https://decomp.dev/chameleonTwistRet/chameleonTwistv1.0-JP",
+    "Report commit date: 2026-09-26 02:29:59 +00:00",
+    "Report commit: https://github.com/chameleonTwistRet/chameleonTwistv1.0-JP/commit/3bdc8fa875a8fbb46dc61878ad0804c37c74f681"
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "2026-09-26 02:29:59 +00:00",
+  "report_commit": "https://github.com/chameleonTwistRet/chameleonTwistv1.0-JP/commit/3bdc8fa875a8fbb46dc61878ad0804c37c74f681"
+}

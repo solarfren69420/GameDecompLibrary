@@ -1,0 +1,30 @@
+{
+  "id": "rust-lang--rust-bindgen",
+  "name": "rust-lang/rust-bindgen",
+  "url": "https://github.com/rust-lang/rust-bindgen",
+  "category": "tool",
+  "group": "RUST TO C / C++ BINDING GENERATORS",
+  "platform": "Cross-platform / project-specific",
+  "type": "Rust binding generator",
+  "description": "Generate Rust declarations for C and some C++ APIs from headers; headers alone do not provide missing game implementations.",
+  "progress": {
+    "decompiled": null,
+    "linked": null,
+    "kind": "unknown",
+    "label": "Not applicable to tools"
+  },
+  "targets": [],
+  "sources": [
+    "https://raw.githubusercontent.com/rust-lang/rust-bindgen/main/README.md"
+  ],
+  "notes": [
+    "Type: Rust binding generator",
+    "Tool completion %: NOT PUBLISHED IN CHECKED SOURCES",
+    "Game decompilation %: NOT APPLICABLE TO THIS TOOL",
+    "Helps with: Generate Rust declarations for C and some C++ APIs from headers; headers alone do not provide missing game implementations.",
+    "Evidence: https://raw.githubusercontent.com/rust-lang/rust-bindgen/main/README.md"
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "",
+  "report_commit": ""
+}

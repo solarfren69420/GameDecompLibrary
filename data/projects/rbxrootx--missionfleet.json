@@ -1,0 +1,29 @@
+{
+  "id": "rbxrootx--missionfleet",
+  "name": "NavyField 2000 PC",
+  "url": "https://github.com/rbxrootx/MissionFleet",
+  "category": "decomp",
+  "group": "4. SMALLER COMMERCIAL, LICENSED, CULT AND NICHE GAMES",
+  "platform": "Windows",
+  "type": "Matching decompilation",
+  "description": "",
+  "progress": {
+    "decompiled": 21.38,
+    "linked": 21.38,
+    "kind": "reported",
+    "label": "21.38% decompiled | 21.38% fully linked"
+  },
+  "targets": [],
+  "sources": [
+    "https://decomp.dev/rbxrootx/MissionFleet"
+  ],
+  "notes": [
+    "NavyField 2000 PC | Windows | 21.38% decompiled | 21.38% fully linked",
+    "Progress source: https://decomp.dev/rbxrootx/MissionFleet",
+    "Report commit date: 2026-10-04 04:45:41 +00:00",
+    "Report commit: https://github.com/rbxrootx/MissionFleet/commit/49f9508cc20fd882f0b113b2759d566ee79064f7"
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "2026-10-04 04:45:41 +00:00",
+  "report_commit": "https://github.com/rbxrootx/MissionFleet/commit/49f9508cc20fd882f0b113b2759d566ee79064f7"
+}

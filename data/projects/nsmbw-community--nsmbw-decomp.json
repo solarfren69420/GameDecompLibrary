@@ -1,0 +1,29 @@
+{
+  "id": "nsmbw-community--nsmbw-decomp",
+  "name": "New Super Mario Bros. Wii",
+  "url": "https://github.com/NSMBW-Community/NSMBW-Decomp",
+  "category": "decomp",
+  "group": "2. OLDER AAA / FLAGSHIP CONSOLE AND PC GAMES",
+  "platform": "Wii",
+  "type": "Matching decompilation",
+  "description": "",
+  "progress": {
+    "decompiled": 9.02,
+    "linked": 9.03,
+    "kind": "reported",
+    "label": "9.02% decompiled | 9.03% fully linked"
+  },
+  "targets": [],
+  "sources": [
+    "https://decomp.dev/NSMBW-Community/NSMBW-Decomp"
+  ],
+  "notes": [
+    "New Super Mario Bros. Wii | Wii | 9.02% decompiled | 9.03% fully linked",
+    "Progress source: https://decomp.dev/NSMBW-Community/NSMBW-Decomp",
+    "Report commit date: 2026-09-24 09:29:35 +00:00",
+    "Report commit: https://github.com/NSMBW-Community/NSMBW-Decomp/commit/58fe6985e3ca55261beb543fe7558f66c3ddd7c4"
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "2026-09-24 09:29:35 +00:00",
+  "report_commit": "https://github.com/NSMBW-Community/NSMBW-Decomp/commit/58fe6985e3ca55261beb543fe7558f66c3ddd7c4"
+}

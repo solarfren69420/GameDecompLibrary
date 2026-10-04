@@ -1,0 +1,29 @@
+{
+  "id": "tclamb--mhp2g-decomp",
+  "name": "Monster Hunter Portable 2nd G",
+  "url": "https://github.com/tclamb/mhp2g-decomp",
+  "category": "decomp",
+  "group": "2. OLDER AAA / FLAGSHIP CONSOLE AND PC GAMES",
+  "platform": "PlayStation Portable",
+  "type": "Matching decompilation",
+  "description": "",
+  "progress": {
+    "decompiled": 2.91,
+    "linked": null,
+    "kind": "reported",
+    "label": "2.91% decompiled"
+  },
+  "targets": [],
+  "sources": [
+    "https://decomp.dev/tclamb/mhp2g-decomp"
+  ],
+  "notes": [
+    "Monster Hunter Portable 2nd G | PlayStation Portable | 2.91% decompiled",
+    "Progress source: https://decomp.dev/tclamb/mhp2g-decomp",
+    "Report commit date: 2026-10-02 17:43:21 +00:00",
+    "Report commit: https://github.com/tclamb/mhp2g-decomp/commit/618467fe611d32beb65af774c2372a5e4987a091"
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "2026-10-02 17:43:21 +00:00",
+  "report_commit": "https://github.com/tclamb/mhp2g-decomp/commit/618467fe611d32beb65af774c2372a5e4987a091"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "smgcommunity--petari",
+  "name": "Super Mario Galaxy",
+  "url": "https://github.com/SMGCommunity/Petari",
+  "category": "decomp",
+  "group": "2. OLDER AAA / FLAGSHIP CONSOLE AND PC GAMES",
+  "platform": "Wii",
+  "type": "Matching decompilation",
+  "description": "",
+  "progress": {
+    "decompiled": 100.0,
+    "linked": 68.55,
+    "kind": "reported",
+    "label": "100.00% decompiled | 68.55% fully linked"
+  },
+  "targets": [],
+  "sources": [
+    "https://decomp.dev/SMGCommunity/Petari"
+  ],
+  "notes": [
+    "Super Mario Galaxy | Wii | 100.00% decompiled | 68.55% fully linked",
+    "Progress source: https://decomp.dev/SMGCommunity/Petari",
+    "Report commit date: 2026-10-03 21:52:06 +00:00",
+    "Report commit: https://github.com/SMGCommunity/Petari/commit/d0320847e2cf066aa68cd9c8a489ff548af40b5c"
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "2026-10-03 21:52:06 +00:00",
+  "report_commit": "https://github.com/SMGCommunity/Petari/commit/d0320847e2cf066aa68cd9c8a489ff548af40b5c"
+}

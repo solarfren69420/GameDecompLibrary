@@ -1,0 +1,43 @@
+{
+  "id": "n64decomp--perfect-dark",
+  "name": "Perfect Dark",
+  "url": "https://github.com/n64decomp/perfect_dark",
+  "category": "decomp",
+  "group": "2. OLDER AAA / FLAGSHIP CONSOLE AND PC GAMES",
+  "platform": "Nintendo 64",
+  "type": "Matching decompilation",
+  "description": "",
+  "progress": {
+    "decompiled": null,
+    "linked": null,
+    "kind": "claim",
+    "label": "100% / complete matching decompilation (maintainer description)"
+  },
+  "targets": [
+    {
+      "name": "Perfect Dark",
+      "platform": "Nintendo 64",
+      "progress": {
+        "decompiled": null,
+        "linked": null,
+        "kind": "claim",
+        "label": "100% / complete matching decompilation (maintainer description)"
+      },
+      "notes": [
+        "Nintendo 64 game; not Perfect Dark Zero or the Xbox 360 remaster."
+      ]
+    }
+  ],
+  "sources": [
+    "https://github.com/n64decomp/perfect_dark"
+  ],
+  "notes": [
+    "Target: Perfect Dark",
+    "Platform: Nintendo 64 | 100% / complete matching decompilation (maintainer description)",
+    "Evidence: https://github.com/n64decomp/perfect_dark",
+    "Note: Nintendo 64 game; not Perfect Dark Zero or the Xbox 360 remaster."
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "",
+  "report_commit": ""
+}

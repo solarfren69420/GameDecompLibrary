@@ -1,0 +1,29 @@
+{
+  "id": "ladysilverberg--xenogears-decomp",
+  "name": "Xenogears",
+  "url": "https://github.com/ladysilverberg/xenogears-decomp",
+  "category": "decomp",
+  "group": "2. OLDER AAA / FLAGSHIP CONSOLE AND PC GAMES",
+  "platform": "PlayStation",
+  "type": "Matching decompilation",
+  "description": "",
+  "progress": {
+    "decompiled": 37.69,
+    "linked": null,
+    "kind": "reported",
+    "label": "37.69% decompiled"
+  },
+  "targets": [],
+  "sources": [
+    "https://decomp.dev/ladysilverberg/xenogears-decomp"
+  ],
+  "notes": [
+    "Xenogears | PlayStation | 37.69% decompiled",
+    "Progress source: https://decomp.dev/ladysilverberg/xenogears-decomp",
+    "Report commit date: 2026-09-26 14:22:34 +00:00",
+    "Report commit: https://github.com/ladysilverberg/xenogears-decomp/commit/00cd201ec397bc8eb2db34f63421a7226a450ec2"
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "2026-09-26 14:22:34 +00:00",
+  "report_commit": "https://github.com/ladysilverberg/xenogears-decomp/commit/00cd201ec397bc8eb2db34f63421a7226a450ec2"
+}

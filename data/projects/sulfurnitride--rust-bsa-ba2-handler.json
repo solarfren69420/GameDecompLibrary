@@ -1,0 +1,30 @@
+{
+  "id": "sulfurnitride--rust-bsa-ba2-handler",
+  "name": "SulfurNitride/Rust-BSA-BA2-Handler",
+  "url": "https://github.com/SulfurNitride/Rust-BSA-BA2-Handler",
+  "category": "tool",
+  "group": "SOURCE / BETHESDA / OTHER GAME ECOSYSTEMS",
+  "platform": "Cross-platform / project-specific",
+  "type": "Rust archive tool",
+  "description": "Bethesda archive extraction/packing utility; check format/version coverage.",
+  "progress": {
+    "decompiled": null,
+    "linked": null,
+    "kind": "unknown",
+    "label": "Not applicable to tools"
+  },
+  "targets": [],
+  "sources": [
+    "https://raw.githubusercontent.com/SulfurNitride/Rust-BSA-BA2-Handler/main/README.md"
+  ],
+  "notes": [
+    "Type: Rust archive tool",
+    "Tool completion %: NOT PUBLISHED IN CHECKED SOURCES",
+    "Game decompilation %: NOT APPLICABLE TO THIS TOOL",
+    "Helps with: Bethesda archive extraction/packing utility; check format/version coverage.",
+    "Evidence: https://raw.githubusercontent.com/SulfurNitride/Rust-BSA-BA2-Handler/main/README.md"
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "",
+  "report_commit": ""
+}

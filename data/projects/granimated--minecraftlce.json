@@ -1,0 +1,29 @@
+{
+  "id": "granimated--minecraftlce",
+  "name": "Minecraft: Nintendo Switch Edition",
+  "url": "https://github.com/GRAnimated/MinecraftLCE",
+  "category": "decomp",
+  "group": "1. HD-ERA / MODERN HIGH-PROFILE GAMES — AAA AND MAJOR FRANCHISES",
+  "platform": "Switch",
+  "type": "Matching decompilation",
+  "description": "",
+  "progress": {
+    "decompiled": 9.44,
+    "linked": null,
+    "kind": "reported",
+    "label": "9.44% decompiled"
+  },
+  "targets": [],
+  "sources": [
+    "https://decomp.dev/GRAnimated/MinecraftLCE"
+  ],
+  "notes": [
+    "Minecraft: Nintendo Switch Edition | Switch | 9.44% decompiled",
+    "Progress source: https://decomp.dev/GRAnimated/MinecraftLCE",
+    "Report commit date: 2026-10-03 09:29:52 +00:00",
+    "Report commit: https://github.com/GRAnimated/MinecraftLCE/commit/959e1503b7b26d6821cfa98b3b05ef9089675195"
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "2026-10-03 09:29:52 +00:00",
+  "report_commit": "https://github.com/GRAnimated/MinecraftLCE/commit/959e1503b7b26d6821cfa98b3b05ef9089675195"
+}

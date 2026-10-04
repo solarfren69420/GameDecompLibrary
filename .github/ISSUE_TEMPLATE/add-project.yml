@@ -1,0 +1,79 @@
+name: Submit a GitHub project
+description: Share your game decompilation, binding, tool, port or source project.
+title: "[Add] "
+labels: [submission, needs-review]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Share a repository for the library. Your GitHub account is your contact; no email is needed.
+        SolarFren reviews submissions before adding them. Search the catalog first to avoid duplicates.
+  - type: input
+    id: project-name
+    attributes:
+      label: Project name
+      placeholder: The game or tool name
+    validations:
+      required: true
+  - type: input
+    id: repository
+    attributes:
+      label: Repository URL
+      placeholder: https://github.com/owner/repository
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Project category
+      options:
+        - Game decompilation
+        - Binding or tool
+        - Port, recompilation, reimplementation or source release
+    validations:
+      required: true
+  - type: input
+    id: platform
+    attributes:
+      label: Platform / target
+      description: Include the game version or region when progress is target-specific.
+      placeholder: GameCube, USA 1.0; Windows; cross-platform
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: What does it do?
+      description: Describe its actual scope and what people can use it for.
+    validations:
+      required: true
+  - type: input
+    id: evidence
+    attributes:
+      label: Evidence URL
+      description: Link to the project README, progress report, badge or dashboard that supports its scope.
+      placeholder: https://github.com/owner/repository#readme
+    validations:
+      required: true
+  - type: input
+    id: progress
+    attributes:
+      label: Published progress %
+      description: Optional. For a game decompilation only. Use a published numeric code-target metric, such as 42.5. Leave blank for claims, function counts, tools, ports, or unknown values.
+  - type: input
+    id: linked
+    attributes:
+      label: Fully linked %
+      description: Optional. Only if the project publishes this separate metric. Leave blank when unknown.
+  - type: textarea
+    id: notes
+    attributes:
+      label: Notes / scope
+      description: Target versions, limitations, the report date, supported games, or a maintainer completion claim. A code percentage is not overall game completion.
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: Before submitting
+      options:
+        - label: I checked for an existing entry and supplied a public source for this project's scope.
+          required: true

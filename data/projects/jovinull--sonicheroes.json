@@ -1,0 +1,29 @@
+{
+  "id": "jovinull--sonicheroes",
+  "name": "Sonic Heroes",
+  "url": "https://github.com/Jovinull/sonicheroes",
+  "category": "decomp",
+  "group": "2. OLDER AAA / FLAGSHIP CONSOLE AND PC GAMES",
+  "platform": "GameCube",
+  "type": "Matching decompilation",
+  "description": "",
+  "progress": {
+    "decompiled": 9.34,
+    "linked": 8.76,
+    "kind": "reported",
+    "label": "9.34% decompiled | 8.76% fully linked"
+  },
+  "targets": [],
+  "sources": [
+    "https://decomp.dev/Jovinull/sonicheroes"
+  ],
+  "notes": [
+    "Sonic Heroes | GameCube | 9.34% decompiled | 8.76% fully linked",
+    "Progress source: https://decomp.dev/Jovinull/sonicheroes",
+    "Report commit date: 2026-10-02 11:26:15 +00:00",
+    "Report commit: https://github.com/Jovinull/sonicheroes/commit/ba1a6be64ec51757e4ff5dd066eaca6d0157c5e6"
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "2026-10-02 11:26:15 +00:00",
+  "report_commit": "https://github.com/Jovinull/sonicheroes/commit/ba1a6be64ec51757e4ff5dd066eaca6d0157c5e6"
+}

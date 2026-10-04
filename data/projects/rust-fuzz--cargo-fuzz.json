@@ -1,0 +1,30 @@
+{
+  "id": "rust-fuzz--cargo-fuzz",
+  "name": "rust-fuzz/cargo-fuzz",
+  "url": "https://github.com/rust-fuzz/cargo-fuzz",
+  "category": "tool",
+  "group": "REGRESSION TESTS / AUTOMATED REPAIR SUPPORT",
+  "platform": "Cross-platform / project-specific",
+  "type": "Rust fuzzing tool",
+  "description": "Fuzz parsers and other supported targets; especially useful for malformed asset data.",
+  "progress": {
+    "decompiled": null,
+    "linked": null,
+    "kind": "unknown",
+    "label": "Not applicable to tools"
+  },
+  "targets": [],
+  "sources": [
+    "https://raw.githubusercontent.com/rust-fuzz/cargo-fuzz/main/README.md"
+  ],
+  "notes": [
+    "Type: Rust fuzzing tool",
+    "Tool completion %: NOT PUBLISHED IN CHECKED SOURCES",
+    "Game decompilation %: NOT APPLICABLE TO THIS TOOL",
+    "Helps with: Fuzz parsers and other supported targets; especially useful for malformed asset data.",
+    "Evidence: https://raw.githubusercontent.com/rust-fuzz/cargo-fuzz/main/README.md"
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "",
+  "report_commit": ""
+}

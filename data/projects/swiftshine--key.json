@@ -1,0 +1,29 @@
+{
+  "id": "swiftshine--key",
+  "name": "Kirby's Epic Yarn",
+  "url": "https://github.com/Swiftshine/key",
+  "category": "decomp",
+  "group": "3. MAJOR HANDHELD / FRANCHISE GAMES",
+  "platform": "Wii",
+  "type": "Matching decompilation",
+  "description": "",
+  "progress": {
+    "decompiled": 2.21,
+    "linked": 0.96,
+    "kind": "reported",
+    "label": "2.21% decompiled | 0.96% fully linked"
+  },
+  "targets": [],
+  "sources": [
+    "https://decomp.dev/Swiftshine/key"
+  ],
+  "notes": [
+    "Kirby's Epic Yarn | Wii | 2.21% decompiled | 0.96% fully linked",
+    "Progress source: https://decomp.dev/Swiftshine/key",
+    "Report commit date: 2026-09-29 19:33:42 +00:00",
+    "Report commit: https://github.com/Swiftshine/key/commit/2d27380678e863aacb069703ea6da262819432a4"
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "2026-09-29 19:33:42 +00:00",
+  "report_commit": "https://github.com/Swiftshine/key/commit/2d27380678e863aacb069703ea6da262819432a4"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "n64decomp--sm64",
+  "name": "Super Mario 64",
+  "url": "https://github.com/n64decomp/sm64",
+  "category": "decomp",
+  "group": "2. OLDER AAA / FLAGSHIP CONSOLE AND PC GAMES",
+  "platform": "Nintendo 64",
+  "type": "Matching decompilation",
+  "description": "",
+  "progress": {
+    "decompiled": null,
+    "linked": null,
+    "kind": "claim",
+    "label": "100% / full decompilation (maintainer description)"
+  },
+  "targets": [
+    {
+      "name": "Super Mario 64",
+      "platform": "Nintendo 64",
+      "progress": {
+        "decompiled": null,
+        "linked": null,
+        "kind": "claim",
+        "label": "100% / full decompilation (maintainer description)"
+      },
+      "notes": [
+        "README lists JP, US, EU, Shindou and iQue releases; naming/documentation work continues."
+      ]
+    }
+  ],
+  "sources": [
+    "https://github.com/n64decomp/sm64"
+  ],
+  "notes": [
+    "Target: Super Mario 64",
+    "Platform: Nintendo 64 | 100% / full decompilation (maintainer description)",
+    "Evidence: https://github.com/n64decomp/sm64",
+    "Note: README lists JP, US, EU, Shindou and iQue releases; naming/documentation work continues."
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "",
+  "report_commit": ""
+}

@@ -1,0 +1,43 @@
+{
+  "id": "pmret--papermario",
+  "name": "Paper Mario",
+  "url": "https://github.com/pmret/papermario",
+  "category": "decomp",
+  "group": "2. OLDER AAA / FLAGSHIP CONSOLE AND PC GAMES",
+  "platform": "Nintendo 64",
+  "type": "Matching decompilation",
+  "description": "",
+  "progress": {
+    "decompiled": 100.0,
+    "linked": null,
+    "kind": "reported",
+    "label": "100.00% (US target, published badge)"
+  },
+  "targets": [
+    {
+      "name": "Paper Mario",
+      "platform": "Nintendo 64",
+      "progress": {
+        "decompiled": 100.0,
+        "linked": null,
+        "kind": "reported",
+        "label": "100.00% (US target, published badge)"
+      },
+      "notes": [
+        "Other regional targets have separate progress measurements."
+      ]
+    }
+  ],
+  "sources": [
+    "https://papermar.io/reports/progress_us_shield.json"
+  ],
+  "notes": [
+    "Target: Paper Mario",
+    "Platform: Nintendo 64 | 100.00% (US target, published badge)",
+    "Evidence: https://papermar.io/reports/progress_us_shield.json",
+    "Note: Other regional targets have separate progress measurements."
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "",
+  "report_commit": ""
+}

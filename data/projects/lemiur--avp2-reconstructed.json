@@ -1,0 +1,29 @@
+{
+  "id": "lemiur--avp2-reconstructed",
+  "name": "Alien vs. Predator 2",
+  "url": "https://github.com/lemiur/AVP2-Reconstructed",
+  "category": "decomp",
+  "group": "2. OLDER AAA / FLAGSHIP CONSOLE AND PC GAMES",
+  "platform": "Windows",
+  "type": "Matching decompilation",
+  "description": "",
+  "progress": {
+    "decompiled": 91.2,
+    "linked": 60.7,
+    "kind": "reported",
+    "label": "91.20% decompiled | 60.70% fully linked"
+  },
+  "targets": [],
+  "sources": [
+    "https://decomp.dev/lemiur/AVP2-Reconstructed"
+  ],
+  "notes": [
+    "Alien vs. Predator 2 | Windows | 91.20% decompiled | 60.70% fully linked",
+    "Progress source: https://decomp.dev/lemiur/AVP2-Reconstructed",
+    "Report commit date: 2026-10-03 23:53:18 +00:00",
+    "Report commit: https://github.com/lemiur/AVP2-Reconstructed/commit/42a976fa9cfb03df9bf35b131f8f78ea9bd7263a"
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "2026-10-03 23:53:18 +00:00",
+  "report_commit": "https://github.com/lemiur/AVP2-Reconstructed/commit/42a976fa9cfb03df9bf35b131f8f78ea9bd7263a"
+}

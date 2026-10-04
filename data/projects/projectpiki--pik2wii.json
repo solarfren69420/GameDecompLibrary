@@ -1,0 +1,29 @@
+{
+  "id": "projectpiki--pik2wii",
+  "name": "New Play Control! Pikmin 2",
+  "url": "https://github.com/projectPiki/pik2wii",
+  "category": "decomp",
+  "group": "2. OLDER AAA / FLAGSHIP CONSOLE AND PC GAMES",
+  "platform": "Wii",
+  "type": "Matching decompilation",
+  "description": "",
+  "progress": {
+    "decompiled": 54.26,
+    "linked": 10.88,
+    "kind": "reported",
+    "label": "54.26% decompiled | 10.88% fully linked"
+  },
+  "targets": [],
+  "sources": [
+    "https://decomp.dev/projectPiki/pik2wii"
+  ],
+  "notes": [
+    "New Play Control! Pikmin 2 | Wii | 54.26% decompiled | 10.88% fully linked",
+    "Progress source: https://decomp.dev/projectPiki/pik2wii",
+    "Report commit date: 2026-09-20 07:03:49 +00:00",
+    "Report commit: https://github.com/projectPiki/pik2wii/commit/e70525d810474f442c6e6789e450f31a9282ac9f"
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "2026-09-20 07:03:49 +00:00",
+  "report_commit": "https://github.com/projectPiki/pik2wii/commit/e70525d810474f442c6e6789e450f31a9282ac9f"
+}

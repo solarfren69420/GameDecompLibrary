@@ -1,0 +1,29 @@
+{
+  "id": "sozud--mmx4",
+  "name": "Mega Man X4",
+  "url": "https://github.com/sozud/mmx4",
+  "category": "decomp",
+  "group": "3. MAJOR HANDHELD / FRANCHISE GAMES",
+  "platform": "PlayStation",
+  "type": "Matching decompilation",
+  "description": "",
+  "progress": {
+    "decompiled": 57.91,
+    "linked": null,
+    "kind": "reported",
+    "label": "57.91% decompiled"
+  },
+  "targets": [],
+  "sources": [
+    "https://decomp.dev/sozud/mmx4"
+  ],
+  "notes": [
+    "Mega Man X4 | PlayStation | 57.91% decompiled",
+    "Progress source: https://decomp.dev/sozud/mmx4",
+    "Report commit date: 2026-10-04 09:06:08 +00:00",
+    "Report commit: https://github.com/sozud/mmx4/commit/3dedb25f1cb6437ea806bf81cc9c3ee8f8917f84"
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "2026-10-04 09:06:08 +00:00",
+  "report_commit": "https://github.com/sozud/mmx4/commit/3dedb25f1cb6437ea806bf81cc9c3ee8f8917f84"
+}

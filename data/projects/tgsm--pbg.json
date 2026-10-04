@@ -1,0 +1,29 @@
+{
+  "id": "tgsm--pbg",
+  "name": "Disney's Piglet's Big Game",
+  "url": "https://github.com/tgsm/pbg",
+  "category": "decomp",
+  "group": "4. SMALLER COMMERCIAL, LICENSED, CULT AND NICHE GAMES",
+  "platform": "GameCube",
+  "type": "Matching decompilation",
+  "description": "",
+  "progress": {
+    "decompiled": 29.0,
+    "linked": 9.52,
+    "kind": "reported",
+    "label": "29.00% decompiled | 9.52% fully linked"
+  },
+  "targets": [],
+  "sources": [
+    "https://decomp.dev/tgsm/pbg"
+  ],
+  "notes": [
+    "Disney's Piglet's Big Game | GameCube | 29.00% decompiled | 9.52% fully linked",
+    "Progress source: https://decomp.dev/tgsm/pbg",
+    "Report commit date: 2026-10-02 06:33:10 +00:00",
+    "Report commit: https://github.com/tgsm/pbg/commit/21ac7d815043f458c94f3e6f3bda632398efad8d"
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "2026-10-02 06:33:10 +00:00",
+  "report_commit": "https://github.com/tgsm/pbg/commit/21ac7d815043f458c94f3e6f3bda632398efad8d"
+}

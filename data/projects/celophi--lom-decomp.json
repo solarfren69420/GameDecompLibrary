@@ -1,0 +1,29 @@
+{
+  "id": "celophi--lom-decomp",
+  "name": "Legend of Mana",
+  "url": "https://github.com/celophi/lom-decomp",
+  "category": "decomp",
+  "group": "3. MAJOR HANDHELD / FRANCHISE GAMES",
+  "platform": "PlayStation",
+  "type": "Matching decompilation",
+  "description": "",
+  "progress": {
+    "decompiled": 100.0,
+    "linked": 100.0,
+    "kind": "reported",
+    "label": "100.00% decompiled | 100.00% fully linked"
+  },
+  "targets": [],
+  "sources": [
+    "https://decomp.dev/celophi/lom-decomp"
+  ],
+  "notes": [
+    "Legend of Mana | PlayStation | 100.00% decompiled | 100.00% fully linked",
+    "Progress source: https://decomp.dev/celophi/lom-decomp",
+    "Report commit date: 2026-10-04 06:10:21 +00:00",
+    "Report commit: https://github.com/celophi/lom-decomp/commit/9cd2135c90b9441001f3f3d81a3688a63802eba2"
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "2026-10-04 06:10:21 +00:00",
+  "report_commit": "https://github.com/celophi/lom-decomp/commit/9cd2135c90b9441001f3f3d81a3688a63802eba2"
+}

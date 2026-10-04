@@ -1,0 +1,29 @@
+{
+  "id": "eebit--fe11-us",
+  "name": "Fire Emblem: Shadow Dragon",
+  "url": "https://github.com/Eebit/fe11-us",
+  "category": "decomp",
+  "group": "3. MAJOR HANDHELD / FRANCHISE GAMES",
+  "platform": "Nintendo DS",
+  "type": "Matching decompilation",
+  "description": "",
+  "progress": {
+    "decompiled": 7.32,
+    "linked": 0.34,
+    "kind": "reported",
+    "label": "7.32% decompiled | 0.34% fully linked"
+  },
+  "targets": [],
+  "sources": [
+    "https://decomp.dev/Eebit/fe11-us"
+  ],
+  "notes": [
+    "Fire Emblem: Shadow Dragon | Nintendo DS | 7.32% decompiled | 0.34% fully linked",
+    "Progress source: https://decomp.dev/Eebit/fe11-us",
+    "Report commit date: 2026-09-08 02:01:03 +00:00",
+    "Report commit: https://github.com/Eebit/fe11-us/commit/83f8abc778288d316d6b97990beed95b69313865"
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "2026-09-08 02:01:03 +00:00",
+  "report_commit": "https://github.com/Eebit/fe11-us/commit/83f8abc778288d316d6b97990beed95b69313865"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "bevyengine--bevy",
+  "name": "bevyengine/bevy",
+  "url": "https://github.com/bevyengine/bevy",
+  "category": "tool",
+  "group": "REUSABLE RUST CLIENT COMPONENTS",
+  "platform": "Cross-platform / project-specific",
+  "type": "Rust game engine",
+  "description": "Rendering/game application and ECS foundations for a new client; no proprietary game's behavior included.",
+  "progress": {
+    "decompiled": null,
+    "linked": null,
+    "kind": "unknown",
+    "label": "Not applicable to tools"
+  },
+  "targets": [],
+  "sources": [
+    "https://raw.githubusercontent.com/bevyengine/bevy/main/README.md"
+  ],
+  "notes": [
+    "Type: Rust game engine",
+    "Tool completion %: NOT PUBLISHED IN CHECKED SOURCES",
+    "Game decompilation %: NOT APPLICABLE TO THIS TOOL",
+    "Helps with: Rendering/game application and ECS foundations for a new client; no proprietary game's behavior included.",
+    "Evidence: https://raw.githubusercontent.com/bevyengine/bevy/main/README.md"
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "",
+  "report_commit": ""
+}

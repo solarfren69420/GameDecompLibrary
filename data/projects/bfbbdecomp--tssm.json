@@ -1,0 +1,29 @@
+{
+  "id": "bfbbdecomp--tssm",
+  "name": "The SpongeBob SquarePants Movie",
+  "url": "https://github.com/bfbbdecomp/tssm",
+  "category": "decomp",
+  "group": "4. SMALLER COMMERCIAL, LICENSED, CULT AND NICHE GAMES",
+  "platform": "GameCube",
+  "type": "Matching decompilation",
+  "description": "",
+  "progress": {
+    "decompiled": 6.11,
+    "linked": 3.08,
+    "kind": "reported",
+    "label": "6.11% decompiled | 3.08% fully linked"
+  },
+  "targets": [],
+  "sources": [
+    "https://decomp.dev/bfbbdecomp/tssm"
+  ],
+  "notes": [
+    "The SpongeBob SquarePants Movie | GameCube | 6.11% decompiled | 3.08% fully linked",
+    "Progress source: https://decomp.dev/bfbbdecomp/tssm",
+    "Report commit date: 2026-06-15 22:51:35 +00:00",
+    "Report commit: https://github.com/bfbbdecomp/tssm/commit/50ea01767e4c894f09db8ff2f4e52136a6e89ca4"
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "2026-06-15 22:51:35 +00:00",
+  "report_commit": "https://github.com/bfbbdecomp/tssm/commit/50ea01767e4c894f09db8ff2f4e52136a6e89ca4"
+}

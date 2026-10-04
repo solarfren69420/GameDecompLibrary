@@ -1,0 +1,30 @@
+{
+  "id": "gimli-rs--object",
+  "name": "gimli-rs/object",
+  "url": "https://github.com/gimli-rs/object",
+  "category": "tool",
+  "group": "BINARY FORMATS / RUNTIME ANALYSIS",
+  "platform": "Cross-platform / project-specific",
+  "type": "Rust object-file library",
+  "description": "Read/write object files across supported formats; inspect symbols and sections.",
+  "progress": {
+    "decompiled": null,
+    "linked": null,
+    "kind": "unknown",
+    "label": "Not applicable to tools"
+  },
+  "targets": [],
+  "sources": [
+    "https://raw.githubusercontent.com/gimli-rs/object/main/README.md"
+  ],
+  "notes": [
+    "Type: Rust object-file library",
+    "Tool completion %: NOT PUBLISHED IN CHECKED SOURCES",
+    "Game decompilation %: NOT APPLICABLE TO THIS TOOL",
+    "Helps with: Read/write object files across supported formats; inspect symbols and sections.",
+    "Evidence: https://raw.githubusercontent.com/gimli-rs/object/main/README.md"
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "",
+  "report_commit": ""
+}

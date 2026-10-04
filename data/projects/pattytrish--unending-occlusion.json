@@ -1,0 +1,29 @@
+{
+  "id": "pattytrish--unending-occlusion",
+  "name": "Eternal Darkness: Sanity's Requiem",
+  "url": "https://github.com/PattyTrish/unending-occlusion",
+  "category": "decomp",
+  "group": "2. OLDER AAA / FLAGSHIP CONSOLE AND PC GAMES",
+  "platform": "GameCube",
+  "type": "Matching decompilation",
+  "description": "",
+  "progress": {
+    "decompiled": 19.8,
+    "linked": 17.59,
+    "kind": "reported",
+    "label": "19.80% decompiled | 17.59% fully linked"
+  },
+  "targets": [],
+  "sources": [
+    "https://decomp.dev/PattyTrish/unending-occlusion"
+  ],
+  "notes": [
+    "Eternal Darkness: Sanity's Requiem | GameCube | 19.80% decompiled | 17.59% fully linked",
+    "Progress source: https://decomp.dev/PattyTrish/unending-occlusion",
+    "Report commit date: 2026-10-03 02:45:24 +00:00",
+    "Report commit: https://github.com/PattyTrish/unending-occlusion/commit/ea5c9e7d35ece0fcf9e35c1a96b6278cf8fb14e6"
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "2026-10-03 02:45:24 +00:00",
+  "report_commit": "https://github.com/PattyTrish/unending-occlusion/commit/ea5c9e7d35ece0fcf9e35c1a96b6278cf8fb14e6"
+}

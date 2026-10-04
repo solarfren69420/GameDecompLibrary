@@ -1,0 +1,29 @@
+{
+  "id": "projectpiki--pikmin",
+  "name": "Pikmin",
+  "url": "https://github.com/projectPiki/pikmin",
+  "category": "decomp",
+  "group": "2. OLDER AAA / FLAGSHIP CONSOLE AND PC GAMES",
+  "platform": "GameCube",
+  "type": "Matching decompilation",
+  "description": "",
+  "progress": {
+    "decompiled": 100.0,
+    "linked": 100.0,
+    "kind": "reported",
+    "label": "100.00% decompiled | 100.00% fully linked"
+  },
+  "targets": [],
+  "sources": [
+    "https://decomp.dev/projectPiki/pikmin"
+  ],
+  "notes": [
+    "Pikmin | GameCube | 100.00% decompiled | 100.00% fully linked",
+    "Progress source: https://decomp.dev/projectPiki/pikmin",
+    "Report commit date: 2026-09-08 01:11:37 +00:00",
+    "Report commit: https://github.com/projectPiki/pikmin/commit/35e28e7c6f1f0788a6644b4b1f1fc18da6e5a7ba"
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "2026-09-08 01:11:37 +00:00",
+  "report_commit": "https://github.com/projectPiki/pikmin/commit/35e28e7c6f1f0788a6644b4b1f1fc18da6e5a7ba"
+}

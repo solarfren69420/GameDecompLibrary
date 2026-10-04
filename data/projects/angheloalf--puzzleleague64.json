@@ -1,0 +1,29 @@
+{
+  "id": "angheloalf--puzzleleague64",
+  "name": "Pokémon Puzzle League",
+  "url": "https://github.com/AngheloAlf/puzzleleague64",
+  "category": "decomp",
+  "group": "3. MAJOR HANDHELD / FRANCHISE GAMES",
+  "platform": "Nintendo 64",
+  "type": "Matching decompilation",
+  "description": "",
+  "progress": {
+    "decompiled": 55.34,
+    "linked": null,
+    "kind": "reported",
+    "label": "55.34% decompiled"
+  },
+  "targets": [],
+  "sources": [
+    "https://decomp.dev/AngheloAlf/puzzleleague64"
+  ],
+  "notes": [
+    "Pokémon Puzzle League | Nintendo 64 | 55.34% decompiled",
+    "Progress source: https://decomp.dev/AngheloAlf/puzzleleague64",
+    "Report commit date: 2026-10-04 01:29:27 +00:00",
+    "Report commit: https://github.com/AngheloAlf/puzzleleague64/commit/db531cef8ab15eb0ab1b9afe3f6857ca47571338"
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "2026-10-04 01:29:27 +00:00",
+  "report_commit": "https://github.com/AngheloAlf/puzzleleague64/commit/db531cef8ab15eb0ab1b9afe3f6857ca47571338"
+}

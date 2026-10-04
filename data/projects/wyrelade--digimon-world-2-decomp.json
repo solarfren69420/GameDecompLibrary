@@ -1,0 +1,29 @@
+{
+  "id": "wyrelade--digimon-world-2-decomp",
+  "name": "Digimon World 2",
+  "url": "https://github.com/Wyrelade/Digimon-World-2-Decomp",
+  "category": "decomp",
+  "group": "3. MAJOR HANDHELD / FRANCHISE GAMES",
+  "platform": "PlayStation",
+  "type": "Matching decompilation",
+  "description": "",
+  "progress": {
+    "decompiled": 99.56,
+    "linked": null,
+    "kind": "reported",
+    "label": "99.56% decompiled"
+  },
+  "targets": [],
+  "sources": [
+    "https://decomp.dev/Wyrelade/Digimon-World-2-Decomp"
+  ],
+  "notes": [
+    "Digimon World 2 | PlayStation | 99.56% decompiled",
+    "Progress source: https://decomp.dev/Wyrelade/Digimon-World-2-Decomp",
+    "Report commit date: 2026-10-04 10:21:03 +00:00",
+    "Report commit: https://github.com/Wyrelade/Digimon-World-2-Decomp/commit/aeee76d79d456082fa6ad703742eb14d68640835"
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "2026-10-04 10:21:03 +00:00",
+  "report_commit": "https://github.com/Wyrelade/Digimon-World-2-Decomp/commit/aeee76d79d456082fa6ad703742eb14d68640835"
+}

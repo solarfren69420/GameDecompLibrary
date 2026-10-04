@@ -1,0 +1,29 @@
+{
+  "id": "raikaru--persona4-decompilation",
+  "name": "Shin Megami Tensei: Persona 4",
+  "url": "https://github.com/Raikaru/Persona4-Decompilation",
+  "category": "decomp",
+  "group": "2. OLDER AAA / FLAGSHIP CONSOLE AND PC GAMES",
+  "platform": "PlayStation 2",
+  "type": "Matching decompilation",
+  "description": "",
+  "progress": {
+    "decompiled": 68.54,
+    "linked": 36.06,
+    "kind": "reported",
+    "label": "68.54% decompiled | 36.06% fully linked"
+  },
+  "targets": [],
+  "sources": [
+    "https://decomp.dev/Raikaru/Persona4-Decompilation"
+  ],
+  "notes": [
+    "Shin Megami Tensei: Persona 4 | PlayStation 2 | 68.54% decompiled | 36.06% fully linked",
+    "Progress source: https://decomp.dev/Raikaru/Persona4-Decompilation",
+    "Report commit date: 2026-10-04 02:15:13 +00:00",
+    "Report commit: https://github.com/Raikaru/Persona4-Decompilation/commit/fa980eedbd5732a5f986d27166c525503b0f94dc"
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "2026-10-04 02:15:13 +00:00",
+  "report_commit": "https://github.com/Raikaru/Persona4-Decompilation/commit/fa980eedbd5732a5f986d27166c525503b0f94dc"
+}

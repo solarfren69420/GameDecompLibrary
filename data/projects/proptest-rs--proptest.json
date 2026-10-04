@@ -1,0 +1,30 @@
+{
+  "id": "proptest-rs--proptest",
+  "name": "proptest-rs/proptest",
+  "url": "https://github.com/proptest-rs/proptest",
+  "category": "tool",
+  "group": "REGRESSION TESTS / AUTOMATED REPAIR SUPPORT",
+  "platform": "Cross-platform / project-specific",
+  "type": "Rust property testing",
+  "description": "Exercise properties across generated cases; helps find differences beyond a few sample inputs.",
+  "progress": {
+    "decompiled": null,
+    "linked": null,
+    "kind": "unknown",
+    "label": "Not applicable to tools"
+  },
+  "targets": [],
+  "sources": [
+    "https://raw.githubusercontent.com/proptest-rs/proptest/main/README.md"
+  ],
+  "notes": [
+    "Type: Rust property testing",
+    "Tool completion %: NOT PUBLISHED IN CHECKED SOURCES",
+    "Game decompilation %: NOT APPLICABLE TO THIS TOOL",
+    "Helps with: Exercise properties across generated cases; helps find differences beyond a few sample inputs.",
+    "Evidence: https://raw.githubusercontent.com/proptest-rs/proptest/main/README.md"
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "",
+  "report_commit": ""
+}

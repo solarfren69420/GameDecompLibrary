@@ -1,0 +1,26 @@
+name: Update or correct an entry
+description: Report changed progress, a moved link, an incorrect claim or a missing detail.
+title: "[Update] "
+labels: [catalog-update, needs-review]
+body:
+  - type: input
+    id: repository
+    attributes:
+      label: Repository URL
+      description: Which catalog entry needs a change?
+    validations:
+      required: true
+  - type: textarea
+    id: change
+    attributes:
+      label: What should change?
+      description: Include the old and new values, the target/version, and the report date where relevant.
+    validations:
+      required: true
+  - type: input
+    id: evidence
+    attributes:
+      label: Evidence URL
+      description: Link to the upstream README, report or other primary source.
+    validations:
+      required: true

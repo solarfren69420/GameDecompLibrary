@@ -1,0 +1,29 @@
+{
+  "id": "haydntrigg--castaway",
+  "name": "The Sims 2: Castaway",
+  "url": "https://github.com/HaydnTrigg/Castaway",
+  "category": "decomp",
+  "group": "2. OLDER AAA / FLAGSHIP CONSOLE AND PC GAMES",
+  "platform": "Wii",
+  "type": "Matching decompilation",
+  "description": "",
+  "progress": {
+    "decompiled": 4.93,
+    "linked": 2.61,
+    "kind": "reported",
+    "label": "4.93% decompiled | 2.61% fully linked"
+  },
+  "targets": [],
+  "sources": [
+    "https://decomp.dev/HaydnTrigg/Castaway"
+  ],
+  "notes": [
+    "The Sims 2: Castaway | Wii | 4.93% decompiled | 2.61% fully linked",
+    "Progress source: https://decomp.dev/HaydnTrigg/Castaway",
+    "Report commit date: 2026-01-21 01:46:51 +00:00",
+    "Report commit: https://github.com/HaydnTrigg/Castaway/commit/f5c5dbcf2b4a20eb797b1aa6eb03f6cf09a4dbbe"
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "2026-01-21 01:46:51 +00:00",
+  "report_commit": "https://github.com/HaydnTrigg/Castaway/commit/f5c5dbcf2b4a20eb797b1aa6eb03f6cf09a4dbbe"
+}

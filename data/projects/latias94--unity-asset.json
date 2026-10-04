@@ -1,0 +1,31 @@
+{
+  "id": "latias94--unity-asset",
+  "name": "Latias94/unity-asset",
+  "url": "https://github.com/Latias94/unity-asset",
+  "category": "tool",
+  "group": "UNITY",
+  "platform": "Cross-platform / project-specific",
+  "type": "Rust asset toolkit",
+  "description": "Inspect/index/extract Unity YAML and binary assets; guarded editing support.",
+  "progress": {
+    "decompiled": null,
+    "linked": null,
+    "kind": "unknown",
+    "label": "Not applicable to tools"
+  },
+  "targets": [],
+  "sources": [
+    "https://raw.githubusercontent.com/Latias94/unity-asset/main/README.md"
+  ],
+  "notes": [
+    "Type: Rust asset toolkit",
+    "Tool completion %: NOT PUBLISHED IN CHECKED SOURCES",
+    "Game decompilation %: NOT APPLICABLE TO THIS TOOL",
+    "Helps with: Inspect/index/extract Unity YAML and binary assets; guarded editing support.",
+    "Scope/status: Active development; explicitly does not claim full Unity serialization coverage. Guarded editing and supported formats are not a complete Unity engine rewrite.",
+    "Evidence: https://raw.githubusercontent.com/Latias94/unity-asset/main/README.md"
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "",
+  "report_commit": ""
+}

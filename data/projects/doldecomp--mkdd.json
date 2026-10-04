@@ -1,0 +1,29 @@
+{
+  "id": "doldecomp--mkdd",
+  "name": "Mario Kart: Double Dash!!",
+  "url": "https://github.com/doldecomp/mkdd",
+  "category": "decomp",
+  "group": "2. OLDER AAA / FLAGSHIP CONSOLE AND PC GAMES",
+  "platform": "GameCube",
+  "type": "Matching decompilation",
+  "description": "",
+  "progress": {
+    "decompiled": 47.09,
+    "linked": 41.93,
+    "kind": "reported",
+    "label": "47.09% decompiled | 41.93% fully linked"
+  },
+  "targets": [],
+  "sources": [
+    "https://decomp.dev/doldecomp/mkdd"
+  ],
+  "notes": [
+    "Mario Kart: Double Dash!! | GameCube | 47.09% decompiled | 41.93% fully linked",
+    "Progress source: https://decomp.dev/doldecomp/mkdd",
+    "Report commit date: 2026-09-17 20:24:21 +00:00",
+    "Report commit: https://github.com/doldecomp/mkdd/commit/ffc513c5326d1a883d4b35dd7ee1634500354763"
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "2026-09-17 20:24:21 +00:00",
+  "report_commit": "https://github.com/doldecomp/mkdd/commit/ffc513c5326d1a883d4b35dd7ee1634500354763"
+}

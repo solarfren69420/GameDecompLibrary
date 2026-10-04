@@ -1,0 +1,29 @@
+{
+  "id": "ser-pounce--rood-reverse",
+  "name": "Vagrant Story",
+  "url": "https://github.com/ser-pounce/rood-reverse",
+  "category": "decomp",
+  "group": "2. OLDER AAA / FLAGSHIP CONSOLE AND PC GAMES",
+  "platform": "PlayStation",
+  "type": "Matching decompilation",
+  "description": "",
+  "progress": {
+    "decompiled": 37.25,
+    "linked": 19.29,
+    "kind": "reported",
+    "label": "37.25% decompiled | 19.29% fully linked"
+  },
+  "targets": [],
+  "sources": [
+    "https://decomp.dev/ser-pounce/rood-reverse"
+  ],
+  "notes": [
+    "Vagrant Story | PlayStation | 37.25% decompiled | 19.29% fully linked",
+    "Progress source: https://decomp.dev/ser-pounce/rood-reverse",
+    "Report commit date: 2026-10-04 06:39:00 +00:00",
+    "Report commit: https://github.com/ser-pounce/rood-reverse/commit/9f4ab7860d02a21bcf3776b3c41fad54334b02de"
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "2026-10-04 06:39:00 +00:00",
+  "report_commit": "https://github.com/ser-pounce/rood-reverse/commit/9f4ab7860d02a21bcf3776b3c41fad54334b02de"
+}

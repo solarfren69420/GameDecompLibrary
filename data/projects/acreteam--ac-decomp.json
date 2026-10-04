@@ -1,0 +1,29 @@
+{
+  "id": "acreteam--ac-decomp",
+  "name": "Animal Crossing",
+  "url": "https://github.com/ACreTeam/ac-decomp",
+  "category": "decomp",
+  "group": "2. OLDER AAA / FLAGSHIP CONSOLE AND PC GAMES",
+  "platform": "GameCube",
+  "type": "Matching decompilation",
+  "description": "",
+  "progress": {
+    "decompiled": 100.0,
+    "linked": 100.0,
+    "kind": "reported",
+    "label": "100.00% decompiled | 100.00% fully linked"
+  },
+  "targets": [],
+  "sources": [
+    "https://decomp.dev/ACreTeam/ac-decomp"
+  ],
+  "notes": [
+    "Animal Crossing | GameCube | 100.00% decompiled | 100.00% fully linked",
+    "Progress source: https://decomp.dev/ACreTeam/ac-decomp",
+    "Report commit date: 2026-07-18 01:55:27 +00:00",
+    "Report commit: https://github.com/ACreTeam/ac-decomp/commit/09ca8e8b5b24e6ab44047ee980cf0088ad7ecb4c"
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "2026-07-18 01:55:27 +00:00",
+  "report_commit": "https://github.com/ACreTeam/ac-decomp/commit/09ca8e8b5b24e6ab44047ee980cf0088ad7ecb4c"
+}

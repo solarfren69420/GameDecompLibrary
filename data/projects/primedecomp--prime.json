@@ -1,0 +1,29 @@
+{
+  "id": "primedecomp--prime",
+  "name": "Metroid Prime",
+  "url": "https://github.com/PrimeDecomp/prime",
+  "category": "decomp",
+  "group": "2. OLDER AAA / FLAGSHIP CONSOLE AND PC GAMES",
+  "platform": "GameCube",
+  "type": "Matching decompilation",
+  "description": "",
+  "progress": {
+    "decompiled": 90.17,
+    "linked": 50.04,
+    "kind": "reported",
+    "label": "90.17% decompiled | 50.04% fully linked"
+  },
+  "targets": [],
+  "sources": [
+    "https://decomp.dev/PrimeDecomp/prime"
+  ],
+  "notes": [
+    "Metroid Prime | GameCube | 90.17% decompiled | 50.04% fully linked",
+    "Progress source: https://decomp.dev/PrimeDecomp/prime",
+    "Report commit date: 2026-10-04 11:10:16 +00:00",
+    "Report commit: https://github.com/PrimeDecomp/prime/commit/ba28027b0d5086997aea12b2086e151de94fa750"
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "2026-10-04 11:10:16 +00:00",
+  "report_commit": "https://github.com/PrimeDecomp/prime/commit/ba28027b0d5086997aea12b2086e151de94fa750"
+}

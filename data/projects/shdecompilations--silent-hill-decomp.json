@@ -1,0 +1,29 @@
+{
+  "id": "shdecompilations--silent-hill-decomp",
+  "name": "Silent Hill",
+  "url": "https://github.com/shdecompilations/silent-hill-decomp",
+  "category": "decomp",
+  "group": "2. OLDER AAA / FLAGSHIP CONSOLE AND PC GAMES",
+  "platform": "PlayStation",
+  "type": "Matching decompilation",
+  "description": "",
+  "progress": {
+    "decompiled": 99.99,
+    "linked": null,
+    "kind": "reported",
+    "label": "99.99% decompiled"
+  },
+  "targets": [],
+  "sources": [
+    "https://decomp.dev/shdecompilations/silent-hill-decomp"
+  ],
+  "notes": [
+    "Silent Hill | PlayStation | 99.99% decompiled",
+    "Progress source: https://decomp.dev/shdecompilations/silent-hill-decomp",
+    "Report commit date: 2026-10-04 05:33:24 +00:00",
+    "Report commit: https://github.com/shdecompilations/silent-hill-decomp/commit/6d23fdfdb43f5f9e222b2e157f1a945e6d312c73"
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "2026-10-04 05:33:24 +00:00",
+  "report_commit": "https://github.com/shdecompilations/silent-hill-decomp/commit/6d23fdfdb43f5f9e222b2e157f1a945e6d312c73"
+}

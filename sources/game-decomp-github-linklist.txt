@@ -1,0 +1,2267 @@
+GAME DECOMPILATIONS + RUST BINDINGS + REVERSE-ENGINEERING TOOLING
+Updated / link checks: 2026-10-04
+Tracker snapshot retrieved: 2026-10-04 (latest reported commits shown per entry)
+Supplemental maintainer/badge evidence retrieved: 2026-10-04; numeric tracker values refreshed for this edition.
+Original catalog retained: 229 reachable GitHub repositories + 2 GitLab repositories. Added 71 reachable tooling repositories. One original URL returned 404 and is kept separately.
+
+HOW TO READ THE PERCENTAGES
+---------------------------
+Decompiled % = the published metric for the tracked code target, platform and version. Fully linked % is a separate metric; neither is overall game/asset/port completion. Different scopes are not directly comparable.
+100% based on a maintainer statement is labelled as a qualitative completion claim, not invented matching-byte telemetry. Function-count percentages are labelled separately.
+Not published / not verified = no trustworthy numeric percentage established in the cited evidence; it never means 0%.
+Rust bindings, mod loaders, asset parsers, engines and test tools do not have a meaningful game-decomp %. Their completion % is marked NOT PUBLISHED IN CHECKED SOURCES unless an actual maintainer metric exists. Supported titles/features are described instead.
+No percentages are inferred from stars, commits, release numbers, test coverage, checklist counts or the number of supported formats.
+Ordering of games approximates production scale/prominence, not verified budgets. Related recompilations, disassemblies and source releases have their own appendix.
+The earlier GitHub-style image used illustrative repositories and statuses; this text lists real project URLs.
+
+GAME DECOMPILATION REPOSITORIES
+==============================
+
+1. HD-ERA / MODERN HIGH-PROFILE GAMES — AAA AND MAJOR FRANCHISES
+----------------------------------------------------------------
+
+The Legend of Zelda: Breath of the Wild
+https://github.com/zeldaret/botw
+  Target: The Legend of Zelda: Breath of the Wild
+  Platform: Switch 1.5.0 | 17.489% (published project badge)
+  Evidence: https://botw.link/badges/progress.json
+  Note: Experimental decomp; not a playable standalone port.
+
+Fallout: New Vegas
+https://github.com/ieee802dot11ac/fnv
+  Fallout: New Vegas | Xbox 360 | 1.36% decompiled | 0.26% fully linked
+  Progress source: https://decomp.dev/ieee802dot11ac/fnv
+  Report commit date: 2026-08-30 22:09:31 +00:00
+  Report commit: https://github.com/ieee802dot11ac/fnv/commit/074e045ef8220666fd8481e0745af6ecf197f24b
+
+Halo Reach
+https://github.com/ChimpsAtSea/Reach
+  Halo Reach | Xbox 360 | 0.93% decompiled
+  Progress source: https://decomp.dev/ChimpsAtSea/Reach
+  Report commit date: 2026-07-31 02:37:18 +00:00
+  Report commit: https://github.com/ChimpsAtSea/Reach/commit/8723dc3d051a29675e00ffe3f8eebf355a30a702
+
+Super Mario Odyssey
+https://github.com/MonsterDruide1/OdysseyDecomp
+  Super Mario Odyssey | Switch | 15.77% decompiled
+  Progress source: https://decomp.dev/MonsterDruide1/OdysseyDecomp
+  Report commit date: 2026-09-29 21:17:14 +00:00
+  Report commit: https://github.com/MonsterDruide1/OdysseyDecomp/commit/696db2ff5ed558b053c753de420504b8682f24b0
+
+Super Mario 3D World + Bowser's Fury
+https://github.com/shibbo/3DWDecomp
+  Super Mario 3D World + Bowser's Fury | Switch | 29.18% decompiled | 10.49% fully linked
+  Progress source: https://decomp.dev/shibbo/3DWDecomp
+  Report commit date: 2026-10-04 11:33:50 +00:00
+  Report commit: https://github.com/shibbo/3DWDecomp/commit/b98b89f21a8e10d169c2d60deb1009910fd84ceb
+
+Pokémon Sword
+https://github.com/charlieduzstuf/pokesword
+  Pokémon Sword | Switch | 0.52% decompiled
+  Progress source: https://decomp.dev/charlieduzstuf/pokesword
+  Report commit date: 2026-10-04 10:33:23 +00:00
+  Report commit: https://github.com/charlieduzstuf/pokesword/commit/33623d01bcba2e1e1102f8f20008f6f1822600e3
+
+Minecraft: Nintendo Switch Edition
+https://github.com/GRAnimated/MinecraftLCE
+  Minecraft: Nintendo Switch Edition | Switch | 9.44% decompiled
+  Progress source: https://decomp.dev/GRAnimated/MinecraftLCE
+  Report commit date: 2026-10-03 09:29:52 +00:00
+  Report commit: https://github.com/GRAnimated/MinecraftLCE/commit/959e1503b7b26d6821cfa98b3b05ef9089675195
+
+Sonic the Hedgehog (2006)
+https://github.com/rjkiv/sonic06
+  Sonic the Hedgehog (2006) | Xbox 360 | 0.61% decompiled | 0.38% fully linked
+  Progress source: https://decomp.dev/rjkiv/sonic06
+  Report commit date: 2026-08-30 17:31:53 +00:00
+  Report commit: https://github.com/rjkiv/sonic06/commit/eb11705eabe94830001eb897877a1655a1144b1c
+
+Dance Central 3
+https://github.com/rjkiv/dc3-decomp
+  Dance Central 3 | Xbox 360 | 49.94% decompiled | 22.07% fully linked
+  Progress source: https://decomp.dev/rjkiv/dc3-decomp
+  Report commit date: 2026-10-04 05:27:40 +00:00
+  Report commit: https://github.com/rjkiv/dc3-decomp/commit/112b405870ff96f65ffba9c18cb0db6845b7794d
+
+Kinect Sports
+https://github.com/SebaaMG/Kinect-Sports-Decomp
+  Kinect Sports | Xbox 360 | 1.53% decompiled | 1.47% fully linked
+  Progress source: https://decomp.dev/SebaaMG/Kinect-Sports-Decomp
+  Report commit date: 2026-09-28 21:48:41 +00:00
+  Report commit: https://github.com/SebaaMG/Kinect-Sports-Decomp/commit/e2cf4eb30ed1002ee8960ceaf40434c65aec2ba2
+
+LEGO City Undercover
+https://github.com/Nintendocustom/Lego-City-Undercover-Decompilation
+  LEGO City Undercover | Switch | 1.40% decompiled
+  Progress source: https://decomp.dev/Nintendocustom/Lego-City-Undercover-Decompilation
+  Report commit date: 2026-10-02 14:02:21 +00:00
+  Report commit: https://github.com/Nintendocustom/Lego-City-Undercover-Decompilation/commit/47dc365d26aae634528b3a4886ba571019845789
+
+2. OLDER AAA / FLAGSHIP CONSOLE AND PC GAMES
+--------------------------------------------
+
+Alien vs. Predator 2
+https://github.com/lemiur/AVP2-Reconstructed
+  Alien vs. Predator 2 | Windows | 91.20% decompiled | 60.70% fully linked
+  Progress source: https://decomp.dev/lemiur/AVP2-Reconstructed
+  Report commit date: 2026-10-03 23:53:18 +00:00
+  Report commit: https://github.com/lemiur/AVP2-Reconstructed/commit/42a976fa9cfb03df9bf35b131f8f78ea9bd7263a
+
+Animal Crossing
+https://github.com/ACreTeam/ac-decomp
+  Animal Crossing | GameCube | 100.00% decompiled | 100.00% fully linked
+  Progress source: https://decomp.dev/ACreTeam/ac-decomp
+  Report commit date: 2026-07-18 01:55:27 +00:00
+  Report commit: https://github.com/ACreTeam/ac-decomp/commit/09ca8e8b5b24e6ab44047ee980cf0088ad7ecb4c
+
+Animal Crossing: City Folk
+https://github.com/ACreTeam/cf-decomp
+  Animal Crossing: City Folk | Wii | 10.89% decompiled | 2.08% fully linked
+  Progress source: https://decomp.dev/ACreTeam/cf-decomp
+  Report commit date: 2026-10-03 12:08:08 +00:00
+  Report commit: https://github.com/ACreTeam/cf-decomp/commit/44144329d4f6b89e11b562fb35368f272ec805a5
+
+Animal Forest e+ (Dōbutsu no Mori e+)
+https://github.com/ACreTeam/afe-decomp
+  どうぶつの森 e+ | GameCube | 92.98% decompiled | 86.54% fully linked
+  Progress source: https://decomp.dev/ACreTeam/afe-decomp
+  Report commit date: 2026-09-16 17:27:23 +00:00
+  Report commit: https://github.com/ACreTeam/afe-decomp/commit/2048fc2396d53cc57d80c1ce1adc07e16df07eb6
+
+Black & White
+https://github.com/openblack/bw1-decomp
+  Black & White | Windows | 11.10% decompiled | 7.16% fully linked
+  Progress source: https://decomp.dev/openblack/bw1-decomp
+  Report commit date: 2026-10-04 10:14:52 +00:00
+  Report commit: https://github.com/openblack/bw1-decomp/commit/39efb439b93d863e4b7aea4b5269ddc10228b735
+
+Castlevania: Symphony of the Night
+https://github.com/Xeeynamo/sotn-decomp
+  Castlevania: Symphony of the Night | PlayStation | 69.39% decompiled
+  Progress source: https://decomp.dev/Xeeynamo/sotn-decomp
+  Report commit date: 2026-10-03 08:55:35 +00:00
+  Report commit: https://github.com/Xeeynamo/sotn-decomp/commit/c7c2f6896def2b7891ff8019ab0ce309404ff93f
+
+Chrono Cross
+https://github.com/jdperos/chrono-cross-decomp
+  Chrono Cross | PlayStation | 12.51% decompiled
+  Progress source: https://decomp.dev/jdperos/chrono-cross-decomp
+  Report commit date: 2026-04-14 03:51:12 +00:00
+  Report commit: https://github.com/jdperos/chrono-cross-decomp/commit/7dcadfc36421c9b26466f7fdbdbaa1a1102219c6
+
+Conker's Bad Fur Day
+https://github.com/DevOldSchool/conkers-bfd-decomp
+  Conker's Bad Fur Day | Nintendo 64 | 20.18% decompiled | 8.21% fully linked
+  Progress source: https://decomp.dev/DevOldSchool/conkers-bfd-decomp
+  Report commit date: 2026-10-04 11:12:06 +00:00
+  Report commit: https://github.com/DevOldSchool/conkers-bfd-decomp/commit/a048a0cbb056c2e0d539efd0779a4ac9697a5ee5
+
+Crash Bandicoot: The Wrath of Cortex
+https://github.com/denzi-gh/crashwoc-decomp-ps2
+  Crash Bandicoot: The Wrath of Cortex | PlayStation 2 | 7.48% decompiled
+  Progress source: https://decomp.dev/denzi-gh/crashwoc-decomp-ps2
+  Report commit date: 2026-09-07 00:15:36 +00:00
+  Report commit: https://github.com/denzi-gh/crashwoc-decomp-ps2/commit/9af06d394a332c4fe7a15d93f353047ae78a3672
+
+Crash Bandicoot: The Wrath of Cortex
+https://github.com/denzi-gh/crashwoc-decomp-gc
+  Crash Bandicoot: The Wrath of Cortex | GameCube | 36.55% decompiled | 0.01% fully linked
+  Progress source: https://decomp.dev/denzi-gh/crashwoc-decomp-gc
+  Report commit date: 2026-07-16 17:16:33 +00:00
+  Report commit: https://github.com/denzi-gh/crashwoc-decomp-gc/commit/4e0fda4222f014b60551fa1bc30cefaae18dce31
+
+Crash Tag Team Racing
+https://github.com/bluisblu/cttr
+  Crash Tag Team Racing | GameCube | 6.41% decompiled | 4.40% fully linked
+  Progress source: https://decomp.dev/bluisblu/cttr
+  Report commit date: 2026-06-24 17:52:49 +00:00
+  Report commit: https://github.com/bluisblu/cttr/commit/c9f5219150e5f427dc9f261399bf4c21523a6960
+
+Dark Cloud
+https://github.com/TheMoonPeople/Chronicle
+  Dark Cloud | PlayStation 2 | 100.00% decompiled
+  Progress source: https://decomp.dev/TheMoonPeople/Chronicle
+  Report commit date: 2026-10-03 00:02:18 +00:00
+  Report commit: https://github.com/TheMoonPeople/Chronicle/commit/05fd37be122cd5833cfeeceb83475933959d938f
+
+Dark Cloud 2
+https://github.com/nf807942/dc2-decomp
+  Dark Cloud 2 | PlayStation 2 | 7.27% decompiled
+  Progress source: https://decomp.dev/nf807942/dc2-decomp
+  Report commit date: 2026-10-01 20:41:47 +00:00
+  Report commit: https://github.com/nf807942/dc2-decomp/commit/508af33b5bef904d029354b2a755ba49a3112b09
+
+Diddy Kong Racing
+https://github.com/davidsm64/diddy-kong-racing
+  Target: Diddy Kong Racing
+  Platform: Nintendo 64 | 100% (published README progress; target-specific)
+  Evidence: https://raw.githubusercontent.com/davidsm64/diddy-kong-racing/master/README.md
+  Note: 100% applies to us.v77; documentation is separately reported at 69.02%.
+
+Driver 2
+https://github.com/OpenDriver2/REDRIVER2
+  Target: Driver 2
+  Platform: PlayStation | Numeric % not verified in retrieved README
+  Evidence: https://raw.githubusercontent.com/OpenDriver2/REDRIVER2/master/README.md
+  Note: Playable C reconstruction; maintainer notes the Memory Card menu exception. No exact decomp percentage verified.
+
+Eternal Darkness: Sanity's Requiem
+https://github.com/PattyTrish/unending-occlusion
+  Eternal Darkness: Sanity's Requiem | GameCube | 19.80% decompiled | 17.59% fully linked
+  Progress source: https://decomp.dev/PattyTrish/unending-occlusion
+  Report commit date: 2026-10-03 02:45:24 +00:00
+  Report commit: https://github.com/PattyTrish/unending-occlusion/commit/ea5c9e7d35ece0fcf9e35c1a96b6278cf8fb14e6
+
+Excite Truck
+https://github.com/orangedude27/excite-truck
+  Excite Truck | Wii | 2.70% decompiled | 2.19% fully linked
+  Progress source: https://decomp.dev/orangedude27/excite-truck
+  Report commit date: 2026-09-07 01:48:48 +00:00
+  Report commit: https://github.com/orangedude27/excite-truck/commit/29be6123144b13a966b679864097f6b529614752
+
+F-Zero GX
+https://github.com/rayanht/fzgx
+  F-Zero GX | GameCube | 30.60% decompiled | 30.53% fully linked
+  Progress source: https://decomp.dev/rayanht/fzgx
+  Report commit date: 2026-09-16 20:22:28 +00:00
+  Report commit: https://github.com/rayanht/fzgx/commit/3a0542c9d1b58f7a907f932bc00e3657b382e9aa
+
+F-Zero GX
+https://github.com/karamzov123/fzero-gx-decomp
+  F-Zero GX | GameCube | 2.74% decompiled | 2.74% fully linked
+  Progress source: https://decomp.dev/karamzov123/fzero-gx-decomp
+  Report commit date: 2026-09-09 16:01:03 +00:00
+  Report commit: https://github.com/karamzov123/fzero-gx-decomp/commit/118208b0dfef271f422646c9ea8fa7b63a322108
+
+F-Zero X
+https://github.com/inspectredc/fzerox
+  F-Zero X | Nintendo 64 | 97.67% decompiled
+  Progress source: https://decomp.dev/inspectredc/fzerox
+  Report commit date: 2026-09-17 14:56:50 +00:00
+  Report commit: https://github.com/inspectredc/fzerox/commit/4b00f36ceeabfe657866a7d02f3411545b5f55eb
+
+F-Zero X (Expansion Kit)
+https://github.com/inspectredc/fzerox-expansion-kit
+  F-Zero X (Expansion Kit) | Nintendo 64 | 97.10% decompiled
+  Progress source: https://decomp.dev/inspectredc/fzerox-expansion-kit
+  Report commit date: 2026-01-06 15:42:50 +00:00
+  Report commit: https://github.com/inspectredc/fzerox-expansion-kit/commit/80599932af86c4421e2b1d5a19b88af9303cb77d
+
+Fatal Frame
+https://github.com/Mikompilation/Himuro
+  Fatal Frame | PlayStation 2 | 69.56% decompiled
+  Progress source: https://decomp.dev/Mikompilation/Himuro
+  Report commit date: 2026-10-03 22:24:29 +00:00
+  Report commit: https://github.com/Mikompilation/Himuro/commit/96e723fd02be68f3abe55e6ffc34632022d6eadf
+
+Final Fantasy Crystal Chronicles
+https://github.com/zcanann/FFCC-Decomp
+  Final Fantasy Crystal Chronicles | GameCube | 63.91% decompiled | 33.28% fully linked
+  Progress source: https://decomp.dev/zcanann/FFCC-Decomp
+  Report commit date: 2026-10-04 05:13:52 +00:00
+  Report commit: https://github.com/zcanann/FFCC-Decomp/commit/9093af3f6bd5efe6fc175f5890bef1b174093639
+
+Final Fantasy VII
+https://github.com/Xeeynamo/ff7-decomp
+  Final Fantasy VII | PlayStation | 41.82% decompiled
+  Progress source: https://decomp.dev/Xeeynamo/ff7-decomp
+  Report commit date: 2026-10-03 23:44:35 +00:00
+  Report commit: https://github.com/Xeeynamo/ff7-decomp/commit/7fc198dcab76e3f72569b19f68add364b31de291
+
+Final Fantasy VIII
+https://github.com/roengstrom/ff8-decomp
+  Final Fantasy VIII | PlayStation | 63.06% decompiled
+  Progress source: https://decomp.dev/roengstrom/ff8-decomp
+  Report commit date: 2026-10-02 19:43:33 +00:00
+  Report commit: https://github.com/roengstrom/ff8-decomp/commit/e6969cf6eacd8dd73235edd78575fc3c61788a45
+
+Halo: Combat Evolved
+https://github.com/punpckhdq/halo
+  Halo: Combat Evolved | Xbox | 15.35% decompiled | 13.60% fully linked
+  Progress source: https://decomp.dev/punpckhdq/halo
+  Report commit date: 2026-10-03 19:16:24 +00:00
+  Report commit: https://github.com/punpckhdq/halo/commit/d3a3ca4242dcfb5bbcfa13c98b03591ed36ca514
+
+Homeworld 2
+https://github.com/HaydnTrigg/Homeworld2Classic
+  Homeworld 2 | Windows | 4.12% decompiled
+  Progress source: https://decomp.dev/HaydnTrigg/Homeworld2Classic
+  Report commit date: 2026-06-15 16:42:59 +00:00
+  Report commit: https://github.com/HaydnTrigg/Homeworld2Classic/commit/53926f994b22e9bcaa6295d2a8a14abeaf321941
+
+Jak 3 / Jak and Daxter: The Precursor Legacy / Jak II
+https://github.com/open-goal/jak-project
+  Target: Jak 3
+  Platform: PlayStation 2 | Numeric % not published in checked README; substantial work remains
+  Evidence: https://github.com/open-goal/jak-project
+  Note: Do not assume it has Jak 1’s completion status.
+  Target: Jak and Daxter: The Precursor Legacy
+  Platform: PlayStation 2 | Numeric % not published in checked README; polished and complete
+  Evidence: https://github.com/open-goal/jak-project
+  Note: GOAL-language decomp and native port. Completion status is not a byte-matching percentage.
+  Target: Jak II
+  Platform: PlayStation 2 | Numeric % not published in checked README; essentially complete / beta
+  Evidence: https://github.com/open-goal/jak-project
+  Note: A few known issues remain. GOAL-language decomp and port.
+
+Jet Force Gemini
+https://github.com/Ryan-Myers/Jet-Force-Gemini
+  Jet Force Gemini | Nintendo 64 | 14.49% decompiled
+  Progress source: https://decomp.dev/Ryan-Myers/Jet-Force-Gemini
+  Report commit date: 2026-09-02 18:49:45 +00:00
+  Report commit: https://github.com/Ryan-Myers/Jet-Force-Gemini/commit/efd5abb1c79636e297b831f7c2d5bf47eac39c0c
+
+Kirby Air Ride
+https://github.com/wowjinxy/KAR
+  Kirby Air Ride | GameCube | 9.02% decompiled | 1.49% fully linked
+  Progress source: https://decomp.dev/wowjinxy/KAR
+  Report commit date: 2026-08-16 03:23:08 +00:00
+  Report commit: https://github.com/wowjinxy/KAR/commit/cb94b157612a1d8d187f0bd6ecb5c02aa4c77b57
+
+Kirby's Dream Collection Special Edition
+https://github.com/Swiftshine/kdc
+  Kirby's Dream Collection Special Edition | Wii | 3.39% decompiled | 1.24% fully linked
+  Progress source: https://decomp.dev/Swiftshine/kdc
+  Report commit date: 2026-07-24 21:11:15 +00:00
+  Report commit: https://github.com/Swiftshine/kdc/commit/2be1c20faa215b7969c07900ae8bd112c82fef1f
+
+Legacy of Kain: Soul Reaver
+https://github.com/fmil95/soul-re
+  Legacy of Kain: Soul Reaver | PlayStation | 85.05% decompiled
+  Progress source: https://decomp.dev/fmil95/soul-re
+  Report commit date: 2026-09-21 23:11:30 +00:00
+  Report commit: https://github.com/fmil95/soul-re/commit/59d1ee87749da95b6ced413a9f60b30a6fb91d45
+
+Lego Star Wars III: The Clone Wars
+https://github.com/ThePlayerRolo/LegoCloneWarsWii
+  Lego Star Wars III: The Clone Wars | Wii | 0.52% decompiled | 0.45% fully linked
+  Progress source: https://decomp.dev/ThePlayerRolo/LegoCloneWarsWii
+  Report commit date: 2025-12-07 21:38:38 +00:00
+  Report commit: https://github.com/ThePlayerRolo/LegoCloneWarsWii/commit/b0ed795a586d1d921c536c991bf250bec39ae811
+
+Luigi's Mansion
+https://github.com/ThePlayerRolo/lm-decomp
+  Luigi's Mansion | GameCube | 17.83% decompiled | 11.44% fully linked
+  Progress source: https://decomp.dev/ThePlayerRolo/lm-decomp
+  Report commit date: 2026-08-17 22:23:29 +00:00
+  Report commit: https://github.com/ThePlayerRolo/lm-decomp/commit/edb2188517bb234e8171da7ebdfa9f3c8797c405
+
+Mario Kart 64
+https://github.com/n64decomp/mk64
+  Target: Mario Kart 64
+  Platform: Nintendo 64 | 100.0% (published total-progress badge)
+  Evidence: https://n64decomp.github.io/mk64/total_progress.svg
+  Note: Additional established reverse-engineering/decomp project; use its version-specific progress page.
+
+Mario Kart Wii
+https://github.com/doldecomp/mkw
+  Mario Kart Wii | Wii | 5.77% decompiled | 3.95% fully linked
+  Progress source: https://decomp.dev/doldecomp/mkw
+  Report commit date: 2026-10-02 02:25:08 +00:00
+  Report commit: https://github.com/doldecomp/mkw/commit/386051fb27b1af04d0ec4933a9d7485a48f81887
+
+Mario Kart: Double Dash!!
+https://github.com/doldecomp/mkdd
+  Mario Kart: Double Dash!! | GameCube | 47.09% decompiled | 41.93% fully linked
+  Progress source: https://decomp.dev/doldecomp/mkdd
+  Report commit date: 2026-09-17 20:24:21 +00:00
+  Report commit: https://github.com/doldecomp/mkdd/commit/ffc513c5326d1a883d4b35dd7ee1634500354763
+
+Mario Party 4
+https://github.com/mariopartyrd/marioparty4
+  Mario Party 4 | GameCube | 100.00% decompiled | 100.00% fully linked
+  Progress source: https://decomp.dev/mariopartyrd/marioparty4
+  Report commit date: 2026-06-04 03:18:46 +00:00
+  Report commit: https://github.com/mariopartyrd/marioparty4/commit/147b165a83187ac9e6cfdc3bf52f2e73437b1ffd
+
+Mario Party 5
+https://github.com/mariopartyrd/marioparty5
+  Mario Party 5 | GameCube | 22.70% decompiled | 18.19% fully linked
+  Progress source: https://decomp.dev/mariopartyrd/marioparty5
+  Report commit date: 2026-05-30 00:36:04 +00:00
+  Report commit: https://github.com/mariopartyrd/marioparty5/commit/e246f9d9850ff53ac684b971068fbf87fdcf6acb
+
+Mario Strikers Charged
+https://github.com/yannicksuter/mscharged-decomp
+  Mario Strikers Charged | Wii | 94.22% decompiled | 86.67% fully linked
+  Progress source: https://decomp.dev/yannicksuter/mscharged-decomp
+  Report commit date: 2026-10-04 07:56:36 +00:00
+  Report commit: https://github.com/yannicksuter/mscharged-decomp/commit/9ca59d250587adc0436d08176bec3898aa790fa0
+
+Marvel vs. Capcom 2: New Age of Heroes
+https://github.com/g-guthrie/mvc2-ps2-decomp
+  Marvel vs. Capcom 2: New Age of Heroes | PlayStation 2 | 12.53% decompiled | 12.53% fully linked
+  Progress source: https://decomp.dev/g-guthrie/mvc2-ps2-decomp
+  Report commit date: 2026-09-29 05:08:03 +00:00
+  Report commit: https://github.com/g-guthrie/mvc2-ps2-decomp/commit/d4fd9f961b98f0540489dab33507a5ace70de28a
+
+Metroid Prime
+https://github.com/PrimeDecomp/prime
+  Metroid Prime | GameCube | 90.17% decompiled | 50.04% fully linked
+  Progress source: https://decomp.dev/PrimeDecomp/prime
+  Report commit date: 2026-10-04 11:10:16 +00:00
+  Report commit: https://github.com/PrimeDecomp/prime/commit/ba28027b0d5086997aea12b2086e151de94fa750
+
+Metroid Prime 2: Echoes
+https://github.com/PrimeDecomp/echoes
+  Metroid Prime 2: Echoes | GameCube | 25.85% decompiled | 10.53% fully linked
+  Progress source: https://decomp.dev/PrimeDecomp/echoes
+  Report commit date: 2026-10-04 10:59:39 +00:00
+  Report commit: https://github.com/PrimeDecomp/echoes/commit/fc488396bd23d7f053a9fefe30e618ab96dc813f
+
+Monster Hunter (JP)
+https://github.com/2Tie/mh1j
+  Monster Hunter (JP) | PlayStation 2 | 0.67% decompiled
+  Progress source: https://decomp.dev/2Tie/mh1j
+  Report commit date: 2026-09-21 20:36:48 +00:00
+  Report commit: https://github.com/2Tie/mh1j/commit/62d4ba27f2c485b3377a360cd3f0ae20b5ee3e6f
+
+Monster Hunter Portable 2nd G
+https://github.com/tclamb/mhp2g-decomp
+  Monster Hunter Portable 2nd G | PlayStation Portable | 2.91% decompiled
+  Progress source: https://decomp.dev/tclamb/mhp2g-decomp
+  Report commit date: 2026-10-02 17:43:21 +00:00
+  Report commit: https://github.com/tclamb/mhp2g-decomp/commit/618467fe611d32beb65af774c2372a5e4987a091
+
+Mortal Kombat: Deadly Alliance
+https://github.com/ShulkMaster/mk-da
+  Mortal Kombat: Deadly Alliance | GameCube | 24.34% decompiled | 21.63% fully linked
+  Progress source: https://decomp.dev/ShulkMaster/mk-da
+  Report commit date: 2026-10-04 00:31:30 +00:00
+  Report commit: https://github.com/ShulkMaster/mk-da/commit/3d6f17751309eb5e7cb5b6162c21360cbb5a35bf
+
+Mortal Kombat: Deception
+https://github.com/ShulkMaster/mk-deception
+  Mortal Kombat: Deception | GameCube | 54.41% decompiled | 16.74% fully linked
+  Progress source: https://decomp.dev/ShulkMaster/mk-deception
+  Report commit date: 2026-10-02 05:23:12 +00:00
+  Report commit: https://github.com/ShulkMaster/mk-deception/commit/a90164d01d4bab03239378efb5b5bbcb8ac35490
+
+MVP Baseball 2005
+https://github.com/mitsevox/mvp2005
+  MVP Baseball 2005 | GameCube | 4.30% decompiled | 4.24% fully linked
+  Progress source: https://decomp.dev/mitsevox/mvp2005
+  Report commit date: 2026-09-30 20:16:16 +00:00
+  Report commit: https://github.com/mitsevox/mvp2005/commit/f1e1763bf76b7806ba704868be26935876a6efb1
+
+Need for Speed: High Stakes
+https://github.com/Caesar0007/NFSHS-PSX-decomp
+  Need for Speed: High Stakes | PlayStation | 100.00% decompiled
+  Progress source: https://decomp.dev/Caesar0007/NFSHS-PSX-decomp
+  Report commit date: 2026-10-04 09:53:35 +00:00
+  Report commit: https://github.com/Caesar0007/NFSHS-PSX-decomp/commit/8754e07224b9a421a020fde3764a9c0be1dea424
+
+Need for Speed: Most Wanted
+https://github.com/dbalatoni13/nfsmw
+  Need for Speed: Most Wanted | Windows | 13.79% decompiled
+  Progress source: https://decomp.dev/dbalatoni13/nfsmw
+  Report commit date: 2026-10-02 20:27:22 +00:00
+  Report commit: https://github.com/dbalatoni13/nfsmw/commit/1f2cdd7996791c81a580b3f7b36b44d4f9f6719c
+
+New Play Control! Pikmin
+https://github.com/projectPiki/pik1wii
+  New Play Control! Pikmin | Wii | 54.23% decompiled | 9.89% fully linked
+  Progress source: https://decomp.dev/projectPiki/pik1wii
+  Report commit date: 2026-09-04 14:05:00 +00:00
+  Report commit: https://github.com/projectPiki/pik1wii/commit/7170ba8a1eafd6dd3e30923c827b20f4a0df735e
+
+New Play Control! Pikmin 2
+https://github.com/projectPiki/pik2wii
+  New Play Control! Pikmin 2 | Wii | 54.26% decompiled | 10.88% fully linked
+  Progress source: https://decomp.dev/projectPiki/pik2wii
+  Report commit date: 2026-09-20 07:03:49 +00:00
+  Report commit: https://github.com/projectPiki/pik2wii/commit/e70525d810474f442c6e6789e450f31a9282ac9f
+
+New Super Mario Bros. Wii
+https://github.com/NSMBW-Community/NSMBW-Decomp
+  New Super Mario Bros. Wii | Wii | 9.02% decompiled | 9.03% fully linked
+  Progress source: https://decomp.dev/NSMBW-Community/NSMBW-Decomp
+  Report commit date: 2026-09-24 09:29:35 +00:00
+  Report commit: https://github.com/NSMBW-Community/NSMBW-Decomp/commit/58fe6985e3ca55261beb543fe7558f66c3ddd7c4
+
+NFL Street 2
+https://github.com/mitsevox/nflstreet2
+  NFL Street 2 | GameCube | 7.03% decompiled | 7.03% fully linked
+  Progress source: https://decomp.dev/mitsevox/nflstreet2
+  Report commit date: 2026-10-04 09:51:09 +00:00
+  Report commit: https://github.com/mitsevox/nflstreet2/commit/b522b39b3c17609b9215cd278482674dc4fba005
+
+Paper Mario
+https://github.com/pmret/papermario
+  Target: Paper Mario
+  Platform: Nintendo 64 | 100.00% (US target, published badge)
+  Evidence: https://papermar.io/reports/progress_us_shield.json
+  Note: Other regional targets have separate progress measurements.
+
+Paper Mario: The Thousand-Year Door
+https://github.com/doldecomp/ttyd
+  Paper Mario: The Thousand-Year Door | GameCube | 12.10% decompiled | 8.12% fully linked
+  Progress source: https://decomp.dev/doldecomp/ttyd
+  Report commit date: 2026-09-27 22:35:16 +00:00
+  Report commit: https://github.com/doldecomp/ttyd/commit/62131fc31866f85a12e4817a8dc37f0c25eb5f8c
+
+Parasite Eve
+https://github.com/khasinski/parasite-eve-decomp
+  Parasite Eve | PlayStation | 95.50% decompiled | 95.50% fully linked
+  Progress source: https://decomp.dev/khasinski/parasite-eve-decomp
+  Report commit date: 2026-10-04 11:12:53 +00:00
+  Report commit: https://github.com/khasinski/parasite-eve-decomp/commit/1d45367df924cad1e85e3799f4513c4e9b1de8cf
+
+Parasite Eve II
+https://github.com/GabeRealB/parasite-eve-2-decomp
+  Parasite Eve II | PlayStation | 100.00% decompiled
+  Progress source: https://decomp.dev/GabeRealB/parasite-eve-2-decomp
+  Report commit date: 2026-10-04 10:33:58 +00:00
+  Report commit: https://github.com/GabeRealB/parasite-eve-2-decomp/commit/f3f021a0c15756074d05f6305893e21a292b3e98
+
+Perfect Dark
+https://github.com/n64decomp/perfect_dark
+  Target: Perfect Dark
+  Platform: Nintendo 64 | 100% / complete matching decompilation (maintainer description)
+  Evidence: https://github.com/n64decomp/perfect_dark
+  Note: Nintendo 64 game; not Perfect Dark Zero or the Xbox 360 remaster.
+
+Pikmin
+https://github.com/projectPiki/pikmin
+  Pikmin | GameCube | 100.00% decompiled | 100.00% fully linked
+  Progress source: https://decomp.dev/projectPiki/pikmin
+  Report commit date: 2026-09-08 01:11:37 +00:00
+  Report commit: https://github.com/projectPiki/pikmin/commit/35e28e7c6f1f0788a6644b4b1f1fc18da6e5a7ba
+
+Pikmin 2
+https://github.com/projectPiki/pikmin2
+  Pikmin 2 | GameCube | 99.63% decompiled | 98.09% fully linked
+  Progress source: https://decomp.dev/projectPiki/pikmin2
+  Report commit date: 2026-10-01 11:36:14 +00:00
+  Report commit: https://github.com/projectPiki/pikmin2/commit/29bc5478edffa2c963c88fdd261d876d055aa2b0
+
+Pilotwings 64
+https://github.com/gcsmith/Pilotwings64Decomp
+  Pilotwings 64 | Nintendo 64 | 100.00% decompiled
+  Progress source: https://decomp.dev/gcsmith/Pilotwings64Decomp
+  Report commit date: 2026-09-28 17:36:49 +00:00
+  Report commit: https://github.com/gcsmith/Pilotwings64Decomp/commit/1a8558f5ceb320cce254d6da0a49a1f2bbc23e21
+
+Pokemon Colosseum
+https://github.com/dougchansan/pkmn-colosseum
+  Pokemon Colosseum | GameCube | 43.38% decompiled | 29.37% fully linked
+  Progress source: https://decomp.dev/dougchansan/pkmn-colosseum
+  Report commit date: 2026-09-24 20:26:34 +00:00
+  Report commit: https://github.com/dougchansan/pkmn-colosseum/commit/41df4aa988add7d69dfc16c06ac4d31df96f4362
+
+Pokémon Battle Revolution
+https://github.com/bgsamm/pbr-dtk
+  Pokémon Battle Revolution | Wii | 2.34% decompiled | 0.83% fully linked
+  Progress source: https://decomp.dev/bgsamm/pbr-dtk
+  Report commit date: 2026-09-19 11:25:23 +00:00
+  Report commit: https://github.com/bgsamm/pbr-dtk/commit/09af9f9a5b1ffad9b83483485a6c49f35a1c4976
+
+Pokémon XD: Gale of Darkness
+https://github.com/TeamOrre/xd-decomp
+  Pokémon XD: Gale of Darkness | GameCube | 11.22% decompiled | 8.13% fully linked
+  Progress source: https://decomp.dev/TeamOrre/xd-decomp
+  Report commit date: 2026-09-11 15:11:05 +00:00
+  Report commit: https://github.com/TeamOrre/xd-decomp/commit/4989794e6c6430684e033bc56f4bb97c9a921e73
+
+PokéPark Wii: Pikachu's Adventure
+https://github.com/SephDB/pokepark-wii-decomp
+  PokéPark Wii: Pikachu's Adventure | Wii | 1.46% decompiled | 1.46% fully linked
+  Progress source: https://decomp.dev/SephDB/pokepark-wii-decomp
+  Report commit date: 2026-10-03 19:49:27 +00:00
+  Report commit: https://github.com/SephDB/pokepark-wii-decomp/commit/735b49153c27f0f52de2af87911eaa3398ef6a72
+
+Ratchet & Clank (NTSC)
+https://github.com/mateuszklysz/Lombyte
+  Ratchet & Clank (NTSC) | PlayStation 2 | 21.25% decompiled | 21.25% fully linked
+  Progress source: https://decomp.dev/mateuszklysz/Lombyte
+  Report commit date: 2026-10-04 09:35:09 +00:00
+  Report commit: https://github.com/mateuszklysz/Lombyte/commit/e82305e6e01423428b814d397b2a687aa44f9253
+
+Ratchet & Clank (PAL)
+https://github.com/Lynder063/rac1-decomp
+  Ratchet & Clank (PAL) | PlayStation 2 | 20.24% decompiled | 2.43% fully linked
+  Progress source: https://decomp.dev/Lynder063/rac1-decomp
+  Report commit date: 2026-10-04 09:32:16 +00:00
+  Report commit: https://github.com/Lynder063/rac1-decomp/commit/7502ff0e5cb286538859e9d107452ca185bfc3b8
+
+Ratchet & Clank: Up Your Arsenal
+https://github.com/vetusmagnus/ratchet-uya-decomp
+  Ratchet & Clank: Up Your Arsenal | PlayStation 2 | 1.64% decompiled
+  Progress source: https://decomp.dev/vetusmagnus/ratchet-uya-decomp
+  Report commit date: 2026-10-04 11:28:47 +00:00
+  Report commit: https://github.com/vetusmagnus/ratchet-uya-decomp/commit/ed38450e68658fffc95781035f4f176ca6b22dc4
+
+Resident Evil - Code: Veronica X
+https://github.com/AshfordFamily/recvx-decomp
+  Resident Evil - Code: Veronica X | PlayStation 2 | 83.23% decompiled
+  Progress source: https://decomp.dev/AshfordFamily/recvx-decomp
+  Report commit date: 2026-10-02 16:10:38 +00:00
+  Report commit: https://github.com/AshfordFamily/recvx-decomp/commit/12a05ddfeef521d1f5e9a4082a182e788329135f
+
+Shaun Palmer's Pro Snowboarder
+https://github.com/Daniel-McCarthy/SPPS
+  Shaun Palmer's Pro Snowboarder | PlayStation 2 | 48.18% decompiled | 15.50% fully linked
+  Progress source: https://decomp.dev/Daniel-McCarthy/SPPS
+  Report commit date: 2026-10-03 02:00:34 +00:00
+  Report commit: https://github.com/Daniel-McCarthy/SPPS/commit/fe04270df49c92e6a7e96291314011e7f18e586f
+
+Shin Megami Tensei: Digital Devil Saga
+https://github.com/Megami-Decomps/dds-decomp
+  Shin Megami Tensei: Digital Devil Saga | PlayStation 2 | 44.95% decompiled
+  Progress source: https://decomp.dev/Megami-Decomps/dds-decomp
+  Report commit date: 2026-10-04 08:55:35 +00:00
+  Report commit: https://github.com/Megami-Decomps/dds-decomp/commit/d1f42a8f7e11de564d0a78525aa22155970843d4
+
+Shin Megami Tensei: Persona 4
+https://github.com/Raikaru/Persona4-Decompilation
+  Shin Megami Tensei: Persona 4 | PlayStation 2 | 68.54% decompiled | 36.06% fully linked
+  Progress source: https://decomp.dev/Raikaru/Persona4-Decompilation
+  Report commit date: 2026-10-04 02:15:13 +00:00
+  Report commit: https://github.com/Raikaru/Persona4-Decompilation/commit/fa980eedbd5732a5f986d27166c525503b0f94dc
+
+Silent Hill
+https://github.com/shdecompilations/silent-hill-decomp
+  Silent Hill | PlayStation | 99.99% decompiled
+  Progress source: https://decomp.dev/shdecompilations/silent-hill-decomp
+  Report commit date: 2026-10-04 05:33:24 +00:00
+  Report commit: https://github.com/shdecompilations/silent-hill-decomp/commit/6d23fdfdb43f5f9e222b2e157f1a945e6d312c73
+
+Silent Hill 2
+https://github.com/dreamingmoths/mirror-of-alessa
+  Silent Hill 2 | PlayStation 2 | 44.97% decompiled
+  Progress source: https://decomp.dev/dreamingmoths/mirror-of-alessa
+  Report commit date: 2026-10-03 20:08:11 +00:00
+  Report commit: https://github.com/dreamingmoths/mirror-of-alessa/commit/80ae481de65c4ac7fcd23da66a7eaed9cddfc3f3
+
+Silent Hill 3
+https://github.com/dreamingmoths/memory-of-alessa
+  Silent Hill 3 | PlayStation 2 | 6.63% decompiled
+  Progress source: https://decomp.dev/dreamingmoths/memory-of-alessa
+  Report commit date: 2026-10-03 20:05:15 +00:00
+  Report commit: https://github.com/dreamingmoths/memory-of-alessa/commit/6a650e522a0e608804dc2d0214327a06f2e77129
+
+Sly Cooper and the Thievius Raccoonus
+https://github.com/TheOnlyZac/sly1
+  Sly Cooper and the Thievius Raccoonus | PlayStation 2 | 7.24% decompiled
+  Progress source: https://decomp.dev/TheOnlyZac/sly1
+  Report commit date: 2026-09-26 19:34:05 +00:00
+  Report commit: https://github.com/TheOnlyZac/sly1/commit/7bd5cbcd0d2a31ae52f99231509463f5893b256b
+
+Sonic Adventure 2: Battle
+https://github.com/roeming/SA2B
+  Sonic Adventure 2: Battle | GameCube | 4.80% decompiled | 4.78% fully linked
+  Progress source: https://decomp.dev/roeming/SA2B
+  Report commit date: 2026-10-02 19:03:26 +00:00
+  Report commit: https://github.com/roeming/SA2B/commit/9334b0cb9e673dba362fd02671c44cd6c03639a1
+
+Sonic Heroes
+https://github.com/Jovinull/sonicheroes
+  Sonic Heroes | GameCube | 9.34% decompiled | 8.76% fully linked
+  Progress source: https://decomp.dev/Jovinull/sonicheroes
+  Report commit date: 2026-10-02 11:26:15 +00:00
+  Report commit: https://github.com/Jovinull/sonicheroes/commit/ba1a6be64ec51757e4ff5dd066eaca6d0157c5e6
+
+Sonic Riders: Zero Gravity (PS2 Prototype)
+https://github.com/KidWizardOfTheWeb/SR2
+  Sonic Riders: Zero Gravity (PS2 Prototype) | PlayStation 2 | 1.51% decompiled
+  Progress source: https://decomp.dev/KidWizardOfTheWeb/SR2
+  Report commit date: 2026-09-05 17:46:42 +00:00
+  Report commit: https://github.com/KidWizardOfTheWeb/SR2/commit/b5820699c9120ddc72bebe4d5a2329e20f835c81
+
+Star Fox 64
+https://github.com/sonicdcer/sf64
+  Target: Star Fox 64
+  Platform: Nintendo 64 | 100% matching functions (2951/2951; README)
+  Evidence: https://raw.githubusercontent.com/sonicdcer/sf64/master/README.md
+  Note: Additional established reverse-engineering/decomp project; use its version-specific progress page.
+
+Star Fox Adventures
+https://github.com/zcanann/SFA-Decomp
+  Star Fox Adventures | GameCube | 100.00% decompiled | 100.00% fully linked
+  Progress source: https://decomp.dev/zcanann/SFA-Decomp
+  Report commit date: 2026-09-30 00:00:05 +00:00
+  Report commit: https://github.com/zcanann/SFA-Decomp/commit/13491b1880c8326f4acba4ca35d7e891ae78a806
+
+Star Ocean: Till the End of Time
+https://github.com/celophi/so3-decomp
+  Star Ocean: Till the End of Time | PlayStation 2 | 2.70% decompiled | 0.07% fully linked
+  Progress source: https://decomp.dev/celophi/so3-decomp
+  Report commit date: 2026-10-04 03:13:54 +00:00
+  Report commit: https://github.com/celophi/so3-decomp/commit/36e0c031c813e4d83b2e6f7c56a82f0d60929c21
+
+Super Mario 64
+https://github.com/n64decomp/sm64
+  Target: Super Mario 64
+  Platform: Nintendo 64 | 100% / full decompilation (maintainer description)
+  Evidence: https://github.com/n64decomp/sm64
+  Note: README lists JP, US, EU, Shindou and iQue releases; naming/documentation work continues.
+
+Super Mario All-Stars 25th Anniversary Edition
+https://github.com/ThePlayerRolo/Super-Mario-All-Star-Decomp
+  Super Mario All-Stars 25th Anniversary Edition | Wii | 0.52% decompiled | 0.11% fully linked
+  Progress source: https://decomp.dev/ThePlayerRolo/Super-Mario-All-Star-Decomp
+  Report commit date: 2026-07-01 13:36:59 +00:00
+  Report commit: https://github.com/ThePlayerRolo/Super-Mario-All-Star-Decomp/commit/685ac3c1e85ea9e88ebe13568343afaf31e7ee8c
+
+Super Mario Galaxy
+https://github.com/SMGCommunity/Petari
+  Super Mario Galaxy | Wii | 100.00% decompiled | 68.55% fully linked
+  Progress source: https://decomp.dev/SMGCommunity/Petari
+  Report commit date: 2026-10-03 21:52:06 +00:00
+  Report commit: https://github.com/SMGCommunity/Petari/commit/d0320847e2cf066aa68cd9c8a489ff548af40b5c
+
+Super Mario Galaxy 2
+https://github.com/SMGCommunity/Garigari
+  Super Mario Galaxy 2 | Wii | 15.63% decompiled | 1.50% fully linked
+  Progress source: https://decomp.dev/SMGCommunity/Garigari
+  Report commit date: 2026-10-02 14:59:52 +00:00
+  Report commit: https://github.com/SMGCommunity/Garigari/commit/6bff50a405a858638f39e944ad3f7919f056cea5
+
+Super Mario Strikers
+https://github.com/yannicksuter/smstrikers-decomp
+  Super Mario Strikers | GameCube | 100.00% decompiled | 100.00% fully linked
+  Progress source: https://decomp.dev/yannicksuter/smstrikers-decomp
+  Report commit date: 2026-09-17 11:30:28 +00:00
+  Report commit: https://github.com/yannicksuter/smstrikers-decomp/commit/d1f357ffeb1d8e89311edebf9a4b304b05ece7bb
+
+Super Mario Sunshine
+https://github.com/doldecomp/sms
+  Super Mario Sunshine | GameCube | 47.12% decompiled | 18.26% fully linked
+  Progress source: https://decomp.dev/doldecomp/sms
+  Report commit date: 2026-10-04 09:28:03 +00:00
+  Report commit: https://github.com/doldecomp/sms/commit/4c3bf234106ad24bccabbe33ab2746dff5798d26
+
+Super Paper Mario
+https://github.com/SeekyCt/spm-decomp
+  Super Paper Mario | Wii | 2.44% decompiled | 2.07% fully linked
+  Progress source: https://decomp.dev/SeekyCt/spm-decomp
+  Report commit date: 2026-10-03 21:41:53 +00:00
+  Report commit: https://github.com/SeekyCt/spm-decomp/commit/682e71fa9d2b9ee880afa415708f82edd29a3b8b
+
+Super Smash Bros.
+https://github.com/VetriTheRetri/ssb-decomp-re
+  Super Smash Bros. | Nintendo 64 | 100.00% decompiled
+  Progress source: https://decomp.dev/VetriTheRetri/ssb-decomp-re
+  Report commit date: 2026-09-08 01:26:12 +00:00
+  Report commit: https://github.com/VetriTheRetri/ssb-decomp-re/commit/7a85d55c7d5bfb17b48447de948dc7406f7eedb9
+
+Super Smash Bros. Brawl
+https://github.com/doldecomp/brawl
+  Super Smash Bros. Brawl | Wii | 1.20% decompiled | 1.02% fully linked
+  Progress source: https://decomp.dev/doldecomp/brawl
+  Report commit date: 2026-10-02 22:41:01 +00:00
+  Report commit: https://github.com/doldecomp/brawl/commit/39d7fee6a8e70a198052d0e658d5cfa27aa5226a
+
+Super Smash Bros. Melee
+https://github.com/doldecomp/melee
+  Super Smash Bros. Melee | GameCube | 100.00% decompiled | 100.00% fully linked
+  Progress source: https://decomp.dev/doldecomp/melee
+  Report commit date: 2026-10-04 07:02:17 +00:00
+  Report commit: https://github.com/doldecomp/melee/commit/498075ed986b4f7d4d23422d0c4c46ff675fef41
+
+The Legend of Zelda: Majora’s Mask
+https://github.com/zeldaret/mm
+  Target: The Legend of Zelda: Majora’s Mask
+  Platform: Nintendo 64 | 100% (team dashboard)
+  Evidence: https://zelda.deco.mp/
+  Note: Percentage describes the team’s tracked code target; individual versions can differ.
+
+The Legend of Zelda: Ocarina of Time
+https://github.com/zeldaret/oot
+  Target: The Legend of Zelda: Ocarina of Time
+  Platform: Nintendo 64 | 100% (team dashboard)
+  Evidence: https://zelda.deco.mp/
+  Note: Percentage describes the team’s tracked code target; individual versions can differ.
+
+The Legend of Zelda: Skyward Sword
+https://github.com/zeldaret/ss
+  The Legend of Zelda: Skyward Sword | Wii | 26.80% decompiled | 15.74% fully linked
+  Progress source: https://decomp.dev/zeldaret/ss
+  Report commit date: 2026-10-04 09:33:58 +00:00
+  Report commit: https://github.com/zeldaret/ss/commit/3a93d428e870227349d77e8c860e230533a38f2f
+
+The Legend of Zelda: The Wind Waker
+https://github.com/zeldaret/tww
+  The Legend of Zelda: The Wind Waker | GameCube | 78.86% decompiled | 66.91% fully linked
+  Progress source: https://decomp.dev/zeldaret/tww
+  Report commit date: 2026-10-03 23:50:45 +00:00
+  Report commit: https://github.com/zeldaret/tww/commit/49f2e3484e5814cbafde68525128669589e86bb2
+
+The Legend of Zelda: Twilight Princess
+https://github.com/zeldaret/tp
+  The Legend of Zelda: Twilight Princess | GameCube | 100.00% decompiled | 87.13% fully linked
+  Progress source: https://decomp.dev/zeldaret/tp
+  Report commit date: 2026-06-23 19:52:55 +00:00
+  Report commit: https://github.com/zeldaret/tp/commit/c8fa8c9e2aab72cf4e5db0e5d1c84a9ea6ee6eb0
+
+The Sims 2: Castaway
+https://github.com/HaydnTrigg/Castaway
+  The Sims 2: Castaway | Wii | 4.93% decompiled | 2.61% fully linked
+  Progress source: https://decomp.dev/HaydnTrigg/Castaway
+  Report commit date: 2026-01-21 01:46:51 +00:00
+  Report commit: https://github.com/HaydnTrigg/Castaway/commit/f5c5dbcf2b4a20eb797b1aa6eb03f6cf09a4dbbe
+
+Thief: Deadly Shadows
+https://github.com/Veradictus/Thief3-Decomp
+  Thief: Deadly Shadows | Windows | 5.53% decompiled
+  Progress source: https://decomp.dev/Veradictus/Thief3-Decomp
+  Report commit date: 2026-10-03 06:19:18 +00:00
+  Report commit: https://github.com/Veradictus/Thief3-Decomp/commit/59b578892fe148d858ffee2e33241e506510f492
+
+Tiger Woods PGA Tour 2004
+https://github.com/mitsevox/tw2004
+  Tiger Woods PGA Tour 2004 | GameCube | 100.00% decompiled | 100.00% fully linked
+  Progress source: https://decomp.dev/mitsevox/tw2004
+  Report commit date: 2026-10-03 02:45:32 +00:00
+  Report commit: https://github.com/mitsevox/tw2004/commit/e90a46609ba8ec4d2e656aa1dc4d6c858d246ca3
+
+Turok: Rage Wars
+https://github.com/melalawi/ragewars-decomp
+  Turok: Rage Wars | Nintendo 64 | 75.89% decompiled | 75.89% fully linked
+  Progress source: https://decomp.dev/melalawi/ragewars-decomp
+  Report commit date: 2026-10-02 03:23:27 +00:00
+  Report commit: https://github.com/melalawi/ragewars-decomp/commit/fc786b3678f95e1901a39a9cd65295a132827e2c
+
+Vagrant Story
+https://github.com/ser-pounce/rood-reverse
+  Vagrant Story | PlayStation | 37.25% decompiled | 19.29% fully linked
+  Progress source: https://decomp.dev/ser-pounce/rood-reverse
+  Report commit date: 2026-10-04 06:39:00 +00:00
+  Report commit: https://github.com/ser-pounce/rood-reverse/commit/9f4ab7860d02a21bcf3776b3c41fad54334b02de
+
+Wave Race 64
+https://github.com/LLONSIT/Wave-Race-64
+  Wave Race 64 | Nintendo 64 | 33.73% decompiled
+  Progress source: https://decomp.dev/LLONSIT/Wave-Race-64
+  Report commit date: 2026-04-02 23:02:11 +00:00
+  Report commit: https://github.com/LLONSIT/Wave-Race-64/commit/3c86d610f974bd0b3f0af1003cc16a74bf54928e
+
+Wii Play
+https://github.com/akiramusic000/Rhae
+  Wii Play | Wii | 35.99% decompiled | 32.23% fully linked
+  Progress source: https://decomp.dev/akiramusic000/Rhae
+  Report commit date: 2026-10-03 22:19:31 +00:00
+  Report commit: https://github.com/akiramusic000/Rhae/commit/182cf1a172a944a088fd69b1cd84e3d0c21e0bd5
+
+Wii Sports
+https://github.com/doldecomp/ogws
+  Wii Sports | Wii | 35.03% decompiled | 28.93% fully linked
+  Progress source: https://decomp.dev/doldecomp/ogws
+  Report commit date: 2026-09-19 21:27:59 +00:00
+  Report commit: https://github.com/doldecomp/ogws/commit/27fa94a593096eed7442efc4e70981fd52025b9c
+
+Xenoblade Chronicles
+https://github.com/xbret/xenoblade
+  Xenoblade Chronicles | Wii | 10.77% decompiled | 7.61% fully linked
+  Progress source: https://decomp.dev/xbret/xenoblade
+  Report commit date: 2026-06-28 10:22:22 +00:00
+  Report commit: https://github.com/xbret/xenoblade/commit/ea25691b2029394ab777bda7060139e517a13cba
+
+Xenogears
+https://github.com/ladysilverberg/xenogears-decomp
+  Xenogears | PlayStation | 37.69% decompiled
+  Progress source: https://decomp.dev/ladysilverberg/xenogears-decomp
+  Report commit date: 2026-09-26 14:22:34 +00:00
+  Report commit: https://github.com/ladysilverberg/xenogears-decomp/commit/00cd201ec397bc8eb2db34f63421a7226a450ec2
+
+Xenosaga Episode I: Der Wille zur Macht
+https://github.com/OpokXeno/xsg-i-decomp
+  Xenosaga Episode I: Der Wille zur Macht | PlayStation 2 | 29.64% decompiled | 0.64% fully linked
+  Progress source: https://decomp.dev/OpokXeno/xsg-i-decomp
+  Report commit date: 2026-10-01 23:49:01 +00:00
+  Report commit: https://github.com/OpokXeno/xsg-i-decomp/commit/c271867b034c77023ee2bc81a40873bcd33564ea
+
+3. MAJOR HANDHELD / FRANCHISE GAMES
+-----------------------------------
+
+Beyblade VForce: Ultimate Blader Jam
+https://github.com/marijnvdwerf/gba-beyblade-vforce
+  Beyblade VForce: Ultimate Blader Jam | Game Boy Advance | 100.00% decompiled
+  Progress source: https://decomp.dev/marijnvdwerf/gba-beyblade-vforce
+  Report commit date: 2026-09-24 13:23:34 +00:00
+  Report commit: https://github.com/marijnvdwerf/gba-beyblade-vforce/commit/e1f747d1dbc07ee6a0d63415ee45d1b67e1d23aa
+
+Castlevania: Order of Ecclesia
+https://github.com/LagoLunatic/ooe
+  Castlevania: Order of Ecclesia | Nintendo DS | 0.81% decompiled | 0.13% fully linked
+  Progress source: https://decomp.dev/LagoLunatic/ooe
+  Report commit date: 2025-05-04 18:43:22 +00:00
+  Report commit: https://github.com/LagoLunatic/ooe/commit/3dc4a82881b4cb8f9d584571fcf2053ddc584f6a
+
+Crash Bandicoot: XS (The Huge Adventure)
+https://github.com/Almamu/CrashBandicootXS-decomp
+  Crash Bandicoot: XS (The Huge Adventure) | Game Boy Advance | 99.66% decompiled | 80.22% fully linked
+  Progress source: https://decomp.dev/Almamu/CrashBandicootXS-decomp
+  Report commit date: 2026-09-30 10:42:35 +00:00
+  Report commit: https://github.com/Almamu/CrashBandicootXS-decomp/commit/1f417177c20de6836370ecaa0a9f266923e56bbe
+
+Digimon Digital Card Battle
+https://github.com/juandav/dcb_decomp
+  Digimon Digital Card Battle | PlayStation | 100.00% decompiled
+  Progress source: https://decomp.dev/juandav/dcb_decomp
+  Report commit date: 2026-10-02 03:45:11 +00:00
+  Report commit: https://github.com/juandav/dcb_decomp/commit/ec6fe5a11f60098f58476e13bb5d5c405043d65c
+
+Digimon World
+https://github.com/jype0/dw_decomp
+  Digimon World | PlayStation | 100.00% decompiled
+  Progress source: https://decomp.dev/jype0/dw_decomp
+  Report commit date: 2026-10-02 07:48:43 +00:00
+  Report commit: https://github.com/jype0/dw_decomp/commit/bd2f7cc55ad1011efe0ee26061e70c569c211559
+
+Digimon World 2
+https://github.com/Wyrelade/Digimon-World-2-Decomp
+  Digimon World 2 | PlayStation | 99.56% decompiled
+  Progress source: https://decomp.dev/Wyrelade/Digimon-World-2-Decomp
+  Report commit date: 2026-10-04 10:21:03 +00:00
+  Report commit: https://github.com/Wyrelade/Digimon-World-2-Decomp/commit/aeee76d79d456082fa6ad703742eb14d68640835
+
+Digimon World 3
+https://github.com/juandav/dw3_decomp
+  Digimon World 3 | PlayStation | 99.13% decompiled
+  Progress source: https://decomp.dev/juandav/dw3_decomp
+  Report commit date: 2026-10-04 11:28:30 +00:00
+  Report commit: https://github.com/juandav/dw3_decomp/commit/57d319e86ec3682e71febc8ea224746a149caad2
+
+Digimon World 4
+https://github.com/ivanno4317/dw4-gc
+  Digimon World 4 | GameCube | 8.64% decompiled | 8.30% fully linked
+  Progress source: https://decomp.dev/ivanno4317/dw4-gc
+  Report commit date: 2026-09-16 15:24:42 +00:00
+  Report commit: https://github.com/ivanno4317/dw4-gc/commit/41c27d8756e298558ca9be61c1c89afeee336c01
+
+Dragon Quest IV
+https://github.com/GoldieLeGenie/DQIV-DECOMP
+  Dragon Quest IV | Nintendo DS | 50.56% decompiled | 49.69% fully linked
+  Progress source: https://decomp.dev/GoldieLeGenie/DQIV-DECOMP
+  Report commit date: 2026-10-02 23:13:36 +00:00
+  Report commit: https://github.com/GoldieLeGenie/DQIV-DECOMP/commit/94d3162e122156246e1fc3ac344304deaebdeb03
+
+Fire Emblem: Seima no Kouseki
+https://github.com/laqieer/fireemblem8j
+  Fire Emblem: Seima no Kouseki | Game Boy Advance | 100.00% decompiled
+  Progress source: https://decomp.dev/laqieer/fireemblem8j
+  Report commit date: 2026-10-02 02:35:01 +00:00
+  Report commit: https://github.com/laqieer/fireemblem8j/commit/f27d18f1b597dd43481690d105dd518f4face8ef
+
+Fire Emblem: Shadow Dragon
+https://github.com/Eebit/fe11-us
+  Fire Emblem: Shadow Dragon | Nintendo DS | 7.32% decompiled | 0.34% fully linked
+  Progress source: https://decomp.dev/Eebit/fe11-us
+  Report commit date: 2026-09-08 02:01:03 +00:00
+  Report commit: https://github.com/Eebit/fe11-us/commit/83f8abc778288d316d6b97990beed95b69313865
+
+Fire Emblem: The Sacred Stones
+https://github.com/laqieer/fireemblem8u
+  Fire Emblem: The Sacred Stones | Game Boy Advance | 99.76% decompiled
+  Progress source: https://decomp.dev/laqieer/fireemblem8u
+  Report commit date: 2026-07-09 06:18:15 +00:00
+  Report commit: https://github.com/laqieer/fireemblem8u/commit/7b47dec8da6ff7c2ff9aad2bfa9bf40cc8b07b90
+
+Golden Sun
+https://github.com/PascalPixel/alchemy
+  Golden Sun | Game Boy Advance | 89.86% decompiled | 89.86% fully linked
+  Progress source: https://decomp.dev/PascalPixel/alchemy
+  Report commit date: 2026-10-04 10:48:07 +00:00
+  Report commit: https://github.com/PascalPixel/alchemy/commit/d1a0a9b3c9f9096f988f511adc48aa16037693bd
+
+Golden Sun: The Broken Seal
+https://github.com/Coaltergeist/goldensun-decomp
+  Golden Sun: The Broken Seal | Game Boy Advance | 25.48% decompiled
+  Progress source: https://decomp.dev/Coaltergeist/goldensun-decomp
+  Report commit date: 2026-10-04 06:38:00 +00:00
+  Report commit: https://github.com/Coaltergeist/goldensun-decomp/commit/57125258d0b1f976ade36fead186134d35221883
+
+Kingdom Hearts 358/2 Days
+https://github.com/Yokimitsuro/khdays-decomp
+  Kingdom Hearts 358/2 Days | Nintendo DS | 100.00% decompiled | 100.00% fully linked
+  Progress source: https://decomp.dev/Yokimitsuro/khdays-decomp
+  Report commit date: 2026-09-30 11:15:53 +00:00
+  Report commit: https://github.com/Yokimitsuro/khdays-decomp/commit/ea39ead5e3c4f284bb243b9082e948847038bcd4
+
+Kingdom Hearts Re:coded
+https://github.com/Yokimitsuro/khrecoded-decomp
+  Kingdom Hearts Re:coded | Nintendo DS | 5.99% decompiled | 5.99% fully linked
+  Progress source: https://decomp.dev/Yokimitsuro/khrecoded-decomp
+  Report commit date: 2026-10-01 19:39:31 +00:00
+  Report commit: https://github.com/Yokimitsuro/khrecoded-decomp/commit/7ce758c331bb954aa874f459d2da3dccec7f1654
+
+Kingdom Hearts: Chain of Memories
+https://github.com/Pheenoh/khcom
+  Kingdom Hearts: Chain of Memories | Game Boy Advance | 100.00% decompiled | 100.00% fully linked
+  Progress source: https://decomp.dev/Pheenoh/khcom
+  Report commit date: 2026-10-04 11:04:50 +00:00
+  Report commit: https://github.com/Pheenoh/khcom/commit/76ad5ed12708dd4eba8adfe0c94fcc7992bd4ac6
+
+Kirby's Epic Yarn
+https://github.com/Swiftshine/key
+  Kirby's Epic Yarn | Wii | 2.21% decompiled | 0.96% fully linked
+  Progress source: https://decomp.dev/Swiftshine/key
+  Report commit date: 2026-09-29 19:33:42 +00:00
+  Report commit: https://github.com/Swiftshine/key/commit/2d27380678e863aacb069703ea6da262819432a4
+
+Kirby: Nightmare in Dream Land
+https://github.com/overjt/knidl
+  Kirby: Nightmare in Dream Land | Game Boy Advance | 99.51% decompiled | 99.51% fully linked
+  Progress source: https://decomp.dev/overjt/knidl
+  Report commit date: 2026-10-04 04:58:27 +00:00
+  Report commit: https://github.com/overjt/knidl/commit/36458cc43782278e25090cc86f91ad0e17b0ffec
+
+Klonoa: Empire of Dreams
+https://github.com/testyourmine/kleod
+  Klonoa: Empire of Dreams | Game Boy Advance | 100.00% decompiled
+  Progress source: https://decomp.dev/testyourmine/kleod
+  Report commit date: 2026-10-04 00:57:47 +00:00
+  Report commit: https://github.com/testyourmine/kleod/commit/952dd0b57276e84b1034c8dfda0acccf2f604950
+
+Klonoa: Empire of Dreams
+https://github.com/Dream-Atelier/kl-eod-decomp
+  Klonoa: Empire of Dreams | Game Boy Advance | 51.30% decompiled
+  Progress source: https://decomp.dev/Dream-Atelier/kl-eod-decomp
+  Report commit date: 2026-09-05 00:22:23 +00:00
+  Report commit: https://github.com/Dream-Atelier/kl-eod-decomp/commit/7f0f076352ce064ad8b0026837a8e61fe850ff28
+
+Legend of Mana
+https://github.com/celophi/lom-decomp
+  Legend of Mana | PlayStation | 100.00% decompiled | 100.00% fully linked
+  Progress source: https://decomp.dev/celophi/lom-decomp
+  Report commit date: 2026-10-04 06:10:21 +00:00
+  Report commit: https://github.com/celophi/lom-decomp/commit/9cd2135c90b9441001f3f3d81a3688a63802eba2
+
+Mega Man X4
+https://github.com/sozud/mmx4
+  Mega Man X4 | PlayStation | 57.91% decompiled
+  Progress source: https://decomp.dev/sozud/mmx4
+  Report commit date: 2026-10-04 09:06:08 +00:00
+  Report commit: https://github.com/sozud/mmx4/commit/3dedb25f1cb6437ea806bf81cc9c3ee8f8917f84
+
+Megami Ibunroku Persona
+https://github.com/daanhenke/persona-psx
+  Megami Ibunroku Persona | PlayStation | 80.36% decompiled
+  Progress source: https://decomp.dev/daanhenke/persona-psx
+  Report commit date: 2026-10-03 02:57:35 +00:00
+  Report commit: https://github.com/daanhenke/persona-psx/commit/dfd1cd401d2c260cf2b8a91e50acb78a9e803e75
+
+New Super Mario Bros.
+https://github.com/NSMB-Decomp/nsmb
+  New Super Mario Bros. | Nintendo DS | 2.80% decompiled | 0.01% fully linked
+  Progress source: https://decomp.dev/NSMB-Decomp/nsmb
+  Report commit date: 2026-09-03 19:10:14 +00:00
+  Report commit: https://github.com/NSMB-Decomp/nsmb/commit/9c7c0b341ae87f860df090e1e35d720f06c70bfa
+
+Pokémon Emerald
+https://github.com/pret/pokeemerald
+  Target: Pokémon Emerald
+  Platform: Game Boy Advance | Numeric % not published in checked README
+  Evidence: https://github.com/pret/pokeemerald
+  Note: Established decompilation; README identifies the ROM it builds. A buildable ROM alone is not proof every function is decompiled.
+
+Pokémon FireRed / LeafGreen
+https://github.com/pret/pokefirered
+  Target: Pokémon FireRed / LeafGreen
+  Platform: Game Boy Advance | Numeric % not published in checked README
+  Evidence: https://github.com/pret/pokefirered
+  Note: English-version decompilation; two games share this project.
+
+Pokémon Platinum
+https://github.com/pret/pokeplatinum
+  Target: Pokémon Platinum
+  Platform: Nintendo DS | Numeric % not published in checked README; WIP
+  Evidence: https://github.com/pret/pokeplatinum
+  Note: Buildable project; no invented completion percentage.
+
+Pokémon Puzzle League
+https://github.com/AngheloAlf/puzzleleague64
+  Pokémon Puzzle League | Nintendo 64 | 55.34% decompiled
+  Progress source: https://decomp.dev/AngheloAlf/puzzleleague64
+  Report commit date: 2026-10-04 01:29:27 +00:00
+  Report commit: https://github.com/AngheloAlf/puzzleleague64/commit/db531cef8ab15eb0ab1b9afe3f6857ca47571338
+
+Rhythm Heaven
+https://github.com/patataofcourse/rhgold
+  Rhythm Heaven | Nintendo DS | 1.27% decompiled | 0.31% fully linked
+  Progress source: https://decomp.dev/patataofcourse/rhgold
+  Report commit date: 2026-06-21 13:44:20 +00:00
+  Report commit: https://github.com/patataofcourse/rhgold/commit/bb9d0fe86926fdce3752262155b6efe51d903f72
+
+Rhythm Heaven Fever
+https://github.com/conhlee/rhf
+  Rhythm Heaven Fever | Wii | 13.33% decompiled | 9.46% fully linked
+  Progress source: https://decomp.dev/conhlee/rhf
+  Report commit date: 2026-06-09 17:42:49 +00:00
+  Report commit: https://github.com/conhlee/rhf/commit/4429cbcb000abff644683d98701f6ab8c1671e10
+
+Sonic Battle
+https://github.com/cypressru/SonicBattleDecomp
+  Sonic Battle | Game Boy Advance | 55.11% decompiled | 47.21% fully linked
+  Progress source: https://decomp.dev/cypressru/SonicBattleDecomp
+  Report commit date: 2026-09-16 21:37:32 +00:00
+  Report commit: https://github.com/cypressru/SonicBattleDecomp/commit/23091f6190afc1a39f08f14a3e70d2a1b47fd762
+
+The Legend of Zelda: Phantom Hourglass
+https://github.com/zeldaret/ph
+  The Legend of Zelda: Phantom Hourglass | Nintendo DS | 2.82% decompiled | 1.16% fully linked
+  Progress source: https://decomp.dev/zeldaret/ph
+  Report commit date: 2026-08-04 17:45:49 +00:00
+  Report commit: https://github.com/zeldaret/ph/commit/29e3578e388b2ff350388e2cdfe45497c4ebdae2
+
+The Legend of Zelda: Spirit Tracks
+https://github.com/zeldaret/st
+  The Legend of Zelda: Spirit Tracks | Nintendo DS | 9.33% decompiled | 3.67% fully linked
+  Progress source: https://decomp.dev/zeldaret/st
+  Report commit date: 2026-10-02 18:56:09 +00:00
+  Report commit: https://github.com/zeldaret/st/commit/46f5ed79bf6863b8c58a656883fa4aacebf10740
+
+The World Ends With You
+https://github.com/Yotona/twewy
+  The World Ends With You | Nintendo DS | 31.70% decompiled | 17.43% fully linked
+  Progress source: https://decomp.dev/Yotona/twewy
+  Report commit date: 2026-10-02 14:57:33 +00:00
+  Report commit: https://github.com/Yotona/twewy/commit/2b8fcfedc8aca72cdfa61b1de3375963f1f13e38
+
+Wario Land 4
+https://github.com/TsilaAllaoui/warioland4
+  Wario Land 4 | Game Boy Advance | 99.32% decompiled | 99.32% fully linked
+  Progress source: https://decomp.dev/TsilaAllaoui/warioland4
+  Report commit date: 2026-09-30 14:44:41 +00:00
+  Report commit: https://github.com/TsilaAllaoui/warioland4/commit/bfbbb8f4346144bee7a1a218dbe889a199e26f63
+
+WarioWare, Inc.: Mega Microgames!
+https://github.com/ShaffySwitcher/wariowareinc
+  WarioWare, Inc.: Mega Microgames! | Game Boy Advance | 30.77% decompiled | 30.77% fully linked
+  Progress source: https://decomp.dev/ShaffySwitcher/wariowareinc
+  Report commit date: 2026-06-26 17:31:13 +00:00
+  Report commit: https://github.com/ShaffySwitcher/wariowareinc/commit/5681c02963f5011e509c6e7cb2ee77d0e9017917
+
+Yu-Gi-Oh! The Eternal Duelist Soul
+https://github.com/CosmicScribe64/eds-decomp
+  Yu-Gi-Oh! The Eternal Duelist Soul | Game Boy Advance | 100.00% decompiled | 100.00% fully linked
+  Progress source: https://decomp.dev/CosmicScribe64/eds-decomp
+  Report commit date: 2026-10-03 18:33:40 +00:00
+  Report commit: https://github.com/CosmicScribe64/eds-decomp/commit/a64981db3ffecb0e44d3dd88a08e98ddd879bb0b
+
+Ōkamiden
+https://github.com/dothacktranslate/okamiden-decomp
+  Ōkamiden | Nintendo DS | 1.51% decompiled | 1.51% fully linked
+  Progress source: https://decomp.dev/dothacktranslate/okamiden-decomp
+  Report commit date: 2026-10-04 05:56:33 +00:00
+  Report commit: https://github.com/dothacktranslate/okamiden-decomp/commit/ca9db676c20ed384abe3d1eaf367aa826f914885
+
+4. SMALLER COMMERCIAL, LICENSED, CULT AND NICHE GAMES
+-----------------------------------------------------
+
+Alice in Wonderland (2010)
+https://github.com/Alice-2010/Decomp
+  Alice in Wonderland (2010) | Wii | 0.82% decompiled | 0.61% fully linked
+  Progress source: https://decomp.dev/Alice-2010/Decomp
+  Report commit date: 2026-09-10 17:21:00 +00:00
+  Report commit: https://github.com/Alice-2010/Decomp/commit/ee1bf06e7a6361de0709faf2ed76fc13d6dcdfca
+
+Animal Forest
+https://github.com/zeldaret/af
+  Animal Forest | Nintendo 64 | 18.52% decompiled
+  Progress source: https://decomp.dev/zeldaret/af
+  Report commit date: 2026-08-16 17:56:24 +00:00
+  Report commit: https://github.com/zeldaret/af/commit/4ddba04604ee7b4c4cfc0b64f8ee4d094bb385be
+
+Battle for Bikini Bottom (Fork: AI)
+https://github.com/zcanann/bfbb
+  Battle for Bikini Bottom (Fork: AI) | GameCube | 92.79% decompiled | 61.76% fully linked
+  Progress source: https://decomp.dev/zcanann/bfbb
+  Report commit date: 2026-10-04 06:55:15 +00:00
+  Report commit: https://github.com/zcanann/bfbb/commit/8cc01f357bcdf483e93d1b133ae524bdaebdcfda
+
+BattleTanx
+https://github.com/melalawi/battletanx-decomp
+  BattleTanx | Nintendo 64 | 2.14% decompiled | 2.14% fully linked
+  Progress source: https://decomp.dev/melalawi/battletanx-decomp
+  Report commit date: 2026-10-01 20:05:09 +00:00
+  Report commit: https://github.com/melalawi/battletanx-decomp/commit/874a72c13cd8428872cefc71adde9fd839b78e2a
+
+Beetle Adventure Racing!
+https://github.com/synamaxmusic/bar-decomp
+  Beetle Adventure Racing! | Nintendo 64 | 30.52% decompiled
+  Progress source: https://decomp.dev/synamaxmusic/bar-decomp
+  Report commit date: 2026-10-04 04:08:08 +00:00
+  Report commit: https://github.com/synamaxmusic/bar-decomp/commit/695461fca341d0621a13a84b515d7dcab5ead12e
+
+Bomberman Land Touch 2
+https://github.com/gamemasterplc/bltouch2
+  Bomberman Land Touch 2 | Nintendo DS | 1.83% decompiled | 0.75% fully linked
+  Progress source: https://decomp.dev/gamemasterplc/bltouch2
+  Report commit date: 2026-09-28 00:23:10 +00:00
+  Report commit: https://github.com/gamemasterplc/bltouch2/commit/a6d94c55e471107c59aa742dd3c9aee9ef195c85
+
+Chameleon Twist
+https://github.com/chameleonTwistRet/chameleonTwistv1.0-JP
+  Chameleon Twist | Nintendo 64 | 51.24% decompiled
+  Progress source: https://decomp.dev/chameleonTwistRet/chameleonTwistv1.0-JP
+  Report commit date: 2026-09-26 02:29:59 +00:00
+  Report commit: https://github.com/chameleonTwistRet/chameleonTwistv1.0-JP/commit/3bdc8fa875a8fbb46dc61878ad0804c37c74f681
+
+Chulip
+https://github.com/aaaaaaaaaaway/chulip-decomp
+  Chulip | PlayStation 2 | 41.08% decompiled | 41.08% fully linked
+  Progress source: https://decomp.dev/aaaaaaaaaaway/chulip-decomp
+  Report commit date: 2026-09-29 08:44:32 +00:00
+  Report commit: https://github.com/aaaaaaaaaaway/chulip-decomp/commit/369f9381114be35744f77e357d923846841bfd1e
+
+Crimsonland
+https://github.com/banteg/crimson
+  Crimsonland | Windows | 64.09% decompiled | 0.01% fully linked
+  Progress source: https://decomp.dev/banteg/crimson
+  Report commit date: 2026-10-03 16:55:22 +00:00
+  Report commit: https://github.com/banteg/crimson/commit/b23e3af6d750818cbd189565fa464e1c69bee043
+
+Disney's Piglet's Big Game
+https://github.com/tgsm/pbg
+  Disney's Piglet's Big Game | GameCube | 29.00% decompiled | 9.52% fully linked
+  Progress source: https://decomp.dev/tgsm/pbg
+  Report commit date: 2026-10-02 06:33:10 +00:00
+  Report commit: https://github.com/tgsm/pbg/commit/21ac7d815043f458c94f3e6f3bda632398efad8d
+
+Dog's Life
+https://github.com/IWILLCRAFT-M0d/dogcomp
+  Dog's Life | PlayStation 2 | 0.79% decompiled
+  Progress source: https://decomp.dev/IWILLCRAFT-M0d/dogcomp
+  Report commit date: 2026-09-25 22:29:00 +00:00
+  Report commit: https://github.com/IWILLCRAFT-M0d/dogcomp/commit/9a6e3b2fea88668eb7feb0248601ae085e5b4e6d
+
+Dr. Mario 64
+https://github.com/AngheloAlf/drmario64
+  Dr. Mario 64 | Nintendo 64 | 100.00% decompiled
+  Progress source: https://decomp.dev/AngheloAlf/drmario64
+  Report commit date: 2026-08-13 23:21:13 +00:00
+  Report commit: https://github.com/AngheloAlf/drmario64/commit/b5526094c4b699c1718ebec510acc31ccafd4b47
+
+Frogger's Adventures: Temple of the Frog
+https://github.com/JRickey/frog-adv-temple-decomp
+  Frogger's Adventures: Temple of the Frog | Game Boy Advance | 42.48% decompiled | 45.59% fully linked
+  Progress source: https://decomp.dev/JRickey/frog-adv-temple-decomp
+  Report commit date: 2026-09-08 22:12:42 +00:00
+  Report commit: https://github.com/JRickey/frog-adv-temple-decomp/commit/fed8033013cb0e8c546008c83e04d2b80fc6f19b
+
+Gauntlet: Dark Legacy
+https://github.com/sabishii-bit/Gauntlet-Dark-Legacy-Decompilation
+  Gauntlet: Dark Legacy | GameCube | 64.03% decompiled | 32.23% fully linked
+  Progress source: https://decomp.dev/sabishii-bit/Gauntlet-Dark-Legacy-Decompilation
+  Report commit date: 2026-09-25 14:24:41 +00:00
+  Report commit: https://github.com/sabishii-bit/Gauntlet-Dark-Legacy-Decompilation/commit/4fdf0492d5d828b16ee1a961c17bf855a8d2668f
+
+Gex: Enter the Gecko
+https://github.com/MatBourgon/Gex64Decomp
+  Gex: Enter the Gecko | Nintendo 64 | 33.46% decompiled
+  Progress source: https://decomp.dev/MatBourgon/Gex64Decomp
+  Report commit date: 2026-09-03 02:38:33 +00:00
+  Report commit: https://github.com/MatBourgon/Gex64Decomp/commit/7f48432de8cad85db6d777397a9cb41005f82250
+
+Glover
+https://github.com/bigyoshi51/glover-decomp
+  Glover | Nintendo 64 | 0.99% decompiled
+  Progress source: https://decomp.dev/bigyoshi51/glover-decomp
+  Report commit date: 2026-03-23 22:47:38 +00:00
+  Report commit: https://github.com/bigyoshi51/glover-decomp/commit/a8c5ed2769ba83d2bacdb6cd9303a6152789efd9
+
+God Hand
+https://github.com/LucasPicoli/god-hand-decomp
+  God Hand | PlayStation 2 | 43.53% decompiled | 42.25% fully linked
+  Progress source: https://decomp.dev/LucasPicoli/god-hand-decomp
+  Report commit date: 2026-10-03 08:16:22 +00:00
+  Report commit: https://github.com/LucasPicoli/god-hand-decomp/commit/58bcee16a279f8ee2bc2a7e9d341a33b325d4151
+
+Harvest: Massive Encounter
+https://github.com/banteg/harvest
+  Harvest: Massive Encounter | Windows | 7.59% decompiled
+  Progress source: https://decomp.dev/banteg/harvest
+  Report commit date: 2026-10-02 14:46:29 +00:00
+  Report commit: https://github.com/banteg/harvest/commit/b7e85daa30322744c862543cb4202151f145afe5
+
+Hazard (해저드)
+https://github.com/EuclidVsGauss/HazardRevenge
+  Hazard (해저드) | Windows | 15.45% decompiled
+  Progress source: https://decomp.dev/EuclidVsGauss/HazardRevenge
+  Report commit date: 2026-08-29 10:31:45 +00:00
+  Report commit: https://github.com/EuclidVsGauss/HazardRevenge/commit/a6e9fe2ebcc3c46ea19089469f8476978030c362
+
+Kaze no Notam
+https://github.com/aaaaaaaaaaway/kaze-no-notam-decomp
+  Kaze no Notam | PlayStation | 100.00% decompiled | 100.00% fully linked
+  Progress source: https://decomp.dev/aaaaaaaaaaway/kaze-no-notam-decomp
+  Report commit date: 2026-09-29 08:36:42 +00:00
+  Report commit: https://github.com/aaaaaaaaaaway/kaze-no-notam-decomp/commit/691c0e99e817b4bfd5e92abf6687f22877bd0588
+
+Komputerowa Gratka 3D - Magiczna Kula Papatki
+https://github.com/regratka/mkp
+  Komputerowa Gratka 3D - Magiczna Kula Papatki | Windows | 18.98% decompiled | 8.17% fully linked
+  Progress source: https://decomp.dev/regratka/mkp
+  Report commit date: 2026-10-04 09:55:07 +00:00
+  Report commit: https://github.com/regratka/mkp/commit/682277c4f4e57b26e5df4990eab3eeffba900dd7
+
+Krush Kill 'N Destroy Xtreme
+https://github.com/Wyrelade/KKND-Decomp
+  Krush Kill 'N Destroy Xtreme | Windows | 1.64% decompiled | 1.64% fully linked
+  Progress source: https://decomp.dev/Wyrelade/KKND-Decomp
+  Report commit date: 2026-09-24 17:37:13 +00:00
+  Report commit: https://github.com/Wyrelade/KKND-Decomp/commit/a1c8c22d8c8e38e74a1dd6ba6315a6b32326a140
+
+Kuon
+https://github.com/weirdbeardgame/Mulberry
+  Kuon | PlayStation 2 | 1.48% decompiled | 0.82% fully linked
+  Progress source: https://decomp.dev/weirdbeardgame/Mulberry
+  Report commit date: 2026-09-26 00:59:38 +00:00
+  Report commit: https://github.com/weirdbeardgame/Mulberry/commit/4b01e9494cbd87f0a07ce5b72fa303fb2379fc91
+
+LEGO Island
+https://github.com/isledecomp/isle
+  Target: LEGO Island
+  Platform: Windows, English version 1.1 | 100% / complete decompilation (maintainer description)
+  Evidence: https://github.com/isledecomp/isle
+  Note: CONFIG.EXE, ISLE.EXE and LEGO1.DLL are completely decompiled; exact matching is a separate metric.
+
+Legoland
+https://github.com/marijnvdwerf/legoland
+  Legoland | Windows | 62.77% decompiled | 8.52% fully linked
+  Progress source: https://decomp.dev/marijnvdwerf/legoland
+  Report commit date: 2026-09-26 14:49:42 +00:00
+  Report commit: https://github.com/marijnvdwerf/legoland/commit/e8af1b53d7125ad19210615a12a8fd0240f5e355
+
+Lemmings Paintball
+https://github.com/vonhoff/lemball-decomp
+  Lemmings Paintball | Windows | 28.30% decompiled
+  Progress source: https://decomp.dev/vonhoff/lemball-decomp
+  Report commit date: 2026-10-04 08:05:37 +00:00
+  Report commit: https://github.com/vonhoff/lemball-decomp/commit/55948caff16330721d87427aef341f5df6b30336
+
+LSD: Dream Emulator
+https://github.com/brian-oblivion/lsddecomp
+  LSD: Dream Emulator | PlayStation | 100.00% decompiled
+  Progress source: https://decomp.dev/brian-oblivion/lsddecomp
+  Report commit date: 2026-10-04 09:43:53 +00:00
+  Report commit: https://github.com/brian-oblivion/lsddecomp/commit/865b853282e5d4e613b621b20b7f31599847b905
+
+Mario Superstar Baseball
+https://github.com/roeming/mssb-dtk
+  Mario Superstar Baseball | GameCube | 10.91% decompiled | 7.84% fully linked
+  Progress source: https://decomp.dev/roeming/mssb-dtk
+  Report commit date: 2026-07-12 19:53:29 +00:00
+  Report commit: https://github.com/roeming/mssb-dtk/commit/72de19a39880398a69339010350652ad97e2a79c
+
+Medal of Honor: Rising Sun
+https://github.com/lifewillbeokay/moh-rising-sun
+  Medal of Honor: Rising Sun | GameCube | 20.01% decompiled | 20.01% fully linked
+  Progress source: https://decomp.dev/lifewillbeokay/moh-rising-sun
+  Report commit date: 2026-10-04 05:57:30 +00:00
+  Report commit: https://github.com/lifewillbeokay/moh-rising-sun/commit/ea0c4a70693bb8d949cedbd989b41b709d7a1d76
+
+Mischief Makers
+https://github.com/Drahsid/mischief-makers
+  Mischief Makers | Nintendo 64 | 53.52% decompiled
+  Progress source: https://decomp.dev/Drahsid/mischief-makers
+  Report commit date: 2026-09-19 13:51:27 +00:00
+  Report commit: https://github.com/Drahsid/mischief-makers/commit/d57c1e8f37863c61597ecba2d956ef04318d9b31
+
+NASCAR Heat 2002
+https://github.com/shohamc1/heat2002
+  NASCAR Heat 2002 | Game Boy Advance | 100.00% decompiled | 100.00% fully linked
+  Progress source: https://decomp.dev/shohamc1/heat2002
+  Report commit date: 2026-10-02 12:21:48 +00:00
+  Report commit: https://github.com/shohamc1/heat2002/commit/5b9ed567e2129d38c0b18e0135c83c453a038862
+
+NavyField 2000 PC
+https://github.com/rbxrootx/MissionFleet
+  NavyField 2000 PC | Windows | 21.38% decompiled | 21.38% fully linked
+  Progress source: https://decomp.dev/rbxrootx/MissionFleet
+  Report commit date: 2026-10-04 04:45:41 +00:00
+  Report commit: https://github.com/rbxrootx/MissionFleet/commit/49f9508cc20fd882f0b113b2759d566ee79064f7
+
+Nintendo Puzzle Collection: Dr. Mario 64
+https://github.com/NewGBAXL/drmario64-gc
+  Nintendo Puzzle Collection: Dr. Mario 64 | GameCube | 32.84% decompiled | 7.68% fully linked
+  Progress source: https://decomp.dev/NewGBAXL/drmario64-gc
+  Report commit date: 2026-08-10 22:21:47 +00:00
+  Report commit: https://github.com/NewGBAXL/drmario64-gc/commit/82289b50d1aef179e8eaf94cf3b798e9732f9add
+
+Paperboy
+https://github.com/marijnvdwerf/paperboy-n64
+  Paperboy | Nintendo 64 | 17.51% decompiled
+  Progress source: https://decomp.dev/marijnvdwerf/paperboy-n64
+  Report commit date: 2026-09-27 11:51:17 +00:00
+  Report commit: https://github.com/marijnvdwerf/paperboy-n64/commit/439f9883fc4c11ffde3de37876bd69a958307220
+
+PaRappa the Rapper 2
+https://github.com/parappadev/parappa2
+  PaRappa the Rapper 2 | PlayStation 2 | 63.30% decompiled
+  Progress source: https://decomp.dev/parappadev/parappa2
+  Report commit date: 2026-09-17 09:45:51 +00:00
+  Report commit: https://github.com/parappadev/parappa2/commit/45694de3b6ed8d8bb0514e27bcaf091198698faf
+
+Plants vs. Zombies
+https://github.com/bluisblu/pvz
+  Plants vs. Zombies | Windows | 0.98% decompiled
+  Progress source: https://decomp.dev/bluisblu/pvz
+  Report commit date: 2026-07-29 16:41:22 +00:00
+  Report commit: https://github.com/bluisblu/pvz/commit/35ae4660f3527505917cb00289d962de75aafb49
+
+Pokemon Snap
+https://github.com/ethteck/pokemonsnap
+  Pokemon Snap | Nintendo 64 | 97.35% decompiled
+  Progress source: https://decomp.dev/ethteck/pokemonsnap
+  Report commit date: 2026-08-29 03:34:45 +00:00
+  Report commit: https://github.com/ethteck/pokemonsnap/commit/1978bb520be7752ff13ea70dd91694e64caab51f
+
+Rage Racer
+https://github.com/khasinski/rage-racer-decomp
+  Rage Racer | PlayStation | 100.00% decompiled | 95.34% fully linked
+  Progress source: https://decomp.dev/khasinski/rage-racer-decomp
+  Report commit date: 2026-09-05 12:22:12 +00:00
+  Report commit: https://github.com/khasinski/rage-racer-decomp/commit/c5273505acbe282aa92f88cff52065fbc5007aed
+
+Ratatouille
+https://github.com/ZounaModding/RatDecomp
+  Ratatouille | GameCube | 26.96% decompiled | 13.67% fully linked
+  Progress source: https://decomp.dev/ZounaModding/RatDecomp
+  Report commit date: 2026-09-10 16:49:17 +00:00
+  Report commit: https://github.com/ZounaModding/RatDecomp/commit/9fbb782be9c83685bb56310e35939b651cd16345
+
+Rock Band 3
+https://github.com/DarkRTA/rb3
+  Rock Band 3 | Wii | 54.28% decompiled | 10.65% fully linked
+  Progress source: https://decomp.dev/DarkRTA/rb3
+  Report commit date: 2026-10-03 18:38:08 +00:00
+  Report commit: https://github.com/DarkRTA/rb3/commit/a2b36b2f8b54b29e1e3229a1f744d48ed8333a93
+
+Serial Experiments Lain
+https://github.com/Y0oshi/lain-psx-decompiled
+  Serial Experiments Lain | PlayStation | 100.00% decompiled | 100.00% fully linked
+  Progress source: https://decomp.dev/Y0oshi/lain-psx-decompiled
+  Report commit date: 2026-09-28 16:07:59 +00:00
+  Report commit: https://github.com/Y0oshi/lain-psx-decompiled/commit/a9274b0828fff41ef5cb3226ceb945210cc501e8
+
+Snail Mail
+https://github.com/banteg/snail
+  Snail Mail | Windows | 37.46% decompiled
+  Progress source: https://decomp.dev/banteg/snail
+  Report commit date: 2026-09-29 22:17:48 +00:00
+  Report commit: https://github.com/banteg/snail/commit/c97c9ba1d8b6d77674184721ad3c45c3b9f9166b
+
+Snowboard Kids
+https://github.com/cdlewis/snowboardkids-decomp
+  Snowboard Kids | Nintendo 64 | 100.00% decompiled
+  Progress source: https://decomp.dev/cdlewis/snowboardkids-decomp
+  Report commit date: 2026-09-27 17:30:58 +00:00
+  Report commit: https://github.com/cdlewis/snowboardkids-decomp/commit/551d4d12565f1112e148ee95f5f228d540d73bbb
+
+Snowboard Kids 2
+https://github.com/cdlewis/snowboardkids2-decomp
+  Snowboard Kids 2 | Nintendo 64 | 100.00% decompiled
+  Progress source: https://decomp.dev/cdlewis/snowboardkids2-decomp
+  Report commit date: 2026-09-27 17:30:22 +00:00
+  Report commit: https://github.com/cdlewis/snowboardkids2-decomp/commit/3b1bd5db108193528fd7dbe6facba02901218a13
+
+Sonic Mania
+https://github.com/RSDKModding/Sonic-Mania-Decompilation
+  Target: Sonic Mania
+  Platform: 2017 / RSDK | 100% / complete decompilation (project description)
+  Evidence: https://github.com/RSDKModding/Sonic-Mania-Decompilation
+  Note: Requires the supporting RSDK engine implementation and original assets; complete is not a matching-byte report.
+
+Space Rangers
+https://github.com/pakompom/SpaceRangers1_decomp
+  Space Rangers | Windows | 100.00% decompiled | 100.00% fully linked
+  Progress source: https://decomp.dev/pakompom/SpaceRangers1_decomp
+  Report commit date: 2026-09-29 03:22:41 +00:00
+  Report commit: https://github.com/pakompom/SpaceRangers1_decomp/commit/28dfefdab7f03d63386d0af2e7f92df01df3ea1c
+
+Space Rangers HD: A War Apart
+https://github.com/pakompom/SpaceRangersHD_decomp
+  Space Rangers HD: A War Apart | Windows | 100.00% decompiled | 100.00% fully linked
+  Progress source: https://decomp.dev/pakompom/SpaceRangersHD_decomp
+  Report commit date: 2026-09-24 17:06:07 +00:00
+  Report commit: https://github.com/pakompom/SpaceRangersHD_decomp/commit/28766d75a4a22c6700fb60cf9e6d0c695cc5edfa
+
+SpongeBob SquarePants: Battle for Bikini Bottom
+https://github.com/bfbbdecomp/bfbb
+  SpongeBob SquarePants: Battle for Bikini Bottom | GameCube | 38.06% decompiled | 10.99% fully linked
+  Progress source: https://decomp.dev/bfbbdecomp/bfbb
+  Report commit date: 2026-08-29 14:10:37 +00:00
+  Report commit: https://github.com/bfbbdecomp/bfbb/commit/8fb1c232addcacf44932c10c4cede41b43f98f40
+
+SpongeBob's Truth or Square
+https://github.com/spongeis5/ToS-Decomp
+  SpongeBob's Truth or Square | Xbox 360 | 0.81% decompiled | 0.11% fully linked
+  Progress source: https://decomp.dev/spongeis5/ToS-Decomp
+  Report commit date: 2026-08-31 05:39:41 +00:00
+  Report commit: https://github.com/spongeis5/ToS-Decomp/commit/0f3d173e4535edbaa0bb53c0569bf3556c8a0fe2
+
+Stretch Panic
+https://github.com/Harskov/stretch-panic-usa
+  Stretch Panic | PlayStation 2 | 1.94% decompiled | 1.94% fully linked
+  Progress source: https://decomp.dev/Harskov/stretch-panic-usa
+  Report commit date: 2026-09-30 22:37:26 +00:00
+  Report commit: https://github.com/Harskov/stretch-panic-usa/commit/a8bf4d79e74f9e39092aa96e2a1acc9003ef3f7e
+
+Summoner
+https://github.com/AARosson48/SummonerDecomp
+  Summoner | Windows | 0.51% decompiled
+  Progress source: https://decomp.dev/AARosson48/SummonerDecomp
+  Report commit date: 2026-10-03 04:19:43 +00:00
+  Report commit: https://github.com/AARosson48/SummonerDecomp/commit/94a1a58c13516f5ae163dd96c485f299d41a636a
+
+Summoner: A Goddess Reborn
+https://github.com/Charlese2/sgr
+  Summoner: A Goddess Reborn | GameCube | 10.23% decompiled | 6.89% fully linked
+  Progress source: https://decomp.dev/Charlese2/sgr
+  Report commit date: 2025-12-09 01:43:54 +00:00
+  Report commit: https://github.com/Charlese2/sgr/commit/e260a0ef5b9f45a8880f39168a81c8dfdbee8b77
+
+The Oregon Trail (Windows 95)
+https://github.com/emoluvjd2/oregontrail-win32-decomp
+  The Oregon Trail (Windows 95) | Windows | 55.70% decompiled | 41.63% fully linked
+  Progress source: https://decomp.dev/emoluvjd2/oregontrail-win32-decomp
+  Report commit date: 2026-09-03 22:55:17 +00:00
+  Report commit: https://github.com/emoluvjd2/oregontrail-win32-decomp/commit/4a39fc8e9d1d5b729a3d958bba2b415d39fa054a
+
+The SpongeBob SquarePants Movie
+https://github.com/bfbbdecomp/tssm
+  The SpongeBob SquarePants Movie | GameCube | 6.11% decompiled | 3.08% fully linked
+  Progress source: https://decomp.dev/bfbbdecomp/tssm
+  Report commit date: 2026-06-15 22:51:35 +00:00
+  Report commit: https://github.com/bfbbdecomp/tssm/commit/50ea01767e4c894f09db8ff2f4e52136a6e89ca4
+
+Tomba!
+https://github.com/hansbonini/psx_tomba
+  Tomba! | PlayStation | 23.97% decompiled
+  Progress source: https://decomp.dev/hansbonini/psx_tomba
+  Report commit date: 2026-09-19 22:46:10 +00:00
+  Report commit: https://github.com/hansbonini/psx_tomba/commit/191c3f48d2002cc697653e25df81f2ce1e35d3f5
+
+Tony Hawk's Pro Skater 2 (Competition Demo)
+https://github.com/emoluvjd2/thps2-demo-decomp
+  Tony Hawk's Pro Skater 2 (Competition Demo) | PlayStation | 97.61% decompiled | 64.30% fully linked
+  Progress source: https://decomp.dev/emoluvjd2/thps2-demo-decomp
+  Report commit date: 2026-09-03 10:29:35 +00:00
+  Report commit: https://github.com/emoluvjd2/thps2-demo-decomp/commit/1050a327d0a009aad70549debc99788a8900a882
+
+TY the Tasmanian Tiger
+https://github.com/1superchip/ty-decomp
+  TY the Tasmanian Tiger | GameCube | 27.57% decompiled | 25.57% fully linked
+  Progress source: https://decomp.dev/1superchip/ty-decomp
+  Report commit date: 2026-10-03 20:07:30 +00:00
+  Report commit: https://github.com/1superchip/ty-decomp/commit/9b6fd3904c7666ae086f1dbe971da58b41514df6
+
+Wild 9
+https://github.com/plinkr/Wild9-Decompilation
+  Wild 9 | PlayStation | 1.92% decompiled
+  Progress source: https://decomp.dev/plinkr/Wild9-Decompilation
+  Report commit date: 2026-10-02 20:18:36 +00:00
+  Report commit: https://github.com/plinkr/Wild9-Decompilation/commit/c90a780952016fde4a04660170e60b6e5fbea5da
+
+Wonder Project J2: Josette of the Corlo Forest
+https://github.com/LLONSIT-glitch/wonder
+  Wonder Project J2: Josette of the Corlo Forest | Nintendo 64 | 42.96% decompiled
+  Progress source: https://decomp.dev/LLONSIT-glitch/wonder
+  Report commit date: 2026-05-15 05:14:42 +00:00
+  Report commit: https://github.com/LLONSIT-glitch/wonder/commit/e71737c72ca634faa25431f68ab69bc0272cda03
+
+RUST BINDINGS AND TOOLS — INCLUDING NON-RUST COMPANION TOOLS
+=========================================================
+Bindings let Rust call or represent existing native code. Parsers read/write data. A rewrite replaces behavior. A matching decomp reconstructs code against an original binary. These can support each other, but are different projects.
+A useful workflow: original game + runtime bindings/loader for modding; recovered C/C++ + CXX/bindgen for gradual migration; asset parsers + a Rust engine for a new implementation. None automatically supplies missing gameplay logic.
+All tooling sources/links below checked 2026-10-04. No project-wide numeric completion metric established in these checked sources.
+
+FROM SOFTWARE / ELDEN RING
+--------------------------
+
+T001. vswarte/fromsoftware-rs
+https://github.com/vswarte/fromsoftware-rs
+  Type: Rust runtime bindings
+  Tool completion %: NOT PUBLISHED IN CHECKED SOURCES
+  Game decompilation %: NOT APPLICABLE TO THIS TOOL
+  Helps with: Elden Ring, Dark Souls 3, Sekiro and Nightreign structure definitions; a direct starting point for Rust mods.
+  Scope/status: Supported game crates: Elden Ring, Dark Souls III, Sekiro and Elden Ring Nightreign. Runtime bindings require the original game; no standalone full decompilation percentage is published.
+  Evidence: https://raw.githubusercontent.com/vswarte/fromsoftware-rs/main/README.md
+
+T002. HomoRadahn/soulsformats-rs
+https://github.com/HomoRadahn/soulsformats-rs
+  Type: Rust format library
+  Tool completion %: NOT PUBLISHED IN CHECKED SOURCES
+  Game decompilation %: NOT APPLICABLE TO THIS TOOL
+  Helps with: Read/write FromSoftware data formats; inspect the supported-format modules rather than assuming every format is implemented.
+  Scope/status: Active WIP: README says most formats are not implemented yet. Listed supported families: Binder, DCX, BTL and FMG. No denominator or numerical format-coverage percentage is published.
+  Evidence: https://raw.githubusercontent.com/HomoRadahn/soulsformats-rs/master/README.md
+
+T003. Dasaav-dsv/libER
+https://github.com/Dasaav-dsv/libER
+  Type: C++ game API
+  Tool completion %: NOT PUBLISHED IN CHECKED SOURCES
+  Game decompilation %: NOT APPLICABLE TO THIS TOOL
+  Helps with: Elden Ring runtime API; possible reference or C++ interoperability target, not a Rust SDK.
+  Evidence: https://raw.githubusercontent.com/Dasaav-dsv/libER/main/README.md
+
+T004. Dasaav-dsv/from-singleton
+https://github.com/Dasaav-dsv/from-singleton
+  Type: Rust runtime utility
+  Tool completion %: NOT PUBLISHED IN CHECKED SOURCES
+  Game decompilation %: NOT APPLICABLE TO THIS TOOL
+  Helps with: FromSoftware singleton access; reusable component for runtime bindings.
+  Scope/status: README tested versions: DS3 1.15.0/1.15.2, Sekiro 1.06, Elden Ring 1.16 and Armored Core VI 1.07.1, plus DigitalArtwork_MiniSoundtrack. These are tested versions, not a universal patch-compatibility promise.
+  Evidence: https://raw.githubusercontent.com/Dasaav-dsv/from-singleton/main/README.md
+
+T005. tremwil/vtable-rs
+https://github.com/tremwil/vtable-rs
+  Type: Rust C++ interop utility
+  Tool completion %: NOT PUBLISHED IN CHECKED SOURCES
+  Game decompilation %: NOT APPLICABLE TO THIS TOOL
+  Helps with: Represent and work with C++ virtual-table interfaces from Rust.
+  Evidence: https://raw.githubusercontent.com/tremwil/vtable-rs/master/README.md
+
+T006. soulsmods/SoulsFormatsNEXT
+https://github.com/soulsmods/SoulsFormatsNEXT
+  Type: C#/.NET format library
+  Tool completion %: NOT PUBLISHED IN CHECKED SOURCES
+  Game decompilation %: NOT APPLICABLE TO THIS TOOL
+  Helps with: Read/write FromSoftware formats; external asset conversion can be useful even when the new client is Rust.
+  Evidence: https://raw.githubusercontent.com/soulsmods/SoulsFormatsNEXT/master/README.md
+
+T007. JKAnderson/SoulsFormats
+https://github.com/JKAnderson/SoulsFormats
+  Type: C#/.NET format reference
+  Tool completion %: NOT PUBLISHED IN CHECKED SOURCES
+  Game decompilation %: NOT APPLICABLE TO THIS TOOL
+  Helps with: Original SoulsFormats library; check archival and successor status before choosing it for new work.
+  Scope/status: Original archived project/reference; see soulsmods/SoulsFormatsNEXT for the successor.
+  Evidence: https://raw.githubusercontent.com/JKAnderson/SoulsFormats/master/README.md
+
+T008. vawser/Paramdex
+https://github.com/vawser/Paramdex
+  Type: Data definitions
+  Tool completion %: NOT PUBLISHED IN CHECKED SOURCES
+  Game decompilation %: NOT APPLICABLE TO THIS TOOL
+  Helps with: Parameter definitions and names for SoulsFormats-based tooling; data/schema reference, not a full engine SDK.
+  Evidence: https://raw.githubusercontent.com/vawser/Paramdex/master/README.md
+
+T009. soulsmods/ModEngine2
+https://github.com/soulsmods/ModEngine2
+  Type: Mod loader
+  Tool completion %: NOT PUBLISHED IN CHECKED SOURCES
+  Game decompilation %: NOT APPLICABLE TO THIS TOOL
+  Helps with: Load supported FromSoftware mods; useful host-side tooling, not a standalone game rewrite.
+  Scope/status: Development discontinued according to README; successor: garyttierney/me3. README support checklist enables Dark Souls III and Elden Ring. Checklist is not a game-decomp percentage.
+  Evidence: https://raw.githubusercontent.com/soulsmods/ModEngine2/main/README.md
+
+T010. Nordgaren/Elden-Ring-Debug-Tool
+https://github.com/Nordgaren/Elden-Ring-Debug-Tool
+  Type: Debugging tool
+  Tool completion %: NOT PUBLISHED IN CHECKED SOURCES
+  Game decompilation %: NOT APPLICABLE TO THIS TOOL
+  Helps with: Inspect and experiment with Elden Ring runtime state; check release and patch compatibility.
+  Evidence: https://raw.githubusercontent.com/Nordgaren/Elden-Ring-Debug-Tool/main/README.md
+
+T011. vawser/Smithbox
+https://github.com/vawser/Smithbox
+  Type: C# editor
+  Tool completion %: NOT PUBLISHED IN CHECKED SOURCES
+  Game decompilation %: NOT APPLICABLE TO THIS TOOL
+  Helps with: Browse and edit FromSoftware game data, maps, parameters and text.
+  Scope/status: README lists Elden Ring, Nightreign, Armored Core VI, Sekiro, Dark Souls III, Dark Souls II, Dark Souls, Bloodborne and Demons Souls. Editors vary by game; listed game support does not imply every editor feature works everywhere.
+  Evidence: https://raw.githubusercontent.com/vawser/Smithbox/main/README.md
+
+T012. garyttierney/me3
+https://github.com/garyttierney/me3
+  Type: Rust mod loader
+  Tool completion %: NOT PUBLISHED IN CHECKED SOURCES
+  Game decompilation %: NOT APPLICABLE TO THIS TOOL
+  Helps with: Successor to Mod Engine 2; manages and loads mods for supported FromSoftware games.
+  Scope/status: README supports Dark Souls III, Sekiro, Elden Ring, Armored Core VI and Elden Ring Nightreign. Platforms: Windows, Linux via Proton, macOS via CrossOver. Successor linked by Mod Engine 2.
+  Evidence: https://raw.githubusercontent.com/garyttierney/me3/main/README.md
+
+UNREAL ENGINE
+-------------
+
+T013. MaikKlein/unreal-rust
+https://github.com/MaikKlein/unreal-rust
+  Type: Rust engine integration
+  Tool completion %: NOT PUBLISHED IN CHECKED SOURCES
+  Game decompilation %: NOT APPLICABLE TO THIS TOOL
+  Helps with: Run Rust components/gameplay in supported Unreal Engine versions; does not expose all Unreal gameplay APIs.
+  Scope/status: Limited Unreal API/engine-version integration; it is not a universal Rust binding for arbitrary shipped Unreal games.
+  Evidence: https://raw.githubusercontent.com/MaikKlein/unreal-rust/main/README.md
+
+T014. AstroTechies/unrealmodding
+https://github.com/AstroTechies/unrealmodding
+  Type: Rust modding toolkit
+  Tool completion %: NOT PUBLISHED IN CHECKED SOURCES
+  Game decompilation %: NOT APPLICABLE TO THIS TOOL
+  Helps with: Unreal asset transformation and mod integration tooling, originally developed for Astroneer.
+  Evidence: https://raw.githubusercontent.com/AstroTechies/unrealmodding/main/README.md
+
+T015. trumank/repak
+https://github.com/trumank/repak
+  Type: Rust archive library/tool
+  Tool completion %: NOT PUBLISHED IN CHECKED SOURCES
+  Game decompilation %: NOT APPLICABLE TO THIS TOOL
+  Helps with: Read/write Unreal PAK archives; archive handling is separate from gameplay code.
+  Evidence: https://raw.githubusercontent.com/trumank/repak/master/README.md
+
+T016. trumank/retoc
+https://github.com/trumank/retoc
+  Type: Rust archive/conversion tool
+  Tool completion %: NOT PUBLISHED IN CHECKED SOURCES
+  Game decompilation %: NOT APPLICABLE TO THIS TOOL
+  Helps with: Unreal IoStore tooling; useful for newer archive layouts where PAK alone is insufficient.
+  Evidence: https://raw.githubusercontent.com/trumank/retoc/master/README.md
+
+T017. atenfyr/UAssetAPI
+https://github.com/atenfyr/UAssetAPI
+  Type: C# asset library
+  Tool completion %: NOT PUBLISHED IN CHECKED SOURCES
+  Game decompilation %: NOT APPLICABLE TO THIS TOOL
+  Helps with: Read/write Unreal asset files; useful format reference or preprocessing tool.
+  Evidence: https://raw.githubusercontent.com/atenfyr/UAssetAPI/master/README.md
+
+T018. UE4SS-RE/RE-UE4SS
+https://github.com/UE4SS-RE/RE-UE4SS
+  Type: C++/Lua modding framework
+  Tool completion %: NOT PUBLISHED IN CHECKED SOURCES
+  Game decompilation %: NOT APPLICABLE TO THIS TOOL
+  Helps with: Unreal reflection, mod loading and runtime interaction; not a Rust binding by itself.
+  Evidence: https://raw.githubusercontent.com/UE4SS-RE/RE-UE4SS/main/README.md
+
+UNITY
+-----
+
+T019. seiunx-dev/unity-rs
+https://github.com/seiunx-dev/unity-rs
+  Type: Rust asset toolkit
+  Tool completion %: NOT PUBLISHED IN CHECKED SOURCES
+  Game decompilation %: NOT APPLICABLE TO THIS TOOL
+  Helps with: Headless Unity asset parsing, inspection, extraction and export, with CLI and other-language bindings.
+  Evidence: https://raw.githubusercontent.com/seiunx-dev/unity-rs/main/README.md
+
+T020. yuanyan3060/unity-rs
+https://github.com/yuanyan3060/unity-rs
+  Type: Rust asset parser
+  Tool completion %: NOT PUBLISHED IN CHECKED SOURCES
+  Game decompilation %: NOT APPLICABLE TO THIS TOOL
+  Helps with: Separate Unity asset-unpacking implementation; inspect which asset classes and engine versions it handles.
+  Evidence: https://raw.githubusercontent.com/yuanyan3060/unity-rs/main/README.md
+
+T021. Latias94/unity-asset
+https://github.com/Latias94/unity-asset
+  Type: Rust asset toolkit
+  Tool completion %: NOT PUBLISHED IN CHECKED SOURCES
+  Game decompilation %: NOT APPLICABLE TO THIS TOOL
+  Helps with: Inspect/index/extract Unity YAML and binary assets; guarded editing support.
+  Scope/status: Active development; explicitly does not claim full Unity serialization coverage. Guarded editing and supported formats are not a complete Unity engine rewrite.
+  Evidence: https://raw.githubusercontent.com/Latias94/unity-asset/main/README.md
+
+T022. BepInEx/BepInEx
+https://github.com/BepInEx/BepInEx
+  Type: C# modding framework
+  Tool completion %: NOT PUBLISHED IN CHECKED SOURCES
+  Game decompilation %: NOT APPLICABLE TO THIS TOOL
+  Helps with: Unity/.NET runtime mod loading and patching; an external framework rather than a Rust rewrite library.
+  Evidence: https://raw.githubusercontent.com/BepInEx/BepInEx/master/README.md
+
+T023. SamboyCoding/Cpp2IL
+https://github.com/SamboyCoding/Cpp2IL
+  Type: IL2CPP analysis tool
+  Tool completion %: NOT PUBLISHED IN CHECKED SOURCES
+  Game decompilation %: NOT APPLICABLE TO THIS TOOL
+  Helps with: Analyze IL2CPP metadata/native code and recover managed-code representations; does not imply full original source recovery.
+  Evidence: https://raw.githubusercontent.com/SamboyCoding/Cpp2IL/master/README.md
+
+T024. Perfare/Il2CppDumper
+https://github.com/Perfare/Il2CppDumper
+  Type: IL2CPP analysis tool
+  Tool completion %: NOT PUBLISHED IN CHECKED SOURCES
+  Game decompilation %: NOT APPLICABLE TO THIS TOOL
+  Helps with: Recover IL2CPP metadata and analysis scaffolding; useful for understanding native Unity builds.
+  Evidence: https://raw.githubusercontent.com/Perfare/Il2CppDumper/master/README.md
+
+T025. AssetRipper/AssetRipper
+https://github.com/AssetRipper/AssetRipper
+  Type: C# asset extraction tool
+  Tool completion %: NOT PUBLISHED IN CHECKED SOURCES
+  Game decompilation %: NOT APPLICABLE TO THIS TOOL
+  Helps with: Extract/convert Unity assets; support varies by engine version and asset type.
+  Evidence: https://raw.githubusercontent.com/AssetRipper/AssetRipper/master/README.md
+
+T026. K0lb3/UnityPy
+https://github.com/K0lb3/UnityPy
+  Type: Python asset library
+  Tool completion %: NOT PUBLISHED IN CHECKED SOURCES
+  Game decompilation %: NOT APPLICABLE TO THIS TOOL
+  Helps with: Programmatically inspect and edit supported Unity asset data; useful preprocessing beside a Rust client.
+  Evidence: https://raw.githubusercontent.com/K0lb3/UnityPy/master/README.md
+
+SOURCE / BETHESDA / OTHER GAME ECOSYSTEMS
+-----------------------------------------
+
+T027. lasa01/plumber_core
+https://github.com/lasa01/plumber_core
+  Type: Rust asset conversion library
+  Tool completion %: NOT PUBLISHED IN CHECKED SOURCES
+  Game decompilation %: NOT APPLICABLE TO THIS TOOL
+  Helps with: Convert Source Engine VMF maps and related content to generic 3D representations.
+  Evidence: https://raw.githubusercontent.com/lasa01/plumber_core/master/README.md
+
+T028. icewind1991/vbsp
+https://github.com/icewind1991/vbsp
+  Type: Rust map parser
+  Tool completion %: NOT PUBLISHED IN CHECKED SOURCES
+  Game decompilation %: NOT APPLICABLE TO THIS TOOL
+  Helps with: Read Valve BSP map data; parser support is not Source gameplay emulation.
+  Scope/status: README says development moved to https://codeberg.org/icewind/vbsp . Primarily tested with Team Fortress 2 and Counter-Strike: Source.
+  Evidence: https://raw.githubusercontent.com/icewind1991/vbsp/master/README.md
+
+T029. ryan-rsm-mckenzie/bsa-rs
+https://github.com/ryan-rsm-mckenzie/bsa-rs
+  Type: Rust archive library
+  Tool completion %: NOT PUBLISHED IN CHECKED SOURCES
+  Game decompilation %: NOT APPLICABLE TO THIS TOOL
+  Helps with: Bethesda BSA/BA2 archive handling; consult its per-format support.
+  Scope/status: Rust crate named ba2. README describes near-complete archive coverage from Morrowind through Starfield, with less maturity than the C++ library. No numeric completion percentage is published.
+  Evidence: https://raw.githubusercontent.com/ryan-rsm-mckenzie/bsa-rs/main/README.md
+
+T030. Ortham/esplugin
+https://github.com/Ortham/esplugin
+  Type: Rust plugin-file library
+  Tool completion %: NOT PUBLISHED IN CHECKED SOURCES
+  Game decompilation %: NOT APPLICABLE TO THIS TOOL
+  Helps with: Parse Bethesda plugin data; useful for ESM/ESP-oriented tooling.
+  Evidence: https://raw.githubusercontent.com/Ortham/esplugin/master/README.md
+
+T031. Ortham/libloadorder
+https://github.com/Ortham/libloadorder
+  Type: Rust load-order library
+  Tool completion %: NOT PUBLISHED IN CHECKED SOURCES
+  Game decompilation %: NOT APPLICABLE TO THIS TOOL
+  Helps with: Manage Bethesda plugin load ordering; does not implement the games' engines.
+  Evidence: https://raw.githubusercontent.com/Ortham/libloadorder/master/README.md
+
+T032. SulfurNitride/Rust-BSA-BA2-Handler
+https://github.com/SulfurNitride/Rust-BSA-BA2-Handler
+  Type: Rust archive tool
+  Tool completion %: NOT PUBLISHED IN CHECKED SOURCES
+  Game decompilation %: NOT APPLICABLE TO THIS TOOL
+  Helps with: Bethesda archive extraction/packing utility; check format/version coverage.
+  Evidence: https://raw.githubusercontent.com/SulfurNitride/Rust-BSA-BA2-Handler/main/README.md
+
+T033. valence-rs/valence
+https://github.com/valence-rs/valence
+  Type: Rust Minecraft server framework
+  Tool completion %: NOT PUBLISHED IN CHECKED SOURCES
+  Game decompilation %: NOT APPLICABLE TO THIS TOOL
+  Helps with: Build Minecraft-compatible server behavior; not a rewrite of the proprietary client.
+  Evidence: https://raw.githubusercontent.com/valence-rs/valence/main/README.md
+
+T034. azalea-rs/azalea
+https://github.com/azalea-rs/azalea
+  Type: Rust Minecraft client library
+  Tool completion %: NOT PUBLISHED IN CHECKED SOURCES
+  Game decompilation %: NOT APPLICABLE TO THIS TOOL
+  Helps with: Minecraft protocol/client automation building blocks; not a complete graphical client.
+  Evidence: https://raw.githubusercontent.com/azalea-rs/azalea/main/README.md
+
+RUST TO C / C++ BINDING GENERATORS
+----------------------------------
+
+T035. rust-lang/rust-bindgen
+https://github.com/rust-lang/rust-bindgen
+  Type: Rust binding generator
+  Tool completion %: NOT PUBLISHED IN CHECKED SOURCES
+  Game decompilation %: NOT APPLICABLE TO THIS TOOL
+  Helps with: Generate Rust declarations for C and some C++ APIs from headers; headers alone do not provide missing game implementations.
+  Evidence: https://raw.githubusercontent.com/rust-lang/rust-bindgen/main/README.md
+
+T036. dtolnay/cxx
+https://github.com/dtolnay/cxx
+  Type: Rust/C++ bridge
+  Tool completion %: NOT PUBLISHED IN CHECKED SOURCES
+  Game decompilation %: NOT APPLICABLE TO THIS TOOL
+  Helps with: Define checked interoperation between Rust and C++ code; useful when retaining reconstructed C++ subsystems.
+  Evidence: https://raw.githubusercontent.com/dtolnay/cxx/master/README.md
+
+T037. google/autocxx
+https://github.com/google/autocxx
+  Type: Rust/C++ binding generator
+  Tool completion %: NOT PUBLISHED IN CHECKED SOURCES
+  Game decompilation %: NOT APPLICABLE TO THIS TOOL
+  Helps with: Generate Rust interfaces for C++ libraries, built around CXX; unsupported constructs still need manual handling.
+  Evidence: https://raw.githubusercontent.com/google/autocxx/main/README.md
+
+T038. mozilla/cbindgen
+https://github.com/mozilla/cbindgen
+  Type: C/C++ header generator
+  Tool completion %: NOT PUBLISHED IN CHECKED SOURCES
+  Game decompilation %: NOT APPLICABLE TO THIS TOOL
+  Helps with: Expose Rust library APIs to C/C++; direction is Rust outward, unlike bindgen.
+  Evidence: https://raw.githubusercontent.com/mozilla/cbindgen/main/README.md
+
+T039. rust-lang/cc-rs
+https://github.com/rust-lang/cc-rs
+  Type: Build integration
+  Tool completion %: NOT PUBLISHED IN CHECKED SOURCES
+  Game decompilation %: NOT APPLICABLE TO THIS TOOL
+  Helps with: Compile C/C++ code from Cargo build scripts; helps retain native modules during migration.
+  Evidence: https://raw.githubusercontent.com/rust-lang/cc-rs/main/README.md
+
+T040. nagisa/rust_libloading
+https://github.com/nagisa/rust_libloading
+  Type: Dynamic library loading
+  Tool completion %: NOT PUBLISHED IN CHECKED SOURCES
+  Game decompilation %: NOT APPLICABLE TO THIS TOOL
+  Helps with: Load native shared-library symbols from Rust; you must still define a correct ABI and ownership rules.
+  Evidence: https://github.com/nagisa/rust_libloading
+
+T041. mystor/rust-cpp
+https://github.com/mystor/rust-cpp
+  Type: Rust/C++ interop
+  Tool completion %: NOT PUBLISHED IN CHECKED SOURCES
+  Game decompilation %: NOT APPLICABLE TO THIS TOOL
+  Helps with: Embed C++ fragments in Rust; useful for existing C++ interfaces.
+  Evidence: https://raw.githubusercontent.com/mystor/rust-cpp/master/README.md
+
+BINARY FORMATS / RUNTIME ANALYSIS
+---------------------------------
+
+T042. CasualX/pelite
+https://github.com/CasualX/pelite
+  Type: Rust PE analysis
+  Tool completion %: NOT PUBLISHED IN CHECKED SOURCES
+  Game decompilation %: NOT APPLICABLE TO THIS TOOL
+  Helps with: Windows executable parsing and pattern-related tooling; useful for understanding native game binaries.
+  Evidence: https://github.com/CasualX/pelite
+
+T043. memflow/memflow
+https://github.com/memflow/memflow
+  Type: Rust memory introspection
+  Tool completion %: NOT PUBLISHED IN CHECKED SOURCES
+  Game decompilation %: NOT APPLICABLE TO THIS TOOL
+  Helps with: Memory introspection framework with connector architecture; support depends on connector and target.
+  Evidence: https://raw.githubusercontent.com/memflow/memflow/main/README.md
+
+T044. icedland/iced
+https://github.com/icedland/iced
+  Type: Instruction decoding toolkit
+  Tool completion %: NOT PUBLISHED IN CHECKED SOURCES
+  Game decompilation %: NOT APPLICABLE TO THIS TOOL
+  Helps with: Includes Rust x86/x64 instruction decoding/encoding; useful for binary analysis and tooling.
+  Evidence: https://raw.githubusercontent.com/icedland/iced/master/README.md
+
+T045. m4b/goblin
+https://github.com/m4b/goblin
+  Type: Rust binary parser
+  Tool completion %: NOT PUBLISHED IN CHECKED SOURCES
+  Game decompilation %: NOT APPLICABLE TO THIS TOOL
+  Helps with: Parse executable/object formats such as ELF, PE and Mach-O.
+  Evidence: https://raw.githubusercontent.com/m4b/goblin/master/README.md
+
+T046. gimli-rs/object
+https://github.com/gimli-rs/object
+  Type: Rust object-file library
+  Tool completion %: NOT PUBLISHED IN CHECKED SOURCES
+  Game decompilation %: NOT APPLICABLE TO THIS TOOL
+  Helps with: Read/write object files across supported formats; inspect symbols and sections.
+  Evidence: https://raw.githubusercontent.com/gimli-rs/object/main/README.md
+
+T047. gimli-rs/gimli
+https://github.com/gimli-rs/gimli
+  Type: Rust DWARF library
+  Tool completion %: NOT PUBLISHED IN CHECKED SOURCES
+  Game decompilation %: NOT APPLICABLE TO THIS TOOL
+  Helps with: Read/write debugging information; useful where binaries retain suitable debug data.
+  Evidence: https://raw.githubusercontent.com/gimli-rs/gimli/main/README.md
+
+T048. NationalSecurityAgency/ghidra
+https://github.com/NationalSecurityAgency/ghidra
+  Type: Reverse-engineering platform
+  Tool completion %: NOT PUBLISHED IN CHECKED SOURCES
+  Game decompilation %: NOT APPLICABLE TO THIS TOOL
+  Helps with: Disassembly, decompilation and analysis; not a Rust game binding library.
+  Evidence: https://raw.githubusercontent.com/NationalSecurityAgency/ghidra/master/README.md
+
+T049. encounter/objdiff
+https://github.com/encounter/objdiff
+  Type: Rust object-code comparison
+  Tool completion %: NOT PUBLISHED IN CHECKED SOURCES
+  Game decompilation %: NOT APPLICABLE TO THIS TOOL
+  Helps with: Compare reconstructed functions/object files against originals; matching-decomp verification aid.
+  Evidence: https://raw.githubusercontent.com/encounter/objdiff/main/README.md
+
+T050. frida/frida-rust
+https://github.com/frida/frida-rust
+  Type: Rust instrumentation bindings
+  Tool completion %: NOT PUBLISHED IN CHECKED SOURCES
+  Game decompilation %: NOT APPLICABLE TO THIS TOOL
+  Helps with: Use Frida instrumentation APIs from Rust where supported; target support and packaging need checking.
+  Evidence: https://raw.githubusercontent.com/frida/frida-rust/main/README.md
+
+T051. Hpmason/retour-rs
+https://github.com/Hpmason/retour-rs
+  Type: Rust hooking library
+  Tool completion %: NOT PUBLISHED IN CHECKED SOURCES
+  Game decompilation %: NOT APPLICABLE TO THIS TOOL
+  Helps with: Create function detours for runtime instrumentation.
+  Evidence: https://raw.githubusercontent.com/Hpmason/retour-rs/master/README.md
+
+T052. simonlindholm/asm-differ
+https://github.com/simonlindholm/asm-differ
+  Type: Python assembly diff tool
+  Tool completion %: NOT PUBLISHED IN CHECKED SOURCES
+  Game decompilation %: NOT APPLICABLE TO THIS TOOL
+  Helps with: Compare compiled assembly against the original during matching decompilation.
+  Evidence: https://raw.githubusercontent.com/simonlindholm/asm-differ/main/README.md
+
+REUSABLE RUST CLIENT COMPONENTS
+-------------------------------
+
+T053. bevyengine/bevy
+https://github.com/bevyengine/bevy
+  Type: Rust game engine
+  Tool completion %: NOT PUBLISHED IN CHECKED SOURCES
+  Game decompilation %: NOT APPLICABLE TO THIS TOOL
+  Helps with: Rendering/game application and ECS foundations for a new client; no proprietary game's behavior included.
+  Evidence: https://raw.githubusercontent.com/bevyengine/bevy/main/README.md
+
+T054. FyroxEngine/Fyrox
+https://github.com/FyroxEngine/Fyrox
+  Type: Rust game engine/editor
+  Tool completion %: NOT PUBLISHED IN CHECKED SOURCES
+  Game decompilation %: NOT APPLICABLE TO THIS TOOL
+  Helps with: Reusable game-engine/editor foundation for a new implementation.
+  Evidence: https://raw.githubusercontent.com/FyroxEngine/Fyrox/master/README.md
+
+T055. godot-rust/gdext
+https://github.com/godot-rust/gdext
+  Type: Rust engine bindings
+  Tool completion %: NOT PUBLISHED IN CHECKED SOURCES
+  Game decompilation %: NOT APPLICABLE TO THIS TOOL
+  Helps with: Use Rust extensions in Godot 4; engine integration rather than bindings to an existing commercial game.
+  Evidence: https://github.com/godot-rust/gdext
+
+T056. gfx-rs/wgpu
+https://github.com/gfx-rs/wgpu
+  Type: Rust graphics API
+  Tool completion %: NOT PUBLISHED IN CHECKED SOURCES
+  Game decompilation %: NOT APPLICABLE TO THIS TOOL
+  Helps with: Cross-platform GPU rendering/compute building blocks; no automatic conversion of an original game's renderer.
+  Evidence: https://raw.githubusercontent.com/gfx-rs/wgpu/master/README.md
+
+T057. Rust-SDL2/rust-sdl2
+https://github.com/Rust-SDL2/rust-sdl2
+  Type: Rust multimedia bindings
+  Tool completion %: NOT PUBLISHED IN CHECKED SOURCES
+  Game decompilation %: NOT APPLICABLE TO THIS TOOL
+  Helps with: SDL2 window/input/audio interfaces; useful platform layer.
+  Evidence: https://raw.githubusercontent.com/Rust-SDL2/rust-sdl2/master/README.md
+
+T058. dimforge/rapier
+https://github.com/dimforge/rapier
+  Type: Rust physics library
+  Tool completion %: NOT PUBLISHED IN CHECKED SOURCES
+  Game decompilation %: NOT APPLICABLE TO THIS TOOL
+  Helps with: Rigid-body physics; replacing original physics requires behavioral compatibility testing.
+  Evidence: https://raw.githubusercontent.com/dimforge/rapier/master/README.md
+
+T059. dimforge/parry
+https://github.com/dimforge/parry
+  Type: Rust collision library
+  Tool completion %: NOT PUBLISHED IN CHECKED SOURCES
+  Game decompilation %: NOT APPLICABLE TO THIS TOOL
+  Helps with: Collision detection building blocks; useful beside game-specific movement logic.
+  Evidence: https://raw.githubusercontent.com/dimforge/parry/master/README.md
+
+T060. janhohenheim/rerecast
+https://github.com/janhohenheim/rerecast
+  Type: Rust navigation mesh generator
+  Tool completion %: NOT PUBLISHED IN CHECKED SOURCES
+  Game decompilation %: NOT APPLICABLE TO THIS TOOL
+  Helps with: Navmesh generation based on Recast concepts; gameplay AI still needs implementation.
+  Evidence: https://github.com/janhohenheim/rerecast
+
+T061. gltf-rs/gltf
+https://github.com/gltf-rs/gltf
+  Type: Rust standard-format loader
+  Tool completion %: NOT PUBLISHED IN CHECKED SOURCES
+  Game decompilation %: NOT APPLICABLE TO THIS TOOL
+  Helps with: Read glTF assets after conversion from proprietary formats.
+  Evidence: https://raw.githubusercontent.com/gltf-rs/gltf/main/README.md
+
+T062. bitshifter/glam-rs
+https://github.com/bitshifter/glam-rs
+  Type: Rust math library
+  Tool completion %: NOT PUBLISHED IN CHECKED SOURCES
+  Game decompilation %: NOT APPLICABLE TO THIS TOOL
+  Helps with: Vectors, matrices and quaternions; compare conventions and precision to the original game.
+  Evidence: https://raw.githubusercontent.com/bitshifter/glam-rs/main/README.md
+
+T063. image-rs/image
+https://github.com/image-rs/image
+  Type: Rust image codecs
+  Tool completion %: NOT PUBLISHED IN CHECKED SOURCES
+  Game decompilation %: NOT APPLICABLE TO THIS TOOL
+  Helps with: Read/write common image formats; proprietary texture formats may need separate decoders.
+  Evidence: https://raw.githubusercontent.com/image-rs/image/main/README.md
+
+T064. serde-rs/serde
+https://github.com/serde-rs/serde
+  Type: Rust serialization framework
+  Tool completion %: NOT PUBLISHED IN CHECKED SOURCES
+  Game decompilation %: NOT APPLICABLE TO THIS TOOL
+  Helps with: Serialize interoperable configuration/state formats; not a game-file parser by itself.
+  Evidence: https://raw.githubusercontent.com/serde-rs/serde/master/README.md
+
+T065. jam1garner/binrw
+https://github.com/jam1garner/binrw
+  Type: Rust binary reader/writer
+  Tool completion %: NOT PUBLISHED IN CHECKED SOURCES
+  Game decompilation %: NOT APPLICABLE TO THIS TOOL
+  Helps with: Define structured readers and writers for binary game formats.
+  Evidence: https://raw.githubusercontent.com/jam1garner/binrw/master/README.md
+
+REGRESSION TESTS / AUTOMATED REPAIR SUPPORT
+-------------------------------------------
+
+T066. proptest-rs/proptest
+https://github.com/proptest-rs/proptest
+  Type: Rust property testing
+  Tool completion %: NOT PUBLISHED IN CHECKED SOURCES
+  Game decompilation %: NOT APPLICABLE TO THIS TOOL
+  Helps with: Exercise properties across generated cases; helps find differences beyond a few sample inputs.
+  Evidence: https://raw.githubusercontent.com/proptest-rs/proptest/main/README.md
+
+T067. rust-fuzz/cargo-fuzz
+https://github.com/rust-fuzz/cargo-fuzz
+  Type: Rust fuzzing tool
+  Tool completion %: NOT PUBLISHED IN CHECKED SOURCES
+  Game decompilation %: NOT APPLICABLE TO THIS TOOL
+  Helps with: Fuzz parsers and other supported targets; especially useful for malformed asset data.
+  Evidence: https://raw.githubusercontent.com/rust-fuzz/cargo-fuzz/main/README.md
+
+T068. model-checking/kani
+https://github.com/model-checking/kani
+  Type: Rust model checking
+  Tool completion %: NOT PUBLISHED IN CHECKED SOURCES
+  Game decompilation %: NOT APPLICABLE TO THIS TOOL
+  Helps with: Verify properties of supported Rust code; not a guarantee an entire game rewrite is bug-free.
+  Evidence: https://raw.githubusercontent.com/model-checking/kani/main/README.md
+
+T069. nextest-rs/nextest
+https://github.com/nextest-rs/nextest
+  Type: Rust test runner
+  Tool completion %: NOT PUBLISHED IN CHECKED SOURCES
+  Game decompilation %: NOT APPLICABLE TO THIS TOOL
+  Helps with: Run and manage large Rust test suites; the tests still need meaningful original-game reference cases.
+  Evidence: https://raw.githubusercontent.com/nextest-rs/nextest/main/README.md
+
+T070. mitsuhiko/insta
+https://github.com/mitsuhiko/insta
+  Type: Rust snapshot testing
+  Tool completion %: NOT PUBLISHED IN CHECKED SOURCES
+  Game decompilation %: NOT APPLICABLE TO THIS TOOL
+  Helps with: Track structured-output changes; useful for parser and asset-conversion regression fixtures.
+  Evidence: https://raw.githubusercontent.com/mitsuhiko/insta/master/README.md
+
+T071. criterion-rs/criterion.rs
+https://github.com/criterion-rs/criterion.rs
+  Type: Rust benchmarking
+  Tool completion %: NOT PUBLISHED IN CHECKED SOURCES
+  Game decompilation %: NOT APPLICABLE TO THIS TOOL
+  Helps with: Measure performance changes while replacing code.
+  Evidence: https://raw.githubusercontent.com/criterion-rs/criterion.rs/master/README.md
+
+RELATED PORTS / RECOMPILATIONS / REIMPLEMENTATIONS / SOURCE RELEASES
+===================================================================
+
+Sonic Unleashed | Static recompilation
+https://github.com/hedge-dev/UnleashedRecomp
+  Matching decompilation %: N/A — different project category; no comparable numerical metric verified here.
+  Target: Sonic Unleashed | Static recompilation
+
+Sonic the Hedgehog (2006), Marathon Recompiled | Static recompilation
+https://github.com/sonicnext-dev/MarathonRecomp
+  Matching decompilation %: N/A — different project category; no comparable numerical metric verified here.
+  Target: Sonic the Hedgehog (2006), Marathon Recompiled | Static recompilation
+
+Fallout | Playable reimplementation
+https://github.com/alexbatalov/fallout1-ce
+  Matching decompilation %: N/A — different project category; no comparable numerical metric verified here.
+  Target: Fallout | Playable reimplementation
+
+Fallout 2 | Playable reimplementation
+https://github.com/alexbatalov/fallout2-ce
+  Matching decompilation %: N/A — different project category; no comparable numerical metric verified here.
+  Target: Fallout 2 | Playable reimplementation
+
+Diablo | Reverse-engineered reconstruction
+https://github.com/diasurgical/devilution
+  Matching decompilation %: N/A — different project category; no comparable numerical metric verified here.
+  Target: Diablo | Reverse-engineered reconstruction
+
+Doom 3 BFG Edition | Official source release
+https://github.com/id-Software/DOOM-3-BFG
+  Matching decompilation %: N/A — different project category; no comparable numerical metric verified here.
+  Target: Doom 3 BFG Edition | Official source release
+
+Pokémon Red / Blue | Assembly disassembly
+https://github.com/pret/pokered
+  Matching decompilation %: N/A — different project category; no comparable numerical metric verified here.
+  Target: Pokémon Red / Blue | Assembly disassembly
+
+Pokémon Gold / Silver | Assembly disassembly
+https://github.com/pret/pokegold
+  Matching decompilation %: N/A — different project category; no comparable numerical metric verified here.
+  Target: Pokémon Gold / Silver | Assembly disassembly
+
+Pokémon Crystal | Assembly disassembly
+https://github.com/pret/pokecrystal
+  Matching decompilation %: N/A — different project category; no comparable numerical metric verified here.
+  Target: Pokémon Crystal | Assembly disassembly
+
+Pokémon Ruby / Sapphire | Mixed/disassembly-labelled reconstruction
+https://github.com/pret/pokeruby
+  Matching decompilation %: N/A — different project category; no comparable numerical metric verified here.
+  Target: Pokémon Ruby / Sapphire | Mixed/disassembly-labelled reconstruction
+
+Pokémon HeartGold / SoulSilver | WIP disassembly
+https://github.com/pret/pokeheartgold
+  Matching decompilation %: N/A — different project category; no comparable numerical metric verified here.
+  Target: Pokémon HeartGold / SoulSilver | WIP disassembly
+
+OTHER HOSTS — NOT GITHUB
+=======================
+
+Banjo-Kazooie
+https://gitlab.com/banjo.decomp/banjo-kazooie
+  Target: Banjo-Kazooie
+  Platform: Nintendo 64 | 100% (published README progress; target-specific)
+  Evidence: https://gitlab.com/banjo.decomp/banjo-kazooie/-/raw/master/README.md
+  Note: Additional established reverse-engineering/decomp project; use its version-specific progress page.
+
+Donkey Kong 64
+https://gitlab.com/dk64_decomp/dk64
+  Target: Donkey Kong 64
+  Platform: Nintendo 64 | Numeric % not verified in retrieved README
+  Evidence: https://gitlab.com/dk64_decomp/dk64/-/raw/main/README.md
+  Note: Additional established reverse-engineering/decomp project; use its version-specific progress page.
+
+UNCONFIRMED ORIGINAL LINK
+=========================
+
+Mortal Kombat: Deception
+https://github.com/skylaralbers/mkd-decomp-local-
+  HTTP check: 404 on 2026-10-04; no current progress percentage verified.
+
+DIRECTORIES / DISCOVERY
+=======================
+https://github.com/SamidyFR/Game-Decompilations
+https://github.com/decompals/decompedia
+https://decomp.dev/
+
+SOURCING NOTES
+==============
+Repository HTTP success establishes reachability. Descriptions are based on project READMEs; it is not a build or security audit. Check release/engine/patch compatibility before selecting a binding or loader.
+Tracker entries reproduce the published values, including old underlying report dates. Supplemental entries preserve the metric/source qualification from the sourced catalog. Full/complete maintainer wording is not converted into an unreported exact percentage.
+Elden Ring is included in the tooling section: no verified full matching-game decompilation percentage is supplied for it. A Rust binding library is not evidence that the entire game has been decompiled.

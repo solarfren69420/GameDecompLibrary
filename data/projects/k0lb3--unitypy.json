@@ -1,0 +1,30 @@
+{
+  "id": "k0lb3--unitypy",
+  "name": "K0lb3/UnityPy",
+  "url": "https://github.com/K0lb3/UnityPy",
+  "category": "tool",
+  "group": "UNITY",
+  "platform": "Cross-platform / project-specific",
+  "type": "Python asset library",
+  "description": "Programmatically inspect and edit supported Unity asset data; useful preprocessing beside a Rust client.",
+  "progress": {
+    "decompiled": null,
+    "linked": null,
+    "kind": "unknown",
+    "label": "Not applicable to tools"
+  },
+  "targets": [],
+  "sources": [
+    "https://raw.githubusercontent.com/K0lb3/UnityPy/master/README.md"
+  ],
+  "notes": [
+    "Type: Python asset library",
+    "Tool completion %: NOT PUBLISHED IN CHECKED SOURCES",
+    "Game decompilation %: NOT APPLICABLE TO THIS TOOL",
+    "Helps with: Programmatically inspect and edit supported Unity asset data; useful preprocessing beside a Rust client.",
+    "Evidence: https://raw.githubusercontent.com/K0lb3/UnityPy/master/README.md"
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "",
+  "report_commit": ""
+}

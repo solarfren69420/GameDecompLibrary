@@ -1,0 +1,30 @@
+{
+  "id": "nationalsecurityagency--ghidra",
+  "name": "NationalSecurityAgency/ghidra",
+  "url": "https://github.com/NationalSecurityAgency/ghidra",
+  "category": "tool",
+  "group": "BINARY FORMATS / RUNTIME ANALYSIS",
+  "platform": "Cross-platform / project-specific",
+  "type": "Reverse-engineering platform",
+  "description": "Disassembly, decompilation and analysis; not a Rust game binding library.",
+  "progress": {
+    "decompiled": null,
+    "linked": null,
+    "kind": "unknown",
+    "label": "Not applicable to tools"
+  },
+  "targets": [],
+  "sources": [
+    "https://raw.githubusercontent.com/NationalSecurityAgency/ghidra/master/README.md"
+  ],
+  "notes": [
+    "Type: Reverse-engineering platform",
+    "Tool completion %: NOT PUBLISHED IN CHECKED SOURCES",
+    "Game decompilation %: NOT APPLICABLE TO THIS TOOL",
+    "Helps with: Disassembly, decompilation and analysis; not a Rust game binding library.",
+    "Evidence: https://raw.githubusercontent.com/NationalSecurityAgency/ghidra/master/README.md"
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "",
+  "report_commit": ""
+}

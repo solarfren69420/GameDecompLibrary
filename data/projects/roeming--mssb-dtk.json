@@ -1,0 +1,29 @@
+{
+  "id": "roeming--mssb-dtk",
+  "name": "Mario Superstar Baseball",
+  "url": "https://github.com/roeming/mssb-dtk",
+  "category": "decomp",
+  "group": "4. SMALLER COMMERCIAL, LICENSED, CULT AND NICHE GAMES",
+  "platform": "GameCube",
+  "type": "Matching decompilation",
+  "description": "",
+  "progress": {
+    "decompiled": 10.91,
+    "linked": 7.84,
+    "kind": "reported",
+    "label": "10.91% decompiled | 7.84% fully linked"
+  },
+  "targets": [],
+  "sources": [
+    "https://decomp.dev/roeming/mssb-dtk"
+  ],
+  "notes": [
+    "Mario Superstar Baseball | GameCube | 10.91% decompiled | 7.84% fully linked",
+    "Progress source: https://decomp.dev/roeming/mssb-dtk",
+    "Report commit date: 2026-07-12 19:53:29 +00:00",
+    "Report commit: https://github.com/roeming/mssb-dtk/commit/72de19a39880398a69339010350652ad97e2a79c"
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "2026-07-12 19:53:29 +00:00",
+  "report_commit": "https://github.com/roeming/mssb-dtk/commit/72de19a39880398a69339010350652ad97e2a79c"
+}

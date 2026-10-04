@@ -1,0 +1,30 @@
+{
+  "id": "samboycoding--cpp2il",
+  "name": "SamboyCoding/Cpp2IL",
+  "url": "https://github.com/SamboyCoding/Cpp2IL",
+  "category": "tool",
+  "group": "UNITY",
+  "platform": "Cross-platform / project-specific",
+  "type": "IL2CPP analysis tool",
+  "description": "Analyze IL2CPP metadata/native code and recover managed-code representations; does not imply full original source recovery.",
+  "progress": {
+    "decompiled": null,
+    "linked": null,
+    "kind": "unknown",
+    "label": "Not applicable to tools"
+  },
+  "targets": [],
+  "sources": [
+    "https://raw.githubusercontent.com/SamboyCoding/Cpp2IL/master/README.md"
+  ],
+  "notes": [
+    "Type: IL2CPP analysis tool",
+    "Tool completion %: NOT PUBLISHED IN CHECKED SOURCES",
+    "Game decompilation %: NOT APPLICABLE TO THIS TOOL",
+    "Helps with: Analyze IL2CPP metadata/native code and recover managed-code representations; does not imply full original source recovery.",
+    "Evidence: https://raw.githubusercontent.com/SamboyCoding/Cpp2IL/master/README.md"
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "",
+  "report_commit": ""
+}

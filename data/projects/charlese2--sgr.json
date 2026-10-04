@@ -1,0 +1,29 @@
+{
+  "id": "charlese2--sgr",
+  "name": "Summoner: A Goddess Reborn",
+  "url": "https://github.com/Charlese2/sgr",
+  "category": "decomp",
+  "group": "4. SMALLER COMMERCIAL, LICENSED, CULT AND NICHE GAMES",
+  "platform": "GameCube",
+  "type": "Matching decompilation",
+  "description": "",
+  "progress": {
+    "decompiled": 10.23,
+    "linked": 6.89,
+    "kind": "reported",
+    "label": "10.23% decompiled | 6.89% fully linked"
+  },
+  "targets": [],
+  "sources": [
+    "https://decomp.dev/Charlese2/sgr"
+  ],
+  "notes": [
+    "Summoner: A Goddess Reborn | GameCube | 10.23% decompiled | 6.89% fully linked",
+    "Progress source: https://decomp.dev/Charlese2/sgr",
+    "Report commit date: 2025-12-09 01:43:54 +00:00",
+    "Report commit: https://github.com/Charlese2/sgr/commit/e260a0ef5b9f45a8880f39168a81c8dfdbee8b77"
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "2025-12-09 01:43:54 +00:00",
+  "report_commit": "https://github.com/Charlese2/sgr/commit/e260a0ef5b9f45a8880f39168a81c8dfdbee8b77"
+}

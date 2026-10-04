@@ -1,0 +1,31 @@
+{
+  "id": "dasaav-dsv--from-singleton",
+  "name": "Dasaav-dsv/from-singleton",
+  "url": "https://github.com/Dasaav-dsv/from-singleton",
+  "category": "tool",
+  "group": "FROM SOFTWARE / ELDEN RING",
+  "platform": "Cross-platform / project-specific",
+  "type": "Rust runtime utility",
+  "description": "FromSoftware singleton access; reusable component for runtime bindings.",
+  "progress": {
+    "decompiled": null,
+    "linked": null,
+    "kind": "unknown",
+    "label": "Not applicable to tools"
+  },
+  "targets": [],
+  "sources": [
+    "https://raw.githubusercontent.com/Dasaav-dsv/from-singleton/main/README.md"
+  ],
+  "notes": [
+    "Type: Rust runtime utility",
+    "Tool completion %: NOT PUBLISHED IN CHECKED SOURCES",
+    "Game decompilation %: NOT APPLICABLE TO THIS TOOL",
+    "Helps with: FromSoftware singleton access; reusable component for runtime bindings.",
+    "Scope/status: README tested versions: DS3 1.15.0/1.15.2, Sekiro 1.06, Elden Ring 1.16 and Armored Core VI 1.07.1, plus DigitalArtwork_MiniSoundtrack. These are tested versions, not a universal patch-compatibility promise.",
+    "Evidence: https://raw.githubusercontent.com/Dasaav-dsv/from-singleton/main/README.md"
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "",
+  "report_commit": ""
+}

@@ -1,0 +1,29 @@
+{
+  "id": "denzi-gh--crashwoc-decomp-ps2",
+  "name": "Crash Bandicoot: The Wrath of Cortex",
+  "url": "https://github.com/denzi-gh/crashwoc-decomp-ps2",
+  "category": "decomp",
+  "group": "2. OLDER AAA / FLAGSHIP CONSOLE AND PC GAMES",
+  "platform": "PlayStation 2",
+  "type": "Matching decompilation",
+  "description": "",
+  "progress": {
+    "decompiled": 7.48,
+    "linked": null,
+    "kind": "reported",
+    "label": "7.48% decompiled"
+  },
+  "targets": [],
+  "sources": [
+    "https://decomp.dev/denzi-gh/crashwoc-decomp-ps2"
+  ],
+  "notes": [
+    "Crash Bandicoot: The Wrath of Cortex | PlayStation 2 | 7.48% decompiled",
+    "Progress source: https://decomp.dev/denzi-gh/crashwoc-decomp-ps2",
+    "Report commit date: 2026-09-07 00:15:36 +00:00",
+    "Report commit: https://github.com/denzi-gh/crashwoc-decomp-ps2/commit/9af06d394a332c4fe7a15d93f353047ae78a3672"
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "2026-09-07 00:15:36 +00:00",
+  "report_commit": "https://github.com/denzi-gh/crashwoc-decomp-ps2/commit/9af06d394a332c4fe7a15d93f353047ae78a3672"
+}

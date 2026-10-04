@@ -1,0 +1,31 @@
+{
+  "id": "icewind1991--vbsp",
+  "name": "icewind1991/vbsp",
+  "url": "https://github.com/icewind1991/vbsp",
+  "category": "tool",
+  "group": "SOURCE / BETHESDA / OTHER GAME ECOSYSTEMS",
+  "platform": "Cross-platform / project-specific",
+  "type": "Rust map parser",
+  "description": "Read Valve BSP map data; parser support is not Source gameplay emulation.",
+  "progress": {
+    "decompiled": null,
+    "linked": null,
+    "kind": "unknown",
+    "label": "Not applicable to tools"
+  },
+  "targets": [],
+  "sources": [
+    "https://raw.githubusercontent.com/icewind1991/vbsp/master/README.md"
+  ],
+  "notes": [
+    "Type: Rust map parser",
+    "Tool completion %: NOT PUBLISHED IN CHECKED SOURCES",
+    "Game decompilation %: NOT APPLICABLE TO THIS TOOL",
+    "Helps with: Read Valve BSP map data; parser support is not Source gameplay emulation.",
+    "Scope/status: README says development moved to https://codeberg.org/icewind/vbsp . Primarily tested with Team Fortress 2 and Counter-Strike: Source.",
+    "Evidence: https://raw.githubusercontent.com/icewind1991/vbsp/master/README.md"
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "",
+  "report_commit": ""
+}

@@ -1,0 +1,43 @@
+{
+  "id": "zeldaret--oot",
+  "name": "The Legend of Zelda: Ocarina of Time",
+  "url": "https://github.com/zeldaret/oot",
+  "category": "decomp",
+  "group": "2. OLDER AAA / FLAGSHIP CONSOLE AND PC GAMES",
+  "platform": "Nintendo 64",
+  "type": "Matching decompilation",
+  "description": "",
+  "progress": {
+    "decompiled": 100.0,
+    "linked": null,
+    "kind": "reported",
+    "label": "100% (team dashboard)"
+  },
+  "targets": [
+    {
+      "name": "The Legend of Zelda: Ocarina of Time",
+      "platform": "Nintendo 64",
+      "progress": {
+        "decompiled": 100.0,
+        "linked": null,
+        "kind": "reported",
+        "label": "100% (team dashboard)"
+      },
+      "notes": [
+        "Percentage describes the team’s tracked code target; individual versions can differ."
+      ]
+    }
+  ],
+  "sources": [
+    "https://zelda.deco.mp/"
+  ],
+  "notes": [
+    "Target: The Legend of Zelda: Ocarina of Time",
+    "Platform: Nintendo 64 | 100% (team dashboard)",
+    "Evidence: https://zelda.deco.mp/",
+    "Note: Percentage describes the team’s tracked code target; individual versions can differ."
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "",
+  "report_commit": ""
+}

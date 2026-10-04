@@ -1,0 +1,29 @@
+{
+  "id": "khasinski--parasite-eve-decomp",
+  "name": "Parasite Eve",
+  "url": "https://github.com/khasinski/parasite-eve-decomp",
+  "category": "decomp",
+  "group": "2. OLDER AAA / FLAGSHIP CONSOLE AND PC GAMES",
+  "platform": "PlayStation",
+  "type": "Matching decompilation",
+  "description": "",
+  "progress": {
+    "decompiled": 95.5,
+    "linked": 95.5,
+    "kind": "reported",
+    "label": "95.50% decompiled | 95.50% fully linked"
+  },
+  "targets": [],
+  "sources": [
+    "https://decomp.dev/khasinski/parasite-eve-decomp"
+  ],
+  "notes": [
+    "Parasite Eve | PlayStation | 95.50% decompiled | 95.50% fully linked",
+    "Progress source: https://decomp.dev/khasinski/parasite-eve-decomp",
+    "Report commit date: 2026-10-04 11:12:53 +00:00",
+    "Report commit: https://github.com/khasinski/parasite-eve-decomp/commit/1d45367df924cad1e85e3799f4513c4e9b1de8cf"
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "2026-10-04 11:12:53 +00:00",
+  "report_commit": "https://github.com/khasinski/parasite-eve-decomp/commit/1d45367df924cad1e85e3799f4513c4e9b1de8cf"
+}

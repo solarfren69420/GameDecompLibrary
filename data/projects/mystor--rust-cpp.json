@@ -1,0 +1,30 @@
+{
+  "id": "mystor--rust-cpp",
+  "name": "mystor/rust-cpp",
+  "url": "https://github.com/mystor/rust-cpp",
+  "category": "tool",
+  "group": "RUST TO C / C++ BINDING GENERATORS",
+  "platform": "Cross-platform / project-specific",
+  "type": "Rust/C++ interop",
+  "description": "Embed C++ fragments in Rust; useful for existing C++ interfaces.",
+  "progress": {
+    "decompiled": null,
+    "linked": null,
+    "kind": "unknown",
+    "label": "Not applicable to tools"
+  },
+  "targets": [],
+  "sources": [
+    "https://raw.githubusercontent.com/mystor/rust-cpp/master/README.md"
+  ],
+  "notes": [
+    "Type: Rust/C++ interop",
+    "Tool completion %: NOT PUBLISHED IN CHECKED SOURCES",
+    "Game decompilation %: NOT APPLICABLE TO THIS TOOL",
+    "Helps with: Embed C++ fragments in Rust; useful for existing C++ interfaces.",
+    "Evidence: https://raw.githubusercontent.com/mystor/rust-cpp/master/README.md"
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "",
+  "report_commit": ""
+}

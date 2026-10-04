@@ -1,0 +1,29 @@
+{
+  "id": "ryan-myers--jet-force-gemini",
+  "name": "Jet Force Gemini",
+  "url": "https://github.com/Ryan-Myers/Jet-Force-Gemini",
+  "category": "decomp",
+  "group": "2. OLDER AAA / FLAGSHIP CONSOLE AND PC GAMES",
+  "platform": "Nintendo 64",
+  "type": "Matching decompilation",
+  "description": "",
+  "progress": {
+    "decompiled": 14.49,
+    "linked": null,
+    "kind": "reported",
+    "label": "14.49% decompiled"
+  },
+  "targets": [],
+  "sources": [
+    "https://decomp.dev/Ryan-Myers/Jet-Force-Gemini"
+  ],
+  "notes": [
+    "Jet Force Gemini | Nintendo 64 | 14.49% decompiled",
+    "Progress source: https://decomp.dev/Ryan-Myers/Jet-Force-Gemini",
+    "Report commit date: 2026-09-02 18:49:45 +00:00",
+    "Report commit: https://github.com/Ryan-Myers/Jet-Force-Gemini/commit/efd5abb1c79636e297b831f7c2d5bf47eac39c0c"
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "2026-09-02 18:49:45 +00:00",
+  "report_commit": "https://github.com/Ryan-Myers/Jet-Force-Gemini/commit/efd5abb1c79636e297b831f7c2d5bf47eac39c0c"
+}

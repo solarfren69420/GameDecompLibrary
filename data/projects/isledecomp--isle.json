@@ -1,0 +1,43 @@
+{
+  "id": "isledecomp--isle",
+  "name": "LEGO Island",
+  "url": "https://github.com/isledecomp/isle",
+  "category": "decomp",
+  "group": "4. SMALLER COMMERCIAL, LICENSED, CULT AND NICHE GAMES",
+  "platform": "Windows, English version 1.1",
+  "type": "Matching decompilation",
+  "description": "",
+  "progress": {
+    "decompiled": null,
+    "linked": null,
+    "kind": "claim",
+    "label": "100% / complete decompilation (maintainer description)"
+  },
+  "targets": [
+    {
+      "name": "LEGO Island",
+      "platform": "Windows, English version 1.1",
+      "progress": {
+        "decompiled": null,
+        "linked": null,
+        "kind": "claim",
+        "label": "100% / complete decompilation (maintainer description)"
+      },
+      "notes": [
+        "CONFIG.EXE, ISLE.EXE and LEGO1.DLL are completely decompiled; exact matching is a separate metric."
+      ]
+    }
+  ],
+  "sources": [
+    "https://github.com/isledecomp/isle"
+  ],
+  "notes": [
+    "Target: LEGO Island",
+    "Platform: Windows, English version 1.1 | 100% / complete decompilation (maintainer description)",
+    "Evidence: https://github.com/isledecomp/isle",
+    "Note: CONFIG.EXE, ISLE.EXE and LEGO1.DLL are completely decompiled; exact matching is a separate metric."
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "",
+  "report_commit": ""
+}

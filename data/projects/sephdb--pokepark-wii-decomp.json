@@ -1,0 +1,29 @@
+{
+  "id": "sephdb--pokepark-wii-decomp",
+  "name": "PokéPark Wii: Pikachu's Adventure",
+  "url": "https://github.com/SephDB/pokepark-wii-decomp",
+  "category": "decomp",
+  "group": "2. OLDER AAA / FLAGSHIP CONSOLE AND PC GAMES",
+  "platform": "Wii",
+  "type": "Matching decompilation",
+  "description": "",
+  "progress": {
+    "decompiled": 1.46,
+    "linked": 1.46,
+    "kind": "reported",
+    "label": "1.46% decompiled | 1.46% fully linked"
+  },
+  "targets": [],
+  "sources": [
+    "https://decomp.dev/SephDB/pokepark-wii-decomp"
+  ],
+  "notes": [
+    "PokéPark Wii: Pikachu's Adventure | Wii | 1.46% decompiled | 1.46% fully linked",
+    "Progress source: https://decomp.dev/SephDB/pokepark-wii-decomp",
+    "Report commit date: 2026-10-03 19:49:27 +00:00",
+    "Report commit: https://github.com/SephDB/pokepark-wii-decomp/commit/735b49153c27f0f52de2af87911eaa3398ef6a72"
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "2026-10-03 19:49:27 +00:00",
+  "report_commit": "https://github.com/SephDB/pokepark-wii-decomp/commit/735b49153c27f0f52de2af87911eaa3398ef6a72"
+}

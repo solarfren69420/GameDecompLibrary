@@ -1,0 +1,29 @@
+{
+  "id": "lucaspicoli--god-hand-decomp",
+  "name": "God Hand",
+  "url": "https://github.com/LucasPicoli/god-hand-decomp",
+  "category": "decomp",
+  "group": "4. SMALLER COMMERCIAL, LICENSED, CULT AND NICHE GAMES",
+  "platform": "PlayStation 2",
+  "type": "Matching decompilation",
+  "description": "",
+  "progress": {
+    "decompiled": 43.53,
+    "linked": 42.25,
+    "kind": "reported",
+    "label": "43.53% decompiled | 42.25% fully linked"
+  },
+  "targets": [],
+  "sources": [
+    "https://decomp.dev/LucasPicoli/god-hand-decomp"
+  ],
+  "notes": [
+    "God Hand | PlayStation 2 | 43.53% decompiled | 42.25% fully linked",
+    "Progress source: https://decomp.dev/LucasPicoli/god-hand-decomp",
+    "Report commit date: 2026-10-03 08:16:22 +00:00",
+    "Report commit: https://github.com/LucasPicoli/god-hand-decomp/commit/58bcee16a279f8ee2bc2a7e9d341a33b325d4151"
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "2026-10-03 08:16:22 +00:00",
+  "report_commit": "https://github.com/LucasPicoli/god-hand-decomp/commit/58bcee16a279f8ee2bc2a7e9d341a33b325d4151"
+}

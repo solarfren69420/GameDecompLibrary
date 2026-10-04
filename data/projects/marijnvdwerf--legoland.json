@@ -1,0 +1,29 @@
+{
+  "id": "marijnvdwerf--legoland",
+  "name": "Legoland",
+  "url": "https://github.com/marijnvdwerf/legoland",
+  "category": "decomp",
+  "group": "4. SMALLER COMMERCIAL, LICENSED, CULT AND NICHE GAMES",
+  "platform": "Windows",
+  "type": "Matching decompilation",
+  "description": "",
+  "progress": {
+    "decompiled": 62.77,
+    "linked": 8.52,
+    "kind": "reported",
+    "label": "62.77% decompiled | 8.52% fully linked"
+  },
+  "targets": [],
+  "sources": [
+    "https://decomp.dev/marijnvdwerf/legoland"
+  ],
+  "notes": [
+    "Legoland | Windows | 62.77% decompiled | 8.52% fully linked",
+    "Progress source: https://decomp.dev/marijnvdwerf/legoland",
+    "Report commit date: 2026-09-26 14:49:42 +00:00",
+    "Report commit: https://github.com/marijnvdwerf/legoland/commit/e8af1b53d7125ad19210615a12a8fd0240f5e355"
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "2026-09-26 14:49:42 +00:00",
+  "report_commit": "https://github.com/marijnvdwerf/legoland/commit/e8af1b53d7125ad19210615a12a8fd0240f5e355"
+}

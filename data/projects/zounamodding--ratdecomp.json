@@ -1,0 +1,29 @@
+{
+  "id": "zounamodding--ratdecomp",
+  "name": "Ratatouille",
+  "url": "https://github.com/ZounaModding/RatDecomp",
+  "category": "decomp",
+  "group": "4. SMALLER COMMERCIAL, LICENSED, CULT AND NICHE GAMES",
+  "platform": "GameCube",
+  "type": "Matching decompilation",
+  "description": "",
+  "progress": {
+    "decompiled": 26.96,
+    "linked": 13.67,
+    "kind": "reported",
+    "label": "26.96% decompiled | 13.67% fully linked"
+  },
+  "targets": [],
+  "sources": [
+    "https://decomp.dev/ZounaModding/RatDecomp"
+  ],
+  "notes": [
+    "Ratatouille | GameCube | 26.96% decompiled | 13.67% fully linked",
+    "Progress source: https://decomp.dev/ZounaModding/RatDecomp",
+    "Report commit date: 2026-09-10 16:49:17 +00:00",
+    "Report commit: https://github.com/ZounaModding/RatDecomp/commit/9fbb782be9c83685bb56310e35939b651cd16345"
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "2026-09-10 16:49:17 +00:00",
+  "report_commit": "https://github.com/ZounaModding/RatDecomp/commit/9fbb782be9c83685bb56310e35939b651cd16345"
+}

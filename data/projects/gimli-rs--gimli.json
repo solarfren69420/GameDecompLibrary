@@ -1,0 +1,30 @@
+{
+  "id": "gimli-rs--gimli",
+  "name": "gimli-rs/gimli",
+  "url": "https://github.com/gimli-rs/gimli",
+  "category": "tool",
+  "group": "BINARY FORMATS / RUNTIME ANALYSIS",
+  "platform": "Cross-platform / project-specific",
+  "type": "Rust DWARF library",
+  "description": "Read/write debugging information; useful where binaries retain suitable debug data.",
+  "progress": {
+    "decompiled": null,
+    "linked": null,
+    "kind": "unknown",
+    "label": "Not applicable to tools"
+  },
+  "targets": [],
+  "sources": [
+    "https://raw.githubusercontent.com/gimli-rs/gimli/main/README.md"
+  ],
+  "notes": [
+    "Type: Rust DWARF library",
+    "Tool completion %: NOT PUBLISHED IN CHECKED SOURCES",
+    "Game decompilation %: NOT APPLICABLE TO THIS TOOL",
+    "Helps with: Read/write debugging information; useful where binaries retain suitable debug data.",
+    "Evidence: https://raw.githubusercontent.com/gimli-rs/gimli/main/README.md"
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "",
+  "report_commit": ""
+}

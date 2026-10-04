@@ -1,0 +1,29 @@
+{
+  "id": "dbalatoni13--nfsmw",
+  "name": "Need for Speed: Most Wanted",
+  "url": "https://github.com/dbalatoni13/nfsmw",
+  "category": "decomp",
+  "group": "2. OLDER AAA / FLAGSHIP CONSOLE AND PC GAMES",
+  "platform": "Windows",
+  "type": "Matching decompilation",
+  "description": "",
+  "progress": {
+    "decompiled": 13.79,
+    "linked": null,
+    "kind": "reported",
+    "label": "13.79% decompiled"
+  },
+  "targets": [],
+  "sources": [
+    "https://decomp.dev/dbalatoni13/nfsmw"
+  ],
+  "notes": [
+    "Need for Speed: Most Wanted | Windows | 13.79% decompiled",
+    "Progress source: https://decomp.dev/dbalatoni13/nfsmw",
+    "Report commit date: 2026-10-02 20:27:22 +00:00",
+    "Report commit: https://github.com/dbalatoni13/nfsmw/commit/1f2cdd7996791c81a580b3f7b36b44d4f9f6719c"
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "2026-10-02 20:27:22 +00:00",
+  "report_commit": "https://github.com/dbalatoni13/nfsmw/commit/1f2cdd7996791c81a580b3f7b36b44d4f9f6719c"
+}

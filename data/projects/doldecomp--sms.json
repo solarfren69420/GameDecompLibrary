@@ -1,0 +1,29 @@
+{
+  "id": "doldecomp--sms",
+  "name": "Super Mario Sunshine",
+  "url": "https://github.com/doldecomp/sms",
+  "category": "decomp",
+  "group": "2. OLDER AAA / FLAGSHIP CONSOLE AND PC GAMES",
+  "platform": "GameCube",
+  "type": "Matching decompilation",
+  "description": "",
+  "progress": {
+    "decompiled": 47.12,
+    "linked": 18.26,
+    "kind": "reported",
+    "label": "47.12% decompiled | 18.26% fully linked"
+  },
+  "targets": [],
+  "sources": [
+    "https://decomp.dev/doldecomp/sms"
+  ],
+  "notes": [
+    "Super Mario Sunshine | GameCube | 47.12% decompiled | 18.26% fully linked",
+    "Progress source: https://decomp.dev/doldecomp/sms",
+    "Report commit date: 2026-10-04 09:28:03 +00:00",
+    "Report commit: https://github.com/doldecomp/sms/commit/4c3bf234106ad24bccabbe33ab2746dff5798d26"
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "2026-10-04 09:28:03 +00:00",
+  "report_commit": "https://github.com/doldecomp/sms/commit/4c3bf234106ad24bccabbe33ab2746dff5798d26"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "memflow--memflow",
+  "name": "memflow/memflow",
+  "url": "https://github.com/memflow/memflow",
+  "category": "tool",
+  "group": "BINARY FORMATS / RUNTIME ANALYSIS",
+  "platform": "Cross-platform / project-specific",
+  "type": "Rust memory introspection",
+  "description": "Memory introspection framework with connector architecture; support depends on connector and target.",
+  "progress": {
+    "decompiled": null,
+    "linked": null,
+    "kind": "unknown",
+    "label": "Not applicable to tools"
+  },
+  "targets": [],
+  "sources": [
+    "https://raw.githubusercontent.com/memflow/memflow/main/README.md"
+  ],
+  "notes": [
+    "Type: Rust memory introspection",
+    "Tool completion %: NOT PUBLISHED IN CHECKED SOURCES",
+    "Game decompilation %: NOT APPLICABLE TO THIS TOOL",
+    "Helps with: Memory introspection framework with connector architecture; support depends on connector and target.",
+    "Evidence: https://raw.githubusercontent.com/memflow/memflow/main/README.md"
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "",
+  "report_commit": ""
+}

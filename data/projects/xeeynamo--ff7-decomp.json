@@ -1,0 +1,29 @@
+{
+  "id": "xeeynamo--ff7-decomp",
+  "name": "Final Fantasy VII",
+  "url": "https://github.com/Xeeynamo/ff7-decomp",
+  "category": "decomp",
+  "group": "2. OLDER AAA / FLAGSHIP CONSOLE AND PC GAMES",
+  "platform": "PlayStation",
+  "type": "Matching decompilation",
+  "description": "",
+  "progress": {
+    "decompiled": 41.82,
+    "linked": null,
+    "kind": "reported",
+    "label": "41.82% decompiled"
+  },
+  "targets": [],
+  "sources": [
+    "https://decomp.dev/Xeeynamo/ff7-decomp"
+  ],
+  "notes": [
+    "Final Fantasy VII | PlayStation | 41.82% decompiled",
+    "Progress source: https://decomp.dev/Xeeynamo/ff7-decomp",
+    "Report commit date: 2026-10-03 23:44:35 +00:00",
+    "Report commit: https://github.com/Xeeynamo/ff7-decomp/commit/7fc198dcab76e3f72569b19f68add364b31de291"
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "2026-10-03 23:44:35 +00:00",
+  "report_commit": "https://github.com/Xeeynamo/ff7-decomp/commit/7fc198dcab76e3f72569b19f68add364b31de291"
+}
