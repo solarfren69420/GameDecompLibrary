@@ -85,12 +85,12 @@ def main():
     lines = [
         '<p align="center"><a href="https://solarfren69420.github.io/GameDecompLibrary/"><img src="assets/library-card.png" alt="GameDecompLibrary: a golden librarian with a collection of game decompilation projects, tools and resources" width="100%"></a></p>', '',
         '# Game Decompilation Library — final accuracy report', '',
-        f'**Audit date: {audit_date} (UTC).** This README contains the final report, corrections, limits and an entry-by-entry audit of the complete 303-project snapshot.', '',
+        f'**Audit date: {audit_date} (UTC).** This README contains the final report, corrections, limits and an entry-by-entry audit of the original 303-project snapshot. Later additions are documented separately below.', '',
         f'[Interactive library](https://solarfren69420.github.io/GameDecompLibrary/) · [Full catalog](CATALOG.md) · [Submit your GitHub]({REPO}/issues/new?template=add-project.yml) · [Suggest a correction]({REPO}/issues/new?template=update-project.yml)', '',
         '<!-- catalog-stats:start -->',
         f"**{len(records)} projects** · {counts['decomp']} game projects · {counts['tool']} tools · {counts['related']} related projects · {counts['unconfirmed']} unconfirmed link",
         '<!-- catalog-stats:end -->', '',
-        'The artwork uses approximate counts. The totals above track the catalog; use the links above to browse, submit a project or suggest a correction.', '',
+        'The artwork has no fixed counts. The totals above update with the catalog; use the links above to browse, submit a project or suggest a correction.', '',
         '## Result', '',
         '| Check | Result |', '| --- | --- |',
         '| Original catalog preservation | All 303 original project URLs retained; no repository silently removed |',
@@ -151,7 +151,7 @@ def main():
     titles = {'decomp': 'Game projects', 'tool': 'Bindings and tools', 'related': 'Related projects', 'unconfirmed': 'Unconfirmed original link'}
     for category, title in titles.items():
         lines += [f'### {title}', '', '| Project | Platform / type | Decompiled | Linked | Target / scope | Audit result | Evidence |', '| --- | --- | --- | --- | --- | --- | --- |']
-        for entry in sorted((e for e in records if e['category'] == category), key=lambda e: e['name'].casefold()):
+        for entry in sorted((e for e in records if e['category'] == category and e['id'] in checked), key=lambda e: e['name'].casefold()):
             result = checked[entry['id']]
             status = result['metric']['status']
             labels = {'confirmed': 'Report checked', 'confirmed-published-metric': 'Published metric checked', 'qualified-maintainer-claim': 'Qualitative claim only', 'confirmed-function-count': 'Function metric checked', 'no-numeric-claim': 'Purpose reviewed'}
@@ -174,14 +174,22 @@ def main():
         '## Repository social preview', '',
         "The blue, yellow and orange strip on GitHub's default preview represents this repository's Python, JavaScript and HTML file sizes. It does not indicate game decompilation progress.", '',
         "To replace that default card, download [the prepared social preview](assets/social-preview.jpg), open [Settings → General](https://github.com/solarfren69420/GameDecompLibrary/settings), and choose **Social preview → Edit → Upload an image…**. The JPEG is 1280 × 640 and under 1 MB, following [GitHub's image requirements](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/customizing-your-repositorys-social-media-preview). Committing artwork to the README does not activate this separate GitHub setting.", '',
-        'The README uses your original artwork. The wider social preview uses the same theme with the exact 303-entry snapshot counts. Artwork is static; the catalog workflow updates the text totals above. After catalog additions, update the preview artwork and upload it again if you want its numbers to reflect the newer totals.', '',
+        'The README uses your supplied artwork. The wider social preview uses the same theme without fixed numbers. The catalog workflow updates the text totals above, so adding repositories does not require redrawing the artwork.', '',
         '## Reproducible evidence and checks', '',
         'The readable final report is this single README. Supporting machine records include [per-source results and hashes](sources/audit-results.json), [before/after tracker records](sources/audit-changes.json) and the [unaltered original catalog](sources/game-decomp-github-linklist.txt). Source bodies are cached locally for the audit and are not copied into the public repository.', '',
         '```sh', 'python3 -m unittest discover -s tests -v', 'python3 scripts/build.py --update-docs', 'node --check web/app.js', '```', '',
         'For a new live audit, run `python3 scripts/audit_sources.py --refresh`. Without `--refresh`, the collector reuses this audit session’s local cache. This read-only collector distinguishes URL retrieval from semantic scope review. A fresh run does not certify claims automatically; review its findings before finalizing a new report.', '',
         'For local preview:', '', '```sh', 'python3 scripts/build.py', 'python3 -m http.server 8080 --directory _site', '```', '',
         'Additional operating instructions remain in [CONTRIBUTING.md](CONTRIBUTING.md) and [MAINTAINING.md](MAINTAINING.md).']
-    (ROOT / 'README.md').write_text('\n'.join(lines).rstrip() + '\n')
+    # Keep separately reviewed community additions outside this dated audit.
+    readme_path = ROOT / 'README.md'
+    previous = readme_path.read_text()
+    additions_heading = '## Additions outside the original audit\n'
+    if additions_heading in previous:
+        additions = previous.split(additions_heading, 1)[1].split('\n## Result\n', 1)[0]
+        result_index = lines.index('## Result')
+        lines[result_index:result_index] = [additions_heading.rstrip(), additions.rstrip(), '']
+    readme_path.write_text('\n'.join(lines).rstrip() + '\n')
     print('Final report written to README.md:', dict(Counter(r['metric']['status'] for r in report['projects'])))
 
 

@@ -2,15 +2,21 @@
 
 # Game Decompilation Library — final accuracy report
 
-**Audit date: 2026-10-04 (UTC).** This README contains the final report, corrections, limits and an entry-by-entry audit of the complete 303-project snapshot.
+**Audit date: 2026-10-04 (UTC).** This README contains the final report, corrections, limits and an entry-by-entry audit of the original 303-project snapshot. Later additions are documented separately below.
 
 [Interactive library](https://solarfren69420.github.io/GameDecompLibrary/) · [Full catalog](CATALOG.md) · [Submit your GitHub](https://github.com/solarfren69420/GameDecompLibrary/issues/new?template=add-project.yml) · [Suggest a correction](https://github.com/solarfren69420/GameDecompLibrary/issues/new?template=update-project.yml)
 
 <!-- catalog-stats:start -->
-**303 projects** · 220 game projects · 71 tools · 11 related projects · 1 unconfirmed link
+**304 projects** · 220 game projects · 71 tools · 12 related projects · 1 unconfirmed link
 <!-- catalog-stats:end -->
 
-The artwork uses approximate counts. The totals above track the catalog; use the links above to browse, submit a project or suggest a correction.
+The artwork has no fixed counts. The totals above update with the catalog; use the links above to browse, submit a project or suggest a correction.
+
+## Additions outside the original audit
+
+**2026-10-04 — [Project Arceus](https://github.com/NicoRuedaA/project-arceus)** was accepted under **Related projects** as a reverse-engineering workspace and experimental Rust/Bevy port scaffold for Pokémon Legends: Arceus. Its [catalog record](data/projects/nicoruedaa--project-arceus.json) includes commit-pinned sources and review qualifications. The review compared its README, source, report definitions, all 38 recorded Rust source hashes and the evidence-ledger hash. It did not build or gameplay-test the project.
+
+Its report's 64.151855% byte coverage describes exported Ghidra pseudocode for the update main NSO; implementation, behavior verification and binary matching remain unknown. This is not a comparable overall game completion percentage, so both numeric catalog fields stay null. This separate review does not change the original audit's 303-entry results below.
 
 ## Result
 
@@ -439,7 +445,7 @@ The blue, yellow and orange strip on GitHub's default preview represents this re
 
 To replace that default card, download [the prepared social preview](assets/social-preview.jpg), open [Settings → General](https://github.com/solarfren69420/GameDecompLibrary/settings), and choose **Social preview → Edit → Upload an image…**. The JPEG is 1280 × 640 and under 1 MB, following [GitHub's image requirements](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/customizing-your-repositorys-social-media-preview). Committing artwork to the README does not activate this separate GitHub setting.
 
-The README uses your original artwork. The wider social preview uses the same theme with the exact 303-entry snapshot counts. Artwork is static; the catalog workflow updates the text totals above. After catalog additions, update the preview artwork and upload it again if you want its numbers to reflect the newer totals.
+The README uses your supplied artwork. The wider social preview uses the same theme without fixed numbers. The catalog workflow updates the text totals above, so adding repositories does not require redrawing the artwork.
 
 ## Reproducible evidence and checks
 

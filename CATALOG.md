@@ -384,6 +384,12 @@ Percentages describe a cited target and snapshot, not overall game completion. L
 | [Pokémon Ruby / Sapphire](https://github.com/pret/pokeruby) · [details](data/projects/pret--pokeruby.json) | Assembly-labelled disassembly / reconstruction | N/A | — | [Source](https://raw.githubusercontent.com/pret/pokeruby/HEAD/README.md) · 2026-10-04 |
 | [Pokémon HeartGold / SoulSilver](https://github.com/pret/pokeheartgold) · [details](data/projects/pret--pokeheartgold.json) | WIP disassembly | N/A | — | [Source](https://raw.githubusercontent.com/pret/pokeheartgold/HEAD/README.md) · 2026-10-04 |
 
+### Community submissions
+
+| Project / repository | Platform or type | Decompiled | Linked | Evidence / snapshot |
+| --- | --- | --- | --- | --- |
+| [Pokémon Legends: Arceus — Project Arceus](https://github.com/NicoRuedaA/project-arceus) · [details](data/projects/nicoruedaa--project-arceus.json) | Reverse-engineering workspace / experimental port scaffold | N/A | — | [Source](https://github.com/NicoRuedaA/project-arceus/blob/9efdd6933edbe18e1a30a37aa17bdf59a718fb30/README.md) · 2026-10-04 |
+
 ## Unconfirmed original links
 
 ### Unconfirmed original link

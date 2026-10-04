@@ -1,0 +1,35 @@
+{
+  "id": "nicoruedaa--project-arceus",
+  "name": "Pokémon Legends: Arceus — Project Arceus",
+  "url": "https://github.com/NicoRuedaA/project-arceus",
+  "category": "related",
+  "group": "Community submissions",
+  "platform": "Nintendo Switch; update v262144 main NSO research target",
+  "type": "Reverse-engineering workspace / experimental port scaffold",
+  "description": "Reverse-engineering workspace for Pokémon Legends: Arceus, with extraction and analysis tools, a versioned TSV sheet book, and an experimental Rust/Bevy port scaffold.",
+  "progress": {
+    "decompiled": null,
+    "linked": null,
+    "kind": "unknown",
+    "label": "Experimental workspace; comparable game completion not verified"
+  },
+  "targets": [],
+  "sources": [
+    "https://github.com/NicoRuedaA/project-arceus/blob/9efdd6933edbe18e1a30a37aa17bdf59a718fb30/README.md",
+    "https://github.com/NicoRuedaA/project-arceus/blob/9efdd6933edbe18e1a30a37aa17bdf59a718fb30/reports/function-progress/update-v262144/manifest.json",
+    "https://github.com/NicoRuedaA/project-arceus/blob/9efdd6933edbe18e1a30a37aa17bdf59a718fb30/crates/pla/src/host/subsystems/field.rs",
+    "https://github.com/NicoRuedaA/project-arceus/blob/9efdd6933edbe18e1a30a37aa17bdf59a718fb30/crates/pla/tests/common/mod.rs",
+    "https://github.com/NicoRuedaA/project-arceus/blob/9efdd6933edbe18e1a30a37aa17bdf59a718fb30/REPRODUCE.md"
+  ],
+  "notes": [
+    "The README describes a reverse-engineering workspace and port scaffold, with container/asset parsers, Lua hosting, and stubbed host bindings. This listing does not certify a playable or completed port.",
+    "The published update-v262144 report covers the update main NSO only. Its 64.151855% original function-body-byte coverage and 18.005269% function-count coverage describe Ghidra pseudocode exports; they are not a game completion or matching reconstruction metric.",
+    "The report marks native-function implementation, behavior verification, and binary matching as unknown for all 68,330 inventoried functions. Unknown is not zero.",
+    "Source review cross-checked the README, report denominator and state definitions, generation manifest hash, all 38 Rust source file hashes, and the manual evidence ledger hash at the pinned commit. The workspace was not built or gameplay-tested in this review.",
+    "The source fixture loader skips tests when game fixtures are absent; a clean-clone passing test run alone would not establish asset or gameplay parity.",
+    "The repository is a newly published single-commit snapshot. This review establishes its published purpose and scope, not sustained maintenance or completeness."
+  ],
+  "snapshot_date": "2026-10-04",
+  "report_date": "",
+  "report_commit": "https://github.com/NicoRuedaA/project-arceus/commit/9efdd6933edbe18e1a30a37aa17bdf59a718fb30"
+}
