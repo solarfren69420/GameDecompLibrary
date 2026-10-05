@@ -28,5 +28,14 @@
   "snapshot_date": "2026-10-04",
   "report_date": "2026-04-14 03:51:12 +00:00",
   "report_commit": "https://github.com/jdperos/chrono-cross-decomp/commit/7dcadfc36421c9b26466f7fdbdbaa1a1102219c6",
-  "report_target": "slps_023.64"
+  "report_target": "slps_023.64",
+  "method_tags": [
+    {
+      "id": "matching-decompilation",
+      "source": "https://raw.githubusercontent.com/jdperos/chrono-cross-decomp/7dcadfc36421c9b26466f7fdbdbaa1a1102219c6/README.md",
+      "note": "The upstream README describes source reconstruction targeting original instruction bytes or checksum verification of rebuilt game binaries. This tag describes the matching workflow, not completion or a build independently verified here.",
+      "checked_at": "2026-10-05",
+      "source_sha256": "2157edfcf91e60d1fd9bb50bd7ae8c7a92ee19ea68bcb7520504974927c6d835"
+    }
+  ]
 }

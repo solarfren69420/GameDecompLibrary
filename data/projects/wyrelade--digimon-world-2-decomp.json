@@ -28,5 +28,14 @@
   "snapshot_date": "2026-10-04",
   "report_date": "2026-10-04 11:36:00 +00:00",
   "report_commit": "https://github.com/Wyrelade/Digimon-World-2-Decomp/commit/2eda38446be372ebf6b7a976e66f6cef077f5f3e",
-  "report_target": "SLUS-01193"
+  "report_target": "SLUS-01193",
+  "method_tags": [
+    {
+      "id": "matching-decompilation",
+      "source": "https://raw.githubusercontent.com/Wyrelade/Digimon-World-2-Decomp/2eda38446be372ebf6b7a976e66f6cef077f5f3e/README.md",
+      "note": "The upstream README describes source reconstruction targeting original instruction bytes or checksum verification of rebuilt game binaries. This tag describes the matching workflow, not completion or a build independently verified here.",
+      "checked_at": "2026-10-05",
+      "source_sha256": "fd804511117cfc382492385272cf44f7ab75c20caf5254b60214fa9b25d963ac"
+    }
+  ]
 }

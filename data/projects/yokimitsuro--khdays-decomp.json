@@ -28,5 +28,14 @@
   "snapshot_date": "2026-10-04",
   "report_date": "2026-09-30 11:15:53 +00:00",
   "report_commit": "https://github.com/Yokimitsuro/khdays-decomp/commit/ea39ead5e3c4f284bb243b9082e948847038bcd4",
-  "report_target": "YKGP"
+  "report_target": "YKGP",
+  "method_tags": [
+    {
+      "id": "matching-decompilation",
+      "source": "https://raw.githubusercontent.com/Yokimitsuro/khdays-decomp/ea39ead5e3c4f284bb243b9082e948847038bcd4/README.md",
+      "note": "The upstream README describes source reconstruction targeting original instruction bytes or checksum verification of rebuilt game binaries. This tag describes the matching workflow, not completion or a build independently verified here.",
+      "checked_at": "2026-10-05",
+      "source_sha256": "c73baaf00790482d55c0f3b4ae6f730b0bcc92f38399aebc136a48b77c6149e3"
+    }
+  ]
 }

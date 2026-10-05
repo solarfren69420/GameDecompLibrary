@@ -26,5 +26,14 @@
   ],
   "snapshot_date": "2026-10-04",
   "report_date": "",
-  "report_commit": ""
+  "report_commit": "",
+  "method_tags": [
+    {
+      "id": "tooling",
+      "source": "https://raw.githubusercontent.com/soulsmods/SoulsFormatsNEXT/HEAD/README.md",
+      "note": "The original catalog audit reviewed this upstream project as supporting tooling, bindings or a library; game-completion percentages do not apply.",
+      "checked_at": "2026-10-04",
+      "source_sha256": "b03c3c896a3a99d3eba1e6577ebee3e3f1df9d7cc30c056fcec75ce0e0833d07"
+    }
+  ]
 }

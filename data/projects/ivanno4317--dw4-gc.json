@@ -28,5 +28,14 @@
   "snapshot_date": "2026-10-04",
   "report_date": "2026-09-16 15:24:42 +00:00",
   "report_commit": "https://github.com/ivanno4317/dw4-gc/commit/41c27d8756e298558ca9be61c1c89afeee336c01",
-  "report_target": "GDJEB2"
+  "report_target": "GDJEB2",
+  "method_tags": [
+    {
+      "id": "matching-decompilation",
+      "source": "https://raw.githubusercontent.com/ivanno4317/dw4-gc/41c27d8756e298558ca9be61c1c89afeee336c01/README.md",
+      "note": "The README documents compiling reconstructed source and a configured objdiff workflow comparing generated objects to target reference objects. This labels the reconstruction workflow, not a completed binary match or manual-only authorship.",
+      "checked_at": "2026-10-05",
+      "source_sha256": "dc347ca0080282f874008eaa0b14ff5a7aba08329787204845dd43e9c999d975"
+    }
+  ]
 }

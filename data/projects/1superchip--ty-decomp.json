@@ -28,5 +28,14 @@
   "snapshot_date": "2026-10-04",
   "report_date": "2026-10-03 20:07:30 +00:00",
   "report_commit": "https://github.com/1superchip/ty-decomp/commit/9b6fd3904c7666ae086f1dbe971da58b41514df6",
-  "report_target": "GTYE69"
+  "report_target": "GTYE69",
+  "method_tags": [
+    {
+      "id": "matching-decompilation",
+      "source": "https://raw.githubusercontent.com/1superchip/ty-decomp/9b6fd3904c7666ae086f1dbe971da58b41514df6/README.md",
+      "note": "The README documents compiling reconstructed source and a configured objdiff workflow comparing generated objects to target reference objects. This labels the reconstruction workflow, not a completed binary match or manual-only authorship.",
+      "checked_at": "2026-10-05",
+      "source_sha256": "51b69fa9f0ce37ad8cb0e685131d67b85657e3f5bdcfb95e1aad1624b4f4f49a"
+    }
+  ]
 }

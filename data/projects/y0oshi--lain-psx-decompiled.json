@@ -28,5 +28,14 @@
   "snapshot_date": "2026-10-04",
   "report_date": "2026-09-28 16:07:59 +00:00",
   "report_commit": "https://github.com/Y0oshi/lain-psx-decompiled/commit/a9274b0828fff41ef5cb3226ceb945210cc501e8",
-  "report_target": "SLPS_016.03"
+  "report_target": "SLPS_016.03",
+  "method_tags": [
+    {
+      "id": "matching-decompilation",
+      "source": "https://raw.githubusercontent.com/Y0oshi/lain-psx-decompiled/a9274b0828fff41ef5cb3226ceb945210cc501e8/README.md",
+      "note": "The upstream README describes source reconstruction targeting original instruction bytes or checksum verification of rebuilt game binaries. This tag describes the matching workflow, not completion or a build independently verified here.",
+      "checked_at": "2026-10-05",
+      "source_sha256": "0aa3f153daca4027fd2c14c23c8fcc327e320bdd0d248d069fa4220c4cd64092"
+    }
+  ]
 }

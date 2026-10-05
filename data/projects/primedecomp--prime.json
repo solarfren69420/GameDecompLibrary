@@ -28,5 +28,14 @@
   "snapshot_date": "2026-10-04",
   "report_date": "2026-10-04 11:10:16 +00:00",
   "report_commit": "https://github.com/PrimeDecomp/prime/commit/ba28027b0d5086997aea12b2086e151de94fa750",
-  "report_target": "GM8E01_00"
+  "report_target": "GM8E01_00",
+  "method_tags": [
+    {
+      "id": "matching-decompilation",
+      "source": "https://raw.githubusercontent.com/PrimeDecomp/prime/ba28027b0d5086997aea12b2086e151de94fa750/README.md",
+      "note": "The README documents compiling reconstructed source and a configured objdiff workflow comparing generated objects to target reference objects. This labels the reconstruction workflow, not a completed binary match or manual-only authorship.",
+      "checked_at": "2026-10-05",
+      "source_sha256": "308c28d4c63f3f87762bb6145ab219957b7325fe1e15fffd161d09da11162642"
+    }
+  ]
 }

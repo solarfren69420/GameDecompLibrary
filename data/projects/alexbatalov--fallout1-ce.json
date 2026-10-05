@@ -35,5 +35,14 @@
   ],
   "snapshot_date": "2026-10-04",
   "report_date": "",
-  "report_commit": ""
+  "report_commit": "",
+  "method_tags": [
+    {
+      "id": "rewrite",
+      "source": "https://raw.githubusercontent.com/alexbatalov/fallout1-ce/HEAD/README.md",
+      "note": "The README describes Fallout Community Edition as a reimplementation with original gameplay, engine fixes and cross-platform support. No binary-matching claim is inferred.",
+      "checked_at": "2026-10-05",
+      "source_sha256": "e4ecc55513fa082a746811d4c5c7f4fb6c61b3ba46328cfcc4204b72731b8e8b"
+    }
+  ]
 }

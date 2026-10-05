@@ -28,5 +28,14 @@
   "snapshot_date": "2026-10-04",
   "report_date": "2026-10-02 22:41:01 +00:00",
   "report_commit": "https://github.com/doldecomp/brawl/commit/39d7fee6a8e70a198052d0e658d5cfa27aa5226a",
-  "report_target": "RSBE01_02"
+  "report_target": "RSBE01_02",
+  "method_tags": [
+    {
+      "id": "matching-decompilation",
+      "source": "https://raw.githubusercontent.com/doldecomp/brawl/39d7fee6a8e70a198052d0e658d5cfa27aa5226a/README.md",
+      "note": "The README documents compiling reconstructed source and a configured objdiff workflow comparing generated objects to target reference objects. This labels the reconstruction workflow, not a completed binary match or manual-only authorship.",
+      "checked_at": "2026-10-05",
+      "source_sha256": "4815ce037942a4c7dd53fa92d12debe248bdba019bc4d0d5ba99e7d425837d98"
+    }
+  ]
 }

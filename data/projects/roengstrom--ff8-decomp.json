@@ -28,5 +28,14 @@
   "snapshot_date": "2026-10-04",
   "report_date": "2026-10-02 19:43:33 +00:00",
   "report_commit": "https://github.com/roengstrom/ff8-decomp/commit/e6969cf6eacd8dd73235edd78575fc3c61788a45",
-  "report_target": "SLUS_008.92"
+  "report_target": "SLUS_008.92",
+  "method_tags": [
+    {
+      "id": "matching-decompilation",
+      "source": "https://raw.githubusercontent.com/roengstrom/ff8-decomp/e6969cf6eacd8dd73235edd78575fc3c61788a45/README.md",
+      "note": "The upstream README describes source reconstruction targeting original instruction bytes or checksum verification of rebuilt game binaries. This tag describes the matching workflow, not completion or a build independently verified here.",
+      "checked_at": "2026-10-05",
+      "source_sha256": "41c424090f61f8b09387dcb7e7e28a37bba119cb61180cf56a495a31df598680"
+    }
+  ]
 }

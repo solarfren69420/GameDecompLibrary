@@ -28,5 +28,14 @@
   "snapshot_date": "2026-10-04",
   "report_date": "2026-09-27 11:51:17 +00:00",
   "report_commit": "https://github.com/marijnvdwerf/paperboy-n64/commit/439f9883fc4c11ffde3de37876bd69a958307220",
-  "report_target": "ntsc"
+  "report_target": "ntsc",
+  "method_tags": [
+    {
+      "id": "matching-decompilation",
+      "source": "https://raw.githubusercontent.com/marijnvdwerf/paperboy-n64/439f9883fc4c11ffde3de37876bd69a958307220/README.md",
+      "note": "The README distinguishes its matching NTSC ROM build from a separate non-retail PAL variant; this tag applies to the NTSC target.",
+      "checked_at": "2026-10-05",
+      "source_sha256": "fd8a19ea11d66f36ed7cc1f6b5e4604739e615e1fa38c9b3926d61583d4188ed"
+    }
+  ]
 }

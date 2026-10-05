@@ -26,5 +26,14 @@
   ],
   "snapshot_date": "2026-10-04",
   "report_date": "",
-  "report_commit": ""
+  "report_commit": "",
+  "method_tags": [
+    {
+      "id": "tooling",
+      "source": "https://raw.githubusercontent.com/yuanyan3060/unity-rs/HEAD/README.md",
+      "note": "The original catalog audit reviewed this upstream project as supporting tooling, bindings or a library; game-completion percentages do not apply.",
+      "checked_at": "2026-10-04",
+      "source_sha256": "d0e9eec78bcff8af67a71b4050c47284c58cea32904cf40fe1012355bd080ac1"
+    }
+  ]
 }

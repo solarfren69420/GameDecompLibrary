@@ -28,5 +28,21 @@
   "snapshot_date": "2026-10-04",
   "report_date": "2026-07-09 06:18:15 +00:00",
   "report_commit": "https://github.com/laqieer/fireemblem8u/commit/7b47dec8da6ff7c2ff9aad2bfa9bf40cc8b07b90",
-  "report_target": "us"
+  "report_target": "us",
+  "method_tags": [
+    {
+      "id": "matching-decompilation",
+      "source": "https://raw.githubusercontent.com/laqieer/fireemblem8u/7b47dec8da6ff7c2ff9aad2bfa9bf40cc8b07b90/README.md",
+      "note": "The upstream README describes source reconstruction targeting original instruction bytes or checksum verification of rebuilt game binaries. This tag describes the matching workflow, not completion or a build independently verified here.",
+      "checked_at": "2026-10-05",
+      "source_sha256": "ae32b691c84b834987010ff9840bee932443b94a219efe971df2d2bfe60ecc9b"
+    },
+    {
+      "id": "disassembly",
+      "source": "https://raw.githubusercontent.com/laqieer/fireemblem8u/7b47dec8da6ff7c2ff9aad2bfa9bf40cc8b07b90/README.md",
+      "note": "The README explicitly describes this as both a disassembly and a decompilation; the method tags preserve that mixed source scope.",
+      "checked_at": "2026-10-05",
+      "source_sha256": "ae32b691c84b834987010ff9840bee932443b94a219efe971df2d2bfe60ecc9b"
+    }
+  ]
 }

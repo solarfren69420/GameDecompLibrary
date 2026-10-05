@@ -184,6 +184,11 @@ def main():
     # Keep separately reviewed community additions outside this dated audit.
     readme_path = ROOT / 'README.md'
     previous = readme_path.read_text()
+    method_start, method_end = '<!-- method-guide:start -->', '<!-- method-guide:end -->'
+    if method_start in previous and method_end in previous:
+        method_guide = previous.split(method_start, 1)[1].split(method_end, 1)[0]
+        result_index = lines.index('## Result')
+        lines[result_index:result_index] = [method_start + method_guide + method_end, '']
     additions_heading = '## Additions outside the original audit\n'
     if additions_heading in previous:
         additions = previous.split(additions_heading, 1)[1].split('\n## Result\n', 1)[0]

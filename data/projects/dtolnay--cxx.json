@@ -26,5 +26,14 @@
   ],
   "snapshot_date": "2026-10-04",
   "report_date": "",
-  "report_commit": ""
+  "report_commit": "",
+  "method_tags": [
+    {
+      "id": "tooling",
+      "source": "https://raw.githubusercontent.com/dtolnay/cxx/HEAD/README.md",
+      "note": "The original catalog audit reviewed this upstream project as supporting tooling, bindings or a library; game-completion percentages do not apply.",
+      "checked_at": "2026-10-04",
+      "source_sha256": "a9e142f17732db7fddadb4888922070ee2494473187c7d8f0c3b2910441a3a90"
+    }
+  ]
 }

@@ -28,5 +28,14 @@
   "snapshot_date": "2026-10-04",
   "report_date": "2026-09-05 00:22:23 +00:00",
   "report_commit": "https://github.com/Dream-Atelier/kl-eod-decomp/commit/7f0f076352ce064ad8b0026837a8e61fe850ff28",
-  "report_target": "us"
+  "report_target": "us",
+  "method_tags": [
+    {
+      "id": "matching-decompilation",
+      "source": "https://raw.githubusercontent.com/Dream-Atelier/kl-eod-decomp/7f0f076352ce064ad8b0026837a8e61fe850ff28/README.md",
+      "note": "The upstream README describes source reconstruction targeting original instruction bytes or checksum verification of rebuilt game binaries. This tag describes the matching workflow, not completion or a build independently verified here.",
+      "checked_at": "2026-10-05",
+      "source_sha256": "bf931755b1ecbe5bb71e0a233d676a507b4dbff4eeda5f51ef0edb6bf1c17e9e"
+    }
+  ]
 }

@@ -28,5 +28,14 @@
   "snapshot_date": "2026-10-04",
   "report_date": "2026-09-30 00:00:05 +00:00",
   "report_commit": "https://github.com/zcanann/SFA-Decomp/commit/13491b1880c8326f4acba4ca35d7e891ae78a806",
-  "report_target": "GSAE01"
+  "report_target": "GSAE01",
+  "method_tags": [
+    {
+      "id": "matching-decompilation",
+      "source": "https://raw.githubusercontent.com/zcanann/SFA-Decomp/13491b1880c8326f4acba4ca35d7e891ae78a806/README.md",
+      "note": "The README documents compiling reconstructed source and a configured objdiff workflow comparing generated objects to target reference objects. This labels the reconstruction workflow, not a completed binary match or manual-only authorship.",
+      "checked_at": "2026-10-05",
+      "source_sha256": "da8f0c4783cdc6741f85b6ba310d543651060d4677f5eb2baccbb498d6c9880d"
+    }
+  ]
 }

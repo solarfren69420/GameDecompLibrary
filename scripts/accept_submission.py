@@ -6,7 +6,7 @@ import re
 from datetime import date
 from urllib.error import HTTPError
 from urllib.parse import quote
-from catalog import load_projects, validate
+from catalog import METHODS, load_projects, validate
 from github_api import api
 
 CATEGORY_MAP = {"Game decompilation": "decomp", "Binding or tool": "tool",
@@ -56,6 +56,18 @@ def entry_from_issue(issue):
              "progress": metric, "targets": [], "sources": [fields["Evidence URL"]],
              "notes": [fields["Notes / scope"]] if fields.get("Notes / scope") else [],
              "snapshot_date": date.today().isoformat(), "report_date": "", "report_commit": ""}
+    method_names = [name.strip() for name in re.split(r",|\n", fields.get("Reconstruction methods", "")) if name.strip()]
+    if method_names:
+        by_label = {value["label"]: key for key, value in METHODS.items()}
+        if any(name not in by_label for name in method_names):
+            raise ValueError("Choose supported reconstruction methods")
+        if not fields.get("Method evidence URL") or not fields.get("Method scope"):
+            raise ValueError("Selected methods require their evidence URL and scope")
+        entry["method_tags"] = [
+            {"id": by_label[name], "source": fields["Method evidence URL"],
+             "note": fields["Method scope"], "checked_at": date.today().isoformat()}
+            for name in method_names
+        ]
     validate(entry)
     return entry
 

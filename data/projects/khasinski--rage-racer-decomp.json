@@ -28,5 +28,14 @@
   "snapshot_date": "2026-10-04",
   "report_date": "2026-09-05 12:22:12 +00:00",
   "report_commit": "https://github.com/khasinski/rage-racer-decomp/commit/c5273505acbe282aa92f88cff52065fbc5007aed",
-  "report_target": "SCES_006.50"
+  "report_target": "SCES_006.50",
+  "method_tags": [
+    {
+      "id": "matching-decompilation",
+      "source": "https://raw.githubusercontent.com/khasinski/rage-racer-decomp/c5273505acbe282aa92f88cff52065fbc5007aed/README.md",
+      "note": "The upstream README describes source reconstruction targeting original instruction bytes or checksum verification of rebuilt game binaries. This tag describes the matching workflow, not completion or a build independently verified here.",
+      "checked_at": "2026-10-05",
+      "source_sha256": "38fc8f130e36f95c542be63728ffe1dc75a0a113ba666c4ee51046a2a83727fa"
+    }
+  ]
 }

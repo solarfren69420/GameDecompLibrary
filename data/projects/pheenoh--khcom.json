@@ -28,5 +28,14 @@
   "snapshot_date": "2026-10-04",
   "report_date": "2026-10-04 11:34:54 +00:00",
   "report_commit": "https://github.com/Pheenoh/khcom/commit/d7b19676c61634630a559ba5db66fe60b91eaefe",
-  "report_target": "us"
+  "report_target": "us",
+  "method_tags": [
+    {
+      "id": "matching-decompilation",
+      "source": "https://raw.githubusercontent.com/Pheenoh/khcom/d7b19676c61634630a559ba5db66fe60b91eaefe/README.md",
+      "note": "The upstream README describes source reconstruction targeting original instruction bytes or checksum verification of rebuilt game binaries. This tag describes the matching workflow, not completion or a build independently verified here.",
+      "checked_at": "2026-10-05",
+      "source_sha256": "4b637b162fb80b6f979b9ab66eefbd1178ad525e2f95b2ff59891c8658d6aa8e"
+    }
+  ]
 }

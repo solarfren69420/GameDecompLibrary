@@ -28,5 +28,14 @@
   "snapshot_date": "2026-10-04",
   "report_date": "2026-10-02 14:59:52 +00:00",
   "report_commit": "https://github.com/SMGCommunity/Garigari/commit/6bff50a405a858638f39e944ad3f7919f056cea5",
-  "report_target": "SB4E01"
+  "report_target": "SB4E01",
+  "method_tags": [
+    {
+      "id": "matching-decompilation",
+      "source": "https://raw.githubusercontent.com/SMGCommunity/Garigari/6bff50a405a858638f39e944ad3f7919f056cea5/README.md",
+      "note": "The README documents compiling reconstructed source and a configured objdiff workflow comparing generated objects to target reference objects. This labels the reconstruction workflow, not a completed binary match or manual-only authorship.",
+      "checked_at": "2026-10-05",
+      "source_sha256": "acc372c76bec088289075e2a18d1bee3ede79f849b25459734fd08ae25adc588"
+    }
+  ]
 }

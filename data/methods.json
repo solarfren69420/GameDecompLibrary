@@ -1,0 +1,46 @@
+{
+  "matching-decompilation": {
+    "label": "Matching decompilation",
+    "description": "Upstream describes source reconstruction targeting the original compiled binary. This is a method or goal, not a claim of 100% completion or a build verified by this library."
+  },
+  "nonmatching-decompilation": {
+    "label": "Non-matching decompilation",
+    "description": "Upstream explicitly describes reconstruction that does not target an identical original binary."
+  },
+  "rewrite": {
+    "label": "Rewrite / reimplementation",
+    "description": "An implementation intended to reproduce game behavior, rather than establish an identical original binary."
+  },
+  "ghidra-pseudocode": {
+    "label": "Ghidra pseudocode",
+    "description": "The project includes or reports Ghidra-generated pseudocode exports. This alone establishes neither compilable reconstruction nor matching code nor a playable port."
+  },
+  "disassembly": {
+    "label": "Disassembly",
+    "description": "Reconstructed assembly source for an original executable or ROM."
+  },
+  "static-recompilation": {
+    "label": "Static recompilation",
+    "description": "Translation of original machine code for another host or runtime, rather than a matching source decompilation."
+  },
+  "official-source-release": {
+    "label": "Official source release",
+    "description": "Source published by the original game's developer."
+  },
+  "source-port": {
+    "label": "Source port",
+    "description": "A source-based adaptation for other platforms; this tag does not certify completeness or playability."
+  },
+  "experimental-port": {
+    "label": "Experimental port scaffold",
+    "description": "An early port workspace or scaffold, without a verified completed playable port."
+  },
+  "generated-code": {
+    "label": "Mechanically generated code",
+    "description": "Parts of the source are emitted by tools from instruction patterns or blocks. This can overlap with matching reconstruction; the evidence note distinguishes generated expressions from instruction wrappers."
+  },
+  "tooling": {
+    "label": "Tool / library",
+    "description": "Supporting tooling, bindings or libraries; game-completion percentages do not apply."
+  }
+}

@@ -28,5 +28,14 @@
   "snapshot_date": "2026-10-04",
   "report_date": "2026-10-04 06:55:15 +00:00",
   "report_commit": "https://github.com/zcanann/bfbb/commit/8cc01f357bcdf483e93d1b133ae524bdaebdcfda",
-  "report_target": "GQPE78"
+  "report_target": "GQPE78",
+  "method_tags": [
+    {
+      "id": "matching-decompilation",
+      "source": "https://raw.githubusercontent.com/zcanann/bfbb/8cc01f357bcdf483e93d1b133ae524bdaebdcfda/README.md",
+      "note": "The README documents compiling reconstructed source and a configured objdiff workflow comparing generated objects to target reference objects. This labels the reconstruction workflow, not a completed binary match or manual-only authorship.",
+      "checked_at": "2026-10-05",
+      "source_sha256": "04027d41f52e6a8db116b830b1d9ed6e7a9b8235ca76aaca1ef0fe5b60b4ff26"
+    }
+  ]
 }

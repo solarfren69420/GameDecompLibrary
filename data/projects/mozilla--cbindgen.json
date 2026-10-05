@@ -26,5 +26,14 @@
   ],
   "snapshot_date": "2026-10-04",
   "report_date": "",
-  "report_commit": ""
+  "report_commit": "",
+  "method_tags": [
+    {
+      "id": "tooling",
+      "source": "https://raw.githubusercontent.com/mozilla/cbindgen/HEAD/README.md",
+      "note": "The original catalog audit reviewed this upstream project as supporting tooling, bindings or a library; game-completion percentages do not apply.",
+      "checked_at": "2026-10-04",
+      "source_sha256": "f3fd44dd788cb5d4010c680d7c9343fbbe691fa059ac3d236159e47f8db47482"
+    }
+  ]
 }

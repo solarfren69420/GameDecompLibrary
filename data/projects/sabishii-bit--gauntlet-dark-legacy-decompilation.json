@@ -28,5 +28,14 @@
   "snapshot_date": "2026-10-04",
   "report_date": "2026-09-25 14:24:41 +00:00",
   "report_commit": "https://github.com/sabishii-bit/Gauntlet-Dark-Legacy-Decompilation/commit/4fdf0492d5d828b16ee1a961c17bf855a8d2668f",
-  "report_target": "GUNE5D"
+  "report_target": "GUNE5D",
+  "method_tags": [
+    {
+      "id": "matching-decompilation",
+      "source": "https://raw.githubusercontent.com/sabishii-bit/Gauntlet-Dark-Legacy-Decompilation/4fdf0492d5d828b16ee1a961c17bf855a8d2668f/README.md",
+      "note": "The README documents compiling reconstructed source and a configured objdiff workflow comparing generated objects to target reference objects. This labels the reconstruction workflow, not a completed binary match or manual-only authorship.",
+      "checked_at": "2026-10-05",
+      "source_sha256": "3c267953e157c677e883abd0a3706bee1e52c6632c483b3dd41e2442962b511f"
+    }
+  ]
 }

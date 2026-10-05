@@ -28,5 +28,14 @@
   "snapshot_date": "2026-10-04",
   "report_date": "2026-06-28 10:22:22 +00:00",
   "report_commit": "https://github.com/xbret/xenoblade/commit/ea25691b2029394ab777bda7060139e517a13cba",
-  "report_target": "jp"
+  "report_target": "jp",
+  "method_tags": [
+    {
+      "id": "matching-decompilation",
+      "source": "https://raw.githubusercontent.com/xbret/xenoblade/ea25691b2029394ab777bda7060139e517a13cba/README.md",
+      "note": "The README documents compiling reconstructed source and a configured objdiff workflow comparing generated objects to target reference objects. This labels the reconstruction workflow, not a completed binary match or manual-only authorship.",
+      "checked_at": "2026-10-05",
+      "source_sha256": "6b0f32c5907fce777297426f4127d9ecfc33b6ff5fdf7f48e21850dd6d0b1c09"
+    }
+  ]
 }

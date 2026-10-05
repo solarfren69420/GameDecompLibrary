@@ -28,5 +28,14 @@
   "snapshot_date": "2026-10-04",
   "report_date": "2026-10-03 18:38:08 +00:00",
   "report_commit": "https://github.com/DarkRTA/rb3/commit/a2b36b2f8b54b29e1e3229a1f744d48ed8333a93",
-  "report_target": "SZBE69_B8"
+  "report_target": "SZBE69_B8",
+  "method_tags": [
+    {
+      "id": "matching-decompilation",
+      "source": "https://raw.githubusercontent.com/DarkRTA/rb3/a2b36b2f8b54b29e1e3229a1f744d48ed8333a93/README.md",
+      "note": "The README documents compiling reconstructed source and a configured objdiff workflow comparing generated objects to target reference objects. This labels the reconstruction workflow, not a completed binary match or manual-only authorship.",
+      "checked_at": "2026-10-05",
+      "source_sha256": "9103618441d896886b8f49dccf60fd967c17f7181ded9bfdbbd055bd1426803a"
+    }
+  ]
 }

@@ -28,5 +28,14 @@
   "snapshot_date": "2026-10-04",
   "report_date": "2026-10-04 11:12:06 +00:00",
   "report_commit": "https://github.com/DevOldSchool/conkers-bfd-decomp/commit/a048a0cbb056c2e0d539efd0779a4ac9697a5ee5",
-  "report_target": "us"
+  "report_target": "us",
+  "method_tags": [
+    {
+      "id": "matching-decompilation",
+      "source": "https://raw.githubusercontent.com/DevOldSchool/conkers-bfd-decomp/a048a0cbb056c2e0d539efd0779a4ac9697a5ee5/README.md",
+      "note": "The upstream README describes source reconstruction targeting original instruction bytes or checksum verification of rebuilt game binaries. This tag describes the matching workflow, not completion or a build independently verified here.",
+      "checked_at": "2026-10-05",
+      "source_sha256": "3b653533071587bcbf6196af066e57124b1fabac5bd6c34e6b5698239614449c"
+    }
+  ]
 }

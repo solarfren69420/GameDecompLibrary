@@ -28,5 +28,21 @@
   "snapshot_date": "2026-10-04",
   "report_date": "2026-08-31 05:39:41 +00:00",
   "report_commit": "https://github.com/spongeis5/ToS-Decomp/commit/0f3d173e4535edbaa0bb53c0569bf3556c8a0fe2",
-  "report_target": "default"
+  "report_target": "default",
+  "method_tags": [
+    {
+      "id": "matching-decompilation",
+      "source": "https://raw.githubusercontent.com/spongeis5/ToS-Decomp/0f3d173e4535edbaa0bb53c0569bf3556c8a0fe2/README.md",
+      "note": "The upstream README describes source reconstruction targeting original instruction bytes or checksum verification of rebuilt game binaries. This tag describes the matching workflow, not completion or a build independently verified here.",
+      "checked_at": "2026-10-05",
+      "source_sha256": "a10d8e46829af7cc81a9f0aaebaa8aaa6c8c81d9073435ebe38ee49918517c9f"
+    },
+    {
+      "id": "generated-code",
+      "source": "https://raw.githubusercontent.com/spongeis5/ToS-Decomp/0f3d173e4535edbaa0bb53c0569bf3556c8a0fe2/README.md",
+      "note": "The README separately reports handwritten functions, script-generated small expressions recovered from instruction encodings, and upstream library source. Generated expressions are not labelled as handwritten reconstruction.",
+      "checked_at": "2026-10-05",
+      "source_sha256": "a10d8e46829af7cc81a9f0aaebaa8aaa6c8c81d9073435ebe38ee49918517c9f"
+    }
+  ]
 }

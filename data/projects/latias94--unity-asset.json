@@ -27,5 +27,14 @@
   ],
   "snapshot_date": "2026-10-04",
   "report_date": "",
-  "report_commit": ""
+  "report_commit": "",
+  "method_tags": [
+    {
+      "id": "tooling",
+      "source": "https://raw.githubusercontent.com/Latias94/unity-asset/HEAD/README.md",
+      "note": "The original catalog audit reviewed this upstream project as supporting tooling, bindings or a library; game-completion percentages do not apply.",
+      "checked_at": "2026-10-04",
+      "source_sha256": "1125df866c7eef6e17e85a9272496ac6105b42b11e87ee2f3e4bfbbbd802100e"
+    }
+  ]
 }

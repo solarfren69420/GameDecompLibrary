@@ -35,5 +35,14 @@
   ],
   "snapshot_date": "2026-10-04",
   "report_date": "",
-  "report_commit": ""
+  "report_commit": "",
+  "method_tags": [
+    {
+      "id": "official-source-release",
+      "source": "https://raw.githubusercontent.com/id-Software/DOOM-3-BFG/HEAD/README.txt",
+      "note": "The upstream id Software README.txt identifies this as the Doom 3 BFG Edition GPL source-code release.",
+      "checked_at": "2026-10-05",
+      "source_sha256": "f77ebb1eb691808776608747d72af6d313d40c05549005f9859da99a311505f6"
+    }
+  ]
 }

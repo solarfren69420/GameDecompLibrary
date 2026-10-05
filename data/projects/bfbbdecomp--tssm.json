@@ -28,5 +28,14 @@
   "snapshot_date": "2026-10-04",
   "report_date": "2026-06-15 22:51:35 +00:00",
   "report_commit": "https://github.com/bfbbdecomp/tssm/commit/50ea01767e4c894f09db8ff2f4e52136a6e89ca4",
-  "report_target": "GGVE78"
+  "report_target": "GGVE78",
+  "method_tags": [
+    {
+      "id": "matching-decompilation",
+      "source": "https://raw.githubusercontent.com/bfbbdecomp/tssm/50ea01767e4c894f09db8ff2f4e52136a6e89ca4/README.md",
+      "note": "The README documents compiling reconstructed source and a configured objdiff workflow comparing generated objects to target reference objects. This labels the reconstruction workflow, not a completed binary match or manual-only authorship.",
+      "checked_at": "2026-10-05",
+      "source_sha256": "6e8c93d37a5a204bc1d0c61565935f8bb126d6253b3dd1d84100b729d009a529"
+    }
+  ]
 }

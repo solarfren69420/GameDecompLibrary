@@ -28,5 +28,14 @@
   "snapshot_date": "2026-10-04",
   "report_date": "2026-09-17 11:30:28 +00:00",
   "report_commit": "https://github.com/yannicksuter/smstrikers-decomp/commit/d1f357ffeb1d8e89311edebf9a4b304b05ece7bb",
-  "report_target": "G4QE01"
+  "report_target": "G4QE01",
+  "method_tags": [
+    {
+      "id": "matching-decompilation",
+      "source": "https://raw.githubusercontent.com/yannicksuter/smstrikers-decomp/d1f357ffeb1d8e89311edebf9a4b304b05ece7bb/README.md",
+      "note": "The upstream README describes source reconstruction targeting original instruction bytes or checksum verification of rebuilt game binaries. This tag describes the matching workflow, not completion or a build independently verified here.",
+      "checked_at": "2026-10-05",
+      "source_sha256": "6f31afdf5744fa9bc0e94420811d42a7273ef8cb5f0520516b468bb0ec8c28ab"
+    }
+  ]
 }

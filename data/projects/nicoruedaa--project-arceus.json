@@ -31,5 +31,21 @@
   ],
   "snapshot_date": "2026-10-04",
   "report_date": "",
-  "report_commit": "https://github.com/NicoRuedaA/project-arceus/commit/9efdd6933edbe18e1a30a37aa17bdf59a718fb30"
+  "report_commit": "https://github.com/NicoRuedaA/project-arceus/commit/9efdd6933edbe18e1a30a37aa17bdf59a718fb30",
+  "method_tags": [
+    {
+      "id": "ghidra-pseudocode",
+      "source": "https://raw.githubusercontent.com/NicoRuedaA/project-arceus/9efdd6933edbe18e1a30a37aa17bdf59a718fb30/README.md",
+      "note": "The README describes Ghidra export tooling. Its separately reviewed report measures pseudocode export coverage for one executable, with implementation and binary matching unknown.",
+      "checked_at": "2026-10-05",
+      "source_sha256": "f1ae745309f04270fd7866ce557ac280db75a12b49a57b883887e21a60bea214"
+    },
+    {
+      "id": "experimental-port",
+      "source": "https://raw.githubusercontent.com/NicoRuedaA/project-arceus/9efdd6933edbe18e1a30a37aa17bdf59a718fb30/README.md",
+      "note": "The upstream README describes an experimental Rust/Bevy port scaffold, with stubbed host bindings and pending rendering work; no completed playable port was verified.",
+      "checked_at": "2026-10-05",
+      "source_sha256": "f1ae745309f04270fd7866ce557ac280db75a12b49a57b883887e21a60bea214"
+    }
+  ]
 }

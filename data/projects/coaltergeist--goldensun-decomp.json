@@ -28,5 +28,14 @@
   "snapshot_date": "2026-10-04",
   "report_date": "2026-10-04 06:38:00 +00:00",
   "report_commit": "https://github.com/Coaltergeist/goldensun-decomp/commit/57125258d0b1f976ade36fead186134d35221883",
-  "report_target": "USA"
+  "report_target": "USA",
+  "method_tags": [
+    {
+      "id": "matching-decompilation",
+      "source": "https://raw.githubusercontent.com/Coaltergeist/goldensun-decomp/57125258d0b1f976ade36fead186134d35221883/README.md",
+      "note": "The upstream README describes source reconstruction targeting original instruction bytes or checksum verification of rebuilt game binaries. This tag describes the matching workflow, not completion or a build independently verified here.",
+      "checked_at": "2026-10-05",
+      "source_sha256": "ee46fe568073d131fe051d7e2079ae2613ebb19c70f482448ca914a783966d32"
+    }
+  ]
 }

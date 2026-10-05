@@ -28,5 +28,14 @@
   "snapshot_date": "2026-10-04",
   "report_date": "2026-07-24 21:11:15 +00:00",
   "report_commit": "https://github.com/Swiftshine/kdc/commit/2be1c20faa215b7969c07900ae8bd112c82fef1f",
-  "report_target": "S72E01"
+  "report_target": "S72E01",
+  "method_tags": [
+    {
+      "id": "matching-decompilation",
+      "source": "https://raw.githubusercontent.com/Swiftshine/kdc/2be1c20faa215b7969c07900ae8bd112c82fef1f/README.md",
+      "note": "The README documents compiling reconstructed source and a configured objdiff workflow comparing generated objects to target reference objects. This labels the reconstruction workflow, not a completed binary match or manual-only authorship.",
+      "checked_at": "2026-10-05",
+      "source_sha256": "a5440b5a3332cbd0a1e5a52b0ec66eee2bef6a100d47f6925dd4500714e8b816"
+    }
+  ]
 }

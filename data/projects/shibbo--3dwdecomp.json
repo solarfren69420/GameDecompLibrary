@@ -28,5 +28,14 @@
   "snapshot_date": "2026-10-04",
   "report_date": "2026-10-04 12:20:30 +00:00",
   "report_commit": "https://github.com/shibbo/3DWDecomp/commit/0e10244e1bc398d4d66e53f517af805ddb3f5d98",
-  "report_target": "1.0.0"
+  "report_target": "1.0.0",
+  "method_tags": [
+    {
+      "id": "matching-decompilation",
+      "source": "https://raw.githubusercontent.com/shibbo/3DWDecomp/0e10244e1bc398d4d66e53f517af805ddb3f5d98/README.md",
+      "note": "The upstream README describes source reconstruction targeting original instruction bytes or checksum verification of rebuilt game binaries. This tag describes the matching workflow, not completion or a build independently verified here.",
+      "checked_at": "2026-10-05",
+      "source_sha256": "e9ea20348e5f57135a4e175b4363a77a891f9a82e61f5a928a9d3192d85df6ba"
+    }
+  ]
 }

@@ -28,5 +28,14 @@
   "snapshot_date": "2026-10-04",
   "report_date": "2026-10-02 14:46:29 +00:00",
   "report_commit": "https://github.com/banteg/harvest/commit/b7e85daa30322744c862543cb4202151f145afe5",
-  "report_target": "1.18-linux-amd64"
+  "report_target": "1.18-linux-amd64",
+  "method_tags": [
+    {
+      "id": "matching-decompilation",
+      "source": "https://raw.githubusercontent.com/banteg/harvest/b7e85daa30322744c862543cb4202151f145afe5/README.md",
+      "note": "The upstream README describes source reconstruction targeting original instruction bytes or checksum verification of rebuilt game binaries. This tag describes the matching workflow, not completion or a build independently verified here.",
+      "checked_at": "2026-10-05",
+      "source_sha256": "c0d88f661bddd99740895d4f93abdacfb246fef4c720e98df7630416b5c1852d"
+    }
+  ]
 }

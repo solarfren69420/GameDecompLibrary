@@ -28,5 +28,14 @@
   "snapshot_date": "2026-10-04",
   "report_date": "2026-10-04 10:43:53 +00:00",
   "report_commit": "https://github.com/doldecomp/sms/commit/b10839666abeeaad1d371032c8824ed9688adc06",
-  "report_target": "GMSJ01"
+  "report_target": "GMSJ01",
+  "method_tags": [
+    {
+      "id": "matching-decompilation",
+      "source": "https://raw.githubusercontent.com/doldecomp/sms/b10839666abeeaad1d371032c8824ed9688adc06/README.md",
+      "note": "The README documents compiling reconstructed source and a configured objdiff workflow comparing generated objects to target reference objects. This labels the reconstruction workflow, not a completed binary match or manual-only authorship.",
+      "checked_at": "2026-10-05",
+      "source_sha256": "1c87334056e9c6de66637bdb299bc378aa9b8f1db99df3cf0ee60aa9a2b62f08"
+    }
+  ]
 }

@@ -28,5 +28,14 @@
   "snapshot_date": "2026-10-04",
   "report_date": "2026-09-16 17:27:23 +00:00",
   "report_commit": "https://github.com/ACreTeam/afe-decomp/commit/2048fc2396d53cc57d80c1ce1adc07e16df07eb6",
-  "report_target": "GAEJ01_00"
+  "report_target": "GAEJ01_00",
+  "method_tags": [
+    {
+      "id": "matching-decompilation",
+      "source": "https://raw.githubusercontent.com/ACreTeam/afe-decomp/2048fc2396d53cc57d80c1ce1adc07e16df07eb6/README.md",
+      "note": "The README documents compiling reconstructed source and a configured objdiff workflow comparing generated objects to target reference objects. This labels the reconstruction workflow, not a completed binary match or manual-only authorship.",
+      "checked_at": "2026-10-05",
+      "source_sha256": "3e56d9824e6badc8272b91cf7e67df417bbd3f3fb40f25dd6b51a47b8365209f"
+    }
+  ]
 }

@@ -28,5 +28,28 @@
   "snapshot_date": "2026-10-04",
   "report_date": "2026-10-04 10:33:23 +00:00",
   "report_commit": "https://github.com/charlieduzstuf/pokesword/commit/33623d01bcba2e1e1102f8f20008f6f1822600e3",
-  "report_target": "build562"
+  "report_target": "build562",
+  "method_tags": [
+    {
+      "id": "matching-decompilation",
+      "source": "https://raw.githubusercontent.com/charlieduzstuf/pokesword/33623d01bcba2e1e1102f8f20008f6f1822600e3/README.md",
+      "note": "The upstream README describes source reconstruction targeting original instruction bytes or checksum verification of rebuilt game binaries. This tag describes the matching workflow, not completion or a build independently verified here.",
+      "checked_at": "2026-10-05",
+      "source_sha256": "5319d6167c68d63e6bfd581fc3f6eebeed134cce9b9fa1bc24709ff2bdf09962"
+    },
+    {
+      "id": "ghidra-pseudocode",
+      "source": "https://raw.githubusercontent.com/charlieduzstuf/pokesword/33623d01bcba2e1e1102f8f20008f6f1822600e3/README.md",
+      "note": "The README documents headless Ghidra exports of C-like function bodies and explicitly states that this output is a starting point, not matching code.",
+      "checked_at": "2026-10-05",
+      "source_sha256": "5319d6167c68d63e6bfd581fc3f6eebeed134cce9b9fa1bc24709ff2bdf09962"
+    },
+    {
+      "id": "generated-code",
+      "source": "https://raw.githubusercontent.com/charlieduzstuf/pokesword/33623d01bcba2e1e1102f8f20008f6f1822600e3/README.md",
+      "note": "The README describes mechanically recovered instruction patterns and named C wrappers over unmodified instruction blocks; this is not a claim that all matching functions were manually rewritten.",
+      "checked_at": "2026-10-05",
+      "source_sha256": "5319d6167c68d63e6bfd581fc3f6eebeed134cce9b9fa1bc24709ff2bdf09962"
+    }
+  ]
 }

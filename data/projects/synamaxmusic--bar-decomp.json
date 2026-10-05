@@ -28,5 +28,14 @@
   "snapshot_date": "2026-10-04",
   "report_date": "2026-10-04 04:08:08 +00:00",
   "report_commit": "https://github.com/synamaxmusic/bar-decomp/commit/695461fca341d0621a13a84b515d7dcab5ead12e",
-  "report_target": "us"
+  "report_target": "us",
+  "method_tags": [
+    {
+      "id": "matching-decompilation",
+      "source": "https://raw.githubusercontent.com/synamaxmusic/bar-decomp/695461fca341d0621a13a84b515d7dcab5ead12e/README.md",
+      "note": "The upstream README describes source reconstruction targeting original instruction bytes or checksum verification of rebuilt game binaries. This tag describes the matching workflow, not completion or a build independently verified here.",
+      "checked_at": "2026-10-05",
+      "source_sha256": "b185fb20cd2d9f73d57b7ddf5b43309be8bc14cac869b4528599e065b08357d2"
+    }
+  ]
 }

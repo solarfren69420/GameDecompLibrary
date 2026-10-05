@@ -28,5 +28,14 @@
   "snapshot_date": "2026-10-04",
   "report_date": "2026-09-26 14:22:34 +00:00",
   "report_commit": "https://github.com/ladysilverberg/xenogears-decomp/commit/00cd201ec397bc8eb2db34f63421a7226a450ec2",
-  "report_target": "SLUS_006.64"
+  "report_target": "SLUS_006.64",
+  "method_tags": [
+    {
+      "id": "matching-decompilation",
+      "source": "https://raw.githubusercontent.com/ladysilverberg/xenogears-decomp/00cd201ec397bc8eb2db34f63421a7226a450ec2/README.md",
+      "note": "The upstream README describes source reconstruction targeting original instruction bytes or checksum verification of rebuilt game binaries. This tag describes the matching workflow, not completion or a build independently verified here.",
+      "checked_at": "2026-10-05",
+      "source_sha256": "f4897f6de5331d430b85c4175c684631b4d80b81334d111e53858d076abb7e3b"
+    }
+  ]
 }

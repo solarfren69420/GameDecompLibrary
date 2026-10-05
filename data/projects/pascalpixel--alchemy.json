@@ -28,5 +28,14 @@
   "snapshot_date": "2026-10-04",
   "report_date": "2026-10-04 10:48:07 +00:00",
   "report_commit": "https://github.com/PascalPixel/alchemy/commit/d1a0a9b3c9f9096f988f511adc48aa16037693bd",
-  "report_target": "The Broken Seal 🇯🇵"
+  "report_target": "The Broken Seal 🇯🇵",
+  "method_tags": [
+    {
+      "id": "matching-decompilation",
+      "source": "https://raw.githubusercontent.com/PascalPixel/alchemy/d1a0a9b3c9f9096f988f511adc48aa16037693bd/README.md",
+      "note": "The upstream README describes source reconstruction targeting original instruction bytes or checksum verification of rebuilt game binaries. This tag describes the matching workflow, not completion or a build independently verified here.",
+      "checked_at": "2026-10-05",
+      "source_sha256": "6a53e351d575cf4d38a73245b637347e6adf21f7d1fb979b9af0fc29d8555d86"
+    }
+  ]
 }

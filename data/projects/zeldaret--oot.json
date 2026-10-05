@@ -42,5 +42,14 @@
   "snapshot_date": "2026-10-04",
   "report_date": "2024-08-15 02:13:23 +00:00",
   "report_commit": "https://github.com/zeldaret/oot/commit/1649bf32d64523ba79f6896d2b9c816a9cd20e77",
-  "report_target": "Master Quest debug ROM (Zelda dashboard scope)"
+  "report_target": "Master Quest debug ROM (Zelda dashboard scope)",
+  "method_tags": [
+    {
+      "id": "matching-decompilation",
+      "source": "https://raw.githubusercontent.com/zeldaret/oot/1649bf32d64523ba79f6896d2b9c816a9cd20e77/README.md",
+      "note": "The build instructions reject a reconstructed ROM whose checksum differs from the original target. The scoped code metric is not overall game completion.",
+      "checked_at": "2026-10-05",
+      "source_sha256": "5f174b9d49ed5a74a23eca1658ac970bcd02efcc9cb44aa310854e820414c92b"
+    }
+  ]
 }

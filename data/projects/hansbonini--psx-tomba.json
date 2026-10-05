@@ -28,5 +28,14 @@
   "snapshot_date": "2026-10-04",
   "report_date": "2026-09-19 22:46:10 +00:00",
   "report_commit": "https://github.com/hansbonini/psx_tomba/commit/191c3f48d2002cc697653e25df81f2ce1e35d3f5",
-  "report_target": "SCUS_942.32"
+  "report_target": "SCUS_942.32",
+  "method_tags": [
+    {
+      "id": "matching-decompilation",
+      "source": "https://raw.githubusercontent.com/hansbonini/psx_tomba/191c3f48d2002cc697653e25df81f2ce1e35d3f5/README.md",
+      "note": "The upstream README describes source reconstruction targeting original instruction bytes or checksum verification of rebuilt game binaries. This tag describes the matching workflow, not completion or a build independently verified here.",
+      "checked_at": "2026-10-05",
+      "source_sha256": "6dec46318baae2591761e040172b6edbb4a1fb5240473afc8ff38c3831c61dfc"
+    }
+  ]
 }

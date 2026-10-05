@@ -28,5 +28,14 @@
   "snapshot_date": "2026-10-04",
   "report_date": "2026-09-07 00:15:36 +00:00",
   "report_commit": "https://github.com/denzi-gh/crashwoc-decomp-ps2/commit/9af06d394a332c4fe7a15d93f353047ae78a3672",
-  "report_target": "SLES_503.86"
+  "report_target": "SLES_503.86",
+  "method_tags": [
+    {
+      "id": "matching-decompilation",
+      "source": "https://raw.githubusercontent.com/denzi-gh/crashwoc-decomp-ps2/9af06d394a332c4fe7a15d93f353047ae78a3672/README.md",
+      "note": "The upstream README describes source reconstruction targeting original instruction bytes or checksum verification of rebuilt game binaries. This tag describes the matching workflow, not completion or a build independently verified here.",
+      "checked_at": "2026-10-05",
+      "source_sha256": "a1c0d7e0a0d87ae445b90041411b95196bc5ac9aa5fea927cb776c1ea8c9d89e"
+    }
+  ]
 }

@@ -28,5 +28,14 @@
   "snapshot_date": "2026-10-04",
   "report_date": "2026-09-26 00:59:38 +00:00",
   "report_commit": "https://github.com/weirdbeardgame/Mulberry/commit/4b01e9494cbd87f0a07ce5b72fa303fb2379fc91",
-  "report_target": "SLUS_210.07"
+  "report_target": "SLUS_210.07",
+  "method_tags": [
+    {
+      "id": "matching-decompilation",
+      "source": "https://raw.githubusercontent.com/weirdbeardgame/Mulberry/4b01e9494cbd87f0a07ce5b72fa303fb2379fc91/README.md",
+      "note": "The upstream README describes source reconstruction targeting original instruction bytes or checksum verification of rebuilt game binaries. This tag describes the matching workflow, not completion or a build independently verified here.",
+      "checked_at": "2026-10-05",
+      "source_sha256": "d787ae1d5db3a70b4baba778efc56dbe4f183841523e61bb3ea1e1e069ebe7b0"
+    }
+  ]
 }

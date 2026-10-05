@@ -28,5 +28,14 @@
   "snapshot_date": "2026-10-04",
   "report_date": "2026-08-29 14:10:37 +00:00",
   "report_commit": "https://github.com/bfbbdecomp/bfbb/commit/8fb1c232addcacf44932c10c4cede41b43f98f40",
-  "report_target": "GQPE78"
+  "report_target": "GQPE78",
+  "method_tags": [
+    {
+      "id": "matching-decompilation",
+      "source": "https://raw.githubusercontent.com/bfbbdecomp/bfbb/8fb1c232addcacf44932c10c4cede41b43f98f40/README.md",
+      "note": "The README documents compiling reconstructed source and a configured objdiff workflow comparing generated objects to target reference objects. This labels the reconstruction workflow, not a completed binary match or manual-only authorship.",
+      "checked_at": "2026-10-05",
+      "source_sha256": "30b80acda94b08050f112a534751b54eb415bb4ff00e564c6146b252ab2672ec"
+    }
+  ]
 }

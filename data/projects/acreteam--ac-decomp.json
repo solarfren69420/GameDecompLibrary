@@ -28,5 +28,14 @@
   "snapshot_date": "2026-10-04",
   "report_date": "2026-07-18 01:55:27 +00:00",
   "report_commit": "https://github.com/ACreTeam/ac-decomp/commit/09ca8e8b5b24e6ab44047ee980cf0088ad7ecb4c",
-  "report_target": "GAFE01_00"
+  "report_target": "GAFE01_00",
+  "method_tags": [
+    {
+      "id": "matching-decompilation",
+      "source": "https://raw.githubusercontent.com/ACreTeam/ac-decomp/09ca8e8b5b24e6ab44047ee980cf0088ad7ecb4c/README.md",
+      "note": "The README documents compiling reconstructed source and a configured objdiff workflow comparing generated objects to target reference objects. This labels the reconstruction workflow, not a completed binary match or manual-only authorship.",
+      "checked_at": "2026-10-05",
+      "source_sha256": "ae38ca75b89f19b6928aafe8fdd51e2e764b6c8fb17a24bf90243f6d3bb84f42"
+    }
+  ]
 }

@@ -28,5 +28,14 @@
   "snapshot_date": "2026-10-04",
   "report_date": "2026-10-03 08:55:35 +00:00",
   "report_commit": "https://github.com/Xeeynamo/sotn-decomp/commit/c7c2f6896def2b7891ff8019ab0ce309404ff93f",
-  "report_target": "us"
+  "report_target": "us",
+  "method_tags": [
+    {
+      "id": "matching-decompilation",
+      "source": "https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/c7c2f6896def2b7891ff8019ab0ce309404ff93f/README.md",
+      "note": "The upstream README describes source reconstruction targeting original instruction bytes or checksum verification of rebuilt game binaries. This tag describes the matching workflow, not completion or a build independently verified here.",
+      "checked_at": "2026-10-05",
+      "source_sha256": "9eb381e6dacd95e03671f74c4527993ff62a53dcb36b5a7a70d3914c1944a53d"
+    }
+  ]
 }

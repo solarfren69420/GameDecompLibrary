@@ -28,5 +28,14 @@
   "snapshot_date": "2026-10-04",
   "report_date": "2026-10-03 22:19:31 +00:00",
   "report_commit": "https://github.com/akiramusic000/Rhae/commit/182cf1a172a944a088fd69b1cd84e3d0c21e0bd5",
-  "report_target": "RHAE01_01"
+  "report_target": "RHAE01_01",
+  "method_tags": [
+    {
+      "id": "matching-decompilation",
+      "source": "https://raw.githubusercontent.com/akiramusic000/Rhae/182cf1a172a944a088fd69b1cd84e3d0c21e0bd5/README.md",
+      "note": "The README documents compiling reconstructed source and a configured objdiff workflow comparing generated objects to target reference objects. This labels the reconstruction workflow, not a completed binary match or manual-only authorship.",
+      "checked_at": "2026-10-05",
+      "source_sha256": "15aef0806bdf3572e1ca6485d50195dbcf0158b897f4d755a3c1f9f059f946d8"
+    }
+  ]
 }

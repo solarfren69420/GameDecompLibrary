@@ -28,5 +28,14 @@
   "snapshot_date": "2026-10-04",
   "report_date": "2026-10-02 02:25:08 +00:00",
   "report_commit": "https://github.com/doldecomp/mkw/commit/386051fb27b1af04d0ec4933a9d7485a48f81887",
-  "report_target": "RMCP01"
+  "report_target": "RMCP01",
+  "method_tags": [
+    {
+      "id": "matching-decompilation",
+      "source": "https://raw.githubusercontent.com/doldecomp/mkw/386051fb27b1af04d0ec4933a9d7485a48f81887/README.md",
+      "note": "The README documents compiling reconstructed source and a configured objdiff workflow comparing generated objects to target reference objects. This labels the reconstruction workflow, not a completed binary match or manual-only authorship.",
+      "checked_at": "2026-10-05",
+      "source_sha256": "83bbd1d7d526f7c3621debcc351d0d8571bcf4f49949d23de3fa0bf09c160598"
+    }
+  ]
 }

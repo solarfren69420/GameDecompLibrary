@@ -28,5 +28,14 @@
   "snapshot_date": "2026-10-04",
   "report_date": "2026-09-29 08:44:32 +00:00",
   "report_commit": "https://github.com/aaaaaaaaaaway/chulip-decomp/commit/369f9381114be35744f77e357d923846841bfd1e",
-  "report_target": "us"
+  "report_target": "us",
+  "method_tags": [
+    {
+      "id": "matching-decompilation",
+      "source": "https://raw.githubusercontent.com/aaaaaaaaaaway/chulip-decomp/369f9381114be35744f77e357d923846841bfd1e/README.md",
+      "note": "The upstream README describes source reconstruction targeting original instruction bytes or checksum verification of rebuilt game binaries. This tag describes the matching workflow, not completion or a build independently verified here.",
+      "checked_at": "2026-10-05",
+      "source_sha256": "cfc41d0af19303f75eb148f81646d8ad4ee143d608abc3c8633e5694774c5d4a"
+    }
+  ]
 }

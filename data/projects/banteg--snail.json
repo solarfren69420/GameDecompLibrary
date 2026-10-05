@@ -28,5 +28,14 @@
   "snapshot_date": "2026-10-04",
   "report_date": "2026-09-29 22:17:48 +00:00",
   "report_commit": "https://github.com/banteg/snail/commit/c97c9ba1d8b6d77674184721ad3c45c3b9f9166b",
-  "report_target": "win32-reflexive"
+  "report_target": "win32-reflexive",
+  "method_tags": [
+    {
+      "id": "matching-decompilation",
+      "source": "https://raw.githubusercontent.com/banteg/snail/c97c9ba1d8b6d77674184721ad3c45c3b9f9166b/README.md",
+      "note": "The upstream README describes source reconstruction targeting original instruction bytes or checksum verification of rebuilt game binaries. This tag describes the matching workflow, not completion or a build independently verified here.",
+      "checked_at": "2026-10-05",
+      "source_sha256": "93893c488828c5ed01c6fc5256abac1f54169976b2eb4f6a26ccdc6d311a9a68"
+    }
+  ]
 }

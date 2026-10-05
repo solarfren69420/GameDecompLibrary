@@ -28,5 +28,14 @@
   "snapshot_date": "2026-10-04",
   "report_date": "2026-10-04 05:13:52 +00:00",
   "report_commit": "https://github.com/zcanann/FFCC-Decomp/commit/9093af3f6bd5efe6fc175f5890bef1b174093639",
-  "report_target": "GCCP01"
+  "report_target": "GCCP01",
+  "method_tags": [
+    {
+      "id": "matching-decompilation",
+      "source": "https://raw.githubusercontent.com/zcanann/FFCC-Decomp/9093af3f6bd5efe6fc175f5890bef1b174093639/README.md",
+      "note": "The README documents compiling reconstructed source and a configured objdiff workflow comparing generated objects to target reference objects. This labels the reconstruction workflow, not a completed binary match or manual-only authorship.",
+      "checked_at": "2026-10-05",
+      "source_sha256": "f25d1317d4a1e908d4345f967775d9bd8f2e934235536ac340a57319a3f0fc40"
+    }
+  ]
 }

@@ -28,5 +28,14 @@
   "snapshot_date": "2026-10-04",
   "report_date": "2026-10-04 12:11:35 +00:00",
   "report_commit": "https://github.com/overjt/knidl/commit/48239761d38a706896626a4dab0484b6115a95e5",
-  "report_target": "A7KE"
+  "report_target": "A7KE",
+  "method_tags": [
+    {
+      "id": "matching-decompilation",
+      "source": "https://raw.githubusercontent.com/overjt/knidl/48239761d38a706896626a4dab0484b6115a95e5/README.md",
+      "note": "The upstream README describes source reconstruction targeting original instruction bytes or checksum verification of rebuilt game binaries. This tag describes the matching workflow, not completion or a build independently verified here.",
+      "checked_at": "2026-10-05",
+      "source_sha256": "282c086ca559a9379020b57812f88ee01b34c3986873509499785732f423615f"
+    }
+  ]
 }

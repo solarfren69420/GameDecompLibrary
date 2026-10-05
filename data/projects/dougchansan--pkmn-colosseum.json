@@ -28,5 +28,14 @@
   "snapshot_date": "2026-10-04",
   "report_date": "2026-09-24 20:26:34 +00:00",
   "report_commit": "https://github.com/dougchansan/pkmn-colosseum/commit/41df4aa988add7d69dfc16c06ac4d31df96f4362",
-  "report_target": "GC6E01"
+  "report_target": "GC6E01",
+  "method_tags": [
+    {
+      "id": "matching-decompilation",
+      "source": "https://raw.githubusercontent.com/dougchansan/pkmn-colosseum/41df4aa988add7d69dfc16c06ac4d31df96f4362/README.md",
+      "note": "The upstream README describes source reconstruction targeting original instruction bytes or checksum verification of rebuilt game binaries. This tag describes the matching workflow, not completion or a build independently verified here.",
+      "checked_at": "2026-10-05",
+      "source_sha256": "fb5d43152413923a4e36986299ce34dba33dbee8fb6c9b931314c37e6851a857"
+    }
+  ]
 }

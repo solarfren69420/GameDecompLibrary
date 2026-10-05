@@ -42,5 +42,14 @@
   "snapshot_date": "2026-10-04",
   "report_date": "2026-07-19 14:59:01 +00:00",
   "report_commit": "https://github.com/zeldaret/mm/commit/a6850d214927aafa2635177510a5029ab7e989ea",
-  "report_target": "Nintendo 64 US 1.0 (README / dashboard)"
+  "report_target": "Nintendo 64 US 1.0 (README / dashboard)",
+  "method_tags": [
+    {
+      "id": "matching-decompilation",
+      "source": "https://raw.githubusercontent.com/zeldaret/mm/a6850d214927aafa2635177510a5029ab7e989ea/README.md",
+      "note": "The build instructions validate rebuilt ROM checksums against the original target and describe non-matching code as a build failure.",
+      "checked_at": "2026-10-05",
+      "source_sha256": "94d19b3a4df565aa73b5a293d5162d07922774f6078b9db312d19e48be3a0cb4"
+    }
+  ]
 }

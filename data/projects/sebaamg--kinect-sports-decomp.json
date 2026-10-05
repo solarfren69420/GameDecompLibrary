@@ -28,5 +28,21 @@
   "snapshot_date": "2026-10-04",
   "report_date": "2026-09-28 21:48:41 +00:00",
   "report_commit": "https://github.com/SebaaMG/Kinect-Sports-Decomp/commit/e2cf4eb30ed1002ee8960ceaf40434c65aec2ba2",
-  "report_target": "4D5308C9"
+  "report_target": "4D5308C9",
+  "method_tags": [
+    {
+      "id": "matching-decompilation",
+      "source": "https://raw.githubusercontent.com/SebaaMG/Kinect-Sports-Decomp/e2cf4eb30ed1002ee8960ceaf40434c65aec2ba2/README.md",
+      "note": "The README separates matching code and linked-code counts from the Ghidra C inventory and documents objdiff comparisons. Matching status is not completion.",
+      "checked_at": "2026-10-05",
+      "source_sha256": "d62a10779730cc38076cbd15485f7751cb284a428385e2b1c15a0541522bbf71"
+    },
+    {
+      "id": "ghidra-pseudocode",
+      "source": "https://raw.githubusercontent.com/SebaaMG/Kinect-Sports-Decomp/e2cf4eb30ed1002ee8960ceaf40434c65aec2ba2/README.md",
+      "note": "The README reports a separate inventory of functions with Ghidra C. Those exports are not interchangeable with its much smaller matching-code count.",
+      "checked_at": "2026-10-05",
+      "source_sha256": "d62a10779730cc38076cbd15485f7751cb284a428385e2b1c15a0541522bbf71"
+    }
+  ]
 }

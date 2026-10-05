@@ -28,5 +28,14 @@
   "snapshot_date": "2026-10-04",
   "report_date": "2026-10-03 02:45:32 +00:00",
   "report_commit": "https://github.com/mitsevox/tw2004/commit/e90a46609ba8ec4d2e656aa1dc4d6c858d246ca3",
-  "report_target": "GW4E69"
+  "report_target": "GW4E69",
+  "method_tags": [
+    {
+      "id": "matching-decompilation",
+      "source": "https://raw.githubusercontent.com/mitsevox/tw2004/e90a46609ba8ec4d2e656aa1dc4d6c858d246ca3/README.md",
+      "note": "The upstream README describes source reconstruction targeting original instruction bytes or checksum verification of rebuilt game binaries. This tag describes the matching workflow, not completion or a build independently verified here.",
+      "checked_at": "2026-10-05",
+      "source_sha256": "72421bd5f097a5a502c60258249ba413518bf8d34e71d4fca7c5774d352583ef"
+    }
+  ]
 }

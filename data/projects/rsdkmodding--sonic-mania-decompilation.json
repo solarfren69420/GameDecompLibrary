@@ -39,5 +39,14 @@
   ],
   "snapshot_date": "2026-10-04",
   "report_date": "",
-  "report_commit": ""
+  "report_commit": "",
+  "method_tags": [
+    {
+      "id": "source-port",
+      "source": "https://raw.githubusercontent.com/RSDKModding/Sonic-Mania-Decompilation/HEAD/README.md",
+      "note": "The README documents cross-platform compilation using the recovered game code and RSDK, with platform and mod-loader adaptations. No binary-matching claim is inferred.",
+      "checked_at": "2026-10-05",
+      "source_sha256": "c7423185bd35c4cda8e99b9d4fcc4a0260773ae32a24242000a3d69924ba8e6f"
+    }
+  ]
 }

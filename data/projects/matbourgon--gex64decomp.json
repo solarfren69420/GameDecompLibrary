@@ -28,5 +28,14 @@
   "snapshot_date": "2026-10-04",
   "report_date": "2026-09-03 02:38:33 +00:00",
   "report_commit": "https://github.com/MatBourgon/Gex64Decomp/commit/7f48432de8cad85db6d777397a9cb41005f82250",
-  "report_target": "US"
+  "report_target": "US",
+  "method_tags": [
+    {
+      "id": "matching-decompilation",
+      "source": "https://raw.githubusercontent.com/MatBourgon/Gex64Decomp/7f48432de8cad85db6d777397a9cb41005f82250/README.md",
+      "note": "The README requires contributor changes to rebuild into ROMs that match the original before a pull request.",
+      "checked_at": "2026-10-05",
+      "source_sha256": "b006aff8dfab84465fa1124d0b56e2ca86e960ea0269ee632fbad0ad746a37e7"
+    }
+  ]
 }

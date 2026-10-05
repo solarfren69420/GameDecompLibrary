@@ -28,5 +28,14 @@
   "snapshot_date": "2026-10-04",
   "report_date": "2026-09-17 14:56:50 +00:00",
   "report_commit": "https://github.com/inspectredc/fzerox/commit/4b00f36ceeabfe657866a7d02f3411545b5f55eb",
-  "report_target": "jp"
+  "report_target": "jp",
+  "method_tags": [
+    {
+      "id": "matching-decompilation",
+      "source": "https://raw.githubusercontent.com/inspectredc/fzerox/4b00f36ceeabfe657866a7d02f3411545b5f55eb/README.md",
+      "note": "The upstream README describes source reconstruction targeting original instruction bytes or checksum verification of rebuilt game binaries. This tag describes the matching workflow, not completion or a build independently verified here.",
+      "checked_at": "2026-10-05",
+      "source_sha256": "96601ff15a644e1400f04f84db20c6135977272dea1894ce318d5db4b4c69bb9"
+    }
+  ]
 }

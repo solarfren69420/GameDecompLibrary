@@ -28,5 +28,14 @@
   "snapshot_date": "2026-10-04",
   "report_date": "2026-10-04 11:49:50 +00:00",
   "report_commit": "https://github.com/Lynder063/rac1-decomp/commit/9ca0f7f71f8881c8bbc5b388f48327af9dd43be2",
-  "report_target": "SCES_509.16"
+  "report_target": "SCES_509.16",
+  "method_tags": [
+    {
+      "id": "matching-decompilation",
+      "source": "https://raw.githubusercontent.com/Lynder063/rac1-decomp/9ca0f7f71f8881c8bbc5b388f48327af9dd43be2/README.md",
+      "note": "The upstream README describes source reconstruction targeting original instruction bytes or checksum verification of rebuilt game binaries. This tag describes the matching workflow, not completion or a build independently verified here.",
+      "checked_at": "2026-10-05",
+      "source_sha256": "90b782073c4d311c9fffe071a4a027c17f441c0a4c27850c6a5ae0e1e59e4a9d"
+    }
+  ]
 }

@@ -28,5 +28,14 @@
   "snapshot_date": "2026-10-04",
   "report_date": "2026-09-24 17:37:13 +00:00",
   "report_commit": "https://github.com/Wyrelade/KKND-Decomp/commit/a1c8c22d8c8e38e74a1dd6ba6315a6b32326a140",
-  "report_target": "DOS"
+  "report_target": "DOS",
+  "method_tags": [
+    {
+      "id": "matching-decompilation",
+      "source": "https://raw.githubusercontent.com/Wyrelade/KKND-Decomp/HEAD/README.md",
+      "note": "The upstream README describes source reconstruction targeting original instruction bytes or checksum verification of rebuilt game binaries. This tag describes the matching workflow, not completion or a build independently verified here.",
+      "checked_at": "2026-10-05",
+      "source_sha256": "e4754aa4fdd2c542958d16ac7b8e8c4a40abb4c1c22bbbd095eea98223cee32b"
+    }
+  ]
 }

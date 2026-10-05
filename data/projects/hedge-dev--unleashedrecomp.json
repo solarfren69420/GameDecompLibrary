@@ -35,5 +35,14 @@
   ],
   "snapshot_date": "2026-10-04",
   "report_date": "",
-  "report_commit": ""
+  "report_commit": "",
+  "method_tags": [
+    {
+      "id": "static-recompilation",
+      "source": "https://raw.githubusercontent.com/hedge-dev/UnleashedRecomp/HEAD/README.md",
+      "note": "The README describes a PC port of the Xbox 360 game created through static recompilation.",
+      "checked_at": "2026-10-05",
+      "source_sha256": "2f67af787a595778f1c6723714615110b060f1cd6e387eadd2066ee167144754"
+    }
+  ]
 }

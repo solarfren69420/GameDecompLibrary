@@ -60,6 +60,34 @@ body:
     attributes:
       label: Published progress %
       description: Optional. For a game decompilation only. Use a published numeric code-target metric, such as 42.5. Leave blank for claims, function counts, tools, ports, or unknown values.
+  - type: dropdown
+    id: reconstruction-methods
+    attributes:
+      label: Reconstruction methods
+      description: Optional. Choose methods supported by the upstream source. Matching is a target, not a completion claim. Ghidra analysis alone is not a pseudocode-export claim. Leave blank if unclear.
+      multiple: true
+      options:
+        - Matching decompilation
+        - Non-matching decompilation
+        - Rewrite / reimplementation
+        - Ghidra pseudocode
+        - Disassembly
+        - Static recompilation
+        - Official source release
+        - Source port
+        - Experimental port scaffold
+        - Mechanically generated code
+        - Tool / library
+  - type: input
+    id: method-evidence
+    attributes:
+      label: Method evidence URL
+      description: Required when choosing methods. Link to the upstream explanation of those methods, rather than inferring them from a progress number.
+  - type: textarea
+    id: method-scope
+    attributes:
+      label: Method scope
+      description: Required when choosing methods. Explain which targets or parts use each method; generated pseudocode and matching source may coexist.
   - type: input
     id: linked
     attributes:

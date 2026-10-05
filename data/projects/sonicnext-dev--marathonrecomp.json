@@ -36,5 +36,14 @@
   ],
   "snapshot_date": "2026-10-04",
   "report_date": "",
-  "report_commit": ""
+  "report_commit": "",
+  "method_tags": [
+    {
+      "id": "static-recompilation",
+      "source": "https://raw.githubusercontent.com/sonicnext-dev/MarathonRecomp/HEAD/README.md",
+      "note": "The README describes a PC port of Sonic the Hedgehog (2006) using static recompilation; it also states that this project is not yet intended for public use.",
+      "checked_at": "2026-10-05",
+      "source_sha256": "9b26160cb4c22a403487ea41f4591bb86022b4ca86003063998c5bb53a3cc6bb"
+    }
+  ]
 }

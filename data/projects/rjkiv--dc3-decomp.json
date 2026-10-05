@@ -28,5 +28,14 @@
   "snapshot_date": "2026-10-04",
   "report_date": "2026-10-04 05:27:40 +00:00",
   "report_commit": "https://github.com/rjkiv/dc3-decomp/commit/112b405870ff96f65ffba9c18cb0db6845b7794d",
-  "report_target": "373307D9"
+  "report_target": "373307D9",
+  "method_tags": [
+    {
+      "id": "matching-decompilation",
+      "source": "https://raw.githubusercontent.com/rjkiv/dc3-decomp/112b405870ff96f65ffba9c18cb0db6845b7794d/README.md",
+      "note": "The README documents compiling reconstructed source and a configured objdiff workflow comparing generated objects to target reference objects. This labels the reconstruction workflow, not a completed binary match or manual-only authorship.",
+      "checked_at": "2026-10-05",
+      "source_sha256": "54b57e3a76d26b5123fa7428acb88ffc1c210f6876cc2a11c6c40b2de2fed282"
+    }
+  ]
 }

@@ -28,5 +28,14 @@
   "snapshot_date": "2026-10-04",
   "report_date": "2026-01-21 01:46:51 +00:00",
   "report_commit": "https://github.com/HaydnTrigg/Castaway/commit/f5c5dbcf2b4a20eb797b1aa6eb03f6cf09a4dbbe",
-  "report_target": "R42P69"
+  "report_target": "R42P69",
+  "method_tags": [
+    {
+      "id": "matching-decompilation",
+      "source": "https://raw.githubusercontent.com/HaydnTrigg/Castaway/f5c5dbcf2b4a20eb797b1aa6eb03f6cf09a4dbbe/README.md",
+      "note": "The README documents compiling reconstructed source and a configured objdiff workflow comparing generated objects to target reference objects. This labels the reconstruction workflow, not a completed binary match or manual-only authorship.",
+      "checked_at": "2026-10-05",
+      "source_sha256": "13e10bb9ca631fce9e039dec0f3d9eb1c3ba7cd783c1e50bd95f14aecad7ceca"
+    }
+  ]
 }

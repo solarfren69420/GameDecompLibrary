@@ -28,5 +28,14 @@
   "snapshot_date": "2026-10-04",
   "report_date": "2026-10-03 20:05:15 +00:00",
   "report_commit": "https://github.com/dreamingmoths/memory-of-alessa/commit/6a650e522a0e608804dc2d0214327a06f2e77129",
-  "report_target": "SLUS_206.22"
+  "report_target": "SLUS_206.22",
+  "method_tags": [
+    {
+      "id": "matching-decompilation",
+      "source": "https://raw.githubusercontent.com/dreamingmoths/memory-of-alessa/6a650e522a0e608804dc2d0214327a06f2e77129/README.md",
+      "note": "The upstream README describes source reconstruction targeting original instruction bytes or checksum verification of rebuilt game binaries. This tag describes the matching workflow, not completion or a build independently verified here.",
+      "checked_at": "2026-10-05",
+      "source_sha256": "644a02939d6d2be857dc2cefb38e140c7f5fa024c0c37356b55a142d4524b05e"
+    }
+  ]
 }

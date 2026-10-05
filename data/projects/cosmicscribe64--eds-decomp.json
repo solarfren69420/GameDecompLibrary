@@ -28,5 +28,14 @@
   "snapshot_date": "2026-10-04",
   "report_date": "2026-10-03 18:33:40 +00:00",
   "report_commit": "https://github.com/CosmicScribe64/eds-decomp/commit/a64981db3ffecb0e44d3dd88a08e98ddd879bb0b",
-  "report_target": "AY5E"
+  "report_target": "AY5E",
+  "method_tags": [
+    {
+      "id": "matching-decompilation",
+      "source": "https://raw.githubusercontent.com/CosmicScribe64/eds-decomp/a64981db3ffecb0e44d3dd88a08e98ddd879bb0b/README.md",
+      "note": "The upstream README describes source reconstruction targeting original instruction bytes or checksum verification of rebuilt game binaries. This tag describes the matching workflow, not completion or a build independently verified here.",
+      "checked_at": "2026-10-05",
+      "source_sha256": "37ff78eaf1bdb4ff2912a792b72ac7319870470b058bf4780409174fece22511"
+    }
+  ]
 }

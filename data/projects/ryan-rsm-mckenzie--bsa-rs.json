@@ -27,5 +27,14 @@
   ],
   "snapshot_date": "2026-10-04",
   "report_date": "",
-  "report_commit": ""
+  "report_commit": "",
+  "method_tags": [
+    {
+      "id": "tooling",
+      "source": "https://raw.githubusercontent.com/ryan-rsm-mckenzie/bsa-rs/HEAD/README.md",
+      "note": "The original catalog audit reviewed this upstream project as supporting tooling, bindings or a library; game-completion percentages do not apply.",
+      "checked_at": "2026-10-04",
+      "source_sha256": "1295a9f4d7043da293c73e3e70a3ea720d0cfc07c2487c04b41aa40aa5e46e16"
+    }
+  ]
 }

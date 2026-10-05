@@ -4,6 +4,16 @@ const esc = value => String(value ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;',
 const repo = 'https://github.com/solarfren69420/GameDecompLibrary';
 const colors = ['#4e758b','#807450','#557d68','#74629d','#a6654f','#547e9e','#8c635a','#627f73'];
 const state = {data:null,category:'decomp',page:1,selected:null,pageSize:20};
+const methodTags = p => p.method_tags || [];
+const methodLabel = id => state.data.methods?.[id]?.label || id;
+function methodChips(p){
+  const tags=methodTags(p);
+  return `<div class="method-tags">${tags.length?tags.map(tag=>`<button class="method-tag ${esc(tag.id)}" data-method="${esc(tag.id)}" title="${esc(state.data.methods?.[tag.id]?.description||tag.note)}">${esc(methodLabel(tag.id))}</button>`).join(''):'<button class="method-tag unclassified" data-method="unclassified" title="No reconstruction method assigned from reviewed evidence yet">Method unclassified</button>'}</div>`;
+}
+function methodEvidence(p){
+  const tags=methodTags(p);
+  return `<div class="method-evidence"><h3>Reconstruction method</h3>${tags.length?tags.map(tag=>`<a class="method-tag ${esc(tag.id)}" href="${esc(tag.source)}" target="_blank" rel="noopener noreferrer">${esc(methodLabel(tag.id))} ↗</a><p>${esc(tag.note)}</p><small>Source checked: ${esc(tag.checked_at)}</small>`).join(''):'<p>Not yet classified. No matching or pseudocode claim is inferred.</p>'}</div>`;
+}
 function mark(project){
   let hash=0;for(const c of project.id) hash=(hash+c.charCodeAt(0))%colors.length;
   const letters=project.name.replace(/^The (Legend of Zelda: )?/,'').split(/\s+/).slice(0,2).map(w=>w[0]).join('').toUpperCase();
@@ -33,7 +43,9 @@ function metric(project,key){
 function filters(){
   const query=$('search').value.toLocaleLowerCase().trim();
   let list=state.data.projects.filter(p=>p.category===state.category);
-  list=list.filter(p=>(!$('platform').value||platformLabel(p)===$('platform').value)&&(!query||[p.name,p.url,p.type,p.description,p.group,...p.notes].join(' ').toLocaleLowerCase().includes(query)));
+  list=list.filter(p=>(!$('platform').value||platformLabel(p)===$('platform').value)&&(!query||[p.name,p.url,p.type,p.description,p.group,...p.notes,...methodTags(p).map(t=>methodLabel(t.id))].join(' ').toLocaleLowerCase().includes(query)));
+  const method=$('method').value;
+  if(method)list=list.filter(p=>method==='unclassified'?methodTags(p).length===0:methodTags(p).some(t=>t.id===method));
   const status=$('status').value;
   if(status==='reported')list=list.filter(p=>p.progress.decompiled!==null);
   if(status==='complete')list=list.filter(p=>p.progress.decompiled===100);
@@ -48,7 +60,7 @@ function render(){
   state.page=Math.min(state.page,pages);
   const start=(state.page-1)*state.pageSize, visible=list.slice(start,start+state.pageSize);
   $('result-count').textContent=`${list.length} ${state.category==='tool'?'tools':'projects'}${$('search').value?' found':' in the library'}`;
-  $('rows').innerHTML=visible.map(p=>`<tr class="${p.id===state.selected?'is-selected':''}"><td><div class="project-cell">${mark(p)}<div><a class="project-name" href="${esc(p.url)}" target="_blank" rel="noopener noreferrer">${esc(p.name)}</a><span class="repo-name">${esc(p.url.replace(/^https:\/\/(github|gitlab)\.com\//,''))}</span></div></div></td><td>${badge(p)}</td><td>${metric(p,'decompiled')}</td><td>${metric(p,'linked')}</td><td>${p.sources.length?`<a class="source-link" target="_blank" rel="noopener noreferrer" href="${esc(p.sources[0])}" title="Snapshot ${esc(p.snapshot_date)}"><span aria-hidden="true">◎</span> Source ↗</a>`:'<span class="unknown">Unverified</span>'}</td><td><button class="detail-button" data-project="${esc(p.id)}" aria-label="View details for ${esc(p.name)}" aria-pressed="${p.id===state.selected}">›</button></td></tr>`).join('');
+  $('rows').innerHTML=visible.map(p=>`<tr class="${p.id===state.selected?'is-selected':''}"><td><div class="project-cell">${mark(p)}<div><a class="project-name" href="${esc(p.url)}" target="_blank" rel="noopener noreferrer">${esc(p.name)}</a><span class="repo-name">${esc(p.url.replace(/^https:\/\/(github|gitlab)\.com\//,''))}</span>${methodChips(p)}</div></div></td><td>${badge(p)}</td><td>${metric(p,'decompiled')}</td><td>${metric(p,'linked')}</td><td>${p.sources.length?`<a class="source-link" target="_blank" rel="noopener noreferrer" href="${esc(p.sources[0])}" title="Snapshot ${esc(p.snapshot_date)}"><span aria-hidden="true">◎</span> Source ↗</a>`:'<span class="unknown">Unverified</span>'}</td><td><button class="detail-button" data-project="${esc(p.id)}" aria-label="View details for ${esc(p.name)}" aria-pressed="${p.id===state.selected}">›</button></td></tr>`).join('');
   $('empty').hidden=!!list.length;
   document.querySelector('.table-scroll').hidden=!list.length;
   $('page-info').textContent=list.length?`Showing ${start+1}–${Math.min(start+state.pageSize,list.length)} of ${list.length}`:'0 projects';
@@ -69,6 +81,7 @@ function selectProject(id,updateHash=true){
     try{await navigator.clipboard.writeText(`${location.href.split('#')[0]}#project=${encodeURIComponent(p.id)}`);$('copy-link').textContent='✓';$('copy-link').title='Copied';}
     catch{const a=document.createElement('input');a.value=location.href;a.setAttribute('aria-label','Project link');$('copy-link').replaceWith(a);a.select();}
   });
+  $('selected').querySelector('.evidence').insertAdjacentHTML('beforebegin',methodEvidence(p));
   if(updateHash)history.replaceState(null,'',`#project=${encodeURIComponent(p.id)}`);
   render();
 }
@@ -79,6 +92,13 @@ function changeCategory(category,selectDefault=true){
   const platforms=[...new Set(state.data.projects.filter(p=>p.category===category).map(platformLabel))].sort();
   $('platform').innerHTML=`<option value="">All ${category==='tool'||category==='related'?'types':'platforms'}</option>`+platforms.map(p=>`<option value="${esc(p)}">${esc(p)}</option>`).join('');
   $('status').value='';$('status').disabled=category==='tool'||category==='related';
+  const priorMethod=$('method').value,counts={};
+  for(const p of state.data.projects.filter(p=>p.category===category)){
+    const ids=methodTags(p).length?methodTags(p).map(t=>t.id):['unclassified'];
+    for(const id of ids)counts[id]=(counts[id]||0)+1;
+  }
+  $('method').innerHTML='<option value="">All methods</option>'+Object.entries(counts).sort(([a],[b])=>methodLabel(a).localeCompare(methodLabel(b))).map(([id,count])=>`<option value="${esc(id)}">${esc(id==='unclassified'?'Method unclassified':methodLabel(id))} (${count})</option>`).join('');
+  $('method').value=Object.hasOwn(counts,priorMethod)?priorMethod:'';
   render();
   const visible=filters();
   if(selectDefault&&visible.length&&!visible.some(p=>p.id===state.selected))selectProject(visible[0].id);
@@ -88,6 +108,7 @@ function openSharedProject(){
   let id;try{id=decodeURIComponent(location.hash.slice(9));}catch{return;}
   const project=state.data.projects.find(p=>p.id===id);if(!project)return;
   $('search').value='';
+  $('method').value='';
   changeCategory(project.category,false);
   selectProject(project.id,false);
   state.page=Math.floor(filters().findIndex(p=>p.id===id)/state.pageSize)+1;
@@ -101,11 +122,11 @@ async function init(){
     $('stats').innerHTML=[['blue','▦',`${total} projects`,'One shared source library'],['green','⌘',`${state.data.counts.decomp} game projects`,'Original repositories preserved'],['purple','⚙',`${state.data.counts.tool} bindings & tools`,'Rust and companion tooling'],['gold','↗','Open to contributions','Submit a GitHub. Build together.']].map(([color,icon,title,sub])=>`<div class="stat"><span class="stat-icon ${color}" aria-hidden="true">${icon}</span><div><strong>${esc(title)}</strong><small>${esc(sub)}</small></div></div>`).join('');
     for(const category of ['decomp','tool','related','unconfirmed'])$(`count-${category}`).textContent=state.data.counts[category]||0;
     $('discovery').innerHTML=state.data.discovery.map(url=>`<a href="${esc(url)}" target="_blank" rel="noopener noreferrer">${esc(url.includes('decomp.dev')?'decomp.dev progress tracker':url.split('/').pop())} ↗</a>`).join('');
-    for(const id of ['search','platform','status','sort'])$(id).addEventListener(id==='search'?'input':'change',()=>{state.page=1;render();});
-    $('clear-filters').addEventListener('click',()=>{$('search').value='';$('platform').value='';$('status').value='';state.page=1;render();});
+    for(const id of ['search','platform','status','sort','method'])$(id).addEventListener(id==='search'?'input':'change',()=>{state.page=1;render();});
+    $('clear-filters').addEventListener('click',()=>{$('search').value='';$('platform').value='';$('status').value='';$('method').value='';state.page=1;render();});
     $('previous').addEventListener('click',()=>{state.page--;render();});
     $('next').addEventListener('click',()=>{state.page++;render();});
-    $('rows').addEventListener('click',event=>{const button=event.target.closest('[data-project]');if(button)selectProject(button.dataset.project);});
+    $('rows').addEventListener('click',event=>{const tag=event.target.closest('[data-method]');if(tag){$('method').value=tag.dataset.method;state.page=1;render();return;}const button=event.target.closest('[data-project]');if(button)selectProject(button.dataset.project);});
     document.querySelectorAll('[data-category]').forEach(button=>button.addEventListener('click',()=>changeCategory(button.dataset.category)));
     document.querySelector('.tabs').addEventListener('keydown',event=>{
       if(!['ArrowLeft','ArrowRight','Home','End'].includes(event.key))return;

@@ -28,5 +28,14 @@
   "snapshot_date": "2026-10-04",
   "report_date": "2026-09-11 15:11:05 +00:00",
   "report_commit": "https://github.com/TeamOrre/xd-decomp/commit/4989794e6c6430684e033bc56f4bb97c9a921e73",
-  "report_target": "GXXE01"
+  "report_target": "GXXE01",
+  "method_tags": [
+    {
+      "id": "matching-decompilation",
+      "source": "https://raw.githubusercontent.com/TeamOrre/xd-decomp/4989794e6c6430684e033bc56f4bb97c9a921e73/README.md",
+      "note": "The README documents compiling reconstructed source and a configured objdiff workflow comparing generated objects to target reference objects. This labels the reconstruction workflow, not a completed binary match or manual-only authorship.",
+      "checked_at": "2026-10-05",
+      "source_sha256": "2054b3eeb9edb24481769b02425c082907e447510dc6fbd548b759c78702e7ed"
+    }
+  ]
 }

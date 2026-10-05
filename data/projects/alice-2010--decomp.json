@@ -28,5 +28,14 @@
   "snapshot_date": "2026-10-04",
   "report_date": "2026-09-10 17:21:00 +00:00",
   "report_commit": "https://github.com/Alice-2010/Decomp/commit/ee1bf06e7a6361de0709faf2ed76fc13d6dcdfca",
-  "report_target": "SALP4Q"
+  "report_target": "SALP4Q",
+  "method_tags": [
+    {
+      "id": "matching-decompilation",
+      "source": "https://raw.githubusercontent.com/Alice-2010/Decomp/ee1bf06e7a6361de0709faf2ed76fc13d6dcdfca/README.md",
+      "note": "The README documents compiling reconstructed source and a configured objdiff workflow comparing generated objects to target reference objects. This labels the reconstruction workflow, not a completed binary match or manual-only authorship.",
+      "checked_at": "2026-10-05",
+      "source_sha256": "084c9ab09bb72c2e593ad62adb47c2ec067215cd0823c7254e850508fe9c8b90"
+    }
+  ]
 }

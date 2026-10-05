@@ -28,5 +28,14 @@
   "snapshot_date": "2026-10-04",
   "report_date": "2026-10-04 09:51:09 +00:00",
   "report_commit": "https://github.com/mitsevox/nflstreet2/commit/b522b39b3c17609b9215cd278482674dc4fba005",
-  "report_target": "GN7E69"
+  "report_target": "GN7E69",
+  "method_tags": [
+    {
+      "id": "matching-decompilation",
+      "source": "https://raw.githubusercontent.com/mitsevox/nflstreet2/b522b39b3c17609b9215cd278482674dc4fba005/README.md",
+      "note": "The upstream README describes source reconstruction targeting original instruction bytes or checksum verification of rebuilt game binaries. This tag describes the matching workflow, not completion or a build independently verified here.",
+      "checked_at": "2026-10-05",
+      "source_sha256": "fe2bc28af811cbaaf21e36d5357635bf0d38e6512f80ed158894dfab161a4e00"
+    }
+  ]
 }

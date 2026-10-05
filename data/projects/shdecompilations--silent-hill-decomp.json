@@ -28,5 +28,14 @@
   "snapshot_date": "2026-10-04",
   "report_date": "2026-10-04 05:33:24 +00:00",
   "report_commit": "https://github.com/shdecompilations/silent-hill-decomp/commit/6d23fdfdb43f5f9e222b2e157f1a945e6d312c73",
-  "report_target": "SLUS-00707"
+  "report_target": "SLUS-00707",
+  "method_tags": [
+    {
+      "id": "matching-decompilation",
+      "source": "https://raw.githubusercontent.com/shdecompilations/silent-hill-decomp/6d23fdfdb43f5f9e222b2e157f1a945e6d312c73/README.md",
+      "note": "The README describes writing C that compiles to original assembly and a binary identical to the original, rather than developing a port.",
+      "checked_at": "2026-10-05",
+      "source_sha256": "b7c103e5deddf3cd3b6395998f8cef35efb510a4d2ff39f70d1d92a7ee5b82ce"
+    }
+  ]
 }

@@ -28,5 +28,14 @@
   "snapshot_date": "2026-10-04",
   "report_date": "2026-10-02 06:33:10 +00:00",
   "report_commit": "https://github.com/tgsm/pbg/commit/21ac7d815043f458c94f3e6f3bda632398efad8d",
-  "report_target": "GPLE9G"
+  "report_target": "GPLE9G",
+  "method_tags": [
+    {
+      "id": "matching-decompilation",
+      "source": "https://raw.githubusercontent.com/tgsm/pbg/21ac7d815043f458c94f3e6f3bda632398efad8d/README.md",
+      "note": "The README documents compiling reconstructed source and a configured objdiff workflow comparing generated objects to target reference objects. This labels the reconstruction workflow, not a completed binary match or manual-only authorship.",
+      "checked_at": "2026-10-05",
+      "source_sha256": "5a3a3e5b471a8267d6780b757859036465226189086d72040fa395dee78b3ce0"
+    }
+  ]
 }

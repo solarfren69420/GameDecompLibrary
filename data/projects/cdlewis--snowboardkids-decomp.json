@@ -28,5 +28,14 @@
   "snapshot_date": "2026-10-04",
   "report_date": "2026-09-27 17:30:58 +00:00",
   "report_commit": "https://github.com/cdlewis/snowboardkids-decomp/commit/551d4d12565f1112e148ee95f5f228d540d73bbb",
-  "report_target": "us"
+  "report_target": "us",
+  "method_tags": [
+    {
+      "id": "matching-decompilation",
+      "source": "https://raw.githubusercontent.com/cdlewis/snowboardkids-decomp/551d4d12565f1112e148ee95f5f228d540d73bbb/README.md",
+      "note": "The upstream README describes source reconstruction targeting original instruction bytes or checksum verification of rebuilt game binaries. This tag describes the matching workflow, not completion or a build independently verified here.",
+      "checked_at": "2026-10-05",
+      "source_sha256": "d9ac07e0b37c8964609ca834c7b6708fd4cdcc9a6804051fce84e2db5f533542"
+    }
+  ]
 }

@@ -39,5 +39,21 @@
   ],
   "snapshot_date": "2026-10-04",
   "report_date": "",
-  "report_commit": ""
+  "report_commit": "",
+  "method_tags": [
+    {
+      "id": "rewrite",
+      "source": "https://raw.githubusercontent.com/OpenDriver2/REDRIVER2/HEAD/README.md",
+      "note": "The README describes reimplementing Driver 2, translating MIPS to C and improving the original game; this tag does not assert identical original binaries.",
+      "checked_at": "2026-10-05",
+      "source_sha256": "2fa9135040b5292578959c88b0df31dea54b793135969d40c45bf869ebfece57"
+    },
+    {
+      "id": "source-port",
+      "source": "https://raw.githubusercontent.com/OpenDriver2/REDRIVER2/HEAD/README.md",
+      "note": "The README documents native Windows/Linux builds and a PlayStation porting layer.",
+      "checked_at": "2026-10-05",
+      "source_sha256": "2fa9135040b5292578959c88b0df31dea54b793135969d40c45bf869ebfece57"
+    }
+  ]
 }

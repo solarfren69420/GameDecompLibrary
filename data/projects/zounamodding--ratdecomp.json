@@ -28,5 +28,14 @@
   "snapshot_date": "2026-10-04",
   "report_date": "2026-09-10 16:49:17 +00:00",
   "report_commit": "https://github.com/ZounaModding/RatDecomp/commit/9fbb782be9c83685bb56310e35939b651cd16345",
-  "report_target": "GLLE78"
+  "report_target": "GLLE78",
+  "method_tags": [
+    {
+      "id": "matching-decompilation",
+      "source": "https://raw.githubusercontent.com/ZounaModding/RatDecomp/9fbb782be9c83685bb56310e35939b651cd16345/README.md",
+      "note": "The README documents compiling reconstructed source and a configured objdiff workflow comparing generated objects to target reference objects. This labels the reconstruction workflow, not a completed binary match or manual-only authorship.",
+      "checked_at": "2026-10-05",
+      "source_sha256": "43cfef1491148011c691eda1218f6b50f936292545235a17a4db0094efa493eb"
+    }
+  ]
 }

@@ -28,5 +28,14 @@
   "snapshot_date": "2026-10-04",
   "report_date": "2026-09-16 20:22:28 +00:00",
   "report_commit": "https://github.com/rayanht/fzgx/commit/3a0542c9d1b58f7a907f932bc00e3657b382e9aa",
-  "report_target": "GFZE01"
+  "report_target": "GFZE01",
+  "method_tags": [
+    {
+      "id": "matching-decompilation",
+      "source": "https://raw.githubusercontent.com/rayanht/fzgx/3a0542c9d1b58f7a907f932bc00e3657b382e9aa/README.md",
+      "note": "The upstream README describes source reconstruction targeting original instruction bytes or checksum verification of rebuilt game binaries. This tag describes the matching workflow, not completion or a build independently verified here.",
+      "checked_at": "2026-10-05",
+      "source_sha256": "6d61df28c76c75e28fed70e8c1e6c1a78c1c9f140b728884266cc166a5f8e2d3"
+    }
+  ]
 }

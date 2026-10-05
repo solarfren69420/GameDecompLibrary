@@ -28,5 +28,14 @@
   "snapshot_date": "2026-10-04",
   "report_date": "2026-10-01 20:05:09 +00:00",
   "report_commit": "https://github.com/melalawi/battletanx-decomp/commit/874a72c13cd8428872cefc71adde9fd839b78e2a",
-  "report_target": "us"
+  "report_target": "us",
+  "method_tags": [
+    {
+      "id": "matching-decompilation",
+      "source": "https://raw.githubusercontent.com/melalawi/battletanx-decomp/874a72c13cd8428872cefc71adde9fd839b78e2a/README.md",
+      "note": "The upstream README describes source reconstruction targeting original instruction bytes or checksum verification of rebuilt game binaries. This tag describes the matching workflow, not completion or a build independently verified here.",
+      "checked_at": "2026-10-05",
+      "source_sha256": "bf418ef9d99767c2fe7ba132cd3fb118d5074191c5615d75285130b7e832e0a2"
+    }
+  ]
 }

@@ -28,5 +28,14 @@
   "snapshot_date": "2026-10-04",
   "report_date": "2026-10-04 03:13:54 +00:00",
   "report_commit": "https://github.com/celophi/so3-decomp/commit/36e0c031c813e4d83b2e6f7c56a82f0d60929c21",
-  "report_target": "us"
+  "report_target": "us",
+  "method_tags": [
+    {
+      "id": "matching-decompilation",
+      "source": "https://raw.githubusercontent.com/celophi/so3-decomp/36e0c031c813e4d83b2e6f7c56a82f0d60929c21/README.md",
+      "note": "The upstream README describes source reconstruction targeting original instruction bytes or checksum verification of rebuilt game binaries. This tag describes the matching workflow, not completion or a build independently verified here.",
+      "checked_at": "2026-10-05",
+      "source_sha256": "64581817d25771ccc323a5a743a67498fff8fb89c6467a32c887eb377f31dc82"
+    }
+  ]
 }

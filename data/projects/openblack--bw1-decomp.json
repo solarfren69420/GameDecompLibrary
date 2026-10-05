@@ -28,5 +28,14 @@
   "snapshot_date": "2026-10-04",
   "report_date": "2026-10-04 10:14:52 +00:00",
   "report_commit": "https://github.com/openblack/bw1-decomp/commit/39efb439b93d863e4b7aea4b5269ddc10228b735",
-  "report_target": "BW1W120"
+  "report_target": "BW1W120",
+  "method_tags": [
+    {
+      "id": "matching-decompilation",
+      "source": "https://raw.githubusercontent.com/openblack/bw1-decomp/39efb439b93d863e4b7aea4b5269ddc10228b735/README.md",
+      "note": "The README documents compiling reconstructed source and a configured objdiff workflow comparing generated objects to target reference objects. This labels the reconstruction workflow, not a completed binary match or manual-only authorship.",
+      "checked_at": "2026-10-05",
+      "source_sha256": "cb8b613e980092b568f6fe1d146158721b3c87539a3fb10c50385e1ec3dd891c"
+    }
+  ]
 }

@@ -28,5 +28,14 @@
   "snapshot_date": "2026-10-04",
   "report_date": "2026-09-08 22:12:42 +00:00",
   "report_commit": "https://github.com/JRickey/frog-adv-temple-decomp/commit/fed8033013cb0e8c546008c83e04d2b80fc6f19b",
-  "report_target": "us"
+  "report_target": "us",
+  "method_tags": [
+    {
+      "id": "matching-decompilation",
+      "source": "https://raw.githubusercontent.com/JRickey/frog-adv-temple-decomp/fed8033013cb0e8c546008c83e04d2b80fc6f19b/README.md",
+      "note": "The upstream README describes source reconstruction targeting original instruction bytes or checksum verification of rebuilt game binaries. This tag describes the matching workflow, not completion or a build independently verified here.",
+      "checked_at": "2026-10-05",
+      "source_sha256": "798d5436509c3953b6a46b9949c570cc6f53b8030859f06cbc5e9bafe667fb18"
+    }
+  ]
 }

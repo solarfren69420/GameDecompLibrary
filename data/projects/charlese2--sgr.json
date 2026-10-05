@@ -28,5 +28,14 @@
   "snapshot_date": "2026-10-04",
   "report_date": "2025-12-09 01:43:54 +00:00",
   "report_commit": "https://github.com/Charlese2/sgr/commit/e260a0ef5b9f45a8880f39168a81c8dfdbee8b77",
-  "report_target": "GS2E78"
+  "report_target": "GS2E78",
+  "method_tags": [
+    {
+      "id": "matching-decompilation",
+      "source": "https://raw.githubusercontent.com/Charlese2/sgr/e260a0ef5b9f45a8880f39168a81c8dfdbee8b77/README.md",
+      "note": "The README documents compiling reconstructed source and a configured objdiff workflow comparing generated objects to target reference objects. This labels the reconstruction workflow, not a completed binary match or manual-only authorship.",
+      "checked_at": "2026-10-05",
+      "source_sha256": "2ae2c6915f52dd9c33ba121386c0d50bd7c1d18802fcdaaa0d8f27b3785d1ff7"
+    }
+  ]
 }

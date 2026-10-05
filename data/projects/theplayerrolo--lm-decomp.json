@@ -28,5 +28,14 @@
   "snapshot_date": "2026-10-04",
   "report_date": "2026-08-17 22:23:29 +00:00",
   "report_commit": "https://github.com/ThePlayerRolo/lm-decomp/commit/edb2188517bb234e8171da7ebdfa9f3c8797c405",
-  "report_target": "GLME01"
+  "report_target": "GLME01",
+  "method_tags": [
+    {
+      "id": "matching-decompilation",
+      "source": "https://raw.githubusercontent.com/ThePlayerRolo/lm-decomp/edb2188517bb234e8171da7ebdfa9f3c8797c405/README.md",
+      "note": "The README documents compiling reconstructed source and a configured objdiff workflow comparing generated objects to target reference objects. This labels the reconstruction workflow, not a completed binary match or manual-only authorship.",
+      "checked_at": "2026-10-05",
+      "source_sha256": "0dc90259bd57b49aed38518458388a1820392d3cd05911aafe6414a842c18a57"
+    }
+  ]
 }

@@ -28,5 +28,14 @@
   "snapshot_date": "2026-10-04",
   "report_date": "2026-09-24 09:29:35 +00:00",
   "report_commit": "https://github.com/NSMBW-Community/NSMBW-Decomp/commit/58fe6985e3ca55261beb543fe7558f66c3ddd7c4",
-  "report_target": "SMNP01"
+  "report_target": "SMNP01",
+  "method_tags": [
+    {
+      "id": "matching-decompilation",
+      "source": "https://raw.githubusercontent.com/NSMBW-Community/NSMBW-Decomp/58fe6985e3ca55261beb543fe7558f66c3ddd7c4/README.md",
+      "note": "The upstream README describes source reconstruction targeting original instruction bytes or checksum verification of rebuilt game binaries. This tag describes the matching workflow, not completion or a build independently verified here.",
+      "checked_at": "2026-10-05",
+      "source_sha256": "3c765bebea0bc84ccdf5a1f5b91e9eb79ce7451aeeea79586c79866097c6ed81"
+    }
+  ]
 }

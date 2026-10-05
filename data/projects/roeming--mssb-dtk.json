@@ -28,5 +28,14 @@
   "snapshot_date": "2026-10-04",
   "report_date": "2026-07-12 19:53:29 +00:00",
   "report_commit": "https://github.com/roeming/mssb-dtk/commit/72de19a39880398a69339010350652ad97e2a79c",
-  "report_target": "GYQE01"
+  "report_target": "GYQE01",
+  "method_tags": [
+    {
+      "id": "matching-decompilation",
+      "source": "https://raw.githubusercontent.com/roeming/mssb-dtk/72de19a39880398a69339010350652ad97e2a79c/README.md",
+      "note": "The README documents compiling reconstructed source and a configured objdiff workflow comparing generated objects to target reference objects. This labels the reconstruction workflow, not a completed binary match or manual-only authorship.",
+      "checked_at": "2026-10-05",
+      "source_sha256": "986a22893157e4837a0ac758d9e905befee098461a28cb8902251bfee9dc5099"
+    }
+  ]
 }

@@ -28,5 +28,14 @@
   "snapshot_date": "2026-10-04",
   "report_date": "2026-10-03 00:02:18 +00:00",
   "report_commit": "https://github.com/TheMoonPeople/Chronicle/commit/05fd37be122cd5833cfeeceb83475933959d938f",
-  "report_target": "ntsc"
+  "report_target": "ntsc",
+  "method_tags": [
+    {
+      "id": "matching-decompilation",
+      "source": "https://raw.githubusercontent.com/TheMoonPeople/Chronicle/05fd37be122cd5833cfeeceb83475933959d938f/README.md",
+      "note": "The README explicitly reports matching original executable text/data sections and overlays, and documents comparing functions against the retail original with objdiff.",
+      "checked_at": "2026-10-05",
+      "source_sha256": "38fb64e4963e7b589b2b37847c7b9284b602fec366bbcf47f4dea8409c94488e"
+    }
+  ]
 }

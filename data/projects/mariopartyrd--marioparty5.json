@@ -28,5 +28,14 @@
   "snapshot_date": "2026-10-04",
   "report_date": "2026-05-30 00:36:04 +00:00",
   "report_commit": "https://github.com/mariopartyrd/marioparty5/commit/e246f9d9850ff53ac684b971068fbf87fdcf6acb",
-  "report_target": "GP5E01_00"
+  "report_target": "GP5E01_00",
+  "method_tags": [
+    {
+      "id": "matching-decompilation",
+      "source": "https://raw.githubusercontent.com/mariopartyrd/marioparty5/e246f9d9850ff53ac684b971068fbf87fdcf6acb/README.md",
+      "note": "The README documents compiling reconstructed source and a configured objdiff workflow comparing generated objects to target reference objects. This labels the reconstruction workflow, not a completed binary match or manual-only authorship.",
+      "checked_at": "2026-10-05",
+      "source_sha256": "e3472d4ccf023b86ba2443f1a6cb9ae85299e76d8baa4e6d350a3cf63a19571e"
+    }
+  ]
 }

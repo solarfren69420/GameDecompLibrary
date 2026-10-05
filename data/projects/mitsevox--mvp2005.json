@@ -28,5 +28,14 @@
   "snapshot_date": "2026-10-04",
   "report_date": "2026-09-30 20:16:16 +00:00",
   "report_commit": "https://github.com/mitsevox/mvp2005/commit/f1e1763bf76b7806ba704868be26935876a6efb1",
-  "report_target": "GV4E69"
+  "report_target": "GV4E69",
+  "method_tags": [
+    {
+      "id": "matching-decompilation",
+      "source": "https://raw.githubusercontent.com/mitsevox/mvp2005/f1e1763bf76b7806ba704868be26935876a6efb1/README.md",
+      "note": "The upstream README describes source reconstruction targeting original instruction bytes or checksum verification of rebuilt game binaries. This tag describes the matching workflow, not completion or a build independently verified here.",
+      "checked_at": "2026-10-05",
+      "source_sha256": "07daf75ac718862cbefc575e79a4c1ff11d91d2cabb09643c359884ae80d0880"
+    }
+  ]
 }

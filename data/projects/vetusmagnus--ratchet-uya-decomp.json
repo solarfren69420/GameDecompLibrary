@@ -28,5 +28,14 @@
   "snapshot_date": "2026-10-04",
   "report_date": "2026-10-04 12:07:02 +00:00",
   "report_commit": "https://github.com/vetusmagnus/ratchet-uya-decomp/commit/b15cbb603d2ef399240f0a27af0f1d40ca0b0458",
-  "report_target": "SCUS_973.53"
+  "report_target": "SCUS_973.53",
+  "method_tags": [
+    {
+      "id": "matching-decompilation",
+      "source": "https://raw.githubusercontent.com/vetusmagnus/ratchet-uya-decomp/b15cbb603d2ef399240f0a27af0f1d40ca0b0458/README.md",
+      "note": "The upstream README describes source reconstruction targeting original instruction bytes or checksum verification of rebuilt game binaries. This tag describes the matching workflow, not completion or a build independently verified here.",
+      "checked_at": "2026-10-05",
+      "source_sha256": "6c7a03cc5581cc1066b0c8e3855ee0e07e452c1f0cfe6b66d5219e67147a5ec0"
+    }
+  ]
 }

@@ -28,5 +28,14 @@
   "snapshot_date": "2026-10-04",
   "report_date": "2026-09-27 22:35:16 +00:00",
   "report_commit": "https://github.com/doldecomp/ttyd/commit/62131fc31866f85a12e4817a8dc37f0c25eb5f8c",
-  "report_target": "G8MJ01"
+  "report_target": "G8MJ01",
+  "method_tags": [
+    {
+      "id": "matching-decompilation",
+      "source": "https://raw.githubusercontent.com/doldecomp/ttyd/62131fc31866f85a12e4817a8dc37f0c25eb5f8c/README.md",
+      "note": "The README documents compiling reconstructed source and a configured objdiff workflow comparing generated objects to target reference objects. This labels the reconstruction workflow, not a completed binary match or manual-only authorship.",
+      "checked_at": "2026-10-05",
+      "source_sha256": "f2737edccb3f95f9365d301d3b9fdac0a744bc9f9050facf7d2e4adc3609eee7"
+    }
+  ]
 }

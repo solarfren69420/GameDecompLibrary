@@ -28,5 +28,14 @@
   "snapshot_date": "2026-10-04",
   "report_date": "2026-06-09 17:42:49 +00:00",
   "report_commit": "https://github.com/conhlee/rhf/commit/4429cbcb000abff644683d98701f6ab8c1671e10",
-  "report_target": "SOME01"
+  "report_target": "SOME01",
+  "method_tags": [
+    {
+      "id": "matching-decompilation",
+      "source": "https://raw.githubusercontent.com/conhlee/rhf/4429cbcb000abff644683d98701f6ab8c1671e10/README.md",
+      "note": "The README documents compiling reconstructed source and a configured objdiff workflow comparing generated objects to target reference objects. This labels the reconstruction workflow, not a completed binary match or manual-only authorship.",
+      "checked_at": "2026-10-05",
+      "source_sha256": "2e3de9d88bc837c974fbb7baad733c446ccf76fa3a0fd5d56cbb57104aa27ed7"
+    }
+  ]
 }

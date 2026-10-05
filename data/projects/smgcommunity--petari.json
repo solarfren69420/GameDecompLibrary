@@ -28,5 +28,14 @@
   "snapshot_date": "2026-10-04",
   "report_date": "2026-10-03 21:52:06 +00:00",
   "report_commit": "https://github.com/SMGCommunity/Petari/commit/d0320847e2cf066aa68cd9c8a489ff548af40b5c",
-  "report_target": "RMGK01"
+  "report_target": "RMGK01",
+  "method_tags": [
+    {
+      "id": "matching-decompilation",
+      "source": "https://raw.githubusercontent.com/SMGCommunity/Petari/d0320847e2cf066aa68cd9c8a489ff548af40b5c/README.md",
+      "note": "The README documents compiling reconstructed source and a configured objdiff workflow comparing generated objects to target reference objects. This labels the reconstruction workflow, not a completed binary match or manual-only authorship.",
+      "checked_at": "2026-10-05",
+      "source_sha256": "e758bf9f1f8b8dcff9df830e23adc93fba718db773981fb450f67a2796a49eb6"
+    }
+  ]
 }

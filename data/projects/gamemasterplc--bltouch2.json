@@ -28,5 +28,14 @@
   "snapshot_date": "2026-10-04",
   "report_date": "2026-09-28 00:23:10 +00:00",
   "report_commit": "https://github.com/gamemasterplc/bltouch2/commit/a6d94c55e471107c59aa742dd3c9aee9ef195c85",
-  "report_target": "usa"
+  "report_target": "usa",
+  "method_tags": [
+    {
+      "id": "matching-decompilation",
+      "source": "https://raw.githubusercontent.com/gamemasterplc/bltouch2/a6d94c55e471107c59aa742dd3c9aee9ef195c85/README.md",
+      "note": "The upstream README describes source reconstruction targeting original instruction bytes or checksum verification of rebuilt game binaries. This tag describes the matching workflow, not completion or a build independently verified here.",
+      "checked_at": "2026-10-05",
+      "source_sha256": "82f1e8384a845ac7e8ae0338e0e50f8a34b2d70c9fe974a8b4b8e7a4f16f1536"
+    }
+  ]
 }

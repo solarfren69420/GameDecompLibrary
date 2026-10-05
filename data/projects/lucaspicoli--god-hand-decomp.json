@@ -28,5 +28,14 @@
   "snapshot_date": "2026-10-04",
   "report_date": "2026-10-03 08:16:22 +00:00",
   "report_commit": "https://github.com/LucasPicoli/god-hand-decomp/commit/58bcee16a279f8ee2bc2a7e9d341a33b325d4151",
-  "report_target": "SLUS_215.03"
+  "report_target": "SLUS_215.03",
+  "method_tags": [
+    {
+      "id": "matching-decompilation",
+      "source": "https://raw.githubusercontent.com/LucasPicoli/god-hand-decomp/58bcee16a279f8ee2bc2a7e9d341a33b325d4151/README.md",
+      "note": "The upstream README describes source reconstruction targeting original instruction bytes or checksum verification of rebuilt game binaries. This tag describes the matching workflow, not completion or a build independently verified here.",
+      "checked_at": "2026-10-05",
+      "source_sha256": "df1bbdbd318c01bbfdea12aeabcb36db1a86986804c470634af5a1ad3f325a12"
+    }
+  ]
 }

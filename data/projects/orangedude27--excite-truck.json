@@ -28,5 +28,14 @@
   "snapshot_date": "2026-10-04",
   "report_date": "2026-09-07 01:48:48 +00:00",
   "report_commit": "https://github.com/orangedude27/excite-truck/commit/29be6123144b13a966b679864097f6b529614752",
-  "report_target": "REXE01"
+  "report_target": "REXE01",
+  "method_tags": [
+    {
+      "id": "matching-decompilation",
+      "source": "https://raw.githubusercontent.com/orangedude27/excite-truck/29be6123144b13a966b679864097f6b529614752/README.md",
+      "note": "The upstream README describes source reconstruction targeting original instruction bytes or checksum verification of rebuilt game binaries. This tag describes the matching workflow, not completion or a build independently verified here.",
+      "checked_at": "2026-10-05",
+      "source_sha256": "461cee7de4be327b02e0e5ea0e2a5748b594224373c46efe94fa6163f2e3922b"
+    }
+  ]
 }

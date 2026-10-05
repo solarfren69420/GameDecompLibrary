@@ -28,5 +28,14 @@
   "snapshot_date": "2026-10-04",
   "report_date": "2026-09-24 13:23:34 +00:00",
   "report_commit": "https://github.com/marijnvdwerf/gba-beyblade-vforce/commit/e1f747d1dbc07ee6a0d63415ee45d1b67e1d23aa",
-  "report_target": "eu"
+  "report_target": "eu",
+  "method_tags": [
+    {
+      "id": "matching-decompilation",
+      "source": "https://raw.githubusercontent.com/marijnvdwerf/gba-beyblade-vforce/e1f747d1dbc07ee6a0d63415ee45d1b67e1d23aa/README.md",
+      "note": "The upstream README describes source reconstruction targeting original instruction bytes or checksum verification of rebuilt game binaries. This tag describes the matching workflow, not completion or a build independently verified here.",
+      "checked_at": "2026-10-05",
+      "source_sha256": "1271388f4df48de3d8e1986c9feeae880d4fafa08048227ab5a609ed5b22a4f4"
+    }
+  ]
 }

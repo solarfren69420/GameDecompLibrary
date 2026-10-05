@@ -12,6 +12,30 @@
 
 The artwork has no fixed counts. The totals above update with the catalog; use the links above to browse, submit a project or suggest a correction.
 
+<!-- method-guide:start -->
+## Reconstruction method tags
+
+Use **All methods** on the website, or click a project's tag, to filter within its category. The selected-project panel links each tag to its evidence and scope note. The full GitHub catalog includes the same tags.
+
+Tags can overlap. A matching target does not establish 100% completion, human-only authorship or a build tested by this library. Ghidra analysis alone is not a pseudocode-export claim. **Unclassified** means no method tag has been established from reviewed evidence; it does not mean non-matching or zero progress.
+
+| Tag | Meaning |
+| --- | --- |
+| Matching decompilation | Upstream describes source reconstruction targeting the original compiled binary. This is a method or goal, not a claim of 100% completion or a build verified by this library. |
+| Non-matching decompilation | Upstream explicitly describes reconstruction that does not target an identical original binary. |
+| Rewrite / reimplementation | An implementation intended to reproduce game behavior, rather than establish an identical original binary. |
+| Ghidra pseudocode | The project includes or reports Ghidra-generated pseudocode exports. This alone establishes neither compilable reconstruction nor matching code nor a playable port. |
+| Disassembly | Reconstructed assembly source for an original executable or ROM. |
+| Static recompilation | Translation of original machine code for another host or runtime, rather than a matching source decompilation. |
+| Official source release | Source published by the original game&#x27;s developer. |
+| Source port | A source-based adaptation for other platforms; this tag does not certify completeness or playability. |
+| Experimental port scaffold | An early port workspace or scaffold, without a verified completed playable port. |
+| Mechanically generated code | Parts of the source are emitted by tools from instruction patterns or blocks. This can overlap with matching reconstruction; the evidence note distinguishes generated expressions from instruction wrappers. |
+| Tool / library | Supporting tooling, bindings or libraries; game-completion percentages do not apply. |
+
+For new entries, submit methods with their source and scope in the issue form, or edit `method_tags` in the project's JSON. See [CONTRIBUTING.md](CONTRIBUTING.md) for the format. Tag evidence has its own review date; it does not revise the original progress audit below.
+<!-- method-guide:end -->
+
 ## Additions outside the original audit
 
 **2026-10-04 — [Project Arceus](https://github.com/NicoRuedaA/project-arceus)** was accepted under **Related projects** as a reverse-engineering workspace and experimental Rust/Bevy port scaffold for Pokémon Legends: Arceus. Its [catalog record](data/projects/nicoruedaa--project-arceus.json) includes commit-pinned sources and review qualifications. The review compared its README, source, report definitions, all 38 recorded Rust source hashes and the evidence-ledger hash. It did not build or gameplay-test the project.

@@ -28,5 +28,14 @@
   "snapshot_date": "2026-10-04",
   "report_date": "2026-09-24 17:06:07 +00:00",
   "report_commit": "https://github.com/pakompom/SpaceRangersHD_decomp/commit/28766d75a4a22c6700fb60cf9e6d0c695cc5edfa",
-  "report_target": "2026-08-11"
+  "report_target": "2026-08-11",
+  "method_tags": [
+    {
+      "id": "matching-decompilation",
+      "source": "https://raw.githubusercontent.com/pakompom/SpaceRangersHD_decomp/28766d75a4a22c6700fb60cf9e6d0c695cc5edfa/README.md",
+      "note": "The upstream README describes source reconstruction targeting original instruction bytes or checksum verification of rebuilt game binaries. This tag describes the matching workflow, not completion or a build independently verified here.",
+      "checked_at": "2026-10-05",
+      "source_sha256": "f14ac395df0c2756eed14a9691bcdc92912e67aa2a306610e0539973302d4c5c"
+    }
+  ]
 }

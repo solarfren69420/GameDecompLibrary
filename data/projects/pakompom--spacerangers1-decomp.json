@@ -28,5 +28,14 @@
   "snapshot_date": "2026-10-04",
   "report_date": "2026-09-29 03:22:41 +00:00",
   "report_commit": "https://github.com/pakompom/SpaceRangers1_decomp/commit/28dfefdab7f03d63386d0af2e7f92df01df3ea1c",
-  "report_target": "sr1-1.7.2-steam-en"
+  "report_target": "sr1-1.7.2-steam-en",
+  "method_tags": [
+    {
+      "id": "matching-decompilation",
+      "source": "https://raw.githubusercontent.com/pakompom/SpaceRangers1_decomp/28dfefdab7f03d63386d0af2e7f92df01df3ea1c/README.md",
+      "note": "The upstream README describes source reconstruction targeting original instruction bytes or checksum verification of rebuilt game binaries. This tag describes the matching workflow, not completion or a build independently verified here.",
+      "checked_at": "2026-10-05",
+      "source_sha256": "1ac626012424a6204de96d50bbc6df58c2a7a79f5a0ae58cb205eaa3270a78e6"
+    }
+  ]
 }

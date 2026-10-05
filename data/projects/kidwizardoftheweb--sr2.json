@@ -28,5 +28,14 @@
   "snapshot_date": "2026-10-04",
   "report_date": "2026-09-05 17:46:42 +00:00",
   "report_commit": "https://github.com/KidWizardOfTheWeb/SR2/commit/b5820699c9120ddc72bebe4d5a2329e20f835c81",
-  "report_target": "SLUS-21642-PROTO-070901"
+  "report_target": "SLUS-21642-PROTO-070901",
+  "method_tags": [
+    {
+      "id": "matching-decompilation",
+      "source": "https://raw.githubusercontent.com/KidWizardOfTheWeb/SR2/b5820699c9120ddc72bebe4d5a2329e20f835c81/README.md",
+      "note": "The README documents compiling reconstructed source and a configured objdiff workflow comparing generated objects to target reference objects. This labels the reconstruction workflow, not a completed binary match or manual-only authorship.",
+      "checked_at": "2026-10-05",
+      "source_sha256": "4a987d21e58000231474bf4c74a3fbc5062a346c7619312ecdd473b0c57ded59"
+    }
+  ]
 }

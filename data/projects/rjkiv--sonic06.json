@@ -28,5 +28,14 @@
   "snapshot_date": "2026-10-04",
   "report_date": "2026-08-30 17:31:53 +00:00",
   "report_commit": "https://github.com/rjkiv/sonic06/commit/eb11705eabe94830001eb897877a1655a1144b1c",
-  "report_target": "534507D6"
+  "report_target": "534507D6",
+  "method_tags": [
+    {
+      "id": "matching-decompilation",
+      "source": "https://raw.githubusercontent.com/rjkiv/sonic06/eb11705eabe94830001eb897877a1655a1144b1c/README.md",
+      "note": "The README documents compiling reconstructed source and a configured objdiff workflow comparing generated objects to target reference objects. This labels the reconstruction workflow, not a completed binary match or manual-only authorship.",
+      "checked_at": "2026-10-05",
+      "source_sha256": "b014c1c3d6b871f571bc891b26d382116d26f02c7f6f83287c2c9d2846c9b793"
+    }
+  ]
 }

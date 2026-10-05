@@ -28,5 +28,14 @@
   "snapshot_date": "2026-10-04",
   "report_date": "2026-10-03 23:50:45 +00:00",
   "report_commit": "https://github.com/zeldaret/tww/commit/49f2e3484e5814cbafde68525128669589e86bb2",
-  "report_target": "GZLE01"
+  "report_target": "GZLE01",
+  "method_tags": [
+    {
+      "id": "matching-decompilation",
+      "source": "https://raw.githubusercontent.com/zeldaret/tww/49f2e3484e5814cbafde68525128669589e86bb2/README.md",
+      "note": "The README documents compiling reconstructed source and a configured objdiff workflow comparing generated objects to target reference objects. This labels the reconstruction workflow, not a completed binary match or manual-only authorship.",
+      "checked_at": "2026-10-05",
+      "source_sha256": "600ee7b0c4042e49090299e35b5291fdc4de2b886b84deeb79fa6ff53427f187"
+    }
+  ]
 }

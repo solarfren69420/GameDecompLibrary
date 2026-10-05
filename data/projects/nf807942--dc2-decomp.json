@@ -28,5 +28,14 @@
   "snapshot_date": "2026-10-04",
   "report_date": "2026-10-01 20:41:47 +00:00",
   "report_commit": "https://github.com/nf807942/dc2-decomp/commit/508af33b5bef904d029354b2a755ba49a3112b09",
-  "report_target": "pal"
+  "report_target": "pal",
+  "method_tags": [
+    {
+      "id": "matching-decompilation",
+      "source": "https://raw.githubusercontent.com/nf807942/dc2-decomp/508af33b5bef904d029354b2a755ba49a3112b09/README.md",
+      "note": "The upstream README describes source reconstruction targeting original instruction bytes or checksum verification of rebuilt game binaries. This tag describes the matching workflow, not completion or a build independently verified here.",
+      "checked_at": "2026-10-05",
+      "source_sha256": "822ab93a1b24fd9c1178cfbb6deeb87a74fd0fe0a15da846f598d4b7324f637b"
+    }
+  ]
 }

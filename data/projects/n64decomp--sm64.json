@@ -39,5 +39,14 @@
   ],
   "snapshot_date": "2026-10-04",
   "report_date": "",
-  "report_commit": ""
+  "report_commit": "",
+  "method_tags": [
+    {
+      "id": "matching-decompilation",
+      "source": "https://raw.githubusercontent.com/n64decomp/sm64/HEAD/README.md",
+      "note": "The README documents rebuilding original ROM variants and comparing their hashes by default; optional NON_MATCHING implementations are separately described.",
+      "checked_at": "2026-10-05",
+      "source_sha256": "e4ba8e43058e5002fea8024d89f1a07b96b34dfdac06492790fabe004e5d2393"
+    }
+  ]
 }

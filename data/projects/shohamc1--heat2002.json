@@ -28,5 +28,14 @@
   "snapshot_date": "2026-10-04",
   "report_date": "2026-10-02 12:21:48 +00:00",
   "report_commit": "https://github.com/shohamc1/heat2002/commit/5b9ed567e2129d38c0b18e0135c83c453a038862",
-  "report_target": "usa"
+  "report_target": "usa",
+  "method_tags": [
+    {
+      "id": "matching-decompilation",
+      "source": "https://raw.githubusercontent.com/shohamc1/heat2002/5b9ed567e2129d38c0b18e0135c83c453a038862/README.md",
+      "note": "The upstream README describes source reconstruction targeting original instruction bytes or checksum verification of rebuilt game binaries. This tag describes the matching workflow, not completion or a build independently verified here.",
+      "checked_at": "2026-10-05",
+      "source_sha256": "e6ffa9fe77420610278e66f50c98662daf7e872cbc15f0cde215e0cde2fa6e01"
+    }
+  ]
 }

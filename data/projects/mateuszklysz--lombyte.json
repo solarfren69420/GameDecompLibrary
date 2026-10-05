@@ -28,5 +28,14 @@
   "snapshot_date": "2026-10-04",
   "report_date": "2026-10-04 09:35:09 +00:00",
   "report_commit": "https://github.com/mateuszklysz/Lombyte/commit/e82305e6e01423428b814d397b2a687aa44f9253",
-  "report_target": "SCUS_971.99"
+  "report_target": "SCUS_971.99",
+  "method_tags": [
+    {
+      "id": "matching-decompilation",
+      "source": "https://raw.githubusercontent.com/mateuszklysz/Lombyte/e82305e6e01423428b814d397b2a687aa44f9253/README.md",
+      "note": "The upstream README describes source reconstruction targeting original instruction bytes or checksum verification of rebuilt game binaries. This tag describes the matching workflow, not completion or a build independently verified here.",
+      "checked_at": "2026-10-05",
+      "source_sha256": "b7b6e77c13c1085f793ff727c41bf06066c3a71569b1f8e2b8e396b19e4e8244"
+    }
+  ]
 }

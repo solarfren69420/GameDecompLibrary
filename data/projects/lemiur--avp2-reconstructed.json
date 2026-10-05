@@ -28,5 +28,14 @@
   "snapshot_date": "2026-10-04",
   "report_date": "2026-10-03 23:53:18 +00:00",
   "report_commit": "https://github.com/lemiur/AVP2-Reconstructed/commit/42a976fa9cfb03df9bf35b131f8f78ea9bd7263a",
-  "report_target": "lithtech_1.0.9.6"
+  "report_target": "lithtech_1.0.9.6",
+  "method_tags": [
+    {
+      "id": "matching-decompilation",
+      "source": "https://raw.githubusercontent.com/lemiur/AVP2-Reconstructed/42a976fa9cfb03df9bf35b131f8f78ea9bd7263a/README.md",
+      "note": "The upstream README describes source reconstruction targeting original instruction bytes or checksum verification of rebuilt game binaries. This tag describes the matching workflow, not completion or a build independently verified here.",
+      "checked_at": "2026-10-05",
+      "source_sha256": "eaf7427789795cf85e1bcc987631961ddc675aeb2a6be1991ad7f5609def33cd"
+    }
+  ]
 }

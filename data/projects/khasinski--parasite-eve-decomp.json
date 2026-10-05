@@ -28,5 +28,14 @@
   "snapshot_date": "2026-10-04",
   "report_date": "2026-10-04 12:06:52 +00:00",
   "report_commit": "https://github.com/khasinski/parasite-eve-decomp/commit/add85754bab8a60518acc3cee5695d81669b2250",
-  "report_target": "SLUS_006.62"
+  "report_target": "SLUS_006.62",
+  "method_tags": [
+    {
+      "id": "matching-decompilation",
+      "source": "https://raw.githubusercontent.com/khasinski/parasite-eve-decomp/add85754bab8a60518acc3cee5695d81669b2250/README.md",
+      "note": "The upstream README describes source reconstruction targeting original instruction bytes or checksum verification of rebuilt game binaries. This tag describes the matching workflow, not completion or a build independently verified here.",
+      "checked_at": "2026-10-05",
+      "source_sha256": "61c565b8c745e3b490a5a7f953dcfac8e022250319a60435bc9ba410e5b70c0c"
+    }
+  ]
 }

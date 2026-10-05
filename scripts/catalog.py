@@ -8,6 +8,7 @@ from urllib.parse import urlparse
 
 ROOT = Path(__file__).resolve().parents[1]
 CATEGORIES = {"decomp", "tool", "related", "unconfirmed"}
+METHODS = json.loads((ROOT / "data/methods.json").read_text())
 
 
 def https_url(value):
@@ -30,6 +31,25 @@ def validate(entry):
     if not re.fullmatch(r"\d{4}-\d{2}-\d{2}", entry["snapshot_date"]):
         raise ValueError("snapshot_date must be YYYY-MM-DD")
     date.fromisoformat(entry["snapshot_date"])
+    methods = entry.get("method_tags", [])
+    if not isinstance(methods, list):
+        raise ValueError("method_tags must be a list")
+    seen_methods = set()
+    for method in methods:
+        if not isinstance(method, dict) or method.get("id") not in METHODS:
+            raise ValueError("Unknown reconstruction method tag")
+        if method["id"] in seen_methods:
+            raise ValueError("Duplicate reconstruction method tag")
+        seen_methods.add(method["id"])
+        if not isinstance(method.get("source"), str) or not https_url(method["source"]):
+            raise ValueError("Method tags require an HTTPS evidence URL")
+        if not isinstance(method.get("note"), str) or not method["note"].strip():
+            raise ValueError("Method tags require a scope note")
+        if not isinstance(method.get("checked_at"), str) or not re.fullmatch(r"\d{4}-\d{2}-\d{2}", method["checked_at"]):
+            raise ValueError("Method tags require a checked_at date")
+        date.fromisoformat(method["checked_at"])
+        if method.get("source_sha256") and not re.fullmatch(r"[a-f0-9]{64}", method["source_sha256"]):
+            raise ValueError("Invalid method evidence fingerprint")
     if 'report_target' in entry and not isinstance(entry['report_target'], str):
         raise ValueError('report_target must be text')
     for key in ("sources", "notes"):

@@ -28,5 +28,14 @@
   "snapshot_date": "2026-10-04",
   "report_date": "2026-10-04 05:57:30 +00:00",
   "report_commit": "https://github.com/lifewillbeokay/moh-rising-sun/commit/ea0c4a70693bb8d949cedbd989b41b709d7a1d76",
-  "report_target": "GR8E69"
+  "report_target": "GR8E69",
+  "method_tags": [
+    {
+      "id": "matching-decompilation",
+      "source": "https://raw.githubusercontent.com/lifewillbeokay/moh-rising-sun/ea0c4a70693bb8d949cedbd989b41b709d7a1d76/README.md",
+      "note": "The upstream README describes source reconstruction targeting original instruction bytes or checksum verification of rebuilt game binaries. This tag describes the matching workflow, not completion or a build independently verified here.",
+      "checked_at": "2026-10-05",
+      "source_sha256": "3c08f45f14838460ad753f07f025bb44d6ac6f4ac60280db44efa3415b689ed4"
+    }
+  ]
 }

@@ -28,5 +28,14 @@
   "snapshot_date": "2026-10-04",
   "report_date": "2026-10-04 12:09:05 +00:00",
   "report_commit": "https://github.com/juandav/dw3_decomp/commit/ab41a5c2b02155e0ed1d29f9cbccbf846dba3c6e",
-  "report_target": "SLES_039.36"
+  "report_target": "SLES_039.36",
+  "method_tags": [
+    {
+      "id": "matching-decompilation",
+      "source": "https://raw.githubusercontent.com/juandav/dw3_decomp/ab41a5c2b02155e0ed1d29f9cbccbf846dba3c6e/README.md",
+      "note": "The upstream README describes source reconstruction targeting original instruction bytes or checksum verification of rebuilt game binaries. This tag describes the matching workflow, not completion or a build independently verified here.",
+      "checked_at": "2026-10-05",
+      "source_sha256": "ea96d6f7b84f7aa74d273b06e880c70e03d4d0ec49280caa10f98b3738e571cd"
+    }
+  ]
 }

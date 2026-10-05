@@ -28,5 +28,14 @@
   "snapshot_date": "2026-10-04",
   "report_date": "2026-01-06 15:42:50 +00:00",
   "report_commit": "https://github.com/inspectredc/fzerox-expansion-kit/commit/80599932af86c4421e2b1d5a19b88af9303cb77d",
-  "report_target": "jp"
+  "report_target": "jp",
+  "method_tags": [
+    {
+      "id": "matching-decompilation",
+      "source": "https://raw.githubusercontent.com/inspectredc/fzerox-expansion-kit/80599932af86c4421e2b1d5a19b88af9303cb77d/README.md",
+      "note": "The upstream README describes source reconstruction targeting original instruction bytes or checksum verification of rebuilt game binaries. This tag describes the matching workflow, not completion or a build independently verified here.",
+      "checked_at": "2026-10-05",
+      "source_sha256": "2d7e7a7ac6169d77407ea71b0811d1fb3bc78c1fe0f7b1612ee6bdc12c8bb2c3"
+    }
+  ]
 }

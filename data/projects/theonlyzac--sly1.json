@@ -28,5 +28,14 @@
   "snapshot_date": "2026-10-04",
   "report_date": "2026-09-26 19:34:05 +00:00",
   "report_commit": "https://github.com/TheOnlyZac/sly1/commit/7bd5cbcd0d2a31ae52f99231509463f5893b256b",
-  "report_target": "SCUS_971.98"
+  "report_target": "SCUS_971.98",
+  "method_tags": [
+    {
+      "id": "matching-decompilation",
+      "source": "https://raw.githubusercontent.com/TheOnlyZac/sly1/7bd5cbcd0d2a31ae52f99231509463f5893b256b/README.md",
+      "note": "The upstream README describes source reconstruction targeting original instruction bytes or checksum verification of rebuilt game binaries. This tag describes the matching workflow, not completion or a build independently verified here.",
+      "checked_at": "2026-10-05",
+      "source_sha256": "344eeef6f47092469a515e0ed3646d7bbf50cca584fd84cb4138c819d98a3465"
+    }
+  ]
 }

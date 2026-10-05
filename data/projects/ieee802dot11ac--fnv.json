@@ -28,5 +28,14 @@
   "snapshot_date": "2026-10-04",
   "report_date": "2026-08-30 22:09:31 +00:00",
   "report_commit": "https://github.com/ieee802dot11ac/fnv/commit/074e045ef8220666fd8481e0745af6ecf197f24b",
-  "report_target": "425307E0"
+  "report_target": "425307E0",
+  "method_tags": [
+    {
+      "id": "matching-decompilation",
+      "source": "https://raw.githubusercontent.com/ieee802dot11ac/fnv/074e045ef8220666fd8481e0745af6ecf197f24b/README.md",
+      "note": "The README documents compiling reconstructed source and a configured objdiff workflow comparing generated objects to target reference objects. This labels the reconstruction workflow, not a completed binary match or manual-only authorship.",
+      "checked_at": "2026-10-05",
+      "source_sha256": "0f7dfe9f10394d1873df4d920852452db34df6c53c7ad855d9e39b9e8e52557d"
+    }
+  ]
 }

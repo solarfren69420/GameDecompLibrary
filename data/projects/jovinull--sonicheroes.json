@@ -28,5 +28,14 @@
   "snapshot_date": "2026-10-04",
   "report_date": "2026-10-02 11:26:15 +00:00",
   "report_commit": "https://github.com/Jovinull/sonicheroes/commit/ba1a6be64ec51757e4ff5dd066eaca6d0157c5e6",
-  "report_target": "G9SE8P"
+  "report_target": "G9SE8P",
+  "method_tags": [
+    {
+      "id": "matching-decompilation",
+      "source": "https://raw.githubusercontent.com/Jovinull/sonicheroes/ba1a6be64ec51757e4ff5dd066eaca6d0157c5e6/README.md",
+      "note": "The upstream README describes source reconstruction targeting original instruction bytes or checksum verification of rebuilt game binaries. This tag describes the matching workflow, not completion or a build independently verified here.",
+      "checked_at": "2026-10-05",
+      "source_sha256": "2bae84461a5eb09962030cf34ea8d6d52027ec28e0a41ecfe32da78e9c87701e"
+    }
+  ]
 }

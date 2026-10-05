@@ -28,5 +28,14 @@
   "snapshot_date": "2026-10-04",
   "report_date": "2026-06-04 03:18:46 +00:00",
   "report_commit": "https://github.com/mariopartyrd/marioparty4/commit/147b165a83187ac9e6cfdc3bf52f2e73437b1ffd",
-  "report_target": "GMPE01_00"
+  "report_target": "GMPE01_00",
+  "method_tags": [
+    {
+      "id": "matching-decompilation",
+      "source": "https://raw.githubusercontent.com/mariopartyrd/marioparty4/147b165a83187ac9e6cfdc3bf52f2e73437b1ffd/README.md",
+      "note": "The upstream README describes source reconstruction targeting original instruction bytes or checksum verification of rebuilt game binaries. This tag describes the matching workflow, not completion or a build independently verified here.",
+      "checked_at": "2026-10-05",
+      "source_sha256": "d06720b800c7beceea51afbc0cd23b7f9bb73a4e69624d09547b01251f1efd62"
+    }
+  ]
 }

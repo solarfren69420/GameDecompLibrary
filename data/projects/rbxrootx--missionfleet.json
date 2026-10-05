@@ -28,5 +28,21 @@
   "snapshot_date": "2026-10-04",
   "report_date": "2026-10-04 04:45:41 +00:00",
   "report_commit": "https://github.com/rbxrootx/MissionFleet/commit/49f9508cc20fd882f0b113b2759d566ee79064f7",
-  "report_target": "NF2_2062"
+  "report_target": "NF2_2062",
+  "method_tags": [
+    {
+      "id": "matching-decompilation",
+      "source": "https://raw.githubusercontent.com/rbxrootx/MissionFleet/49f9508cc20fd882f0b113b2759d566ee79064f7/README.md",
+      "note": "The upstream README describes source reconstruction targeting original instruction bytes or checksum verification of rebuilt game binaries. This tag describes the matching workflow, not completion or a build independently verified here.",
+      "checked_at": "2026-10-05",
+      "source_sha256": "682b4f0efe3e6d2f6c4ea4a279e2d37235cbd52d62480fc4e34e5f368364fa40"
+    },
+    {
+      "id": "ghidra-pseudocode",
+      "source": "https://raw.githubusercontent.com/rbxrootx/MissionFleet/49f9508cc20fd882f0b113b2759d566ee79064f7/README.md",
+      "note": "The README describes a pipeline exporting Ghidra pseudocode and indexes from recovered native modules; those exports are separate from individually matched C/C++ functions.",
+      "checked_at": "2026-10-05",
+      "source_sha256": "682b4f0efe3e6d2f6c4ea4a279e2d37235cbd52d62480fc4e34e5f368364fa40"
+    }
+  ]
 }

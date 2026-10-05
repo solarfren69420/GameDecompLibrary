@@ -28,5 +28,14 @@
   "snapshot_date": "2026-10-04",
   "report_date": "2026-09-17 20:24:21 +00:00",
   "report_commit": "https://github.com/doldecomp/mkdd/commit/ffc513c5326d1a883d4b35dd7ee1634500354763",
-  "report_target": "MarioClub_us"
+  "report_target": "MarioClub_us",
+  "method_tags": [
+    {
+      "id": "matching-decompilation",
+      "source": "https://raw.githubusercontent.com/doldecomp/mkdd/ffc513c5326d1a883d4b35dd7ee1634500354763/README.md",
+      "note": "The README documents compiling reconstructed source and a configured objdiff workflow comparing generated objects to target reference objects. This labels the reconstruction workflow, not a completed binary match or manual-only authorship.",
+      "checked_at": "2026-10-05",
+      "source_sha256": "667927e5eed5af1c9a6b2a351644c4487e59ea1ad73eb9cfd94f4ab02a2689c8"
+    }
+  ]
 }

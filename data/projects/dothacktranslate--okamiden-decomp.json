@@ -28,5 +28,14 @@
   "snapshot_date": "2026-10-04",
   "report_date": "2026-10-04 05:56:33 +00:00",
   "report_commit": "https://github.com/dothacktranslate/okamiden-decomp/commit/ca9db676c20ed384abe3d1eaf367aa826f914885",
-  "report_target": "us"
+  "report_target": "us",
+  "method_tags": [
+    {
+      "id": "matching-decompilation",
+      "source": "https://raw.githubusercontent.com/dothacktranslate/okamiden-decomp/ca9db676c20ed384abe3d1eaf367aa826f914885/README.md",
+      "note": "The upstream README describes source reconstruction targeting original instruction bytes or checksum verification of rebuilt game binaries. This tag describes the matching workflow, not completion or a build independently verified here.",
+      "checked_at": "2026-10-05",
+      "source_sha256": "14658da3bf89126428bb044a20316b8b8b4da128d2e9fe7c5ac0a1a09272d0b4"
+    }
+  ]
 }

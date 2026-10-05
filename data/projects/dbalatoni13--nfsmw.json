@@ -28,5 +28,14 @@
   "snapshot_date": "2026-10-04",
   "report_date": "2026-10-02 20:27:22 +00:00",
   "report_commit": "https://github.com/dbalatoni13/nfsmw/commit/1f2cdd7996791c81a580b3f7b36b44d4f9f6719c",
-  "report_target": "SPEED_EXE_1_3"
+  "report_target": "SPEED_EXE_1_3",
+  "method_tags": [
+    {
+      "id": "matching-decompilation",
+      "source": "https://raw.githubusercontent.com/dbalatoni13/nfsmw/1f2cdd7996791c81a580b3f7b36b44d4f9f6719c/README.md",
+      "note": "The README documents compiling reconstructed source and a configured objdiff workflow comparing generated objects to target reference objects. This labels the reconstruction workflow, not a completed binary match or manual-only authorship.",
+      "checked_at": "2026-10-05",
+      "source_sha256": "b370bb017b32ee74dfd75f29c022ce9e4b9b48385a0ddc791bbb0aea8621d2ab"
+    }
+  ]
 }

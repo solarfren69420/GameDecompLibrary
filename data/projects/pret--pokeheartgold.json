@@ -35,5 +35,14 @@
   ],
   "snapshot_date": "2026-10-04",
   "report_date": "",
-  "report_commit": ""
+  "report_commit": "",
+  "method_tags": [
+    {
+      "id": "disassembly",
+      "source": "https://raw.githubusercontent.com/pret/pokeheartgold/HEAD/README.md",
+      "note": "The upstream README explicitly describes this project as a disassembly; no comparable C decompilation percentage is inferred.",
+      "checked_at": "2026-10-05",
+      "source_sha256": "04df8cbba394c16dc8c5894ca2bd09425315a16c54a792ae0efc53b753efab5b"
+    }
+  ]
 }

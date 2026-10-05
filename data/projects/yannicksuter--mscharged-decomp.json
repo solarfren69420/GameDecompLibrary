@@ -28,5 +28,14 @@
   "snapshot_date": "2026-10-04",
   "report_date": "2026-10-04 11:34:20 +00:00",
   "report_commit": "https://github.com/yannicksuter/mscharged-decomp/commit/f84e4666a76d2b6b7abf41b2c6874583484392fa",
-  "report_target": "R4QE01"
+  "report_target": "R4QE01",
+  "method_tags": [
+    {
+      "id": "matching-decompilation",
+      "source": "https://raw.githubusercontent.com/yannicksuter/mscharged-decomp/f84e4666a76d2b6b7abf41b2c6874583484392fa/README.md",
+      "note": "The upstream README describes source reconstruction targeting original instruction bytes or checksum verification of rebuilt game binaries. This tag describes the matching workflow, not completion or a build independently verified here.",
+      "checked_at": "2026-10-05",
+      "source_sha256": "775d658b415bd51a0bb4fa6d3463e03ddcf747198b976a339126301035d9cdb0"
+    }
+  ]
 }

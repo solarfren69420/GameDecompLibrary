@@ -28,5 +28,14 @@
   "snapshot_date": "2026-10-04",
   "report_date": "2026-09-26 14:49:42 +00:00",
   "report_commit": "https://github.com/marijnvdwerf/legoland/commit/e8af1b53d7125ad19210615a12a8fd0240f5e355",
-  "report_target": "LEGOLAND"
+  "report_target": "LEGOLAND",
+  "method_tags": [
+    {
+      "id": "matching-decompilation",
+      "source": "https://raw.githubusercontent.com/marijnvdwerf/legoland/e8af1b53d7125ad19210615a12a8fd0240f5e355/README.md",
+      "note": "The upstream README describes source reconstruction targeting original instruction bytes or checksum verification of rebuilt game binaries. This tag describes the matching workflow, not completion or a build independently verified here.",
+      "checked_at": "2026-10-05",
+      "source_sha256": "b5393d030a4eefd56cbbc7d60df8231ca91a6086b469da3ecc46552073418049"
+    }
+  ]
 }

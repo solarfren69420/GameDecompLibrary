@@ -28,5 +28,14 @@
   "snapshot_date": "2026-10-04",
   "report_date": "2026-10-04 12:15:27 +00:00",
   "report_commit": "https://github.com/Megami-Decomps/dds-decomp/commit/810b4769868d9d02e59f96ec51d4e784970fdcfc",
-  "report_target": "dds1"
+  "report_target": "dds1",
+  "method_tags": [
+    {
+      "id": "matching-decompilation",
+      "source": "https://raw.githubusercontent.com/Megami-Decomps/dds-decomp/810b4769868d9d02e59f96ec51d4e784970fdcfc/README.md",
+      "note": "The upstream README describes source reconstruction targeting original instruction bytes or checksum verification of rebuilt game binaries. This tag describes the matching workflow, not completion or a build independently verified here.",
+      "checked_at": "2026-10-05",
+      "source_sha256": "6f28597a82ca7f7163509cb49293e2e7531f0a52d88c3f494bc61bd7fca3c7b8"
+    }
+  ]
 }

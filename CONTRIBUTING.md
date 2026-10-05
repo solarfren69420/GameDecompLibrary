@@ -31,8 +31,22 @@ Copy [`examples/project.json`](examples/project.json) into `data/projects/owner-
 | `snapshot_date` | Date the source was checked, `YYYY-MM-DD` |
 | `report_date` / `report_commit` | Underlying report timestamp and commit, if published |
 | `notes` | Source wording, limitations and target-specific qualifications |
+| `method_tags` | Optional method entries with `id`, HTTPS `source`, a scope `note` and `checked_at` date; see [`data/methods.json`](data/methods.json) for supported IDs |
 
 Use `null` for unknown numerical values. Use `claim` with a null numeric value for qualitative completion statements, and `functions` for function-count progress. Put the exact wording in `progress.label` and `notes`. Tools, ports and source releases keep numeric game-progress fields null.
+
+Method tags can overlap. A project may publish Ghidra pseudocode and also develop matching source. Do not infer either tag from a percentage or a mention of Ghidra alone. A matching tag describes the reconstruction target; it does not certify a finished game or human-only authorship. Leave `method_tags` empty when evidence is unclear. The submission form accepts methods only with an evidence URL and scope note; maintainer review still applies.
+
+```json
+"method_tags": [
+  {
+    "id": "matching-decompilation",
+    "source": "https://github.com/owner/repository#readme",
+    "note": "The upstream README describes source targeting the original compiled binary.",
+    "checked_at": "2026-10-05"
+  }
+]
+```
 
 Run the checks if you have Python and Node:
 

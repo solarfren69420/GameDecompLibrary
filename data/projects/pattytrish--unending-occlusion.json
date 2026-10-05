@@ -28,5 +28,14 @@
   "snapshot_date": "2026-10-04",
   "report_date": "2026-10-03 02:45:24 +00:00",
   "report_commit": "https://github.com/PattyTrish/unending-occlusion/commit/ea5c9e7d35ece0fcf9e35c1a96b6278cf8fb14e6",
-  "report_target": "GEDE01"
+  "report_target": "GEDE01",
+  "method_tags": [
+    {
+      "id": "matching-decompilation",
+      "source": "https://raw.githubusercontent.com/PattyTrish/unending-occlusion/ea5c9e7d35ece0fcf9e35c1a96b6278cf8fb14e6/README.md",
+      "note": "The README documents compiling reconstructed source and a configured objdiff workflow comparing generated objects to target reference objects. This labels the reconstruction workflow, not a completed binary match or manual-only authorship.",
+      "checked_at": "2026-10-05",
+      "source_sha256": "dead4c8d1b410cbb098dbb34dd661c130ee305f3ae92163044e5733e35091e13"
+    }
+  ]
 }

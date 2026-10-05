@@ -28,5 +28,14 @@
   "snapshot_date": "2026-10-04",
   "report_date": "2026-10-03 22:24:29 +00:00",
   "report_commit": "https://github.com/Mikompilation/Himuro/commit/96e723fd02be68f3abe55e6ffc34632022d6eadf",
-  "report_target": "SLPS_250.74"
+  "report_target": "SLPS_250.74",
+  "method_tags": [
+    {
+      "id": "matching-decompilation",
+      "source": "https://raw.githubusercontent.com/Mikompilation/Himuro/96e723fd02be68f3abe55e6ffc34632022d6eadf/README.md",
+      "note": "The upstream README describes source reconstruction targeting original instruction bytes or checksum verification of rebuilt game binaries. This tag describes the matching workflow, not completion or a build independently verified here.",
+      "checked_at": "2026-10-05",
+      "source_sha256": "cce799d3c47a8aa537d3b947243f9c1ac7691e09b7083ca2f4970c6ccee4ed0a"
+    }
+  ]
 }

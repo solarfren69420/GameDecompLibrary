@@ -28,5 +28,14 @@
   "snapshot_date": "2026-10-04",
   "report_date": "2026-10-02 14:02:21 +00:00",
   "report_commit": "https://github.com/Nintendocustom/Lego-City-Undercover-Decompilation/commit/47dc365d26aae634528b3a4886ba571019845789",
-  "report_target": "1.0.3"
+  "report_target": "1.0.3",
+  "method_tags": [
+    {
+      "id": "ghidra-pseudocode",
+      "source": "https://raw.githubusercontent.com/Nintendocustom/Lego-City-Undercover-Decompilation/47dc365d26aae634528b3a4886ba571019845789/README.md",
+      "note": "The README provides Ghidra pseudocode as a reference for contributor function work. This tag does not characterize all project source as generated or certify a matching build.",
+      "checked_at": "2026-10-05",
+      "source_sha256": "a1785bd4c2ad316cf0d5ef0ba77bc3091e688d37e29a1054bf4ac24760ad35ce"
+    }
+  ]
 }

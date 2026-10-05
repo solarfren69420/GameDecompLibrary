@@ -28,5 +28,14 @@
   "snapshot_date": "2026-10-04",
   "report_date": "2026-10-03 04:19:43 +00:00",
   "report_commit": "https://github.com/AARosson48/SummonerDecomp/commit/94a1a58c13516f5ae163dd96c485f299d41a636a",
-  "report_target": "sum-pc"
+  "report_target": "sum-pc",
+  "method_tags": [
+    {
+      "id": "matching-decompilation",
+      "source": "https://raw.githubusercontent.com/AARosson48/SummonerDecomp/94a1a58c13516f5ae163dd96c485f299d41a636a/README.md",
+      "note": "The upstream README describes source reconstruction targeting original instruction bytes or checksum verification of rebuilt game binaries. This tag describes the matching workflow, not completion or a build independently verified here.",
+      "checked_at": "2026-10-05",
+      "source_sha256": "8b77d94916992d6a293fad37b89bfaf3475062834a77cb4af8f82950628545b3"
+    }
+  ]
 }

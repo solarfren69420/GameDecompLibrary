@@ -28,5 +28,14 @@
   "snapshot_date": "2026-10-04",
   "report_date": "2026-10-01 23:49:01 +00:00",
   "report_commit": "https://github.com/OpokXeno/xsg-i-decomp/commit/c271867b034c77023ee2bc81a40873bcd33564ea",
-  "report_target": "SLUS_204.69"
+  "report_target": "SLUS_204.69",
+  "method_tags": [
+    {
+      "id": "matching-decompilation",
+      "source": "https://raw.githubusercontent.com/OpokXeno/xsg-i-decomp/c271867b034c77023ee2bc81a40873bcd33564ea/README.md",
+      "note": "The upstream README describes source reconstruction targeting original instruction bytes or checksum verification of rebuilt game binaries. This tag describes the matching workflow, not completion or a build independently verified here.",
+      "checked_at": "2026-10-05",
+      "source_sha256": "1538775f92739839d2dcf65da55da8d3a93549a5bb83bd06d2edc20d894f15da"
+    }
+  ]
 }

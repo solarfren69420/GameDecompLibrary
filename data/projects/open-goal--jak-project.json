@@ -73,5 +73,14 @@
   ],
   "snapshot_date": "2026-10-04",
   "report_date": "",
-  "report_commit": ""
+  "report_commit": "",
+  "method_tags": [
+    {
+      "id": "source-port",
+      "source": "https://raw.githubusercontent.com/open-goal/jak-project/HEAD/README.md",
+      "note": "The README explains decompiling PS2 GOAL code and recompiling it using a custom x86-64 compiler to make native PC ports. No identical PS2 binary claim is inferred.",
+      "checked_at": "2026-10-05",
+      "source_sha256": "d2c86641c079acba730de163a8f0717c52730e952a0c73f82f5efe229d3f99a2"
+    }
+  ]
 }

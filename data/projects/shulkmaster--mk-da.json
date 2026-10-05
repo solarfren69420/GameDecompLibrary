@@ -28,5 +28,14 @@
   "snapshot_date": "2026-10-04",
   "report_date": "2026-10-04 00:31:30 +00:00",
   "report_commit": "https://github.com/ShulkMaster/mk-da/commit/3d6f17751309eb5e7cb5b6162c21360cbb5a35bf",
-  "report_target": "GMKE5D"
+  "report_target": "GMKE5D",
+  "method_tags": [
+    {
+      "id": "matching-decompilation",
+      "source": "https://raw.githubusercontent.com/ShulkMaster/mk-da/3d6f17751309eb5e7cb5b6162c21360cbb5a35bf/README.md",
+      "note": "The README states that the build checks the reconstructed main.dol against its retail SHA-1.",
+      "checked_at": "2026-10-05",
+      "source_sha256": "f4a0265b8c4e709d24dfb1be59ececc495c1df80a9ac3494cdd25c9412f528c0"
+    }
+  ]
 }

@@ -28,5 +28,14 @@
   "snapshot_date": "2026-10-04",
   "report_date": "2026-10-04 08:05:37 +00:00",
   "report_commit": "https://github.com/vonhoff/lemball-decomp/commit/55948caff16330721d87427aef341f5df6b30336",
-  "report_target": "LEMBALL"
+  "report_target": "LEMBALL",
+  "method_tags": [
+    {
+      "id": "matching-decompilation",
+      "source": "https://raw.githubusercontent.com/vonhoff/lemball-decomp/55948caff16330721d87427aef341f5df6b30336/README.md",
+      "note": "The upstream README describes source reconstruction targeting original instruction bytes or checksum verification of rebuilt game binaries. This tag describes the matching workflow, not completion or a build independently verified here.",
+      "checked_at": "2026-10-05",
+      "source_sha256": "d2cf7f09ed9b553a9641e6afc88fb07a29c86b5d95dfa1a0002f8018e6380729"
+    }
+  ]
 }

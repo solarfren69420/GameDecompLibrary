@@ -28,5 +28,14 @@
   "snapshot_date": "2026-10-04",
   "report_date": "2026-09-16 21:37:32 +00:00",
   "report_commit": "https://github.com/cypressru/SonicBattleDecomp/commit/23091f6190afc1a39f08f14a3e70d2a1b47fd762",
-  "report_target": "BSBE78"
+  "report_target": "BSBE78",
+  "method_tags": [
+    {
+      "id": "matching-decompilation",
+      "source": "https://raw.githubusercontent.com/cypressru/SonicBattleDecomp/23091f6190afc1a39f08f14a3e70d2a1b47fd762/README.md",
+      "note": "The upstream README describes source reconstruction targeting original instruction bytes or checksum verification of rebuilt game binaries. This tag describes the matching workflow, not completion or a build independently verified here.",
+      "checked_at": "2026-10-05",
+      "source_sha256": "d50fdb01ea5b21c3cfcae17c1d736987c21486c2da2c0191c9a93f6ae2043963"
+    }
+  ]
 }

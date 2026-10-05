@@ -28,5 +28,14 @@
   "snapshot_date": "2026-10-04",
   "report_date": "2026-10-04 09:53:35 +00:00",
   "report_commit": "https://github.com/Caesar0007/NFSHS-PSX-decomp/commit/8754e07224b9a421a020fde3764a9c0be1dea424",
-  "report_target": "nfs4-f"
+  "report_target": "nfs4-f",
+  "method_tags": [
+    {
+      "id": "matching-decompilation",
+      "source": "https://raw.githubusercontent.com/Caesar0007/NFSHS-PSX-decomp/8754e07224b9a421a020fde3764a9c0be1dea424/README.md",
+      "note": "The upstream README describes source reconstruction targeting original instruction bytes or checksum verification of rebuilt game binaries. This tag describes the matching workflow, not completion or a build independently verified here.",
+      "checked_at": "2026-10-05",
+      "source_sha256": "b9a6633a8ab29e559a361937d12779eb9bf45c4ab23d8da457634ff2f3f5cfeb"
+    }
+  ]
 }

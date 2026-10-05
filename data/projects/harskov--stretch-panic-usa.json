@@ -28,5 +28,14 @@
   "snapshot_date": "2026-10-04",
   "report_date": "2026-09-30 22:37:26 +00:00",
   "report_commit": "https://github.com/Harskov/stretch-panic-usa/commit/a8bf4d79e74f9e39092aa96e2a1acc9003ef3f7e",
-  "report_target": "SLUS_201.82"
+  "report_target": "SLUS_201.82",
+  "method_tags": [
+    {
+      "id": "matching-decompilation",
+      "source": "https://raw.githubusercontent.com/Harskov/stretch-panic-usa/a8bf4d79e74f9e39092aa96e2a1acc9003ef3f7e/README.md",
+      "note": "The upstream README describes source reconstruction targeting original instruction bytes or checksum verification of rebuilt game binaries. This tag describes the matching workflow, not completion or a build independently verified here.",
+      "checked_at": "2026-10-05",
+      "source_sha256": "049ee7889ef94f8701ae99e2881d509a38f8617c7f0b2749504f01922b7f62cd"
+    }
+  ]
 }

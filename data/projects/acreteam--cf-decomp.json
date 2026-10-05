@@ -28,5 +28,14 @@
   "snapshot_date": "2026-10-04",
   "report_date": "2026-10-03 12:08:08 +00:00",
   "report_commit": "https://github.com/ACreTeam/cf-decomp/commit/44144329d4f6b89e11b562fb35368f272ec805a5",
-  "report_target": "RUUE01_00"
+  "report_target": "RUUE01_00",
+  "method_tags": [
+    {
+      "id": "matching-decompilation",
+      "source": "https://raw.githubusercontent.com/ACreTeam/cf-decomp/44144329d4f6b89e11b562fb35368f272ec805a5/README.md",
+      "note": "The README documents compiling reconstructed source and a configured objdiff workflow comparing generated objects to target reference objects. This labels the reconstruction workflow, not a completed binary match or manual-only authorship.",
+      "checked_at": "2026-10-05",
+      "source_sha256": "2351b72cd4e3e987ef2a7705fc70ad369957aaf86299229119b525a5dacc0470"
+    }
+  ]
 }

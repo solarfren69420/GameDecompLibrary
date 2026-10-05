@@ -28,5 +28,14 @@
   "snapshot_date": "2026-10-04",
   "report_date": "2026-10-03 06:19:18 +00:00",
   "report_commit": "https://github.com/Veradictus/Thief3-Decomp/commit/59b578892fe148d858ffee2e33241e506510f492",
-  "report_target": "PC_20040610"
+  "report_target": "PC_20040610",
+  "method_tags": [
+    {
+      "id": "matching-decompilation",
+      "source": "https://raw.githubusercontent.com/Veradictus/Thief3-Decomp/59b578892fe148d858ffee2e33241e506510f492/README.md",
+      "note": "The upstream README describes source reconstruction targeting original instruction bytes or checksum verification of rebuilt game binaries. This tag describes the matching workflow, not completion or a build independently verified here.",
+      "checked_at": "2026-10-05",
+      "source_sha256": "e85a04706d5a30ed916239b0d2220bffafcc60a11483434eff9e32738ab9342f"
+    }
+  ]
 }

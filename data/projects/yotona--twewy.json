@@ -28,5 +28,14 @@
   "snapshot_date": "2026-10-04",
   "report_date": "2026-10-02 14:57:33 +00:00",
   "report_commit": "https://github.com/Yotona/twewy/commit/2b8fcfedc8aca72cdfa61b1de3375963f1f13e38",
-  "report_target": "usa"
+  "report_target": "usa",
+  "method_tags": [
+    {
+      "id": "matching-decompilation",
+      "source": "https://raw.githubusercontent.com/Yotona/twewy/2b8fcfedc8aca72cdfa61b1de3375963f1f13e38/README.md",
+      "note": "The upstream README describes source reconstruction targeting original instruction bytes or checksum verification of rebuilt game binaries. This tag describes the matching workflow, not completion or a build independently verified here.",
+      "checked_at": "2026-10-05",
+      "source_sha256": "9f318a4fe27ffbbb0fdd6f0438deafb2b6ceba89979dd2dbbbb48b2e220ceb7a"
+    }
+  ]
 }

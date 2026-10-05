@@ -28,5 +28,14 @@
   "snapshot_date": "2026-10-04",
   "report_date": "2026-10-03 19:49:27 +00:00",
   "report_commit": "https://github.com/SephDB/pokepark-wii-decomp/commit/735b49153c27f0f52de2af87911eaa3398ef6a72",
-  "report_target": "R8AE01"
+  "report_target": "R8AE01",
+  "method_tags": [
+    {
+      "id": "matching-decompilation",
+      "source": "https://raw.githubusercontent.com/SephDB/pokepark-wii-decomp/735b49153c27f0f52de2af87911eaa3398ef6a72/README.md",
+      "note": "The README documents compiling reconstructed source and a configured objdiff workflow comparing generated objects to target reference objects. This labels the reconstruction workflow, not a completed binary match or manual-only authorship.",
+      "checked_at": "2026-10-05",
+      "source_sha256": "fec689bb77f64690b0ff852c8246e877168aaa39125d03bf65e786e97cdc482d"
+    }
+  ]
 }

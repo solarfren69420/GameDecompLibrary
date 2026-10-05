@@ -28,5 +28,14 @@
   "snapshot_date": "2026-10-04",
   "report_date": "2026-10-04 09:43:53 +00:00",
   "report_commit": "https://github.com/brian-oblivion/lsddecomp/commit/865b853282e5d4e613b621b20b7f31599847b905",
-  "report_target": "SLPS_015.56"
+  "report_target": "SLPS_015.56",
+  "method_tags": [
+    {
+      "id": "matching-decompilation",
+      "source": "https://raw.githubusercontent.com/brian-oblivion/lsddecomp/865b853282e5d4e613b621b20b7f31599847b905/README.md",
+      "note": "The upstream README describes source reconstruction targeting original instruction bytes or checksum verification of rebuilt game binaries. This tag describes the matching workflow, not completion or a build independently verified here.",
+      "checked_at": "2026-10-05",
+      "source_sha256": "3495fd061d33f92d52951979d69a0b8973190dcd20e502f2b0b95503b3db72aa"
+    }
+  ]
 }

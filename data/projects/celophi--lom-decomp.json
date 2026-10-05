@@ -28,5 +28,14 @@
   "snapshot_date": "2026-10-04",
   "report_date": "2026-10-04 06:10:21 +00:00",
   "report_commit": "https://github.com/celophi/lom-decomp/commit/9cd2135c90b9441001f3f3d81a3688a63802eba2",
-  "report_target": "SLUS_010.13"
+  "report_target": "SLUS_010.13",
+  "method_tags": [
+    {
+      "id": "matching-decompilation",
+      "source": "https://raw.githubusercontent.com/celophi/lom-decomp/9cd2135c90b9441001f3f3d81a3688a63802eba2/README.md",
+      "note": "The upstream README describes source reconstruction targeting original instruction bytes or checksum verification of rebuilt game binaries. This tag describes the matching workflow, not completion or a build independently verified here.",
+      "checked_at": "2026-10-05",
+      "source_sha256": "63715de9ebde190d616357eea4b7927b9fb3372852c86452dc4d7bdeaadcca85"
+    }
+  ]
 }

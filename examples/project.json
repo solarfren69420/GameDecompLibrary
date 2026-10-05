@@ -14,6 +14,7 @@
     "label": "Numeric progress not published"
   },
   "targets": [],
+  "method_tags": [],
   "sources": ["https://github.com/owner/repository#readme"],
   "notes": ["Document scope and limitations here."],
   "snapshot_date": "2026-10-04",

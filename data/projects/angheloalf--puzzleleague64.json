@@ -28,5 +28,14 @@
   "snapshot_date": "2026-10-04",
   "report_date": "2026-10-04 01:29:27 +00:00",
   "report_commit": "https://github.com/AngheloAlf/puzzleleague64/commit/db531cef8ab15eb0ab1b9afe3f6857ca47571338",
-  "report_target": "usa"
+  "report_target": "usa",
+  "method_tags": [
+    {
+      "id": "matching-decompilation",
+      "source": "https://raw.githubusercontent.com/AngheloAlf/puzzleleague64/db531cef8ab15eb0ab1b9afe3f6857ca47571338/README.md",
+      "note": "The README calls this a matching decompilation effort for Pokémon Puzzle League.",
+      "checked_at": "2026-10-05",
+      "source_sha256": "d4bbeb7baeb0a92d33a406e8defa1ecb00ca67ff09a886194f72f9e8a3b30df7"
+    }
+  ]
 }

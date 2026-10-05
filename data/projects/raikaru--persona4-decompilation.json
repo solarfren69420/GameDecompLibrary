@@ -28,5 +28,14 @@
   "snapshot_date": "2026-10-04",
   "report_date": "2026-10-04 02:15:13 +00:00",
   "report_commit": "https://github.com/Raikaru/Persona4-Decompilation/commit/fa980eedbd5732a5f986d27166c525503b0f94dc",
-  "report_target": "SLUS_217.82"
+  "report_target": "SLUS_217.82",
+  "method_tags": [
+    {
+      "id": "matching-decompilation",
+      "source": "https://raw.githubusercontent.com/Raikaru/Persona4-Decompilation/fa980eedbd5732a5f986d27166c525503b0f94dc/README.md",
+      "note": "The upstream README describes source reconstruction targeting original instruction bytes or checksum verification of rebuilt game binaries. This tag describes the matching workflow, not completion or a build independently verified here.",
+      "checked_at": "2026-10-05",
+      "source_sha256": "9d071429a9f0d8e8c5a5606c47192af499afaab5676c49d4cb4aaeb724edd727"
+    }
+  ]
 }

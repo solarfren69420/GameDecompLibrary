@@ -28,5 +28,14 @@
   "snapshot_date": "2026-10-04",
   "report_date": "2026-09-03 22:55:17 +00:00",
   "report_commit": "https://github.com/emoluvjd2/oregontrail-win32-decomp/commit/4a39fc8e9d1d5b729a3d958bba2b415d39fa054a",
-  "report_target": "OREGON32"
+  "report_target": "OREGON32",
+  "method_tags": [
+    {
+      "id": "matching-decompilation",
+      "source": "https://raw.githubusercontent.com/emoluvjd2/oregontrail-win32-decomp/4a39fc8e9d1d5b729a3d958bba2b415d39fa054a/README.md",
+      "note": "The upstream README describes source reconstruction targeting original instruction bytes or checksum verification of rebuilt game binaries. This tag describes the matching workflow, not completion or a build independently verified here.",
+      "checked_at": "2026-10-05",
+      "source_sha256": "776f1787320eadc1a257364fcc5474f9d9f66e6b6415201cdc60f8a6fea2ebd6"
+    }
+  ]
 }

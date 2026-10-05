@@ -28,5 +28,14 @@
   "snapshot_date": "2026-10-04",
   "report_date": "2026-09-29 08:36:42 +00:00",
   "report_commit": "https://github.com/aaaaaaaaaaway/kaze-no-notam-decomp/commit/691c0e99e817b4bfd5e92abf6687f22877bd0588",
-  "report_target": "jp"
+  "report_target": "jp",
+  "method_tags": [
+    {
+      "id": "matching-decompilation",
+      "source": "https://raw.githubusercontent.com/aaaaaaaaaaway/kaze-no-notam-decomp/691c0e99e817b4bfd5e92abf6687f22877bd0588/README.md",
+      "note": "The upstream README describes source reconstruction targeting original instruction bytes or checksum verification of rebuilt game binaries. This tag describes the matching workflow, not completion or a build independently verified here.",
+      "checked_at": "2026-10-05",
+      "source_sha256": "3547c70a445062c2371a673aa6ed76986e5abe36982ea0b9be2e5f6b23449fcd"
+    }
+  ]
 }

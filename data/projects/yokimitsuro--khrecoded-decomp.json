@@ -28,5 +28,14 @@
   "snapshot_date": "2026-10-04",
   "report_date": "2026-10-01 19:39:31 +00:00",
   "report_commit": "https://github.com/Yokimitsuro/khrecoded-decomp/commit/7ce758c331bb954aa874f459d2da3dccec7f1654",
-  "report_target": "BK9P"
+  "report_target": "BK9P",
+  "method_tags": [
+    {
+      "id": "matching-decompilation",
+      "source": "https://raw.githubusercontent.com/Yokimitsuro/khrecoded-decomp/7ce758c331bb954aa874f459d2da3dccec7f1654/README.md",
+      "note": "The upstream README describes source reconstruction targeting original instruction bytes or checksum verification of rebuilt game binaries. This tag describes the matching workflow, not completion or a build independently verified here.",
+      "checked_at": "2026-10-05",
+      "source_sha256": "aeb9ecde72d87f19a4a1e4b8a53ee9bc6087bc91da9da1172b9f1313d533fd35"
+    }
+  ]
 }

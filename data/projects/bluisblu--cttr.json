@@ -28,5 +28,14 @@
   "snapshot_date": "2026-10-04",
   "report_date": "2026-06-24 17:52:49 +00:00",
   "report_commit": "https://github.com/bluisblu/cttr/commit/c9f5219150e5f427dc9f261399bf4c21523a6960",
-  "report_target": "G9RE7D"
+  "report_target": "G9RE7D",
+  "method_tags": [
+    {
+      "id": "matching-decompilation",
+      "source": "https://raw.githubusercontent.com/bluisblu/cttr/c9f5219150e5f427dc9f261399bf4c21523a6960/README.md",
+      "note": "The README documents compiling reconstructed source and a configured objdiff workflow comparing generated objects to target reference objects. This labels the reconstruction workflow, not a completed binary match or manual-only authorship.",
+      "checked_at": "2026-10-05",
+      "source_sha256": "c68cd87adbc570d30cc5feffa537506849470d4c195dd479ce9350a7d8baed5a"
+    }
+  ]
 }

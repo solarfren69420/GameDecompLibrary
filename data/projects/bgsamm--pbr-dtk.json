@@ -28,5 +28,14 @@
   "snapshot_date": "2026-10-04",
   "report_date": "2026-09-19 11:25:23 +00:00",
   "report_commit": "https://github.com/bgsamm/pbr-dtk/commit/09af9f9a5b1ffad9b83483485a6c49f35a1c4976",
-  "report_target": "RPBP01"
+  "report_target": "RPBP01",
+  "method_tags": [
+    {
+      "id": "matching-decompilation",
+      "source": "https://raw.githubusercontent.com/bgsamm/pbr-dtk/09af9f9a5b1ffad9b83483485a6c49f35a1c4976/README.md",
+      "note": "The README documents compiling reconstructed source and a configured objdiff workflow comparing generated objects to target reference objects. This labels the reconstruction workflow, not a completed binary match or manual-only authorship.",
+      "checked_at": "2026-10-05",
+      "source_sha256": "f0746e04dd2f606692fdb17f3ac5b7fe850e7b0d43ab6f1465db18a7626a8912"
+    }
+  ]
 }

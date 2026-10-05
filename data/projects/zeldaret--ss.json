@@ -28,5 +28,14 @@
   "snapshot_date": "2026-10-04",
   "report_date": "2026-10-04 09:33:58 +00:00",
   "report_commit": "https://github.com/zeldaret/ss/commit/3a93d428e870227349d77e8c860e230533a38f2f",
-  "report_target": "SOUE01"
+  "report_target": "SOUE01",
+  "method_tags": [
+    {
+      "id": "matching-decompilation",
+      "source": "https://raw.githubusercontent.com/zeldaret/ss/3a93d428e870227349d77e8c860e230533a38f2f/README.md",
+      "note": "The README documents compiling reconstructed source and a configured objdiff workflow comparing generated objects to target reference objects. This labels the reconstruction workflow, not a completed binary match or manual-only authorship.",
+      "checked_at": "2026-10-05",
+      "source_sha256": "279b67839f5a15bfaaf2e714f518018209c480c402e60c67e97712eb2d10711e"
+    }
+  ]
 }
