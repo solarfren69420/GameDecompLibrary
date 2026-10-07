@@ -4,6 +4,41 @@ const esc = value => String(value ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;',
 const repo = 'https://github.com/solarfren69420/GameDecompLibrary';
 const colors = ['#4e758b','#807450','#557d68','#74629d','#a6654f','#547e9e','#8c635a','#627f73'];
 const state = {data:null,category:'decomp',page:1,selected:null,pageSize:20};
+const sorts = {
+  name:['name','ascending'], 'name-desc':['name','descending'],
+  platform:['platform','ascending'], 'platform-desc':['platform','descending'],
+  progress:['progress','descending'], 'progress-asc':['progress','ascending'],
+  linked:['linked','descending'], 'linked-asc':['linked','ascending'],
+  source:['source','ascending'], 'source-desc':['source','descending'],
+  date:['date','descending'], 'date-asc':['date','ascending']
+};
+function sortValue(project,key){
+  if(key==='name')return project.name;
+  if(key==='platform')return platformLabel(project);
+  if(key==='progress')return project.progress.decompiled;
+  if(key==='linked')return project.progress.linked;
+  if(key==='source')return project.sources[0]||null;
+  return project.report_date||null;
+}
+function compareProjects(a,b,key,direction){
+  const left=sortValue(a,key),right=sortValue(b,key);
+  // Missing metrics and evidence stay last in both directions; unknown is never zero.
+  if(left==null&&right!=null)return 1;
+  if(left!=null&&right==null)return -1;
+  const comparison=left==null?0:typeof left==='number'?left-right:left.localeCompare(right);
+  return comparison*(direction==='ascending'?1:-1)||a.name.localeCompare(b.name)||a.id.localeCompare(b.id);
+}
+function updateSortHeadings(){
+  const [key,direction]=sorts[$('sort').value]||[];
+  document.querySelectorAll('.column-sort').forEach(button=>{
+    const active=button.dataset.sort===key;
+    const heading=button.closest('th');
+    if(active)heading.setAttribute('aria-sort',direction);else heading.removeAttribute('aria-sort');
+    button.querySelector('.sort-indicator').textContent=active?(direction==='ascending'?'↑':'↓'):'↕';
+    const next=active&&direction==='ascending'?'descending':active?'ascending':['progress','linked'].includes(button.dataset.sort)?'descending':'ascending';
+    button.title=`Sort by ${button.dataset.sort==='source'?'evidence URL':button.querySelector('.column-label').textContent} ${next}`;
+  });
+}
 const methodTags = p => p.method_tags || [];
 const methodLabel = id => state.data.methods?.[id]?.label || id;
 function methodChips(p){
@@ -50,9 +85,8 @@ function filters(){
   if(status==='reported')list=list.filter(p=>p.progress.decompiled!==null);
   if(status==='complete')list=list.filter(p=>p.progress.decompiled===100);
   if(status==='unknown')list=list.filter(p=>p.progress.decompiled===null);
-  if($('sort').value==='name')list.sort((a,b)=>a.name.localeCompare(b.name));
-  if($('sort').value==='progress')list.sort((a,b)=>(b.progress.decompiled??-1)-(a.progress.decompiled??-1));
-  if($('sort').value==='date')list.sort((a,b)=>(b.report_date||'').localeCompare(a.report_date||''));
+  const sort=sorts[$('sort').value];
+  if(sort)list.sort((a,b)=>compareProjects(a,b,...sort));
   return list;
 }
 function render(){
@@ -68,6 +102,7 @@ function render(){
   $('previous').disabled=state.page===1;
   $('next').disabled=state.page===pages;
   $('platform-heading').textContent=state.category==='tool'||state.category==='related'?'Project type':'Platform';
+  updateSortHeadings();
 }
 function selectProject(id,updateHash=true){
   const p=state.data.projects.find(p=>p.id===id);if(!p)return;
@@ -123,6 +158,12 @@ async function init(){
     for(const category of ['decomp','tool','related','unconfirmed'])$(`count-${category}`).textContent=state.data.counts[category]||0;
     $('discovery').innerHTML=state.data.discovery.map(url=>`<a href="${esc(url)}" target="_blank" rel="noopener noreferrer">${esc(url.includes('decomp.dev')?'decomp.dev progress tracker':url.split('/').pop())} ↗</a>`).join('');
     for(const id of ['search','platform','status','sort','method'])$(id).addEventListener(id==='search'?'input':'change',()=>{state.page=1;render();});
+    document.querySelectorAll('.column-sort').forEach(button=>button.addEventListener('click',()=>{
+      const key=button.dataset.sort,current=sorts[$('sort').value];
+      const direction=current?.[0]===key?(current[1]==='ascending'?'descending':'ascending'):['progress','linked'].includes(key)?'descending':'ascending';
+      $('sort').value=Object.keys(sorts).find(value=>sorts[value][0]===key&&sorts[value][1]===direction);
+      state.page=1;render();
+    }));
     $('clear-filters').addEventListener('click',()=>{$('search').value='';$('platform').value='';$('status').value='';$('method').value='';state.page=1;render();});
     $('previous').addEventListener('click',()=>{state.page--;render();});
     $('next').addEventListener('click',()=>{state.page++;render();});
